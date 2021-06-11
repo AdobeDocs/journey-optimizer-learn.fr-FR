@@ -1,16 +1,16 @@
 ---
-title: Tutorials Journey Optimizer - Présentation
-description: Voici la présentation de l’article.
+title: Vidéos et Tutorials Journey Optimizer
+description: Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les fonctionnalités d’Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: ebef937be65cfd99deea15f91534627a05e7a61e
+source-git-commit: 379f3781e8d594fe7be4d9fdfabd4bcbe5a132a9
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 36%
+source-wordcount: '77'
+ht-degree: 31%
 
 ---
 
 
-# Tutorials Journey Optimizer - Aperçu
+# Vidéos et Tutorials Journey Optimizer
 
 ![](./assets/ajo-banner.png)
 
