@@ -2,10 +2,10 @@
 user-guide-title: Tutorials de formation Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les Tutorials d’apprentissage Journey Optimizer.
-source-git-commit: 9a61f655d7cdf4f85a5368e20000a6c0ba7ed16a
+source-git-commit: 4ccc9340e312db53c5414c15d37a637107afd333
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 18%
+source-wordcount: '71'
+ht-degree: 16%
 
 ---
 
@@ -22,6 +22,7 @@ ht-degree: 18%
    + Configuration de la gestion des décisions {#decision-management-configuration}
    + Configuration des parcours{#journey-configuration}
 + Créer des messages {#create-messages}
+   + [Créer du contenu d&#39;email avec l&#39;éditeur de messages](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [Importation et création de contenu d’email HTML](/help/create-messages/import-and-author-html-email-content.md)
 + Personnaliser le contenu {#personalize-content}
    + [Personnalisation basée sur l’appartenance à un profil et à un segment](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
