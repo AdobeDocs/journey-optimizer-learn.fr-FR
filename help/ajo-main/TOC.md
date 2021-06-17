@@ -2,7 +2,7 @@
 user-guide-title: Tutorials de formation Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les Tutorials d’apprentissage Journey Optimizer.
-source-git-commit: af22990a5b431366b6d4d89913932f495e164882
+source-git-commit: 8eef9004135c090db29dcab3203e838c0520e510
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 11%
@@ -34,10 +34,10 @@ ht-degree: 11%
    + [Ajout d’offres en tant que personnalisation](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Utiliser des informations d’événement contextuelles pour la personnalisation](/help/personalize-content/use-contextual-event-information-for-personalization.md)
 + Créer des parcours {#create-journeys}
-   + [Cas d’utilisation - Parcours transactionnel](/help/create-journeys/use-case-transactional-journey.md)
-   + [Cas d’utilisation - Lecture de segment](/help/create-journeys/use-case-read-segment.md)
-   + [Cas d’utilisation - Événement commercial](/help/create-journeys/use-case-business-event.md)
-   + [Cas d’utilisation - Qualification du segment](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [Cas pratique : parcours transactionnel](/help/create-journeys/use-case-transactional-journey.md)
+   + [Cas d’utilisation - segment de lecture](/help/create-journeys/use-case-read-segment.md)
+   + [Cas d’utilisation - événement commercial](/help/create-journeys/use-case-business-event.md)
+   + [Cas d’utilisation - qualification du segment](/help/create-journeys/use-case-read-segment-qualification.md)
    + [Test d’un parcours](/help/create-journeys/test-a-journey.md)
    + [Publication d’un parcours](/help/create-journeys/publish-a-journey.md)
 + Rapport et surveillance {#report-and-monitor}
