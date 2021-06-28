@@ -8,15 +8,15 @@ doc-type: feature video
 team: PM
 role: Administrator, Developer
 level: Beginner
-source-git-commit: 4c5bbbca213048a26fb2c07980cf71e2658e680b
+source-git-commit: f10e783ce8a830fd41da567ddadbf6b17b55a1af
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 13%
+source-wordcount: '92'
+ht-degree: 9%
 
 ---
 
 
-# Configuration des sources de données
+# Création de jeux de données et ingestion de données
 
 Découvrez comment créer un jeu de données, le mapper à un schéma, y ajouter des données et confirmer que les données ont été ingérées.
 
