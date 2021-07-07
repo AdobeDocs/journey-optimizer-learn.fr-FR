@@ -9,9 +9,9 @@ team: PM
 role: Administrator, Developer
 level: Beginner
 source-git-commit: f10e783ce8a830fd41da567ddadbf6b17b55a1af
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
@@ -24,5 +24,5 @@ Découvrez comment créer un jeu de données, le mapper à un schéma, y ajouter
 
 ## Ressources supplémentaires
 
-* [Créer un schéma, un jeu de données et ingérer des données pour ajouter des profils de test](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journeys/creating-test-profiles.html)
-* [Création et gestion des jeux de données](https://experienceleague.adobe.com/docs/experience-platform/catalog/datasets/user-guide.html?lang=fr)
+* [Création d’un schéma, d’un jeu de données et ingestion des données pour ajouter des profils de test](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journeys/creating-test-profiles.html?lang=fr)
+* [Création et gestion de jeux de données](https://experienceleague.adobe.com/docs/experience-platform/catalog/datasets/user-guide.html?lang=fr)
