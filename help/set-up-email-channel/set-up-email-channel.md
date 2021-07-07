@@ -1,6 +1,6 @@
 ---
-title: Configuration du canal Email
-description: Découvrez comment créer des paramètres prédéfinis de message, comment les utiliser et comment déléguer un sous-domaine et créer un pool d’adresses IP.
+title: Configuration du canal e-mail
+description: Découvrez comment créer des préréglages de message et les utiliser. Apprenez également comment déléguer un sous-domaine et créer un pool d’adresses IP.
 kt: 7854
 thumbnail: 334343.jpg
 feature: Parcours, sources de données
@@ -9,15 +9,15 @@ team: PM
 role: Administrator, Developer
 level: Beginner
 source-git-commit: f10e783ce8a830fd41da567ddadbf6b17b55a1af
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Configuration du canal Email
+# Configuration du canal e-mail
 
-Découvrez comment créer des paramètres prédéfinis de message, comment les utiliser et comment déléguer un sous-domaine et créer un pool d’adresses IP.
+Découvrez comment créer des préréglages de message et les utiliser. Apprenez également comment déléguer un sous-domaine et créer un pool d’adresses IP.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12)
