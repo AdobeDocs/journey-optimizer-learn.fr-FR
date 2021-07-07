@@ -1,6 +1,6 @@
 ---
 title: Création d’actions
-description: Comprendre les différents états d’un parcours et l’impact de la publication.
+description: Découvrez les différents états d’un parcours et l’impact de la publication.
 kt: 7536
 thumbnail: 334257.jpg
 feature: Parcours, sources de données
@@ -9,9 +9,9 @@ team: PM
 role: Administrator, Developer
 level: Beginner
 source-git-commit: f034a2ef8f339d5a3e1b1ecc9ee014ec05d667c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '34'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
