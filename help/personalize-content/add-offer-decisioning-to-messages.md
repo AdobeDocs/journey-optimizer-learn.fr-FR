@@ -1,6 +1,6 @@
 ---
 title: Ajout d’offres en tant que personnalisation
-description: Découvrez comment ajouter un composant offer decisioning aux messages dans Journey Optimizer.
+description: Découvrez comment ajouter un composant Offer Decisioning aux messages dans Journey Optimizer.
 kt: 8033
 thumbnail: 334088.jpg
 feature: Personnalisation
@@ -10,23 +10,23 @@ role: Business Practitioner
 level: Beginner
 exl-id: 4b3719de-804d-47e4-80a5-93c9ee1dc09a
 source-git-commit: 453bc6f56c7568086d579d17218fc2807c62f76d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
 # Ajout d’offres en tant que personnalisation
 
-Découvrez comment ajouter un composant offer decisioning aux messages dans Journey Optimizer.
+Découvrez comment ajouter un composant Offer Decisioning aux messages dans Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334088?quality=12)
 
 ## Informations supplémentaires
 
-* [Vidéos et tutoriels à propos du service Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=fr)
-* [À propos de la gestion des décisions (documentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
+* [Vidéos et tutoriels sur Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=fr)
+* [À propos de la gestion des décisions (documentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=fr)
 * Documentation:
-   * [Prise en main de la gestion des décisions dans Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
-   * [Ajout d’offres personnalisées dans un email](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/deliver-personalized-offers.html)
-   * [Cas pratique : Configurer des offres personnalisées pour les utiliser dans un email](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/offers-e2e.html)
+   * [Prise en main de la gestion des décisions dans Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=fr)
+   * [Ajout d’offres personnalisées dans un e-mail](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/deliver-personalized-offers.html?lang=fr)
+   * [Cas d’utilisation : configuration d’offres personnalisées pour les utiliser dans un e-mail](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/offers-e2e.html?lang=fr)
