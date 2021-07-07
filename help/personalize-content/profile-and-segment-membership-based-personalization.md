@@ -1,5 +1,5 @@
 ---
-title: Utilisation de l’appartenance à un profil et à un segment pour la personnalisation
+title: Utilisation d’un profil et de l’appartenance à un segment pour la personnalisation
 description: Découvrez comment ajouter une personnalisation basée sur un profil à un message et comment utiliser l’appartenance à un segment comme condition préalable à un bloc de personnalisation.
 kt: 8024
 thumbnail: 334078.jpg
@@ -8,15 +8,15 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
-workflow-type: tm+mt
+exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
+source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-
-# Utilisation de l’appartenance à un profil et à un segment pour la personnalisation
+# Utilisation d’un profil et de l’appartenance à un segment pour la personnalisation
 
 Découvrez comment ajouter une personnalisation basée sur un profil à un message et comment utiliser l’appartenance à un segment comme condition préalable à un bloc de personnalisation.
 
@@ -24,7 +24,7 @@ Découvrez comment ajouter une personnalisation basée sur un profil à un messa
 
 ## Ressources supplémentaires
 
-* [Prise en main de la personnalisation dans Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html)
-* [Cas pratique : ajouter de la personnalisation dans une notification push](https://experienceleague.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html)
-* [Présentation de la syntaxe de personnalisation](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-syntax.html)
-* [Utilisation des fonctions d’assistance](https://experienceleague-review.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/functions/functions.html)
+* [Prise en main de la personnalisation dans Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html?lang=fr)
+* [Cas d’utilisation : ajout d’une personnalisation dans une notification push](https://experienceleague.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html?lang=fr)
+* [Présentation de la syntaxe de personnalisation](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-syntax.html?lang=fr)
+* [Utilisation des fonctions helper](https://experienceleague-review.corp.adobe.com/docs/journey-optimizer/using/create-messages/personalization/functions/functions.html?lang=fr)
