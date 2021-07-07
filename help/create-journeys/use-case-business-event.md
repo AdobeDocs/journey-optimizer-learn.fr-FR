@@ -1,6 +1,6 @@
 ---
-title: Cas d’utilisation - Événement commercial
-description: Comprendre les cas d’utilisation applicables pour les événements professionnels. Découvrez comment créer un parcours à l’aide d’un événement d’entreprise et les bonnes pratiques à appliquer.
+title: 'Cas d’utilisation : événement métier'
+description: Comprendre les cas d’utilisation applicables pour les événements métier. Découvrez comment créer un parcours à l’aide d’un événement métier et les bonnes pratiques à appliquer.
 kt: 7703
 thumbnail: 334234.jpg
 feature: Parcours
@@ -8,16 +8,16 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: fed061df079725072387b24ed57303f66791c2bf
-workflow-type: tm+mt
+exl-id: 38be6d24-2760-4fb4-b5d4-c9be53419e6e
+source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
+workflow-type: ht
 source-wordcount: '57'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
+# Cas d’utilisation : événement métier
 
-# Cas d’utilisation - Événement commercial
-
-Comprendre les cas d’utilisation applicables pour les événements professionnels. Découvrez comment créer un parcours à l’aide d’un événement d’entreprise et les bonnes pratiques à appliquer.
+Comprendre les cas d’utilisation applicables pour les événements métier. Découvrez comment créer un parcours à l’aide d’un événement métier et les bonnes pratiques à appliquer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334234?quality=12)
