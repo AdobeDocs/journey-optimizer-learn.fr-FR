@@ -1,6 +1,6 @@
 ---
-title: Présentation de Journey Optimizer Partie 2 - Fonctionnalités avancées
-description: Cette vidéo montre comment les marques peuvent utiliser l’offer decisioning d’Adobe Parcours Optimization, la qualification des segments en temps réel et la gestion des événements professionnels pour amener leurs parcours clients à de nouveaux sommets.
+title: 'Présentation de Journey Optimizer (partie 2) : fonctionnalités avancées'
+description: Cette vidéo montre comment les marques peuvent utiliser la fonction Offer Decisioning, la qualification des segments en temps réel et la gestion des événements métier d’Adobe Journey Optimization pour optimiser les parcours clients.
 kt: 8072
 thumbnail: 334175.jpg
 feature: Présentation
@@ -8,16 +8,16 @@ doc-type: value video
 team: Evangelism
 role: Business Practitioner
 level: Beginner
-source-git-commit: ea9765d4cc39c5d5346c0a3f120c6d109f8d1052
-workflow-type: tm+mt
+exl-id: 93266ba3-d90e-4d6e-8c43-4a421650e25f
+source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
+# Présentation de Journey Optimizer (partie 2) : fonctionnalités avancées
 
-# Présentation de Journey Optimizer Partie 2 - Fonctionnalités avancées
-
-Cette vidéo montre comment les marques peuvent utiliser l’offer decisioning d’Adobe Parcours Optimization, la qualification des segments en temps réel et la gestion des événements professionnels pour amener leurs parcours clients à de nouveaux sommets.
+Cette vidéo montre comment les marques peuvent utiliser la fonction Offer Decisioning, la qualification des segments en temps réel et la gestion des événements métier d’Adobe Journey Optimization pour optimiser les parcours clients.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334175?quality=12)
