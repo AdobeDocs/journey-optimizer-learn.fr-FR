@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels de formation Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels de formation Journey Optimizer.
-source-git-commit: 666a96d7fb4650f108ecbc947f6da73f5c1f2a15
+source-git-commit: 0098487cdb38c4acaedfc8608ce0d2f53b2dfe45
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 91%
+source-wordcount: '160'
+ht-degree: 89%
 
 ---
 
@@ -23,8 +23,11 @@ ht-degree: 91%
    + [Gestion des accès](/help/set-up-access/access-management.md)
    + [Création et gestion des environnements de test](/help/set-up-access/create-and-manage-sandboxes.md)
    + Configuration des données {#data-configuration}
-      + [Création d’un schéma](/help/set-up-data/create-schema.md)
+      + [Présentation](/help/set-up-data/set-up-data-overview.md)
+      + [[Création d’un schéma](/help/set-up-data/create-schema.md)
+      + [Mappage des identités](/help/set-up-data/map-identities.md)
       + [Création de jeux de données et ingestion de données](/help/set-up-data/create-datasets-and-ingest-data.md)
+      + [Configuration des sources](/help/set-up-data/configure-sources.md)
    + Configuration de canal {#channel-configuration}
       + [Configuration du canal e-mail](/help/set-up-email-channel/set-up-email-channel.md)
    + Configuration de la gestion des décisions {#decision-management-configuration}
