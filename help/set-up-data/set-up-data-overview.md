@@ -8,7 +8,7 @@ doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
-source-git-commit: 0098487cdb38c4acaedfc8608ce0d2f53b2dfe45
+source-git-commit: dcd0c4342392f4eed800d8a03b1ff21fe9d76e84
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 17%
@@ -27,4 +27,4 @@ Découvrez les données de profil client en temps réel et les étapes requises 
 * [Création d’un schéma](/help/set-up-data/create-schema.md)
 * [Mappage des identités](/help/set-up-data/map-identities.md)
 * [Création de jeux de données et ingestion de données](/help/set-up-data/create-datasets-and-ingest-data.md)
-* [Configuration des sources](/help/set-up-data/configure-sources.md)
+* [Configuration des sources](/help/set-up-data/configure-data-sources.md)
