@@ -1,6 +1,6 @@
 ---
-title: Cas d’utilisation - Message de survol
-description: Comprendre les cas d’utilisation applicables pour la messagerie instantanée. Découvrez comment configurer un parcours pour les messages instantanés et les bonnes pratiques à appliquer.
+title: Cas d’utilisation - Message en rafale
+description: Comprenez les cas d’utilisation applicables pour les messages en rafale. Découvrez comment configurer un parcours pour les messages en rafale et les bonnes pratiques à appliquer.
 kt: 7703
 thumbnail: 334523.jpg
 feature: Parcours
@@ -9,14 +9,14 @@ team: PM
 role: User
 level: Beginner
 source-git-commit: 2799f18144fc994e47f63368655006e8d1f09f79
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Cas d’utilisation - message d’éclatement
+# Cas d’utilisation - message en rafale
 
-Comprendre les cas d’utilisation applicables pour la messagerie instantanée. Découvrez comment configurer un parcours pour les messages instantanés et les bonnes pratiques à appliquer.
+Comprenez les cas d’utilisation applicables pour les messages en rafale. Découvrez comment configurer un parcours pour les messages en rafale et les bonnes pratiques à appliquer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334523?quality=12)
