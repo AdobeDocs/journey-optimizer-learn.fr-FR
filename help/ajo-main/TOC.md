@@ -3,9 +3,9 @@ user-guide-title: Tutoriels de formation Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels de formation Journey Optimizer.
 source-git-commit: dcd0c4342392f4eed800d8a03b1ff21fe9d76e84
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 90%
    + [Architecture](/help/introduction/architecture.md)
 + Prise en main {#get-started}
    + [Gestion des accès](/help/set-up-access/access-management.md)
-   + [Création et gestion des environnements de test](/help/set-up-access/create-and-manage-sandboxes.md)
+   + [Création et gestion d’environnements Sandbox](/help/set-up-access/create-and-manage-sandboxes.md)
    + Configuration des données {#data-configuration}
       + [Présentation](/help/set-up-data/set-up-data-overview.md)
       + [Création d’un schéma](/help/set-up-data/create-schema.md)
-      + [Mappage des identités](/help/set-up-data/map-identities.md)
+      + [Mapping d’identités](/help/set-up-data/map-identities.md)
       + [Création de jeux de données et ingestion de données](/help/set-up-data/create-datasets-and-ingest-data.md)
       + [Configuration des sources de données](/help/set-up-data/configure-data-sources.md)
    + Configuration de canal {#channel-configuration}
@@ -50,7 +50,7 @@ ht-degree: 90%
    + [Cas d’utilisation : lecture de segment](/help/create-journeys/use-case-read-segment.md)
    + [Cas d’utilisation : événement métier](/help/create-journeys/use-case-business-event.md)
    + [Cas d’utilisation : qualification du segment](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [Cas d’utilisation - message d’éclatement](/help/create-journeys/use-case-read-burst-message.md)
+   + [Cas d’utilisation - message en rafale](/help/create-journeys/use-case-read-burst-message.md)
    + [Test d’un parcours](/help/create-journeys/test-a-journey.md)
    + [Publication d’un parcours](/help/create-journeys/publish-a-journey.md)
 + Rapport et surveillance {#report-and-monitor}
