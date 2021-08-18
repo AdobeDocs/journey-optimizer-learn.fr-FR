@@ -1,6 +1,6 @@
 ---
-title: Création et gestion des environnements de test
-description: Découvrez ce que sont les environnements de test et comment faire la distinction entre les environnements de test de développement et de production. Découvrez comment créer, réinitialiser et supprimer des environnements de test.
+title: Création et gestion d’environnements Sandbox
+description: Découvrez ce que sont les environnements Sandbox et comment faire la distinction entre les environnements Sandbox de développement et de production. Découvrez comment créer, réinitialiser et supprimer des environnements Sandbox.
 kt: 7568
 thumbnail: 334355.jpg
 feature: Gestion des accès
@@ -11,12 +11,12 @@ level: Beginner
 source-git-commit: f40328e297bcbdff47074558bfd3dad6884b1f7f
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# Création et gestion des environnements de test
+# Création et gestion d’environnements Sandbox
 
-Découvrez ce que sont les environnements de test et comment faire la distinction entre les environnements de test de développement et de production. Découvrez comment créer, réinitialiser et supprimer des environnements de test.
+Découvrez ce que sont les environnements Sandbox et comment faire la distinction entre les environnements Sandbox de développement et de production. Découvrez comment créer, réinitialiser et supprimer des environnements Sandbox.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334355?quality=12)
