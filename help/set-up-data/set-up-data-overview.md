@@ -11,7 +11,7 @@ level: Beginner
 source-git-commit: 203f391d8216ff55b1b8b455d3789f5fd9060126
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 17%
+ht-degree: 100%
 
 ---
 
@@ -25,6 +25,6 @@ Découvrez les données de profil client en temps réel et les étapes requises 
 ## Ressources supplémentaires
 
 * [Création d’un schéma](/help/set-up-data/create-schema.md)
-* [Mappage des identités](/help/set-up-data/map-identities.md)
+* [Mapping d’identités](/help/set-up-data/map-identities.md)
 * [Création de jeux de données et ingestion de données](/help/set-up-data/create-datasets-and-ingest-data.md)
-* [Configuration des sources](/help/set-up-data/configure-data-sources.md)
+* [Configuration de sources](/help/set-up-data/configure-data-sources.md)
