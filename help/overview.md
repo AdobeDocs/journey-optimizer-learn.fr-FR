@@ -3,9 +3,9 @@ title: Vidéos et tutoriels sur Journey Optimizer
 description: Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les fonctionnalités d’Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 766a1eb9bfdfd65c08f1c6a442d7f731df22f346
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '265'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
@@ -24,21 +24,21 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
    *Découvrez les données de profil client en temps réel et les étapes requises pour configurer les données de profil client pour Journey Optimizer.*
 
-* **[Mappage des identités](/help/set-up-data/map-identities.md)**
+* **[Mapping d’identités](/help/set-up-data/map-identities.md)**
 
-   *Découvrez comment et à quel moment étiqueter un champ de schéma comme identité, comment créer un espace de noms, quand rendre une identité Principale, et comment ingérer et vérifier des données d’identité.*
+   *Découvrez comment et à quel moment étiqueter un champ de schéma comme identité, comment créer un espace de noms, quand rendre une identité principale, et comment ingérer et vérifier des données d’identité.*
 
 * **[Configuration des sources de données](/help/set-up-data/configure-data-sources.md)**
 
-   *Découvrez les connecteurs source et comment les configurer dans Journey Optimizer*
+   *Découvrez les connecteurs source et comment les configurer dans Journey Optimizer.*
 
 * **[Présentation de la création d’un parcours](/help/create-journeys/introduction-to-building-a-journey.md)**
 
-   *Découvrez les principes de base de la création d’un parcours dans la zone de travail du parcours.*
+   *Découvrez les principes de base de création d’un parcours dans la zone de travail du parcours.*
 
-* **[Cas d’utilisation - message d’éclatement](/help/create-journeys/use-case-read-burst-message.md)**
+* **[Cas d’utilisation - message en rafale](/help/create-journeys/use-case-read-burst-message.md)**
 
-   *Comprendre les cas d’utilisation applicables pour la messagerie instantanée. Découvrez comment configurer un parcours pour les messages éclatés et les bonnes pratiques à appliquer.*
+   *Comprenez les cas d’utilisation applicables pour les messages en rafale. Découvrez comment configurer un parcours pour les messages en rafale et les bonnes pratiques à appliquer.*
 
 ## Choix du personnel
 
