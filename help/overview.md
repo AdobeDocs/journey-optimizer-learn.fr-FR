@@ -2,10 +2,10 @@
 title: Vidéos et tutoriels sur Journey Optimizer
 description: Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les fonctionnalités d’Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 766a1eb9bfdfd65c08f1c6a442d7f731df22f346
-workflow-type: ht
-source-wordcount: '265'
-ht-degree: 100%
+source-git-commit: 16d5e81f4fc19c62dbc700ff1dfdb06cd9d01662
+workflow-type: tm+mt
+source-wordcount: '283'
+ht-degree: 93%
 
 ---
 
@@ -19,6 +19,10 @@ Journey Optimizer permet aux sociétés de proposer des expériences connectées
 Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les fonctionnalités d’Adobe Journey Optimizer.
 
 ## Nouveautés
+
+* ** [Créer des événements](/help/set-up-journeys/create-events.md)**
+
+   *Découvrez comment configurer un événement, spécifier le point de terminaison de diffusion en continu et la charge utile d’un événement.*
 
 * **[Configuration des données - Aperçu](/help/set-up-data/set-up-data-overview.md)**
 
