@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels de formation Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels de formation Journey Optimizer.
-source-git-commit: dcd0c4342392f4eed800d8a03b1ff21fe9d76e84
-workflow-type: ht
-source-wordcount: '161'
-ht-degree: 100%
+source-git-commit: c60c70732efc32ff18137b56fc54bbfd43ef256b
+workflow-type: tm+mt
+source-wordcount: '163'
+ht-degree: 98%
 
 ---
 
@@ -33,6 +33,7 @@ ht-degree: 100%
    + Configuration de la gestion des décisions {#decision-management-configuration}
    + Configuration des parcours{#journey-configuration}
       + [Configuration des sources de données](/help/set-up-journeys/configure-data-sources.md)
+      + [Créer des événements](/help/set-up-journeys/create-events.md)
       + [Création d’actions](/help/set-up-journeys/create-actions.md)
 + [Création de segments](/help/set-up-resources/create-segments.md)
 + Création de messages {#create-messages}
