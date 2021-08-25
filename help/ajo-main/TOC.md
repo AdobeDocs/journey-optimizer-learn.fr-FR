@@ -2,7 +2,7 @@
 user-guide-title: Tutoriels de formation Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels de formation Journey Optimizer.
-source-git-commit: c60c70732efc32ff18137b56fc54bbfd43ef256b
+source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 98%
@@ -19,22 +19,22 @@ ht-degree: 98%
    + [Présentation de Journey Optimizer (partie 2)](/help/introduction/journey-optimizer-overview-part-2.md)
    + [Fonctionnalités clés et interface utilisateur](/help/introduction/key-capabilities-and-user-interface.md)
    + [Architecture](/help/introduction/architecture.md)
-+ Prise en main {#get-started}
++ Contrôle d’accès {#access-control}
    + [Gestion des accès](/help/set-up-access/access-management.md)
    + [Création et gestion d’environnements Sandbox](/help/set-up-access/create-and-manage-sandboxes.md)
-   + Configuration des données {#data-configuration}
-      + [Présentation](/help/set-up-data/set-up-data-overview.md)
-      + [Création d’un schéma](/help/set-up-data/create-schema.md)
-      + [Mapping d’identités](/help/set-up-data/map-identities.md)
-      + [Création de jeux de données et ingestion de données](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [Configuration des sources de données](/help/set-up-data/configure-data-sources.md)
-   + Configuration de canal {#channel-configuration}
-      + [Configuration du canal e-mail](/help/set-up-email-channel/set-up-email-channel.md)
-   + Configuration de la gestion des décisions {#decision-management-configuration}
-   + Configuration des parcours{#journey-configuration}
-      + [Configuration des sources de données](/help/set-up-journeys/configure-data-sources.md)
-      + [Créer des événements](/help/set-up-journeys/create-events.md)
-      + [Création d’actions](/help/set-up-journeys/create-actions.md)
++ Configuration des données {#data-configuration}
+   + [Présentation](/help/set-up-data/set-up-data-overview.md)
+   + [Création d’un schéma](/help/set-up-data/create-schema.md)
+   + [Mapping d’identités](/help/set-up-data/map-identities.md)
+   + [Création de jeux de données et ingestion de données](/help/set-up-data/create-datasets-and-ingest-data.md)
+   + [Configuration des sources de données](/help/set-up-data/configure-data-sources.md)
++ Configuration de canal {#channel-configuration}
+   + [Configuration du canal e-mail](/help/set-up-email-channel/set-up-email-channel.md)
++ Configuration de la gestion des décisions {#decision-management-configuration}
++ Configuration des parcours{#journey-configuration}
+   + [Configuration des sources de données](/help/set-up-journeys/configure-data-sources.md)
+   + [Créer des événements](/help/set-up-journeys/create-events.md)
+   + [Création d’actions](/help/set-up-journeys/create-actions.md)
 + [Création de segments](/help/set-up-resources/create-segments.md)
 + Création de messages {#create-messages}
    + [Création d’un contenu d’e-mail avec l’éditeur de messages](/help/create-messages/create-email-content-with-the-message-editor.md)
