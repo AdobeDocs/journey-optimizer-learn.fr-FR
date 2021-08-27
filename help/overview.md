@@ -2,10 +2,10 @@
 title: Vidéos et tutoriels sur Journey Optimizer
 description: Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les fonctionnalités d’Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: a3ac85cfb438b37c36bf97af41d6c41dc666e92d
+source-git-commit: f20dcf654fc2e552b4936860a99b825e40c0e2c6
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 91%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
    *Découvrez les connecteurs source et comment les configurer dans Journey Optimizer.*
 
-* **[Cas d’utilisation - message en rafale](/help/create-journeys/use-case-read-burst-message.md)**
+* **[Cas d’utilisation - message en rafale](/help/create-journeys/use-case-burst-message.md)**
 
    *Comprenez les cas d’utilisation applicables pour les messages en rafale. Découvrez comment configurer un parcours pour les messages en rafale et les bonnes pratiques à appliquer.*
 

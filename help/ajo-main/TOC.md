@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels de formation Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels de formation Journey Optimizer.
-source-git-commit: a62665e1dc7151370e2edfed7607a890bfc97192
+source-git-commit: f20dcf654fc2e552b4936860a99b825e40c0e2c6
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 96%
    + [Cas d’utilisation : lecture de segment](/help/create-journeys/use-case-read-segment.md)
    + [Cas d’utilisation : événement métier](/help/create-journeys/use-case-business-event.md)
    + [Cas d’utilisation : qualification du segment](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [Cas d’utilisation - message en rafale](/help/create-journeys/use-case-read-burst-message.md)
+   + [Cas d’utilisation - message en rafale](/help/create-journeys/use-case-burst-message.md)
    + [Test d’un parcours](/help/create-journeys/test-a-journey.md)
    + [Publication d’un parcours](/help/create-journeys/publish-a-journey.md)
 + Rapport et surveillance {#report-and-monitor}
