@@ -2,7 +2,7 @@
 title: Vidéos et tutoriels sur Journey Optimizer
 description: Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les fonctionnalités d’Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 21123c70cfc929dccb8dcf65e1939e2dd367a0ec
+source-git-commit: 5e8737fdbc77b5f664795209708a5d3b5b6a566f
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 91%
@@ -24,7 +24,7 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
    *Découvrez comment configurer un événement, spécifier le point de terminaison de diffusion en continu et la charge utile d’un événement.*
 
-* **[Configuration des sources de données](/help/set-up-data/configure-data-sources.md)**
+* **[Configuration des sources de données](/help/set-up-data/configure-source-connectors.md)**
 
    *Découvrez les connecteurs source et comment les configurer dans Journey Optimizer.*
 
