@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels de formation Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels de formation Journey Optimizer.
-source-git-commit: f20dcf654fc2e552b4936860a99b825e40c0e2c6
+source-git-commit: acbdb0e3fa0da0cf7af56b3fdecd9662010e5d9b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '173'
+ht-degree: 95%
 
 ---
 
@@ -31,6 +31,7 @@ ht-degree: 0%
 + Configuration de canal {#channel-configuration}
    + [Configuration du canal e-mail](/help/set-up-email-channel/set-up-email-channel.md)
 + Configuration de la gestion des décisions {#decision-management-configuration}
+   + [Offer decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=fr)
 + Configuration des parcours{#journey-configuration}
    + [Configuration des sources de données](/help/set-up-journeys/configure-data-sources.md)
    + [Créer des événements](/help/set-up-journeys/create-events.md)
