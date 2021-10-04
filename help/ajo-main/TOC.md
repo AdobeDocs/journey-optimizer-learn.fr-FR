@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels de formation Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels de formation Journey Optimizer.
-source-git-commit: acbdb0e3fa0da0cf7af56b3fdecd9662010e5d9b
+source-git-commit: 7b51c728a8c73a05e89f18e9e7c908a9f835f818
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 95%
+source-wordcount: '190'
+ht-degree: 97%
 
 ---
 
@@ -31,7 +31,16 @@ ht-degree: 95%
 + Configuration de canal {#channel-configuration}
    + [Configuration du canal e-mail](/help/set-up-email-channel/set-up-email-channel.md)
 + Configuration de la gestion des décisions {#decision-management-configuration}
-   + [Offer decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=fr)
+   + [Présentation du service [!DNL Offer Decisioning]](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
+   + [Démonstration d&#39; [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)
+   + [Création d&#39;emplacements](/help/set-up-decision-management/create-placements.md)
+   + [Créer des règles](/help/set-up-decision-management/create-rules.md)
+   + [Création de balises](/help/set-up-decision-management/create-tags.md)
+   + [Création d&#39;offres personnalisées](/help/set-up-decision-management/create-personalized-offers.md)
+   + [Création d&#39;offres de secours](/help/set-up-decision-management/create-fallback-offers.md)
+   + [Création de collections](/help/set-up-decision-management/create-collections.md)
+   + [Création d’activités d’offre](/help/set-up-decision-management/create-offer-activities.md)
+   + [Diffusion d’offres à l’aide de l’API Decisions](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
 + Configuration des parcours{#journey-configuration}
    + [Configuration des sources de données](/help/set-up-journeys/configure-data-sources.md)
    + [Créer des événements](/help/set-up-journeys/create-events.md)
