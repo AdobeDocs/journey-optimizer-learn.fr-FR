@@ -1,6 +1,6 @@
 ---
 title: Configuration des sources de données
-description: Découvrez ce qu’est une source de données et comment configurer des sources de données Experience Platform et externes.
+description: Comprenez ce qu’est une source de données. Découvrez également comment configurer Experience Platform et des sources de données externes.
 kt: 7538
 thumbnail: 334256.jpg
 feature: Journeys, Data Sources
@@ -8,16 +8,16 @@ doc-type: feature video
 team: PM
 role: Admin, Developer
 level: Beginner
-source-git-commit: 03519352f37b613e65f4f97c5a94320443b57def
-workflow-type: tm+mt
+exl-id: 042d94dc-2906-4745-8375-02ff888165a8
+source-git-commit: 9e2e92007783b714200a8a37e3144436cb96d6dc
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
-
 # Configuration des sources de données
 
-Découvrez ce qu’est une source de données et comment configurer des sources de données Experience Platform et externes.
+Comprenez ce qu’est une source de données. Découvrez également comment configurer Experience Platform et des sources de données externes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334256?quality=12)
