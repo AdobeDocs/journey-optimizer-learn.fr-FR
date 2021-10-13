@@ -3,14 +3,15 @@ title: Création et gestion d’environnements Sandbox
 description: Découvrez ce que sont les environnements Sandbox et comment faire la distinction entre les environnements Sandbox de développement et de production. Découvrez comment créer, réinitialiser et supprimer des environnements Sandbox.
 kt: 7568
 thumbnail: 334355.jpg
-feature: Gestion des accès
+feature: Access Management
 doc-type: feature video
 team: PM
 role: Admin
 level: Beginner
-source-git-commit: f40328e297bcbdff47074558bfd3dad6884b1f7f
-workflow-type: tm+mt
-source-wordcount: '52'
+exl-id: b1ad3aa7-2b58-4a9f-8c5c-085126586c11
+source-git-commit: 9e2e92007783b714200a8a37e3144436cb96d6dc
+workflow-type: ht
+source-wordcount: '50'
 ht-degree: 100%
 
 ---
