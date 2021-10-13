@@ -10,9 +10,9 @@ role: User
 level: Beginner
 exl-id: 3186f91b-71a5-486a-9948-ec1994a19874
 source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ Apprenez comment créer entièrement des e-mails. Découvrez comment utiliser le
 * [Conception de votre contenu d’e-mail dans l’interface utilisateur](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/create-email-content.html?lang=fr)
 * [Utilisation des composants de contenu du concepteur d’e-mail](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/content-components.html?lang=fr)
 * [Utilisation d’AEM Assets Essentials dans Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=fr)
-* [Ajout de liens et suivi des messages](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/message-tracking.html)
+* [Ajout de liens et suivi des messages](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/message-tracking.html?lang=fr)
