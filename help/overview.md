@@ -3,9 +3,9 @@ title: Vidéos et tutoriels sur Journey Optimizer
 description: Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les fonctionnalités d’Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: a32d0d147fb6cd2fde1bc6052f2684d21be883da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '212'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 79%
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer permet aux sociétés de proposer des expériences connectées, contextuelles et personnalisées à leurs clients. Le parcours client correspond à l’ensemble du processus d’interaction d’un client avec la marque, depuis les premiers moments de contact jusqu’à la sortie du client du site.
+Journey Optimizer permet aux sociétés de proposer des expériences connectées, contextuelles et personnalisées à leurs clients. Le parcours client représente l’ensemble du processus d’interaction d’un client avec la marque, depuis le premier moment de contact jusqu’au départ du client.
 
 Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les fonctionnalités d’Adobe Journey Optimizer.
 
@@ -22,7 +22,7 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
 * **[Créer des événements](/help/set-up-journeys/create-events.md)**
 
-   *Découvrez comment configurer un événement, spécifier le point de terminaison de diffusion en continu et la charge utile d’un événement.*
+   *Découvrez comment configurer un événement, spécifier le point d’entrée de diffusion en continu et la payload d’un événement.*
 
 * **[Configuration des sources de données](/help/set-up-journeys/configure-data-sources.md)**
 
@@ -59,7 +59,7 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
     </a>
     </div>
     <p>
-    <em>Cette vidéo montre comment les marques peuvent utiliser la fonction Offer Decisioning, la qualification des segments en temps réel et la gestion des événements métier d’Adobe Journey Optimization pour optimiser les parcours clients.</em>
+    <em>Cette vidéo montre comment les marques peuvent utiliser la fonction Offer Decisioning, la qualification des segments en temps réel et la gestion des événements métier d’Adobe Journey Optimizer pour optimiser les parcours clients.</em>
     <p>
   </td>
 </table>
