@@ -1,6 +1,6 @@
 ---
 title: Présentation d’Adobe Journey Optimizer
-description: Découvrez ce qu’est Adobe Journey Optimizer, quels défis commerciaux cette application résout et quels sont les cas d’utilisation clés.
+description: Découvrez la solution Adobe Journey Optimizer, les défis commerciaux qu’elle relève et les principaux cas d’utilisation.
 kt: 7517
 thumbnail: 333745.jpg
 feature: Overview
@@ -10,15 +10,15 @@ role: User
 level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
 source-git-commit: 74369d03b19125ebf26c708caf1cc4535cb09c38
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 49%
+ht-degree: 100%
 
 ---
 
 # Présentation d’Adobe Journey Optimizer
 
-Découvrez ce qu’est Adobe Journey Optimizer, les défis commerciaux que cette application résout et les principaux cas d’utilisation.
+Découvrez la solution Adobe Journey Optimizer, les défis commerciaux qu’elle relève et les principaux cas d’utilisation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333745?quality=12)
 
