@@ -6,7 +6,7 @@ kt: 6780
 thumbnail: 329383.jpg
 exl-id: 77dad738-4046-410d-8886-e88f9c872320
 source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ Découvrez comment créer des offres de secours dans [!DNL Offer Decisioning]. L
 
 >[!INFO]
 >
-> Cette vidéo fait partie d’un cours, [Prise en main d’Offer decisioning pour les marketeurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours, [Prise en main d’Offer decisioning pour les marketeurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible gratuitement sur Experience League !
 
 
 ## Ressources supplémentaires

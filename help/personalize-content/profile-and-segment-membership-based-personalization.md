@@ -10,7 +10,7 @@ role: User
 level: Beginner
 exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
 source-git-commit: 4d8bf022ca43aa219719140f5b72bccf50c700d7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ Découvrez comment ajouter une personnalisation basée sur un profil à un messa
 
 ## Ressources supplémentaires
 
-* [Prise en main de la personnalisation dans Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalize.html?lang=fr)
+* [Prise en main de la personnalisation dans Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalize.html?lang=fr)
 * [Cas d’utilisation : ajout d’une personnalisation dans une notification push](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalization-use-cases/personalization-use-case.html?lang=fr)
 * [Présentation de la syntaxe de personnalisation](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalization-syntax.html?lang=fr)
 * [Utilisation des fonctions helper](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/functions/functions.html?lang=fr)

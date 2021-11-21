@@ -1,6 +1,6 @@
 ---
 title: Création de segments
-description: Découvrez comment créer des règles de segment et de quelle manière Journey Optimizer utilise des règles pour générer des audiences.
+description: Découvrez comment créer des règles de segment et de quelle manière Journey Optimizer utilise des règles pour générer des audiences.
 kt: 7553
 thumbnail: 334281.jpg
 feature: Rules, Segments, Audiences
@@ -10,7 +10,7 @@ role: Developer, User
 level: Beginner
 exl-id: a2aa7853-b014-48aa-ab0f-46d57561288e
 source-git-commit: 9e2e92007783b714200a8a37e3144436cb96d6dc
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 # Création de segments
 
-Découvrez comment créer des règles de segment et de quelle manière Journey Optimizer utilise des règles pour générer des audiences.
+Découvrez comment créer des règles de segment et de quelle manière Journey Optimizer utilise des règles pour générer des audiences.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334281?quality=12)
 

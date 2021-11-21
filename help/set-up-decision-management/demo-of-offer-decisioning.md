@@ -6,7 +6,7 @@ kt: 6492
 thumbnail: 326841.jpg
 exl-id: 44136443-a3fd-435f-9f6d-23c7696acabe
 source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ Découvrez comment les marques peuvent utiliser le service [!DNL Offer Decision
 
 >[!INFO]
 >
-> Cette vidéo fait partie d’un cours, [Prise en main d’Offer decisioning pour les marketeurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours, [Prise en main d’Offer decisioning pour les marketeurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible gratuitement sur Experience League !
 
 
 ## Ressources supplémentaires

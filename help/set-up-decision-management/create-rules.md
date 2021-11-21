@@ -6,7 +6,7 @@ kt: 6738
 thumbnail: 329373.jpg
 exl-id: 1b4cd1cd-f082-46ec-a331-9733d7c87bde
 source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ Découvrez comment créer des règles dans [!DNL Offer Decisioning]. Les règles
 
 >[!INFO]
 >
-> Cette vidéo fait partie d’un cours, [Prise en main d’Offer decisioning pour les marketeurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours, [Prise en main d’Offer decisioning pour les marketeurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible gratuitement sur Experience League !
 
 
 ## Ressources supplémentaires

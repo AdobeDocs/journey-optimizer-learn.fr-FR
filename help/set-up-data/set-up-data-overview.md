@@ -1,6 +1,6 @@
 ---
 title: Configuration des données - Aperçu
-description: Découvrez les données de profil client en temps réel et les étapes requises pour configurer les données de profil client pour Journey Optimizer.
+description: Découvrez les données de profil client en temps réel et les étapes requises pour configurer les données de profil client pour Journey Optimizer.
 kt: 7855
 thumbnail: 335878.jpg
 feature: Schemas
@@ -10,7 +10,7 @@ role: Developer
 level: Beginner
 exl-id: e2e9c2be-5c60-4f6f-ae62-8e07f008318d
 source-git-commit: bc298a397e468032f9cef76b2be1faca41366e5e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 # Présentation
 
-Découvrez les données de profil client en temps réel et les étapes requises pour configurer les données de profil client pour Journey Optimizer.
+Découvrez les données de profil client en temps réel et les étapes requises pour configurer les données de profil client pour Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335878?quality=12)
 

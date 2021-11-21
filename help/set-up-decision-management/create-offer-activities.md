@@ -6,7 +6,7 @@ kt: 6791
 thumbnail: 329606.jpg
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
 source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ Découvrez comment créer des activités d’offre dans [!DNL Offer Decisioning]
 
 >[!INFO]
 >
-> Cette vidéo fait partie d’un cours, [Prise en main d’Offer decisioning pour les marketeurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours, [Prise en main d’Offer decisioning pour les marketeurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible gratuitement sur Experience League !
 
 
 ## Ressources supplémentaires
