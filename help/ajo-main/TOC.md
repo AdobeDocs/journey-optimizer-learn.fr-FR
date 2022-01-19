@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels de formation Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels de formation Journey Optimizer.
-source-git-commit: 73c14dba1d95e0bdd369ee5530fc0c3f763be385
+source-git-commit: 6c3fb260c034d7c4f536ca76d19f302d7ba0980f
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 100%
+source-wordcount: '194'
+ht-degree: 98%
 
 ---
 
@@ -30,6 +30,7 @@ ht-degree: 100%
    + [Configuration des connecteurs source](/help/set-up-data/configure-source-connectors.md)
 + Configuration de canal {#channel-configuration}
    + [Configuration du canal e-mail](/help/set-up-email-channel/set-up-email-channel.md)
+   + [Délégation de sous-domaines CName](/help/set-up-email-channel/delegate-cname-subdomains.md)
 + Configuration de la gestion des décisions {#decision-management-configuration}
    + [Présentation du service [!DNL Offer Decisioning]](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
    + [Démonstration d&#39; [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)
@@ -37,7 +38,7 @@ ht-degree: 100%
    + [Créer des règles](/help/set-up-decision-management/create-rules.md)
    + [Création de balises](/help/set-up-decision-management/create-tags.md)
    + [Création d&#39;offres personnalisées](/help/set-up-decision-management/create-personalized-offers.md)
-   + [Création d&#39;offres de secours](/help/set-up-decision-management/create-fallback-offers.md)
+   + [Création d’offres de secours](/help/set-up-decision-management/create-fallback-offers.md)
    + [Création de collections](/help/set-up-decision-management/create-collections.md)
    + [Créer des activités d’offre](/help/set-up-decision-management/create-offer-activities.md)
    + [Diffusion d’offres à l’aide de l’API Decisions](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)

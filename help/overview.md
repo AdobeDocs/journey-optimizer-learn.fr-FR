@@ -2,10 +2,10 @@
 title: Vidéos et tutoriels sur Journey Optimizer
 description: Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les fonctionnalités d’Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: a32d0d147fb6cd2fde1bc6052f2684d21be883da
+source-git-commit: 6c3fb260c034d7c4f536ca76d19f302d7ba0980f
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 100%
+source-wordcount: '201'
+ht-degree: 92%
 
 ---
 
@@ -20,6 +20,10 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
 ## Nouveautés
 
+* **[Délégation de sous-domaines CName](/help/set-up-email-channel/delegate-cname-subdomains.md)**
+
+   *Découvrez comment créer un sous-domaine à l’aide de CNAME pour pointer vers des enregistrements spécifiques à un Adobe.*
+
 * **[Créer des événements](/help/set-up-journeys/create-events.md)**
 
    *Découvrez comment configurer un événement, spécifier le point d’entrée de diffusion en continu et la payload d’un événement.*
@@ -28,9 +32,6 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
    *Découvrez les connecteurs source et comment les configurer dans Journey Optimizer.*
 
-* **[Cas d’utilisation - message en rafale](/help/create-journeys/use-case-burst-message.md)**
-
-   *Comprenez les cas d’utilisation applicables pour les messages en rafale. Découvrez comment configurer un parcours pour les messages en rafale et les bonnes pratiques à appliquer.*
 
 ## Choix du personnel
 
