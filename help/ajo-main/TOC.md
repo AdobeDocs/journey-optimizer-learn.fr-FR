@@ -3,9 +3,9 @@ user-guide-title: Tutoriels de formation Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels de formation Journey Optimizer.
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '194'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 88%
    + [Créer des règles](/help/set-up-decision-management/create-rules.md)
    + [Création de balises](/help/set-up-decision-management/create-tags.md)
    + [Création d&#39;offres personnalisées](/help/set-up-decision-management/create-personalized-offers.md)
-   + [Création d’offres de secours](/help/set-up-decision-management/create-fallback-offers.md)
+   + [Créer des offres de secours](/help/set-up-decision-management/create-fallback-offers.md)
    + [Création de collections](/help/set-up-decision-management/create-collections.md)
    + [Créer des activités d’offre](/help/set-up-decision-management/create-offer-activities.md)
    + [Diffusion d’offres à l’aide de l’API Decisions](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
@@ -58,11 +58,11 @@ ht-degree: 88%
    + [Utilisation des fonctions helper pour la personnalisation](/help/personalize-content/use-helper-functions-for-personalization.md)
 + Création de parcours {#create-journeys}
    + [Présentation de la création d’un parcours](/help/create-journeys/introduction-to-building-a-journey.md)
-   + [Cas d’utilisation - parcours transactionnel](/help/create-journeys/use-case-transactional-journey.md)
-   + [Cas d’utilisation - Lecture de segment](/help/create-journeys/use-case-read-segment.md)
-   + [Cas d’utilisation - Événement commercial](/help/create-journeys/use-case-business-event.md)
-   + [Cas d’utilisation - Qualification du segment](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [Cas d’utilisation - Message de survol](/help/create-journeys/use-case-burst-message.md)
+   + [Cas d’utilisation : parcours transactionnel](/help/create-journeys/use-case-transactional-journey.md)
+   + [Cas d’utilisation : lecture de segment](/help/create-journeys/use-case-read-segment.md)
+   + [Cas d’utilisation : événement métier](/help/create-journeys/use-case-business-event.md)
+   + [Cas d’utilisation : qualification du segment](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [Cas d’utilisation : message en rafale](/help/create-journeys/use-case-burst-message.md)
    + [Créer un profil de test](/help/create-journeys/test-a-journey.md)
    + [Publication d’un parcours](/help/create-journeys/publish-a-journey.md)
 + Rapport et surveillance {#report-and-monitor}
