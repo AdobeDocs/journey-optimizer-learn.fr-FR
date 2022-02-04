@@ -4,9 +4,9 @@ description: Ce guide de l’utilisateur contient des vidéos et des tutoriels s
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '201'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
 * **[Délégation de sous-domaines CName](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
-   *Découvrez comment créer un sous-domaine à l’aide de CNAME pour pointer vers des enregistrements spécifiques à un Adobe.*
+   *Découvrez comment créer un sous-domaine à l’aide de la méthode CNAME pour pointer vers des enregistrements spécifiques à Adobe*.
 
 * **[Créer des événements](/help/set-up-journeys/create-events.md)**
 
