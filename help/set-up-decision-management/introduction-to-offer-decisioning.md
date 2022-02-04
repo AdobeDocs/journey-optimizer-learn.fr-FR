@@ -1,12 +1,12 @@
 ---
-title: Introduction au service Offer Decisioning
+title: Présentation dʼOffer Decisioning
 description: Cette vidéo donne un aperçu d’Offer Decisioning, un service applicatif reposant sur Adobe Experience Platform.
 feature: Offers
 kt: 6417
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
 ht-degree: 100%
 
