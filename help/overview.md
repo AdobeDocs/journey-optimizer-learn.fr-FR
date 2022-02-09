@@ -3,8 +3,8 @@ title: Vidéos et tutoriels sur Journey Optimizer
 description: Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les fonctionnalités d’Adobe Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: ht
+source-git-commit: 676f0b268f7f67d179bfa944b72cb68191640c74
+workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 100%
 
