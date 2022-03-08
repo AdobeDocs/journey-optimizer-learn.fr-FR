@@ -3,10 +3,10 @@ title: Vidéos et tutoriels sur Journey Optimizer
 description: Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les fonctionnalités d’Adobe Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 676f0b268f7f67d179bfa944b72cb68191640c74
+source-git-commit: 01781ab4fe33afb8e8c387b53c164428d7bcdff6
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 100%
+source-wordcount: '215'
+ht-degree: 86%
 
 ---
 
@@ -21,6 +21,10 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
 ## Nouveautés
 
+* **[Utilisation et gestion des expressions enregistrées dans la bibliothèque de personnalisation](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
+
+   *Découvrez comment utiliser des éléments de bibliothèque de personnalisation enregistrés dans un message et comment créer et gérer des éléments de bibliothèque de personnalisation.*
+
 * **[Délégation de sous-domaines CName](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
    *Découvrez comment créer un sous-domaine à l’aide de la méthode CNAME pour pointer vers des enregistrements spécifiques à Adobe*.
@@ -28,10 +32,6 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 * **[Créer des événements](/help/set-up-journeys/create-events.md)**
 
    *Découvrez comment configurer un événement, spécifier le point d’entrée de diffusion en continu et la payload d’un événement.*
-
-* **[Configuration des sources de données](/help/set-up-journeys/configure-data-sources.md)**
-
-   *Découvrez les connecteurs source et comment les configurer dans Journey Optimizer.*
 
 
 ## Choix du personnel
@@ -65,7 +65,3 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
     <p>
   </td>
 </table>
-
-
-
-
