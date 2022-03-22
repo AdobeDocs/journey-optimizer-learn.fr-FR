@@ -3,10 +3,10 @@ title: Vidéos et tutoriels sur Journey Optimizer
 description: Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les fonctionnalités d’Adobe Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 9af3eb252d38eb94cc81d4fd8723af8d44fd90da
+source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '210'
+ht-degree: 81%
 
 ---
 
@@ -21,18 +21,17 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
 ## Nouveautés
 
+* **[Abonnements et landing pages](/help/subscriptions-and-landing-pages.md)**
+
+   *Découvrez comment configurer des abonnements et créer des landing pages.*
+
 * **[Utilisation et gestion des expressions enregistrées dans la bibliothèque de personnalisation](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 
-   *Découvrez comment utiliser des éléments de personnalisation enregistrés dans un message et comment créer et gérer des éléments de bibliothèque de personnalisation.*
+   *Découvrez comment utiliser des éléments de bibliothèque de personnalisation enregistrés dans un message et comment créer et gérer des éléments de bibliothèque de personnalisation.*
 
 * **[Délégation de sous-domaines CName](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
    *Découvrez comment créer un sous-domaine à l’aide de la méthode CNAME pour pointer vers des enregistrements spécifiques à Adobe*.
-
-* **[Créer des événements](/help/set-up-journeys/create-events.md)**
-
-   *Découvrez comment configurer un événement, spécifier le point d’entrée de diffusion en continu et la payload d’un événement.*
-
 
 ## Choix du personnel
 
