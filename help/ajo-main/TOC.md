@@ -5,7 +5,7 @@ user-guide-description: Voici les tutoriels de formation Journey Optimizer.
 source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -56,9 +56,9 @@ ht-degree: 95%
    + [Ajout d’offres en tant que personnalisation](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Utilisation d’informations d’événement contextuelles pour la personnalisation](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Utilisation des fonctions helper pour la personnalisation](/help/personalize-content/use-helper-functions-for-personalization.md)
-   + [Utilisation et gestion des expressions enregistrées dans la bibliothèque de personnalisation](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
+   + [Utiliser et gérer les expressions enregistrées dans la bibliothèque de personnalisation](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
 + [Abonnements et landing pages](/help/subscriptions-and-landing-pages.md)
-+ Création de parcours {#create-journeys}
++ Créer des parcours {#create-journeys}
    + [Présentation de la création d’un parcours](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Cas d’utilisation : parcours transactionnel](/help/create-journeys/use-case-transactional-journey.md)
    + [Cas d’utilisation : lecture de segment](/help/create-journeys/use-case-read-segment.md)

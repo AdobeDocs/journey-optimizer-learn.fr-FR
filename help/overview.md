@@ -6,7 +6,7 @@ exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 81%
+ht-degree: 95%
 
 ---
 
@@ -25,9 +25,9 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
    *Découvrez comment configurer des abonnements et créer des landing pages.*
 
-* **[Utilisation et gestion des expressions enregistrées dans la bibliothèque de personnalisation](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
+* **[Utiliser et gérer les expressions enregistrées dans la bibliothèque de personnalisation](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 
-   *Découvrez comment utiliser des éléments de bibliothèque de personnalisation enregistrés dans un message et comment créer et gérer des éléments de bibliothèque de personnalisation.*
+   *Découvrez comment utiliser les éléments enregistrés de la bibliothèque de personnalisation enregistrés dans un message ainsi que comment créer et gérer les éléments de la bibliothèque de personnalisation.*
 
 * **[Délégation de sous-domaines CName](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
