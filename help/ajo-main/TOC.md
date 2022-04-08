@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels de formation Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels de formation Journey Optimizer.
-source-git-commit: 3be357a7f91c08bf768d837f32c242ff8b181749
+source-git-commit: 4471e139da3693a2b13ec49c260c87f4787238ac
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '239'
+ht-degree: 86%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    + [Délégation de sous-domaines CName](/help/set-up-email-channel/delegate-cname-subdomains.md)
 + Configuration de la gestion des décisions {#decision-management-configuration}
    + [Présentation du service [!DNL Offer Decisioning]](/help/decision-management/introduction-to-offer-decisioning.md)
-   + [Démonstration d&#39; [!DNL Offer Decisioning]](/help/decision-management/demo-of-offer-decisioning.md)
+   + [Démonstration des fonctionnalités de gestion des décisions](/help/decision-management/demo-of-offer-decisioning.md)
    + [Création d’emplacements](/help/decision-management/create-placements.md)
    + [Créer des règles](/help/decision-management/create-rules.md)
    + [Création de balises](/help/decision-management/create-tags.md)
