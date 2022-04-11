@@ -4,8 +4,8 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels de formation Journey Optimizer.
 source-git-commit: 4471e139da3693a2b13ec49c260c87f4787238ac
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 86%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -45,19 +45,19 @@ ht-degree: 86%
 + Configuration des parcours{#journey-configuration}
    + [Configuration des sources de données](/help/set-up-journeys/configure-data-sources.md)
    + [Créer des événements](/help/set-up-journeys/create-events.md)
-   + [Création d’actions](/help/set-up-journeys/create-actions.md)
-+ Profils, segments et abonnements des clients {#profiles-segments-subscriptions}
-   + [Profil et segmentation unifiés - Aperçu](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
-   + [Création de segments](/help/set-up-resources/create-segments.md)
-   + [Abonnements et landing pages](/help/subscriptions-and-landing-pages.md)
+   + [Créer des actions](/help/set-up-journeys/create-actions.md)
++ Profils client, segments et abonnements {#profiles-segments-subscriptions}
+   + [Profil unifié et segmentation - Présentation](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
+   + [Créer des segments](/help/set-up-resources/create-segments.md)
+   + [Abonnements et pages de destination](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
-+ Création de messages {#create-messages}
-   + [Présentation du concepteur de massages](/help/create-messages/message-designer-overview.md)
++ Créer des messages {#create-messages}
+   + [Présentation du concepteur de messages](/help/create-messages/message-designer-overview.md)
    + [Création d’un contenu d’e-mail avec l’éditeur de messages](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [Importation et création de contenu d’e-mail HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Aperçu, BAT et publication](/help/create-messages/preview-proof-and-publish.md)
-   + [Fonctionnalités Mobile pour les marketeurs](/help/create-messages/mobile-capabilities.md)
-   + [Fonctionnalités Mobile pour les concepteurs](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [Fonctionnalités mobiles pour les marketeurs](/help/create-messages/mobile-capabilities.md)
+   + [Fonctionnalités mobiles pour les concepteurs](/help/create-messages/mobile-capabilities-for-developers.md)
 + Personnalisation du contenu {#personalize-content}
    + [Personnalisation basée sur un profil et l’appartenance à un segment](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Ajout d’offres en tant que personnalisation](/help/personalize-content/add-offer-decisioning-to-messages.md)
@@ -65,7 +65,7 @@ ht-degree: 86%
    + [Utilisation des fonctions helper pour la personnalisation](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Utiliser et gérer les expressions enregistrées dans la bibliothèque de personnalisation](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
 + Créer des parcours {#create-journeys}
-   + [Présentation du canevas de parcours](/help/create-journeys/overview-over-the-journey-canvas.md)
+   + [Présentation de la zone de travail du parcours](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Présentation de la création d’un parcours](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Cas d’utilisation : parcours transactionnel](/help/create-journeys/use-case-transactional-journey.md)
    + [Cas d’utilisation : lecture de segment](/help/create-journeys/use-case-read-segment.md)
