@@ -1,26 +1,26 @@
 ---
-title: Configuration des abonnements et des landing pages
-description: 'Découvrez comment configurer des abonnements et créer des landing pages. '
+title: Configurer des abonnements et des pages de destination
+description: Découvrez comment configurer les abonnements et créer des pages de destination.
 feature: Landing Pages, Subscriptions
 role: User
 level: Beginner
 kt: 9364
 thumbnail: 341280.jpg
-source-git-commit: 773cf0e4633a8b4fe0696d2d4a612c82dc7f8955
-workflow-type: tm+mt
+exl-id: b2da105b-ec0b-4bb8-8f68-993f92253cb4
+source-git-commit: 943ccd4a9cb1489aa30d459906d3baa9e902dbfa
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
+# Configurer des abonnements et des pages de destination
 
-# Configuration des abonnements et des landing pages
+Découvrez comment configurer les abonnements et créer des pages de destination :
 
-Découvrez comment configurer des abonnements et créer des landing pages :
-
-* Création d’une liste dʼabonnements
-* Configurer des landing pages pour offrir des abonnements ou des désabonnements à partir d&#39;un service
-* Intégrer l&#39;option (de désabonnement) dans votre message
-* Configuration des parcours appropriés
+* Créer une liste dʼabonnements
+* Créer des pages de destination pour proposer des abonnements ou des désabonnements à un service
+* Intégrer lʼoption dʼabonnement ou de désabonnement dans votre message
+* Configurer des parcours pertinents
 
 >[!VIDEO](https://video.tv.adobe.com/v/341280?quality=12&learn=on)
