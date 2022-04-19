@@ -1,20 +1,20 @@
 ---
 title: Création de collections
-description: Découvrez comment créer des collections dans [!DNL Offer Decisioning]. Les collections sont associées à des règles d’éligibilité afin que vous puissiez les afficher uniquement aux clients appropriés.
+description: Découvrez comment créer des collections pour la gestion des décisions. Les collections sont associées à des règles d’éligibilité afin que vous puissiez les afficher uniquement aux clients appropriés.
 feature: Offers
 kt: 6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '92'
-ht-degree: 100%
+source-git-commit: 307c19ca15e0fd63002c0932713e265824ea2621
+workflow-type: tm+mt
+source-wordcount: '99'
+ht-degree: 65%
 
 ---
 
 # Création de collections
 
-Découvrez comment créer des collections dans [!DNL Offer Decisioning]. Les collections sont utilisées pour gérer les offres en groupes logiques. Elles sont nécessaires pour créer des activités [!DNL Offer Decisioning]. Les collections dynamiques vous permettent de regrouper les offres selon des balises, tandis que les collections statiques vous permettent de les traiter manuellement.
+Découvrez comment créer des collections pour la gestion des décisions. Les collections sont utilisées pour gérer les offres dans des groupes logiques et sont nécessaires pour créer des activités de gestion de décision. Les collections dynamiques vous permettent de regrouper les offres selon des balises, tandis que les collections statiques vous permettent de les traiter manuellement.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on)
 
