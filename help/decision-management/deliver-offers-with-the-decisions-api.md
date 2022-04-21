@@ -1,22 +1,22 @@
 ---
-title: Diffusion d’offres à l’aide de l’API Decisions
+title: Diffusion d’offres à l’aide de l’API Decisions Hub
 description: 'Découvrez comment diffuser des offres Offer Decisioning avec l’API Decisions. '
 role: Developer
 feature: Offers
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '152'
-ht-degree: 100%
+source-git-commit: cb938ea72b8d3e7f0e9d080346c605b112a7a23f
+workflow-type: tm+mt
+source-wordcount: '154'
+ht-degree: 88%
 
 ---
 
 
 # Diffusion d’offres à l’aide de l’API Decisions
 
-Découvrez comment diffuser des offres [!DNL Offer Decisioning][ avec l’API Decisions](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=fr). En utilisant [!DNL Postman] à des fins d’illustration, un appel API est effectué pour récupérer l’identifiant du conteneur. Ensuite, un exemple d’appel de l’API Decisions est personnalisé avec l’identifiant d’activité, l’identifiant d’emplacement, l’espace de noms d’identité et l’identifiant de client afin de récupérer une offre personnalisée. Une fois que vous avez récupéré une offre personnalisée avec l’API Decisions, vous pouvez intégrer le contenu de l’offre à votre système marketing.
+Découvrez comment diffuser des offres [avec l’API Decisions Hub](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=fr). En utilisant [!DNL Postman] à des fins d’illustration, un appel API est effectué pour récupérer l’identifiant du conteneur. Ensuite, un exemple d’appel de l’API Decisions est personnalisé avec l’identifiant d’activité, l’identifiant d’emplacement, l’espace de noms d’identité et l’identifiant de client afin de récupérer une offre personnalisée. Une fois que vous avez récupéré une offre personnalisée avec l’API Decisions, vous pouvez intégrer le contenu de l’offre à votre système marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329919?quality=12&learn=on)
 

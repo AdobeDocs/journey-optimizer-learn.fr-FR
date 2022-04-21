@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels de formation Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels de formation Journey Optimizer.
-source-git-commit: 4471e139da3693a2b13ec49c260c87f4787238ac
+source-git-commit: cb938ea72b8d3e7f0e9d080346c605b112a7a23f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '238'
+ht-degree: 97%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 0%
    + [Création d&#39;offres personnalisées](/help/decision-management/create-personalized-offers.md)
    + [Créer des offres de secours](/help/decision-management/create-fallback-offers.md)
    + [Création de collections](/help/decision-management/create-collections.md)
-   + [Créer des activités d’offre](/help/decision-management/create-offer-activities.md)
+   + [Création de décisions](/help/decision-management/create-decisions.md)
    + [Diffusion d’offres à l’aide de l’API Decisions](/help/decision-management/deliver-offers-with-the-decisions-api.md)
 + Configuration des parcours{#journey-configuration}
    + [Configuration des sources de données](/help/set-up-journeys/configure-data-sources.md)
