@@ -3,9 +3,9 @@ user-guide-title: Tutoriels de formation Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels de formation Journey Optimizer.
 source-git-commit: c9b0cea707ec96f4e89c0e0e38b1308f938c15fa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '239'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -34,20 +34,20 @@ ht-degree: 95%
 + Gestion des décisions {#decision-management}
    + [Présentation de la gestion des décisions](/help/decision-management/introduction-to-decision-management.md)
    + [Démonstration des fonctionnalités de gestion des décisions](/help/decision-management/demo-of-decision-management-capabilities.md)
-   + [Création d’emplacements](/help/decision-management/create-placements.md)
+   + [Créer des emplacements](/help/decision-management/create-placements.md)
    + [Créer des règles](/help/decision-management/create-rules.md)
    + [Création de balises](/help/decision-management/create-tags.md)
    + [Création d&#39;offres personnalisées](/help/decision-management/create-personalized-offers.md)
    + [Créer des offres de secours](/help/decision-management/create-fallback-offers.md)
-   + [Création de collections](/help/decision-management/create-collections.md)
-   + [Création de décisions](/help/decision-management/create-decisions.md)
+   + [Créer des collections](/help/decision-management/create-collections.md)
+   + [Créer des décisions](/help/decision-management/create-decisions.md)
    + [Diffusion d’offres à l’aide de l’API Decisions](/help/decision-management/deliver-offers-with-the-decisions-api.md)
 + Configuration des parcours{#journey-configuration}
-   + [Configuration des sources de données](/help/set-up-journeys/configure-data-sources.md)
+   + [Configurer les sources de données](/help/set-up-journeys/configure-data-sources.md)
    + [Créer des événements](/help/set-up-journeys/create-events.md)
    + [Créer des actions](/help/set-up-journeys/create-actions.md)
 + Profils client, segments et abonnements {#profiles-segments-subscriptions}
-   + [Profil unifié et segmentation - Présentation](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
+   + [Profil unifié et segmentation - Vue d’ensemble](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Créer des segments](/help/set-up-resources/create-segments.md)
    + [Abonnements et pages de destination](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
@@ -63,9 +63,9 @@ ht-degree: 95%
    + [Ajout d’offres en tant que personnalisation](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Utilisation d’informations d’événement contextuelles pour la personnalisation](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Utilisation des fonctions helper pour la personnalisation](/help/personalize-content/use-helper-functions-for-personalization.md)
-   + [Utiliser et gérer les expressions enregistrées dans la bibliothèque de personnalisation](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
-+ Créer des parcours {#create-journeys}
-   + [Présentation de la zone de travail du parcours](/help/create-journeys/overview-over-the-journey-canvas.md)
+   + [Utilisation et gestion des expressions enregistrées dans la bibliothèque de personnalisation](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
++ Création de parcours {#create-journeys}
+   + [Vue d’ensemble de la zone de travail du parcours](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Présentation de la création d’un parcours](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Cas d’utilisation : parcours transactionnel](/help/create-journeys/use-case-transactional-journey.md)
    + [Cas d’utilisation : lecture de segment](/help/create-journeys/use-case-read-segment.md)
