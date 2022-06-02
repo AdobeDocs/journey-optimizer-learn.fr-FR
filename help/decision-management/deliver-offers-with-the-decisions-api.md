@@ -1,15 +1,15 @@
 ---
 title: Diffuser des offres avec l’API Decisions Hub
-description: 'Découvrez comment diffuser des offres Offer Decisioning avec l’API Decisions. '
+description: 'Découvrez comment diffuser des offres de gestion de la décision à l’aide de l’API Decisions. '
 role: Developer
 feature: Offers
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: 9f8c88c0ccbefc5089d41b7389dac54371aaa521
-workflow-type: ht
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 100%
+ht-degree: 80%
 
 ---
 
@@ -22,7 +22,7 @@ Découvrez comment diffuser des offres [avec l’API Decisions Hub](https://expe
 
 >[!INFO]
 >
-> Cette vidéo fait partie d’un cours, [Prise en main d’Offer Decisioning pour les professionnels du marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d&#39;un cours, [Prise en main de la gestion des décisions pour les marketeurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible gratuitement sur Experience League !
 
 ## Ressources supplémentaires
 
