@@ -2,17 +2,17 @@
 user-guide-title: Tutoriels de formation Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels de formation Journey Optimizer.
-source-git-commit: c9b0cea707ec96f4e89c0e0e38b1308f938c15fa
-workflow-type: ht
-source-wordcount: '239'
-ht-degree: 100%
+source-git-commit: 9b05bea0b409ad8d1f9ed39e9261e1cdf5524310
+workflow-type: tm+mt
+source-wordcount: '241'
+ht-degree: 98%
 
 ---
 
 
 # Tutoriels de formation Journey Optimizer {#tutorials}
 
-+ [Présentation](/help/overview.md)
++ [Tutorials Journey Optimizer](/help/overview.md)
 + Présentation de Journey Optimizer {#introduction-to-journey-optimizer}
    + [Présentation de Journey Optimizer](/help/introduction/introduction.md)
    + [Présentation de Journey Optimizer (partie 1)](/help/introduction/journey-optimizer-overview-part-1.md)
