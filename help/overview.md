@@ -3,10 +3,10 @@ title: Vidéos et tutoriels sur Journey Optimizer
 description: Plusieurs tutoriels vidéo vous montrent comment tirer parti des avantages de Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: d4af15677c5c4baacfd6cae88acffa769ee6e401
+source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 70%
+source-wordcount: '396'
+ht-degree: 65%
 
 ---
 
@@ -23,6 +23,10 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
 ### Tutoriels
 
+* **[Configuration, création et diffusion de messages SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
+
+   *Découvrez comment configurer, créer et inclure des messages SMS dans vos parcours clients.*
+
 * **[Configuration des règles de fréquence des messages](/help/administration/configure-frequency-rules.md)**
 
    *Découvrez comment créer, activer, tester et générer des rapports sur les règles de fréquence. Découvrez comment déterminer les règles de fréquence qui seront héritées pour un message.*
@@ -30,10 +34,6 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 * **[Abonnements et pages de destination](/help/subscriptions-and-landing-pages.md)**
 
    *Découvrez comment configurer les abonnements et créer des pages de destination*.
-
-* **[Utilisation et gestion des expressions enregistrées dans la bibliothèque de personnalisation](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
-
-   *Découvrez comment utiliser les éléments enregistrés de la bibliothèque de personnalisation enregistrés dans un message ainsi que comment créer et gérer les éléments de la bibliothèque de personnalisation.*
 
 ### Événements Experience League Live
 
