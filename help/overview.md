@@ -1,12 +1,12 @@
 ---
 title: Vidéos et tutoriels sur Journey Optimizer
-description: Plusieurs tutoriels vidéo vous montrent comment tirer parti des avantages de Journey Optimizer.
+description: Plusieurs tutoriels vidéo vous montrent comment tirer parti des avantages de Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '400'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
@@ -23,23 +23,23 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
 ### Tutoriels
 
-* **[Configuration, création et diffusion de messages SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
+* **[Configurer, créer et diffuser des messages SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
    *Découvrez comment configurer, créer et inclure des messages SMS dans vos parcours clients.*
 
 * **[Prise en charge des mots-clés entrants pour les SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
 
-   *Découvrez comment fonctionne la prise en charge native des mots-clés entrants (démarrage, arrêt, arrêt, arrêt) pour les SMS.*
+   *Découvrez comment fonctionne la prise en charge native des mots-clés entrants (démarrage, arrêt, redémarrage) pour les SMS.*
 
-* **[Configuration des règles de fréquence des messages](/help/administration/configure-frequency-rules.md)**
+* **[Configurer des règles de fréquence des messages](/help/administration/configure-frequency-rules.md)**
 
    *Découvrez comment créer, activer, tester et générer des rapports sur les règles de fréquence. Découvrez comment déterminer les règles de fréquence qui seront héritées pour un message.*
 
 ### Événements Experience League Live
 
-* **[Notifications push avec Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=fr)**
+* **[Notifications push avec Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=fr)**
 
-   *Dans cet épisode Experience League Live, nous parlons des cas d’utilisation courants des notifications push avec Adobe Journey Optimizer et nous entrons dans les détails techniques de configuration d’une application pour les notifications push avec Adobe Experience Platform.*
+   *Dans cet épisode d’Experience League Live, découvrez les cas d’utilisation courants des notifications push avec Adobe Journey Optimizer et explorez les détails techniques de la configuration d’une application pour les notifications push optimisée par Adobe Experience Platform.*
 
 ## Choix du personnel
 
@@ -68,7 +68,7 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
     </a>
     </div>
     <p>
-    <em>Cette vidéo montre comment les marques peuvent utiliser les fonctionnalités de gestion de décision Adobe Journey Optimizer, la qualification des segments en temps réel et la gestion des événements professionnels pour élever leurs parcours clients à de nouveaux sommets.</em>
+    <em>Cette vidéo montre comment les marques peuvent utiliser les fonctionnalités de gestion des décisions, la qualification de segments en temps réel et la gestion des événements métier d’Adobe Journey Optimizer pour optimiser les parcours clients.</em>
     <p>
   </td>
   </td>
@@ -126,7 +126,7 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
     </a>
     </div>
     <p>
-    <em>Apprenez la différence entre les rapports dynamiques et globaux. Découvrez également comment accéder aux rapports spécifiques aux messages et aux parcours et les analyser et comment modifier les tableaux de bord des rapports.
+    <em>Apprenez la différence entre les rapports dynamiques et globaux. Découvrez également comment accéder aux rapports spécifiques sur les messages et les parcours et les analyser et comment modifier les tableaux de bord des rapports.
 
 </em>
     <p>
