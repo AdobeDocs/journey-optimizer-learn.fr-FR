@@ -3,16 +3,16 @@ user-guide-title: Tutoriels de formation Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels de formation Journey Optimizer.
 source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '256'
+ht-degree: 100%
 
 ---
 
 
 # Tutoriels de formation Journey Optimizer {#tutorials}
 
-+ [Tutorials Journey Optimizer](/help/overview.md)
++ [Tutoriels de Journey Optimizer](/help/overview.md)
 + Présentation de Journey Optimizer {#introduction-to-journey-optimizer}
    + [Présentation de Journey Optimizer](/help/introduction/introduction.md)
    + [Présentation de Journey Optimizer (partie 1)](/help/introduction/journey-optimizer-overview-part-1.md)
@@ -31,7 +31,7 @@ ht-degree: 0%
 + Configuration de canal {#channel-configuration}
    + [Configuration du canal e-mail](/help/set-up-email-channel/set-up-email-channel.md)
    + [Délégation de sous-domaines CName](/help/set-up-email-channel/delegate-cname-subdomains.md)
-   + [Configuration des règles de fréquence des messages](/help/administration/configure-frequency-rules.md)
+   + [Configurer les règles de fréquence des messages](/help/administration/configure-frequency-rules.md)
 + Gestion des décisions {#decision-management}
    + [Présentation de la gestion des décisions](/help/decision-management/introduction-to-decision-management.md)
    + [Démonstration des fonctionnalités de gestion des décisions](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -59,7 +59,7 @@ ht-degree: 0%
    + [Aperçu, BAT et publication](/help/create-messages/preview-proof-and-publish.md)
    + [Fonctionnalités mobiles pour les marketeurs](/help/create-messages/mobile-capabilities.md)
    + [Fonctionnalités mobiles pour les concepteurs](/help/create-messages/mobile-capabilities-for-developers.md)
-   + [Configuration, création et diffusion de messages SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)
+   + [Configurer, créer et diffuser des messages SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)
    + [Prise en charge des mots-clés entrants pour les SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
 + Personnalisation du contenu {#personalize-content}
    + [Personnalisation basée sur un profil et l’appartenance à un segment](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
