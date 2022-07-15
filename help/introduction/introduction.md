@@ -1,6 +1,6 @@
 ---
 title: Présentation d’Adobe Journey Optimizer
-description: Comprenez ce qu’est Adobe Journey Optimizer et comment il a aidé les marques de tous les secteurs à accroître leur retour sur investissement et à surmonter d’importants défis marketing.
+description: Découvrez ce qu’est Adobe Journey Optimizer et comment il a permis aux marques de tous les secteurs d’accroître leur retour sur investissement et de surmonter des défis marketing majeurs.
 kt: 7517
 thumbnail: 333745.jpg
 feature: Overview
@@ -11,8 +11,8 @@ level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
 source-git-commit: c487f98b184b5bb1d525293660e82db319af7ce4
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 58%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
