@@ -3,10 +3,10 @@ title: Vidéos et tutoriels sur Journey Optimizer
 description: Plusieurs tutoriels vidéo vous montrent comment tirer parti des avantages de Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
+source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 83%
+source-wordcount: '394'
+ht-degree: 84%
 
 ---
 
@@ -25,7 +25,7 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
 * **[Créer une campagne](/help/create-champaigns/create-a-campaign.md)**
 
-   *Découvrez comment diffuser du contenu unique à un segment d’utilisateurs spécifique en exécutant immédiatement des actions ou selon un calendrier spécifié.*
+   *Découvrez comment diffuser du contenu unique à une audience spécifique en exécutant immédiatement des actions ou selon un calendrier spécifié.*
 
 
 * **[Configurer, créer et diffuser des messages SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
