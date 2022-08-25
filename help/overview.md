@@ -1,12 +1,12 @@
 ---
 title: Vidéos et tutoriels sur Journey Optimizer
-description: Plusieurs tutoriels vidéo vous montrent comment tirer parti des avantages de Journey Optimizer.
+description: Plusieurs tutoriels vidéo vous montrent comment tirer parti des avantages de Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
-workflow-type: ht
-source-wordcount: '400'
-ht-degree: 100%
+source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
+workflow-type: tm+mt
+source-wordcount: '395'
+ht-degree: 83%
 
 ---
 
@@ -15,13 +15,18 @@ ht-degree: 100%
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer permet aux sociétés de proposer des expériences connectées, contextuelles et personnalisées à leurs clients. Le parcours client représente l’ensemble du processus d’interaction d’un client avec la marque, depuis le premier moment de contact jusqu’au départ du client.
+Journey Optimizer permet aux sociétés de proposer des expériences connectées, contextuelles et personnalisées à leurs clients. Le parcours client correspond à l’ensemble du processus d’interaction d’un client avec la marque, depuis les premiers moments de contact jusqu’à la sortie du client du site.
 
 Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les fonctionnalités d’Adobe Journey Optimizer.
 
 ## Nouveautés
 
 ### Tutoriels
+
+* **[Créer une campagne](/help/create-champaigns/create-a-campaign.md)**
+
+   *Découvrez comment diffuser du contenu unique à un segment d’utilisateurs spécifique en exécutant immédiatement des actions ou selon un calendrier spécifié.*
+
 
 * **[Configurer, créer et diffuser des messages SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
@@ -30,10 +35,6 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 * **[Prise en charge des mots-clés entrants pour les SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
 
    *Découvrez comment fonctionne la prise en charge native des mots-clés entrants (démarrage, arrêt, redémarrage) pour les SMS.*
-
-* **[Configurer des règles de fréquence des messages](/help/administration/configure-frequency-rules.md)**
-
-   *Découvrez comment créer, activer, tester et générer des rapports sur les règles de fréquence. Découvrez comment déterminer les règles de fréquence qui seront héritées pour un message.*
 
 ### Événements Experience League Live
 
