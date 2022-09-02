@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels de formation Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels de formation Journey Optimizer.
-source-git-commit: bddd702254d7b804515723e15862521ff90b32ad
+source-git-commit: 9390fa4f69307f326df5946000240bf397152690
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 95%
+ht-degree: 94%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 95%
    + [Importation et création de contenu d’e-mail HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Aperçu, BAT et publication](/help/create-messages/preview-proof-and-publish.md)
    + [Fonctionnalités mobiles pour les marketeurs](/help/create-messages/mobile-capabilities.md)
-   + [Fonctionnalités mobiles pour les concepteurs](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [Fonctionnalités mobiles pour les développeurs](/help/create-messages/mobile-capabilities-for-developers.md)
    + [Configurer, créer et diffuser des messages SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)
    + [Prise en charge des mots-clés entrants pour les SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
 + Personnalisation du contenu {#personalize-content}
