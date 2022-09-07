@@ -1,6 +1,6 @@
 ---
 title: Créer une campagne
-description: Découvrez comment diffuser du contenu unique à une audience spécifique en exécutant immédiatement des actions ou selon un calendrier spécifié.
+description: Découvrez comment diffuser du contenu unique à une audience spécifique en exécutant immédiatement des actions ou selon un planning spécifié.
 kt: 10590
 thumbnail: 346680.jpg
 feature: Journeys
@@ -8,10 +8,11 @@ doc-type: feature video
 team: PM
 role: User
 level: Beginner
-source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
-workflow-type: tm+mt
+exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
+source-git-commit: 537d6ed2697aed941efbf572fed8856b5f21ad24
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
@@ -19,10 +20,10 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->Cette fonctionnalité n’est disponible que pour les utilisateurs ayant accès à un profil produit associé à Campaign, tel que l’administrateur Campaign, l’approbateur Campaign, le responsable Campaign et/ou la visionneuse Campaign. Pour plus d’informations sur l’affectation de profils de produit, reportez-vous à la section [cette vidéo](/help/set-up-access/access-management.md).
+>Cette fonctionnalité n’est disponible que pour les utilisateurs ayant accès à un profil de produit associé à Campaign, tel que l’administrateur Campaign, l’approbateur Campaign, le responsable Campaign et/ou l’observateur Campaign. Pour plus d’informations sur l’attribution de profils de produit, reportez-vous à [cette vidéo](/help/set-up-access/access-management.md).
 
-Découvrez comment diffuser du contenu unique à une audience spécifique en exécutant immédiatement des actions ou selon un calendrier spécifié.
+Découvrez comment diffuser du contenu unique à une audience spécifique en exécutant immédiatement des actions ou selon un planning spécifié.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12)
 
-Reportez-vous à la section [documentation du produit](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=en) pour plus d’informations sur cette fonctionnalité.
+Reportez-vous à la [documentation du produit](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=fr) pour plus d’informations sur cette fonctionnalité.
