@@ -4,9 +4,9 @@ description: Plusieurs tutoriels vidéo vous montrent comment tirer parti des av
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '394'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 84%
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer permet aux sociétés de proposer des expériences connectées, contextuelles et personnalisées à leurs clients. Le parcours client correspond à l’ensemble du processus d’interaction d’un client avec la marque, depuis les premiers moments de contact jusqu’à la sortie du client du site.
+Journey Optimizer permet aux sociétés de proposer des expériences connectées, contextuelles et personnalisées à leurs clients. Le parcours client représente l’ensemble du processus d’interaction d’un client avec la marque, à partir du premier contact jusqu’au départ du client.
 
 Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les fonctionnalités d’Adobe Journey Optimizer.
 
@@ -25,7 +25,7 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
 * **[Créer une campagne](/help/create-champaigns/create-a-campaign.md)**
 
-   *Découvrez comment diffuser du contenu unique à une audience spécifique en exécutant immédiatement des actions ou selon un calendrier spécifié.*
+   *Découvrez comment diffuser du contenu unique à une audience spécifique en exécutant immédiatement des actions ou selon un planning spécifié.*
 
 
 * **[Configurer, créer et diffuser des messages SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
