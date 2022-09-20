@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels de formation Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels de formation Journey Optimizer.
-source-git-commit: 9390fa4f69307f326df5946000240bf397152690
+source-git-commit: 4960b21053d6309cd64b5bb6a0a98e0d044d4afd
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 96%
+source-wordcount: '265'
+ht-degree: 92%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 96%
    + [Configurer les sources de données](/help/set-up-journeys/configure-data-sources.md)
    + [Créer des événements](/help/set-up-journeys/create-events.md)
    + [Créer des actions](/help/set-up-journeys/create-actions.md)
-+ Profils client, segments et abonnements {#profiles-segments-subscriptions}
++ Profils, segments et abonnements des clients {#profiles-segments-subscriptions}
    + [Profil unifié et segmentation - Vue d’ensemble](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Créer des segments](/help/set-up-resources/create-segments.md)
    + [Abonnements et pages de destination](/help/subscriptions-and-landing-pages.md)
@@ -81,3 +81,5 @@ ht-degree: 96%
    + [Publication d’un parcours](/help/create-journeys/publish-a-journey.md)
 + Rapport et surveillance {#report-and-monitor}
    + [Rapports dynamiques et globaux](/help/report-and-monitor/live-and-global-reports.md)
++ Confidentialité {#privacy}
+   + [Masquer les données dans les messages](/help/privacy/mask-data-in-messages.md)

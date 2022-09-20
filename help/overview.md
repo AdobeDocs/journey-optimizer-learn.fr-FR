@@ -3,10 +3,10 @@ title: Tutorials Journey Optimizer - Présentation
 description: Plusieurs tutoriels vidéo vous montrent comment tirer parti des avantages de Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 641050d8a2d3487a042ecf5a5a1b8891797e63a7
+source-git-commit: 8e6534b96e8433b21e2846f7ddfeef73cf5400ea
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '396'
+ht-degree: 85%
 
 ---
 
@@ -23,18 +23,17 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
 ### Tutoriels
 
+* **[Masquer les données dans les messages](/help/privacy/mask-data-in-messages.md)**
+
+   *Comprendre ce qu’est le masquage des données et pourquoi les masquer. Découvrez comment masquer les données dans les messages Journey Optimizer.*
+
 * **[Créer une campagne](/help/create-champaigns/create-a-campaign.md)**
 
    *Découvrez comment diffuser du contenu unique à une audience spécifique en exécutant immédiatement des actions ou selon un planning spécifié.*
 
-
 * **[Configurer, créer et diffuser des messages SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
    *Découvrez comment configurer, créer et inclure des messages SMS dans vos parcours clients.*
-
-* **[Prise en charge des mots-clés entrants pour les SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
-
-   *Découvrez comment fonctionne la prise en charge native des mots-clés entrants (démarrage, arrêt, redémarrage) pour les SMS.*
 
 ### Événements Experience League Live
 
@@ -127,7 +126,7 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
     </a>
     </div>
     <p>
-    <em>Apprenez la différence entre les rapports dynamiques et globaux. Découvrez également comment accéder aux rapports spécifiques sur les messages et les parcours et les analyser et comment modifier les tableaux de bord des rapports.
+    <em>Découvrez la différence entre les rapports en ligne et globaux, comment accéder aux rapports spécifiques aux parcours et aux messages et les analyser, et comment modifier les tableaux de bord des rapports.
 
 </em>
     <p>
