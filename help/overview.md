@@ -4,10 +4,10 @@ description: Plusieurs tutoriels vidéo vous montrent comment tirer parti des av
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: b04f8f49f9b1527aad4e223d7f7df782663a29be
+source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 85%
+source-wordcount: '417'
+ht-degree: 82%
 
 ---
 
@@ -23,6 +23,10 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 ## Nouveautés
 
 ### Tutoriels
+
+* **[Copier un parcours dans une autre sandbox](/help/create-journeys/copy-a-journey.md)**
+
+   *Découvrez comment copier un parcours et ses objets dépendants d’un environnement de test vers un autre.*
 
 * **[Masquer les données dans les messages](/help/privacy/mask-data-in-messages.md)**
 
