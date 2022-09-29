@@ -4,10 +4,10 @@ description: Plusieurs tutoriels vidéo vous montrent comment tirer parti des av
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
+source-git-commit: 561963022fe2e36f07c54e868a183a9b17d46640
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 82%
+source-wordcount: '464'
+ht-degree: 67%
 
 ---
 
@@ -24,6 +24,10 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
 ### Tutoriels
 
+* **[Utiliser des alertes](/help/administration/alerts.md)**
+
+   *Découvrez comment vous abonner à des alertes prédéfinies pour les comportements de parcours inattendus et être averti par email, dans Journey Optimizer ou à l’aide d’une API.*
+
 * **[Copier un parcours dans une autre sandbox](/help/create-journeys/copy-a-journey.md)**
 
    *Découvrez comment copier un parcours et ses objets dépendants d’un environnement de test vers un autre.*
@@ -32,15 +36,12 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
    *Comprendre ce qu’est le masquage des données et pourquoi les masquer. Découvrez comment masquer les données dans les messages Journey Optimizer.*
 
-* **[Créer une campagne](/help/create-champaigns/create-a-campaign.md)**
-
-   *Découvrez comment diffuser du contenu unique à une audience spécifique en exécutant immédiatement des actions ou selon un planning spécifié.*
-
-* **[Configurer, créer et diffuser des messages SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
-
-   *Découvrez comment configurer, créer et inclure des messages SMS dans vos parcours clients.*
 
 ### Événements Experience League Live
+
+* **[Exécution de vos campagnes dans Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=fr)**
+
+   *Dans cet épisode en direct Experience League, initialement survenu le 22 septembre 2022, voir l’animatrice Sandra Hausmann et les experts en produits Bridgette Darling et Frederic Mary alors qu’ils discutent des cas pratiques couverts par cette nouvelle fonctionnalité et montrent comment configurer et exécuter facilement une campagne dans Journey Optimizer.*
 
 * **[Notifications push avec Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=fr)**
 
