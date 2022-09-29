@@ -8,9 +8,9 @@ doc-type: feature video
 team: PM
 role: Admin
 last-update-author: 20220928
-source-git-commit: 41dba791d44a5c6be46e48fa1871b5d9c98b6c11
+source-git-commit: 89df3aa5588c106ce3acde7fb08b03f4c56899e8
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ Découvrez comment vous abonner à des alertes prédéfinies pour les comporteme
 >La vidéo présente la fonction d’alertes dans l’interface utilisateur de Adobe Experience Platform. La fonctionnalité est accessible dans Journey Optimizer à partir du menu de navigation de gauche ADMINISTRATION > Alertes.
 >
 >
->Lors de l’accès aux alertes à partir de Journey Optimizer, seules les alertes spécifiques à votre instance Journey Optimizer s’affichent par défaut.
+>Lors de l’accès aux alertes à partir de Journey Optimizer, seules les alertes spécifiques à vos Parcours actifs s’affichent par défaut.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12)
+
+Voir [documentation du produit](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/alerts.html?lang=en) pour plus d’informations.
