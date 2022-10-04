@@ -4,10 +4,10 @@ description: Plusieurs tutoriels vidéo vous montrent comment tirer parti des av
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 561963022fe2e36f07c54e868a183a9b17d46640
+source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 67%
+source-wordcount: '492'
+ht-degree: 64%
 
 ---
 
@@ -23,6 +23,10 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 ## Nouveautés
 
 ### Tutoriels
+
+* **[Création de contenu dynamique à l’aide du créateur de règles de condition](/help/personalize-content/create-dynamic-content.md)**
+
+   *Découvrez comment créer et enregistrer des règles de condition et comment appliquer ces règles de condition au contenu sur tous les canaux.*
 
 * **[Utiliser des alertes](/help/administration/alerts.md)**
 
