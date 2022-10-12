@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels de formation Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels de formation Journey Optimizer.
-source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
+source-git-commit: 990ba063c251df6d0f191e5020937bfd6867634f
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 89%
+source-wordcount: '274'
+ht-degree: 90%
 
 ---
 
@@ -53,7 +53,6 @@ ht-degree: 89%
    + [Abonnements et pages de destination](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Créer des messages {#create-messages}
-   + [Présentation du concepteur de messages](/help/create-messages/message-designer-overview.md)
    + [Créer du contenu avec le Concepteur d&#39;email](/help/create-messages/create-content-with-the-email-designer.md)
    + [Importation et création de contenu d’e-mail HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Aperçu, BAT et publication](/help/create-messages/preview-proof-and-publish.md)
@@ -77,7 +76,6 @@ ht-degree: 89%
    + [Cas d’utilisation : lecture de segment](/help/create-journeys/use-case-read-segment.md)
    + [Cas d’utilisation : événement métier](/help/create-journeys/use-case-business-event.md)
    + [Cas d’utilisation : qualification du segment](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [Cas d’utilisation : message en rafale](/help/create-journeys/use-case-burst-message.md)
    + [Créer un profil de test](/help/create-journeys/test-a-journey.md)
    + [Publication d’un parcours](/help/create-journeys/publish-a-journey.md)
    + [Copier un parcours dans une autre sandbox](/help/create-journeys/copy-a-journey.md)
