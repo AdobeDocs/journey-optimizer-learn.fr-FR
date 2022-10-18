@@ -4,10 +4,10 @@ description: Plusieurs tutoriels vidéo vous montrent comment tirer parti des av
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
+source-git-commit: c06bfb31fe7964a3bba81873884ee66fd16908a1
 workflow-type: tm+mt
 source-wordcount: '492'
-ht-degree: 64%
+ht-degree: 72%
 
 ---
 
@@ -32,17 +32,20 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
 * **[Utiliser des alertes](/help/administration/alerts.md)**
 
-   *Découvrez comment vous abonner à des alertes prédéfinies pour les comportements de parcours inattendus et être averti par email, dans Journey Optimizer ou à l’aide d’une API.*
+   *Découvrez comment vous abonner à des alertes prédéfinies pour les comportements de parcours inattendus et recevoir des notifications par e-mail, dans Journey Optimizer ou à l’aide d’une API.*
 
 * **[Copier un parcours dans une autre sandbox](/help/create-journeys/copy-a-journey.md)**
 
-   *Découvrez comment copier un parcours et ses objets dépendants d’un environnement de test vers un autre.*
+   *Découvrez comment copier un parcours et ses objets dépendants d’une sandbox à une autre.*
 
 * **[Masquer les données dans les messages](/help/privacy/mask-data-in-messages.md)**
 
    *Comprendre ce qu’est le masquage des données et pourquoi les masquer. Découvrez comment masquer les données dans les messages Journey Optimizer.*
 
 </div>
+
+
+<div id="events-section">
 
 ### Événements Experience League Live
 
@@ -53,6 +56,15 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 * **[Notifications push avec Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=fr)**
 
    *Dans cet épisode d’Experience League Live, découvrez les cas d’utilisation courants des notifications push avec Adobe Journey Optimizer et explorez les détails techniques de la configuration d’une application pour les notifications push optimisée par Adobe Experience Platform.*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 <div id="staff-picks-section">
 
