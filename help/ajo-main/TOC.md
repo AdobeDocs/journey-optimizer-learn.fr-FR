@@ -5,7 +5,7 @@ user-guide-description: Voici les tutoriels de formation Journey Optimizer.
 source-git-commit: 2874a7c5bc9ef8fd553a573069911453f5bc5f2b
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 88%
+ht-degree: 98%
 
 ---
 
@@ -47,13 +47,13 @@ ht-degree: 88%
    + [Configurer les sources de données](/help/set-up-journeys/configure-data-sources.md)
    + [Créer des événements](/help/set-up-journeys/create-events.md)
    + [Créer des actions](/help/set-up-journeys/create-actions.md)
-+ Profils, segments et abonnements des clients {#profiles-segments-subscriptions}
++ Profils client, segments et abonnements {#profiles-segments-subscriptions}
    + [Profil unifié et segmentation - Vue d’ensemble](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Créer des segments](/help/set-up-resources/create-segments.md)
    + [Abonnements et pages de destination](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Créer des messages {#create-messages}
-   + [Créer du contenu avec le Concepteur d&#39;email](/help/create-messages/create-content-with-the-email-designer.md)
+   + [Créer du contenu avec le Concepteur d&#39;e-mail](/help/create-messages/create-content-with-the-email-designer.md)
    + [Importation et création de contenu d’e-mail HTML](/help/create-messages/import-and-author-html-email-content.md)
    + [Aperçu, BAT et publication](/help/create-messages/preview-proof-and-publish.md)
    + [Fonctionnalités mobiles pour les marketeurs](/help/create-messages/mobile-capabilities.md)
@@ -68,7 +68,7 @@ ht-degree: 88%
    + [Utilisation d’informations d’événement contextuelles pour la personnalisation](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Utilisation des fonctions helper pour la personnalisation](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Utilisation et gestion des expressions enregistrées dans la bibliothèque de personnalisation](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
-   + [Création de contenu dynamique à l’aide du créateur de règles de condition](/help/personalize-content/create-dynamic-content.md)
+   + [Créer du contenu dynamique à l’aide du créateur de règles de condition](/help/personalize-content/create-dynamic-content.md)
 + Créer des campagnes {#create-campaigns}
    + [Créer une campagne](/help/create-champaigns/create-a-campaign.md)
 + Créer des parcours {#create-journeys}
@@ -79,7 +79,7 @@ ht-degree: 88%
    + [Cas d’utilisation : événement métier](/help/create-journeys/use-case-business-event.md)
    + [Cas d’utilisation : qualification du segment](/help/create-journeys/use-case-read-segment-qualification.md)
    + [Créer un profil de test](/help/create-journeys/test-a-journey.md)
-   + [Publication d’un parcours](/help/create-journeys/publish-a-journey.md)
+   + [Publier un parcours](/help/create-journeys/publish-a-journey.md)
    + [Copier un parcours dans une autre sandbox](/help/create-journeys/copy-a-journey.md)
 + Rapport et surveillance {#report-and-monitor}
    + [Rapports dynamiques et globaux](/help/report-and-monitor/live-and-global-reports.md)

@@ -1,5 +1,5 @@
 ---
-title: Tutorials Journey Optimizer - Présentation
+title: Tutoriels de Journey Optimizer - Vue d’ensemble
 description: Plusieurs tutoriels vidéo vous montrent comment tirer parti des avantages de Journey Optimizer.
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
@@ -7,7 +7,7 @@ exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
 workflow-type: tm+mt
 source-wordcount: '490'
-ht-degree: 71%
+ht-degree: 98%
 
 ---
 
@@ -24,13 +24,13 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
 ## Nouveautés
 
-* **[Création de contenu dynamique à l’aide du créateur de règles de condition](/help/personalize-content/create-dynamic-content.md)**
+* **[Créer du contenu dynamique à l’aide du créateur de règles de condition](/help/personalize-content/create-dynamic-content.md)**
 
    *Découvrez comment créer et enregistrer des règles de condition et comment appliquer ces règles de condition au contenu sur tous les canaux.*
 
-* **[Utiliser des alertes](/help/administration/alerts.md)**
+* **[Utiliser les alertes](/help/administration/alerts.md)**
 
-   *Découvrez comment vous abonner à des alertes prédéfinies pour les comportements de parcours inattendus et recevoir des notifications par e-mail, dans Journey Optimizer ou à l’aide d’une API.*
+   *Découvrez comment vous abonner à des alertes prédéfinies pour les comportements de parcours inattendus et recevoir des notifications par e-mail dans Journey Optimizer ou à l’aide d’une API.*
 
 * **[Copier un parcours dans une autre sandbox](/help/create-journeys/copy-a-journey.md)**
 
@@ -38,7 +38,7 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
 * **[Masquer les données dans les messages](/help/privacy/mask-data-in-messages.md)**
 
-   *Comprendre ce qu’est le masquage des données et pourquoi les masquer. Découvrez comment masquer les données dans les messages Journey Optimizer.*
+   *Apprenez ce qu’est le masquage de données et pourquoi l’utiliser. Découvrez comment masquer les données des messages de Journey Optimizer.*
 
 </div>
 
@@ -47,9 +47,9 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
 ## Événements en direct des Experience League
 
-* **[Exécution de vos campagnes dans Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=fr)**
+* **[Exécuter vos campagnes dans Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=fr)**
 
-   *Dans cet épisode en direct Experience League, initialement survenu le 22 septembre 2022, voir l’animatrice Sandra Hausmann et les experts en produits Bridgette Darling et Frederic Mary alors qu’ils discutent des cas pratiques couverts par cette nouvelle fonctionnalité et montrent comment configurer et exécuter facilement une campagne dans Journey Optimizer.*
+   *Dans cet épisode d’Experience League Live initialement diffusé le 22 septembre 2022, regardez l’animatrice Sandra Hausmann et les spécialistes produits Bridgette Darling et Frederic Mary discuter des cas pratiques couverts par cette nouvelle fonctionnalité et présenter comment configurer et exécuter facilement une campagne dans Journey Optimizer.*
 
 * **[Notifications push avec Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=fr)**
 
@@ -151,7 +151,7 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
     </a>
     </div>
     <p>
-    <em>Découvrez la différence entre les rapports en ligne et globaux, comment accéder aux rapports spécifiques aux parcours et aux messages et les analyser, et comment modifier les tableaux de bord des rapports.
+    <em>Apprenez la différence entre les rapports dynamiques et globaux. Découvrez également comment accéder aux rapports spécifiques sur les messages et les parcours et les analyser et comment modifier les tableaux de bord des rapports.
 
 </em>
     <p>
