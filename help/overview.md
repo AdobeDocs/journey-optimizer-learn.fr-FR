@@ -4,15 +4,15 @@ description: Plusieurs tutoriels vidéo vous montrent comment tirer parti des av
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: c06bfb31fe7964a3bba81873884ee66fd16908a1
+source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
 workflow-type: tm+mt
-source-wordcount: '492'
-ht-degree: 72%
+source-wordcount: '490'
+ht-degree: 71%
 
 ---
 
 
-# Tutorials Journey Optimizer - Présentation
+# Tutoriels Journey Optimizer
 
 ![](./assets/ajo-banner.png)
 
@@ -23,8 +23,6 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 <div id="whats-new-section">
 
 ## Nouveautés
-
-### Tutoriels
 
 * **[Création de contenu dynamique à l’aide du créateur de règles de condition](/help/personalize-content/create-dynamic-content.md)**
 
@@ -47,7 +45,7 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
 <div id="events-section">
 
-### Événements Experience League Live
+## Événements en direct des Experience League
 
 * **[Exécution de vos campagnes dans Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=fr)**
 
@@ -68,7 +66,7 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
 <div id="staff-picks-section">
 
-## Choix du personnel
+## Sélections du personnel
 
 <table>
 <tr>
