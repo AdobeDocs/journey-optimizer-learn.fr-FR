@@ -1,5 +1,5 @@
 ---
-title: Création d’un message in-app
+title: Créer un message in-app
 description: Découvrez comment créer et tester un message in-app.
 feature: In App
 role: User
@@ -10,17 +10,17 @@ last-update-author: 20221020
 hidefromtoc: true
 hide: true
 source-git-commit: 7273138957300b45b6075a0164634f456556a5f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Création d’un message in-app
+# Créer un message in-app
 
 >[!NOTE]
 > 
-> Notez que la messagerie in-app est en version bêta et n’est pas encore disponible pour tous les clients.
+> Notez que les messages in-app sont en version bêta et ne sont pas encore disponibles pour tous les clients.
 
 Découvrez comment créer et tester un message in-app.
 
