@@ -1,5 +1,5 @@
 ---
-title: Messagerie in-app pour les campagnes
+title: Messages in-app pour les campagnes
 description: Comprendre ce qu’est un message in-app. Découvrez comment créer, configurer et publier des messages in-app dans les campagnes.
 feature: In App
 role: User
@@ -10,17 +10,17 @@ last-update-author: 20221018
 hidefromtoc: true
 hide: true
 source-git-commit: 7273138957300b45b6075a0164634f456556a5f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Messagerie in-app pour les campagnes
+# Messages in-app pour les campagnes
 
 >[!NOTE]
 > 
-> Notez que la messagerie in-app est en version bêta et n’est pas encore disponible pour tous les clients.
+> Notez que les messages in-app sont en version bêta et ne sont pas encore disponibles pour tous les clients.
 
 Comprendre ce qu’est un message in-app. Découvrez comment créer, configurer et publier des messages in-app dans les campagnes.
 
