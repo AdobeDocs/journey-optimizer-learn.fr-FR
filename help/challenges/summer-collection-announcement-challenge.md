@@ -6,7 +6,7 @@ role: User
 level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
-source-git-commit: d1b4aa69e323d9a6112d2273ea5770c42b044d13
+source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
 workflow-type: tm+mt
 source-wordcount: '1250'
 ht-degree: 2%
@@ -132,7 +132,7 @@ Créez un parcours appelé `(your name) - Summer collection announcement` selon 
 Prévisualisez l&#39;email à l&#39;aide de l&#39;espace de noms Identity : *Email* et la valeur Identity : *Jenna_Palmer9530@emailsim.io*
 
 * L’objet doit être le suivant : Jenna, la nouvelle collection Luma est là !
-* Le corps de l’email doit correspondre à ce que vous avez vu dans l’aperçu : [Nouvelle annonce de collection saisonnière](/help/challenges/assets/SeasonalCollectionEmail.html)
+* Le corps de l’email doit correspondre à ce que vous avez vu dans l’aperçu : [Nouvelle annonce de collection saisonnière](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 
 **Message électronique #2 - Collection Hommes Luma**

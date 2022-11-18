@@ -5,7 +5,7 @@ feature: Journeys
 role: Admin
 level: Beginner
 hide: true
-source-git-commit: dd2832c1e99ed9b8407a0aa9356335d3bce40622
+source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 7%
@@ -19,7 +19,7 @@ ht-degree: 7%
 
 Les défis fournissent un scénario et les exigences nécessaires pour pratiquer ce que vous avez appris. Les défis vous aident à évaluer votre niveau de compétence et à identifier les écarts de connaissances.
 
-Chaque défi de cette section répond à un cas d’utilisation unique que vous allez implémenter. Le public cible (personnage), ainsi que les compétences requises sont répertoriés au début de chaque défi.
+Chaque défi de cette section répond à un cas d’utilisation unique que vous allez implémenter. Le public cible (personnage) et les compétences requises sont répertoriés au début de chaque défi.
 
 ## Conditions préalables
 
@@ -67,8 +67,8 @@ Luma cherche à promouvoir ses vêtements et sa collection d’articles les plus
       <em>Convertissez la nouvelle collection d’été Luma. </em>
       <p>
       <b>Compétences requises :</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html"> Créer des segments</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html">Importation et création de contenu d’e-mail HTML</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Créer des segments</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">Importation et création de contenu d’e-mail HTML</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">Cas d’utilisation : lecture de segment</li>
   </td>
   </tr>
@@ -94,7 +94,7 @@ Luma cherche à promouvoir ses vêtements et sa collection d’articles les plus
     <td>
     <div>
     <a href="product-replenishment-challenge.md">
-      <img alt="Site web Luma" src="./assets/email-assets/luma-ProductReplenishment.jpg"/>
+      <img alt="Site web Luma" src="./assets/email-assets/luma-ProductReplenishment.png"/>
     </a>
     </div>
     <td>
