@@ -5,13 +5,13 @@ feature: Journeys
 role: Admin
 level: Beginner
 hide: true
-source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
+exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
+source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
 workflow-type: tm+mt
-source-wordcount: '452'
-ht-degree: 7%
+source-wordcount: '391'
+ht-degree: 8%
 
 ---
-
 
 # Défis Journey Optimizer - Introduction et conditions préalables
 
@@ -25,22 +25,23 @@ Chaque défi de cette section répond à un cas d’utilisation unique que vous 
 
 ### Configuration requise
 
-* Accès à un environnement de test Journey Optimizer
-* Il est recommandé de relever le défi dans un environnement de test de formation dédié. Reportez-vous à la section [Configuration d’un tutoriel d’environnement de test de formation](https://experienceleague.adobe.com//docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html) pour obtenir des instructions.
-* Vous avez besoin des droits d’accès suivants :
-   * *Gestionnaire de parcours* ou *Administrateur de parcours* rights
-   * Affichage des profils de test et de leurs attributs
+* Accès à un environnement de test Journey Optimizer : nous vous recommandons de relever le défi dans un environnement de test de formation dédié.
 * AEM Assets Essentials doit être configuré pour votre instance.
 * Le canal email doit être configuré pour les messages transactionnels et marketing.
 
+### Droits d’accès
+
+Vous avez besoin des droits d’accès suivants :
+* *Gestionnaire de parcours* ou *Administrateur de parcours*
+* Affichage des profils de test et de leurs attributs
+
 >[!NOTE]
-> Les exercices ont été développés à partir des données d’exemple de Luma. Il est recommandé de configurer un environnement de test d’entraînement configuré avec les données d’exemple. Consultez le tutoriel [Importation de données d’exemple dans Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=en) pour obtenir des instructions détaillées.
+> Les exercices ont été développés à partir des données d’exemple de Luma. Il est recommandé de configurer un environnement de test d’entraînement configuré avec les données d’exemple. Consultez le tutoriel [Configuration d’un environnement de test de formation](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) pour obtenir des instructions détaillées.
 
 ### Actions requises
 
 * Si vous découvrez Adobe Journey Optimizer, suivez le cours. [Prise en main de Journey Optimizer pour les responsables et les administrateurs de Parcours](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1&amp;lang=fr).
-* Pour commencer, téléchargez la [luma-assets.zip](/help/challenges/assets/email-assets/luma-assets.zip) fichier . Il contient toutes les ressources nécessaires pour relever les défis
-* Dans votre dossier de téléchargements, déplacez le `luma-assets.zip` vers l’emplacement souhaité sur votre ordinateur, puis décompressez-le.
+
 
 ## L&#39;histoire
 
