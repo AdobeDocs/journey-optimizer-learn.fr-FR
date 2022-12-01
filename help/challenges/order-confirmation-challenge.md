@@ -7,12 +7,13 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: c6e28361e1aca183a4cc2906ac90825218141e13
 workflow-type: tm+mt
-source-wordcount: '754'
-ht-degree: 4%
+source-wordcount: '683'
+ht-degree: 5%
 
 ---
+
 
 # Créer un email transactionnel de confirmation de commande
 
@@ -28,19 +29,25 @@ ht-degree: 4%
 
 Luma lance sa boutique en ligne et souhaite garantir une bonne expérience client en proposant un email de confirmation de commande une fois qu’un client a passé une commande.
 
-Créez et personnalisez un message de confirmation de commande transactionnelle.
 
-## Avez-vous tout ce dont vous avez besoin ?
 
 ## Votre défi
 
-Créez un email de confirmation de commande qui est déclenché lorsqu’un client Luma termine une commande en ligne.
+Créez un parcours qui envoie un courrier électronique de confirmation de commande lorsqu’un client Luma termine une commande en ligne.
 
-### Créer l&#39;email de confirmation de commande
+>[!BEGINTABS]
 
-Créez un nouveau message électronique intitulé &quot;(votre nom)_Luma - Confirmation de commande&quot;. L’objet doit être personnalisé avec le prénom du destinataire et doit inclure l’expression &quot;Merci pour votre achat&quot;.
+>[!TAB Tâche]
 
-En suivant les directives de la marque Luma, l’email doit être structuré comme suit :
+1. Créez un parcours appelé &quot;votre nom_Confirmation de commande&quot;.
+2. Utilisez l’événement : LumaOnlinePurchase en tant que déclencheur
+
+3. Créez l&#39;email de confirmation de commande :
+
+* Transactionnel de catégorie : veillez à sélectionner la surface de l’email transactionnel.
+* L’objet doit être personnalisé avec le prénom du destinataire et doit inclure l’expression &quot;Merci pour votre achat&quot;.
+
+En suivant les directives de la marque Luma, l’email doit être structuré comme suit : vous pouvez utiliser la variable **Luma - Synthèse de la commande** et modifiez-le :
 
 <table>
 <tr>
@@ -56,7 +63,6 @@ En suivant les directives de la marque Luma, l’email doit être structuré com
     <li>Taille 35 %, arrière-plan blanc centré </li>
     <li>Il doit comporter un lien vers le site web luma : https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
-    Conseil : Vous trouverez toutes les images appelées images de messages dans le dossier assets. <p>
     </td>
   </tr>
   <tr>
@@ -71,7 +77,7 @@ En suivant les directives de la marque Luma, l’email doit être structuré com
     <li>Marge : Haut, bas (10)<div>
     <p>
     <strong>Texte</strong><p>
-    <em>Merci pour l'achat !</em><p>
+    <em>Hey {prénom}</em><p>
     <li>Alignement : left  </li>
    <li>Couleur du texte : rgb(101, 106, 119); font-size:14px</li>
     <li>Marge intérieure : left (95), right (95)</li><div>
@@ -82,10 +88,13 @@ En suivant les directives de la marque Luma, l’email doit être structuré com
     <li>Alignement : left  </li>
     <li>Couleur du texte : rgb(101, 106, 119); font-size:14px </li>
     <li>Marge intérieure : left (95), right (95)</li><div>
-    </a>
-    <p>
-    <strong>Bouton:</strong>
-   <p><em>Afficher votre commande</em></p>
+    </a><p>
+    <em>Ship to :<p>
+    <p>Prénom Nom</p>
+    Rue <p>
+    Ville, État, code postal</p></em>
+    <strong>Bouton:</strong></p>
+   <p><em>Afficher l’ordre</em></p>
       <li>Couleur d’arrière-plan : rgb(25, 121, 195)</li>
       <li>Couleur du texte : Blanc</li>
       <li>Aucune bordure</li>
@@ -99,9 +108,10 @@ En suivant les directives de la marque Luma, l’email doit être structuré com
      <strong>Section Détails de la commande</strong>
       </div>
       <p>Astuces:
-      <li>Il s’agit d’informations d’événement contextuelles. Vous ne pourrez ajouter le message dans le contexte qu’une fois que vous aurez ajouté le message à votre parcours (voir l’étape 2). Ne publiez pas votre email avant de l'avoir ajouté au Parcours et de l'avoir modifié avec les informations d'événement contextuel !</li>
+      <li>Il s’agit d’informations d’événement contextuelles.</li>
       <li>Utilisez la fonction d’assistance : Chaque</li>
-      <li>Utilisez le format de l’éditeur de HTMLS pour les données contextuelles. Placez les informations dans des conteneurs à l’aide de balises DIV.</li>
+      <li>Passez au format de l’éditeur de code pour ajouter les données contextuelles. <li>
+      <li>Placez les informations dans des conteneurs à l’aide de balises DIV.</li>
   </td>
   <td>
     <strong>En-tête</strong>
@@ -141,19 +151,13 @@ En suivant les directives de la marque Luma, l’email doit être structuré com
   </tr>
 </table>
 
-### Création du parcours
-
-1. Appelez le parcours &quot;votre nom _Luma-Order Confirmation&quot;.
-1. Utilisez l’événement : LumaOnlinePurchase
-1. Action : Ajout du message que vous avez créé à l’étape 1
-1. Revenez au message et ajoutez les attributs contextuels
-1. Publier l&#39;email
 
 >[!TIP]
 >
 >Pour vous permettre de résoudre les problèmes de vos parcours, il est recommandé d’ajouter un autre chemin à toutes les actions de message en cas d’expiration ou d’erreur.
 
-+++Critères de réussite
+
+>[!TAB Vérifier votre travail]
 
 Déclenchez le Parcours que vous avez créé en mode test et envoyez-le vous-même :
 
@@ -181,17 +185,20 @@ Vous devriez recevoir l’e-mail de confirmation d’achat personnalisé, avec l
 
    43913 Thierer Terrace, Washington DC 2009
 
-+++
 
-+++Vérifiez votre travail
+>[!TAB Critères de réussite]
+
+** Parcours
+
+![Parcours](/help/challenges/assets/c2-journey.png)
+
+
+** E-mail
 
 **Objet:**
 
 {{ profile.person.name.firstName }}, merci pour votre achat !
 
-**Section En-tête et confirmation :**
-
-![Confirmation d’en-tête et de commande](/help/challenges/assets/c2-header.png)
 
 **Section Détails de la commande :**
 
@@ -230,11 +237,4 @@ La personnalisation doit se présenter comme suit :
 {{profile.homeAddress.city}},{{profile.homeAddress.state}} {{profile.homeAddress.postalCode}}
 ```
 
-**Pied de page :**
-![pied de page](/help/challenges/assets/c2-footer.png)
-
-**Parcours**
-
-![Parcours](/help/challenges/assets/c2-journey.png)
-
-+++
+>[!ENDTABS]
