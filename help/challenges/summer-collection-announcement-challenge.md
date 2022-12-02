@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: 697f4e6b11e7c40be726471ab368781f32dad165
 workflow-type: tm+mt
-source-wordcount: '1250'
+source-wordcount: '1138'
 ht-degree: 2%
 
 ---
@@ -24,21 +24,14 @@ ht-degree: 2%
 | Compétences requises | <ul><li>[Créer des segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [Importation et création de contenu d’e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=en)</li><li>[Cas d’utilisation : lecture de segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li> |
 | Ressources à télécharger | [Fichiers d’email de collection saisonnière](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
->[!NOTE]
-> Les exercices ont été développés à partir des données d’exemple de Luma. Nous vous recommandons de configurer un environnement de test d’entraînement, configuré avec les exemples de données. Consultez le tutoriel [Importation de données d’exemple dans Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=fr) pour obtenir des instructions détaillées.
-
 ## L&#39;histoire
 
 Luma, une société de vêtements de fiction pour les sportifs, cherche à promouvoir ses dernières collections de vêtements et d’équipements et à stimuler les ventes pour les clients existants. Luma lance la nouvelle collection d’été et souhaite spécifiquement cibler différents segments de clients.
 
 ## Votre défi
 
-L’équipe marketing de Luma vous demande de mettre en oeuvre une campagne marketing de collecte d’été dans Journey Optimizer.
+L’équipe marketing de Luma vous demande de mettre en oeuvre une campagne marketing de collecte d’été dans Journey Optimizer. Le défi consiste à créer un parcours dans Journey Optimizer. Plus précisément, vous devez créer le segment requis, créer quatre messages et créer le parcours.
 
-Le défi consiste à créer un parcours dans Journey Optimizer. Plus précisément, vous devez créer le segment requis, créer quatre messages et créer le parcours.
-
->[!NOTE]
-> Si vous travaillez dans un environnement de test de formation partagé, il est recommandé d’ajouter votre nom ou vos initiales en tant que préfixe au nom de tout élément que vous créez.
 
 ### Étape 1 : Définition du segment - Principaux clients
 
@@ -46,7 +39,7 @@ Le défi consiste à créer un parcours dans Journey Optimizer. Plus préciséme
 
 >[!TAB Tâche]
 
-Créez un segment dans Journey Optimizer appelé **votre nom - Principaux clients**.
+Créez un segment dans Journey Optimizer appelé **Clients principaux**.
 
 * Le segment ne doit inclure que les principaux clients Luma.
 * Les clients principaux sont définis comme des clients ayant un niveau dans le programme de fidélité de Luma (argent, or, platine ou diamant).
@@ -54,7 +47,10 @@ Créez un segment dans Journey Optimizer appelé **votre nom - Principaux client
 
 >[!TAB Critères de réussite]
 
-Dans le créateur de segments, vous pouvez consulter l’estimation du nombre de profils qualifiés. Si vous travaillez dans un environnement de test d’entraînement qui utilise les données d’exemple Luma, la variable [!UICONTROL estimation des profils qualifiés] devrait être environ 292 profils sur 500.
+Dans le créateur de segments, vous pouvez consulter l’estimation du nombre de profils qualifiés.
+
+>[!NOTE]
+>L’affichage de l’appartenance au segment pour les profils existants peut prendre jusqu’à 24 heures, car les profils existants doivent être renvoyés.
 
 **Un profil qualifié a été ajouté au segment :**
 
@@ -66,9 +62,6 @@ Sur la page du profil, cochez la case [!UICONTROL Attributs] pour confirmer qu�
 
 Vous pouvez également vérifier les [!UICONTROL abonnement au segment] tab : Votre segment doit être répertorié.
 
->[!NOTE]
->L’affichage de l’appartenance au segment pour les profils existants peut prendre jusqu’à 24 heures, car les profils existants doivent être renvoyés.
-
 ![Appartenance à un segment](assets/C1-S1-profile-segment-membership.png)
 
 >[!TAB Vérifier votre travail]
@@ -79,12 +72,10 @@ Voici à quoi votre segment doit ressembler :
 
 ![Segment - Principaux clients](/help/challenges/assets/C1-S1.png)
 
-Vérifiez le code dans le coin inférieur droit de l’écran Modifier le segment, sous Événements.
-
 Le code doit se présenter comme suit :
 
 ```javascript
-loyalty.tier.equals("diamond", false) or loyalty.tier.equals("gold", false) or loyalty.tier.equals("platinum", false) or loyalty.tier.equals("silver", false)
+stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"], false)
 ```
 
 >[!ENDTABS]
@@ -127,7 +118,7 @@ Créez un parcours appelé `(your name) - Summer collection announcement` selon 
 
 #### Aperçu des emails
 
-**Message électronique #1- Nouvelle annonce de collection saisonnière**
+**Message électronique #1 - Nouvelle annonce de collection saisonnière**
 
 Prévisualisez l&#39;email à l&#39;aide de l&#39;espace de noms Identity : *Email* et la valeur Identity : *Jenna_Palmer9530@emailsim.io*
 
