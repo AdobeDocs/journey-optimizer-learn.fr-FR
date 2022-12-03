@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: e6364990cbe6e157ddc2754c1095052ce133ea8e
+source-git-commit: 4314f8090d4462ea8735279078fa53b70c5de551
 workflow-type: tm+mt
-source-wordcount: '1118'
+source-wordcount: '1161'
 ht-degree: 3%
 
 ---
@@ -103,20 +103,20 @@ Une agence vous a fourni quatre fichiers HTML avec la conception des emails :
 
 2. Créez un parcours appelé `Luma - Summer collection announcement` selon les directives suivantes :
 
-   1. Envoyer *Luma - Nouvelle annonce de collection saisonnière* e-mail à la fonction *Clients principaux* , représentant 10 % de l’audience en tant que groupe témoin
-      * Titre du message `Luma New Seasonal Collection Announcement`.
-      * Objet `(recipient's first name), the new Luma collection is here!`.
+   1. Envoyer *Luma - Nouvelle annonce de la collection d’été* e-mail à la fonction *Clients principaux* , représentant 10 % de l’audience en tant que groupe témoin
+      * Titre du message `Luma - Summer Collection Announcement`.
+      * Objet `(recipient's first name), the new Luma summer collection is here!`.
       * Utilisation du fichier de HTML fourni *SeasonalCollectionEmail.html* pour le corps de l’email.
    2. Patientez deux jours, puis envoyez un email de relance avec du contenu plus ciblé :
-      * Les clients masculins doivent recevoir la variable **Courrier électronique de collection pour hommes Luma**
+      * Les clients masculins doivent recevoir la variable **Collection Hommes Luma** e-mail.
          * Titre du message : `Luma Men's Collection`
          * Objet: `(recipient's first name), explore Men's New athletic gear!`
          * Corps de l&#39;email : *MensCollectionEmail.html* pour le corps de l’email.
-      * Les clientes doivent recevoir la variable **Courrier électronique de la collection des femmes Luma**
+      * Les clientes doivent recevoir la variable **Collection Femmes Luma** e-mail.
          * Titre du message : `Luma Women's Collection`
          * Objet: `(recipient's first name), explore Luma's Women Collection!`
          * Corps de l&#39;email : *WomensCollectionEmail.html*
-      * Les autres clients doivent recevoir la variable **Luma - 20 % des e-mails de collecte**
+      * Les autres clients doivent recevoir la variable **Luma - 20 % de la collection** e-mail.
          * Titre du message : `Luma - 20 % off Collection`
          * Objet: `(recipient's first name), enjoy 20% off sales!`
          * Corps de l&#39;email : *20OffCollectionEmail.html*
@@ -128,36 +128,48 @@ Une agence vous a fourni quatre fichiers HTML avec la conception des emails :
 
 #### Aperçu des emails
 
-**Message électronique #1 - Nouvelle annonce de collection saisonnière**
+**Message électronique #1 - Luma - Annonce de collection d’été**
 
-Prévisualisez l&#39;email à l&#39;aide de l&#39;espace de noms Identity : *Email* et la valeur Identity : *Jenna_Palmer9530@emailsim.io*
+Prévisualiser l&#39;email :
 
-* L’objet doit être le suivant : Jenna, la nouvelle collection Luma est là !
+1. Ajoutez un profil de test : Louise Petti :
+   1. Espace de noms d’identité : *Identifiant Luma CRM*
+   2. Valeur d’identité : *d1f132f9f9502bba047a6ec86c4b61f9*
+
+Résultat:
+* L’objet doit être le suivant : Louise, la nouvelle collection Luma est là !
 * Le corps de l’email doit correspondre à ce que vous avez vu dans l’aperçu : [Nouvelle annonce de collection saisonnière](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 
 **Message électronique #2 - Collection Hommes Luma**
 
-Envoyer un bon à tirer à vous-même
+Envoyez-vous un bon à tirer :
 
-* Entrez votre adresse électronique
-* Sélectionnez le profil de test : Chris_Scott1244@emailsim.io
+1. Ajoutez un profil de test : Stanleigh Stooke :
+   1. Espace de noms d’identité : *Identifiant Luma CRM*
+   2. Valeur de l’identité: `4f34057d9d9e792c28ba18ecae378e98`
+1. Sélectionnez le profil de test : Stanleigh Stooke
+2. Envoyer un bon à tirer à vous-même
 
-Vous devriez recevoir un email. Le sujet devrait être : &quot;Chris, découvrez le nouvel équipement sportif masculin !&quot; et le corps de l’email doit correspondre à ce que vous avez vu dans l’aperçu : [Collection Hommes Luma](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+Résultat:\
+Vous devriez recevoir un email. Le sujet devrait être : &quot;Stanleigh, explore la nouvelle tenue athlétique masculine !&quot; et le corps de l’email doit correspondre à ce que vous avez vu dans l’aperçu : [Collection Hommes Luma](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+
+>[!NOTE]
+>Cela peut prendre quelques minutes pour que vous receviez le bon à tirer.
 
 **Message électronique #3 - Collection Femmes Luma**
 
-Prévisualisez l&#39;email à l&#39;aide de l&#39;espace de noms Identity : *Email* et la valeur Identity : *Jenna_Palmer9530@emailsim.io*
+Prévisualisez l&#39;email avec le profil de test &quot;Louise Petti&quot;.
 
-* L’objet doit être le suivant : *Jenna, découvrez la collection Femmes de Luma !*
+* L’objet doit être le suivant : *Louise, découvrez la collection Femmes de Luma !*
 * Le corps de l’email doit correspondre à ce que vous avez vu dans l’aperçu : [Collection Femmes Luma](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
 
 **Message électronique #4 - Luma 20 % hors collection**
 
-Prévisualisez l&#39;email à l&#39;aide de l&#39;espace de noms Identity : *Email* et la valeur Identity : *Benny_Steer4909@emailsim.io*
+Prévisualisez l&#39;email avec le profil de test &quot;Louise Petti&quot;.
 
-* L’objet doit être le suivant : *Benny, profitez de 20% de réduction sur les ventes !*
+* L’objet doit être le suivant : *Louise, profitez de 20% de remises !*
 * Le corps de l’email doit correspondre à ce que vous avez vu dans l’aperçu : [Luma 20 % hors collection](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
 **N&#39;oubliez pas de publier vos emails !**
@@ -168,16 +180,16 @@ Prévisualisez l&#39;email à l&#39;aide de l&#39;espace de noms Identity : *Ema
 >
 >Avant de mettre le parcours en mode test :
 >
->1. Assurez-vous que l’espace de noms de l’activité Lecture de segment est défini sur Courrier électronique.
+>1. Assurez-vous que l’espace de noms de l’activité Lecture de segment est défini sur **Luma CRM id(lumaCrmId)**
 >1. Pour chaque email, remplacez les paramètres par défaut Email des emails afin qu’ils soient envoyés à votre adresse email :
->1. Affichez les valeurs masquées en cliquant sur le symbole de l’oeil.
->1. Dans les paramètres de l’e-mail, cliquez sur le symbole T (activer le remplacement des paramètres).
+   >    * Affichez les valeurs masquées en cliquant sur le symbole de l’oeil.
+   >    * Dans les paramètres de l’e-mail, cliquez sur le symbole T (activer le remplacement des paramètres).
 
-   >
-   >      ![Remplacer les paramètres de courrier électronique](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->1. Cliquez dans le champ Adresse
->1. Dans l’écran suivant, ajoutez votre adresse électronique entre parenthèses : *yourname@yourdomain* dans l’éditeur d’expression, puis cliquez sur ok.
+      >
+      >      ![Remplacer les paramètres de courrier électronique](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Cliquez dans le champ Adresse
+   >    * Dans l’écran suivant, ajoutez votre adresse électronique entre parenthèses : `"yourname@yourdomain"` dans l’éditeur d’expression, puis cliquez sur ok.
 
 >
 
@@ -189,9 +201,9 @@ Testez le parcours et envoyez les emails à votre compte :
 3. Temps d’attente : Définissez le minuteur sur 120 secondes (saisissez-le dans le champ ).
 4. Entrée du profil de déclenchement
 5. Vous pouvez tester chaque branche à l’aide de l’une des adresses électroniques suivantes comme identifiants de profil :
-   * Femme : Jenna Palmer : Jenna_Palmer9530@emailsim.io
-   * Homme : Chris Scott : Chris_Scott1244@emailsim.io
-   * Genre non spécifié : Benny Steer : Benny_Steer4909@emailsim.io
+   * Femme : Louise Petti, Identity Value : *d1f132f9f9502bba047a6ec86c4b61f9*
+   * Homme : Stanleigh Stooke, Identity Value : `4f34057d9d9e792c28ba18ecae378e98`
+   * Genre non spécifié : Leora Dietsche, a8f14eab3b483c2b96171b575ecd90b1
 
 6. Une fois que vous avez déclenché l’entrée du profil, vous devriez recevoir le premier email. L’en-tête doit être personnalisé en fonction du profil que vous avez choisi.
 7. Le parcours doit continuer dans la branche correspondante et vous devriez recevoir l’e-mail correspondant (par exemple, si vous avez choisi Jenna, vous devriez recevoir l’e-mail &quot;Luma Women’s Collection&quot;).
