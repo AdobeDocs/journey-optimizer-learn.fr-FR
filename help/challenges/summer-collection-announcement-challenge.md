@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
+source-git-commit: 8e79a4e474e3b6fc7692578fb2d5920e0772d9b0
 workflow-type: tm+mt
-source-wordcount: '1161'
+source-wordcount: '1149'
 ht-degree: 3%
 
 ---
@@ -172,7 +172,6 @@ Prévisualisez l&#39;email avec le profil de test &quot;Louise Petti&quot;.
 * L’objet doit être le suivant : *Louise, profitez de 20% de remises !*
 * Le corps de l’email doit correspondre à ce que vous avez vu dans l’aperçu : [Luma 20 % hors collection](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
-**N&#39;oubliez pas de publier vos emails !**
 
 #### Tester votre parcours
 
@@ -200,10 +199,10 @@ Testez le parcours et envoyez les emails à votre compte :
 2. Sélection d’un seul profil à la fois
 3. Temps d’attente : Définissez le minuteur sur 120 secondes (saisissez-le dans le champ ).
 4. Entrée du profil de déclenchement
-5. Vous pouvez tester chaque branche à l’aide de l’une des adresses électroniques suivantes comme identifiants de profil :
-   * Femme : Louise Petti, Identity Value : *d1f132f9f9502bba047a6ec86c4b61f9*
+5. Vous pouvez tester chaque branche à l’aide de l’une des méthodes suivantes : *Identifiants Luma CRM* comme identifiants de profil :
+   * Femme : Leora Dietsche, Identity Value :`a8f14eab3b483c2b96171b575ecd90b1`
    * Homme : Stanleigh Stooke, Identity Value : `4f34057d9d9e792c28ba18ecae378e98`
-   * Genre non spécifié : Leora Dietsche, a8f14eab3b483c2b96171b575ecd90b1
+   * Genre non spécifié : Louise Petti, Identity Value : `d1f132f9f9502bba047a6ec86c4b61f9&#39;
 
 6. Une fois que vous avez déclenché l’entrée du profil, vous devriez recevoir le premier email. L’en-tête doit être personnalisé en fonction du profil que vous avez choisi.
 7. Le parcours doit continuer dans la branche correspondante et vous devriez recevoir l’e-mail correspondant (par exemple, si vous avez choisi Jenna, vous devriez recevoir l’e-mail &quot;Luma Women’s Collection&quot;).
@@ -216,9 +215,9 @@ Vous devriez recevoir les emails suivants :
 
 * Luma - Nouvelle annonce de collection saisonnière
 * Selon le profil de test utilisé, vous devriez recevoir l’un des courriers électroniques suivants :
-   * Jenna : Collection Femmes Luma
-   * Chris : Collection Hommes Luma
-   * Benny : Luma - 20 % de réduction de la collecte
+   * Leora : Collection Femmes Luma
+   * Stanleigh : Collection Hommes Luma
+   * Louise : Luma - 20 % de réduction de la collecte
 * Si vous n’avez pas ouvert le deuxième email : La Luma - 20 % de réduction de la collecte
 
 >[!TAB Vérifier votre travail]
