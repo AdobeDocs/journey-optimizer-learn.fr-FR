@@ -7,7 +7,7 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 4314f8090d4462ea8735279078fa53b70c5de551
+source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
 workflow-type: tm+mt
 source-wordcount: '1161'
 ht-degree: 3%
@@ -147,9 +147,9 @@ Envoyez-vous un bon à tirer :
 
 1. Ajoutez un profil de test : Stanleigh Stooke :
    1. Espace de noms d’identité : *Identifiant Luma CRM*
-   2. Valeur de l’identité: `4f34057d9d9e792c28ba18ecae378e98`
+   1. Valeur de l’identité: `4f34057d9d9e792c28ba18ecae378e98`
 1. Sélectionnez le profil de test : Stanleigh Stooke
-2. Envoyer un bon à tirer à vous-même
+1. Envoyer un bon à tirer à vous-même
 
 Résultat:\
 Vous devriez recevoir un email. Le sujet devrait être : &quot;Stanleigh, explore la nouvelle tenue athlétique masculine !&quot; et le corps de l’email doit correspondre à ce que vous avez vu dans l’aperçu : [Collection Hommes Luma](/help/challenges/assets/email-assets/MensCollectionEmail.html)
