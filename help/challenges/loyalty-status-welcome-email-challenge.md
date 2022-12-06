@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 71f2711dbc80cc59973d615429e9f8dac8f3719f
+source-git-commit: 7ef41f1ddd9369d45b60e1e257121ef4daabbc0e
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '445'
 ht-degree: 4%
 
 ---
@@ -59,18 +59,18 @@ Testez votre parcours:
 
 +++ Cliquez ici pour plus d’informations sur la façon de remplacer la variable [!!Paramètres UICONTROL des emails].
 
-    * Afficher les valeurs masquées en cliquant sur le symbole de l’oeil.
-    * Dans le [!UICONTROL Paramètres de messagerie], cliquez sur le symbole T (activer le remplacement du paramètre).
-    
-    ![Remplacer les paramètres de courrier électronique](/help/challenges/assets/c3-override-email-paramters.jpg)
-    
-    * Cliquez dans le [!UICONTROL Champ d&#39;adresse]
-    * Dans l’écran suivant, ajoutez votre adresse électronique entre parenthèses : `&quot;yourname@yourdomain&quot;` dans l’éditeur d’expression et cliquez sur ok.
+* Affichez les valeurs masquées en cliquant sur le symbole de l’oeil.
+* Dans le [!UICONTROL Paramètres de messagerie], cliquez sur le symbole T (activer le remplacement du paramètre).
+
+![Remplacer les paramètres de courrier électronique](/help/challenges/assets/c3-override-email-paramters.jpg)
+
+* Cliquez dans le [!UICONTROL Champ d&#39;adresse]
+* Dans l’écran suivant, ajoutez votre adresse électronique entre parenthèses : `"yourname@yourdomain"` dans l’éditeur d’expression, puis cliquez sur ok.
 +++
 
-3. Définir le parcours en mode test
-4. Déclenchement d’un événement
-5. Ajoutez ce qui suit : [!DNL CRM ID] pour [!DNL Stanleigh Stooke] dans la [!UICONTROL Identifiant de profil] field : `4f34057d9d9e792c28ba18ecae378e98`
+1. Définir le parcours en mode test
+2. Déclenchement d’un événement
+3. Ajoutez ce qui suit : [!DNL CRM ID] pour [!DNL Stanleigh Stooke] dans la [!UICONTROL Identifiant de profil] field : `4f34057d9d9e792c28ba18ecae378e98`
 
 Vous devriez recevoir la personnalisation *Luma - État du platine - Bienvenue* e-mail.
 
