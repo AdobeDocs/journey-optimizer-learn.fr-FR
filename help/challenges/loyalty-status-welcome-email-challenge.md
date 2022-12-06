@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
+source-git-commit: 71f2711dbc80cc59973d615429e9f8dac8f3719f
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '451'
 ht-degree: 4%
 
 ---
@@ -58,15 +58,15 @@ Testez votre parcours:
 2. Remplacer la valeur par défaut [!UICONTROL paramètres de messagerie électronique] et définissez-le sur votre propre adresse électronique.
 
 +++ Cliquez ici pour plus d’informations sur la façon de remplacer la variable [!!Paramètres UICONTROL des emails].
-   * Affichez les valeurs masquées en cliquant sur le symbole de l’oeil.
-   * Dans le [!UICONTROL Paramètres de messagerie], cliquez sur le symbole T (activer le remplacement du paramètre).
 
-   ![Remplacer les paramètres de courrier électronique](/help/challenges/assets/c3-override-email-paramters.jpg)
-
-   * Cliquez dans le [!UICONTROL Champ d&#39;adresse]
-   * Dans l’écran suivant, ajoutez votre adresse électronique entre parenthèses : `"yourname@yourdomain"` dans l’éditeur d’expression, puis cliquez sur ok.
+    * Afficher les valeurs masquées en cliquant sur le symbole de l’oeil.
+    * Dans le [!UICONTROL Paramètres de messagerie], cliquez sur le symbole T (activer le remplacement du paramètre).
+    
+    ![Remplacer les paramètres de courrier électronique](/help/challenges/assets/c3-override-email-paramters.jpg)
+    
+    * Cliquez dans le [!UICONTROL Champ d&#39;adresse]
+    * Dans l’écran suivant, ajoutez votre adresse électronique entre parenthèses : `&quot;yourname@yourdomain&quot;` dans l’éditeur d’expression et cliquez sur ok.
 +++
-
 
 3. Définir le parcours en mode test
 4. Déclenchement d’un événement
