@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7ef41f1ddd9369d45b60e1e257121ef4daabbc0e
+source-git-commit: 27139d8f3b7fc5d6bb2a862789116f5e1f911766
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 4%
@@ -57,7 +57,7 @@ Testez votre parcours:
 1. Assurez-vous que la variable [!UICONTROL Activité Lecture de segment] contient la variable [!UICONTROL namespace] défini sur **[!DNL Luma CRM id(lumaCrmId)]**
 2. Remplacer la valeur par défaut [!UICONTROL paramètres de messagerie électronique] et définissez-le sur votre propre adresse électronique.
 
-+++ Cliquez ici pour plus d’informations sur la façon de remplacer la variable [!!Paramètres UICONTROL des emails].
++++Cliquez ici pour plus d’informations sur la façon de remplacer la variable [!!Paramètres UICONTROL des emails].
 
 * Affichez les valeurs masquées en cliquant sur le symbole de l’oeil.
 * Dans le [!UICONTROL Paramètres de messagerie], cliquez sur le symbole T (activer le remplacement du paramètre).
