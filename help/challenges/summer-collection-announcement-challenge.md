@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: cfd438e198fdf62859569eed0c6ac22087ddbc75
+source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
 workflow-type: tm+mt
-source-wordcount: '1176'
+source-wordcount: '1175'
 ht-degree: 2%
 
 ---
@@ -196,7 +196,7 @@ Prévisualiser l&#39;email avec le profil de test *Louise Petti.*
 Testez le parcours et envoyez les emails à votre compte :
 
 1. Mettez le parcours en mode test.
-1. Sélectionnez un seul profil à la fois.
+1. Sélectionner **[!UICONTROL Profil unique à la fois]**.
 1. Temps d’attente : Définissez le minuteur sur 120 secondes (saisissez-le dans le champ ).
 1. Entrée du profil de déclenchement
 1. Vous pouvez tester chaque branche à l’aide de l’une des méthodes suivantes : *Identifiants Luma CRM* comme identifiants de profil :
