@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: a9b6559d308823f5af7c2b26c3b2ae59d60d5a60
+source-git-commit: 1b6f6cadc2d85a8baa5c95aca026f868a27e78fa
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '432'
 ht-degree: 5%
 
 ---
@@ -43,12 +43,8 @@ Lorsqu&#39;un client fidèle se qualifie pour le niveau platine, il doit recevoi
 1. Créez un [!UICONTROL segment] dans Journey Optimizer appelé `Luma – status upgrade`.
 2. Créez un parcours appelé `Luma – New Status – platinum`.
    1. Un client passe sur le parcours, lorsqu’il remplit les conditions requises pour le niveau de fidélité au platine.
-   2. Le client doit recevoir un e-mail intitulé `Luma – Platinum Status - Welcome`, avec l’objet `Welcome to Platinum Status, (recipient's first name)!` avec le corps d’email fourni par l’équipe créative.
+   2. Le client doit recevoir un e-mail intitulé `Luma – Platinum Status - Welcome`, avec l’objet `Welcome to Platinum Status, (recipient's first name)!` avec le corps d’email fourni par l’équipe créative. Il s’agit d’une [!UICONTROL transactionnel] Courrier électronique.
    3. Lors du téléchargement du fichier de HTML, vous remarquerez que l’email fait référence au statut &quot;diamant&quot; plutôt qu’à &quot;platine&quot;. Au lieu de demander un nouveau fichier à l&#39;équipe créative, mettez à jour l&#39;email dans le Concepteur d&#39;email.
-
->[CONSEIL !]
-> Assurez-vous que le message Luma - Platinum Status - Welcome eMail est[!UICONTROL transactionnel].
-
 
 >[!TAB Critères de réussite]
 
@@ -69,7 +65,7 @@ Testez votre parcours:
 4. Déclenchement d’un événement
 5. Ajoutez ce qui suit : [!DNL CRM ID] pour [!DNL Stanleigh Stooke] dans la [!UICONTROL Identifiant de profil] field : `4f34057d9d9e792c28ba18ecae378e98`
 
-Vous devriez recevoir la personnalisation *Luma - État du platine - Bienvenue* e-mail.
+**Résultat :** Vous devriez recevoir la personnalisation *Luma - État du platine - Bienvenue* e-mail.
 
 >[!TAB Vérifier votre travail]
 
