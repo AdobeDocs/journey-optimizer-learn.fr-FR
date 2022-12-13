@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '701'
 ht-degree: 5%
 
 ---
@@ -41,13 +41,13 @@ Créez un parcours qui envoie un courrier électronique de confirmation de comma
 
 1. Créez un parcours appelé `Luma - Order Confirmation`
 1. Utilisez l’événement : [!DNL LumaOnlinePurchase] comme déclencheur
-1. Créez l’e-mail de confirmation de commande appelé `Luma - Order Confirmation`
+1. Créez l’e-mail de confirmation de commande appelé `Luma - Order Confirmation`:
 
 * Transactionnel de catégorie : veillez à sélectionner la surface de l’email transactionnel.
 * L’objet doit être personnalisé avec le prénom du destinataire et doit inclure l’expression &quot;Merci pour votre achat&quot;.
 * Utilisez la variable **Luma - Synthèse de la commande** et modifiez-le :
 
-En suivant les directives de la marque Luma, l’email doit être structuré comme suit :
+L&#39;email doit être structuré comme suit :
 <table>
 <tr>
 <td>
@@ -118,7 +118,7 @@ En suivant les directives de la marque Luma, l’email doit être structuré com
       </p><br>
       <p><b>Astuces:</b>
       <li>Il s’agit d’informations d’événement contextuelles.
-      <li>Utilisez la fonction d’assistance !UICONTROL] : [!UICONTROL Chacune]
+      <li>Utilisez la fonction d’[!UICONTROL d’'assistance] : [!UICONTROL Chacune]
       <li>Passez au format de l’éditeur de code pour ajouter les données contextuelles.
       <li>Placez les informations dans des conteneurs à l’aide de balises DIV.
   </td>
