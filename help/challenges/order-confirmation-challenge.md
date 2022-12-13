@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: eb31a78738ec32e4f468f620a96525714997ad04
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '706'
 ht-degree: 5%
 
 ---
@@ -39,16 +39,15 @@ Créez un parcours qui envoie un courrier électronique de confirmation de comma
 
 >[!TAB Tâche]
 
-1. Créez un parcours appelé &quot;votre nom_Confirmation de commande&quot;.
-2. Utilisez l’événement : [!DNL LumaOnlinePurchase] comme déclencheur
-
-3. Créez l&#39;email de confirmation de commande :
+1. Créez un parcours appelé `Luma - Order Confirmation`
+1. Utilisez l’événement : [!DNL LumaOnlinePurchase] comme déclencheur
+1. Créez l’e-mail de confirmation de commande appelé `Luma - Order Confirmation`
 
 * Transactionnel de catégorie : veillez à sélectionner la surface de l’email transactionnel.
 * L’objet doit être personnalisé avec le prénom du destinataire et doit inclure l’expression &quot;Merci pour votre achat&quot;.
+* Utilisez la variable **Luma - Synthèse de la commande** et modifiez-le :
 
-En suivant les directives de la marque Luma, l’email doit être structuré comme suit : vous pouvez utiliser la variable **Luma - Synthèse de la commande** et modifiez-le :
-
+En suivant les directives de la marque Luma, l’email doit être structuré comme suit :
 <table>
 <tr>
 <td>
@@ -79,22 +78,30 @@ En suivant les directives de la marque Luma, l’email doit être structuré com
     <strong>Texte</strong><p>
     <em>Hey {prénom}</em><p>
     <li>Alignement : left  </li>
-   <li>Couleur du texte : rgb(101, 106, 119); font-size:14px</li>
-    <li>Marge intérieure : left (95), right (95)</li><div>
+   <li>Couleur du texte : rgb(69, 97, 162) #4461a2; 
+   <li>font-size: 20 px</li>
+   <div>
     <p>
      <em>Votre commande a été passée.
     <p>Une fois votre package livré, nous vous enverrons un email avec un numéro de tracking afin que vous puissiez tracker votre commande.</p></em>
-    </strong><p>
-    <li>Alignement : left  </li>
-    <li>Couleur du texte : rgb(101, 106, 119); font-size:14px </li>
-    <li>Marge intérieure : left (95), right (95)</li><div>
-    </a><p>
-    <em>Ship to :<p>
-    <p>Prénom Nom</p>
-    Rue <p>
-    Ville, État, code postal</p></em>
-    <strong>Bouton:</strong></p>
-   <p><em>Afficher l’ordre</em></p>
+    </strong>
+    </tr>
+  </td>
+ <td>
+  <div>
+     <strong> Section Ship</strong>
+      </div>
+      <p><li>Remplacez l’adresse codée en dur dans le modèle par la payload de l’adresse du profil.
+      <li> Supprimer la remise, totale, arrivée</p>
+  </td>
+  <td>
+  <p> Ship to :</p>
+      <em>Prénom Nom<br>
+      Rue<br>
+      Ville, État, code postal</em></p>
+
+    &lt;strong>Bouton :&lt;/strong>&lt;/p>
+<p><em>Afficher l’ordre</em></p>
       <li>Couleur d’arrière-plan : rgb(25, 121, 195)</li>
       <li>Couleur du texte : Blanc</li>
       <li>Aucune bordure</li>
@@ -107,11 +114,13 @@ En suivant les directives de la marque Luma, l’email doit être structuré com
   <div>
      <strong>Section Détails de la commande</strong>
       </div>
-      <p>Astuces:
-      <li>Il s’agit d’informations d’événement contextuelles.</li>
-      <li>Utilisez la fonction d’assistance : Chaque</li>
-      <li>Passez au format de l’éditeur de code pour ajouter les données contextuelles. <li>
-      <li>Placez les informations dans des conteneurs à l’aide de balises DIV.</li>
+       <p><li>Ajoutez cette section entre les <b>Ship to</b> et le <b>Afficher la commande</b> button
+      </p><br>
+      <p><b>Astuces:</b>
+      <li>Il s’agit d’informations d’événement contextuelles.
+      <li>Utilisez la fonction d’assistance !UICONTROL] : [!UICONTROL Chacune]
+      <li>Passez au format de l’éditeur de code pour ajouter les données contextuelles.
+      <li>Placez les informations dans des conteneurs à l’aide de balises DIV.
   </td>
   <td>
     <strong>En-tête</strong>
@@ -156,8 +165,7 @@ En suivant les directives de la marque Luma, l’email doit être structuré com
 >
 >Pour vous permettre de résoudre les problèmes de vos parcours, il est recommandé d’ajouter un autre chemin à toutes les actions de message en cas d’expiration ou d’erreur.
 
-
->[!TAB Vérifier votre travail]
+>[!TAB Critères de réussite]
 
 Déclenchez le Parcours que vous avez créé en mode test et envoyez-le vous-même :
 
@@ -186,7 +194,8 @@ Vous devriez recevoir l’e-mail de confirmation d’achat personnalisé, avec l
    43913 Thierer Terrace, Washington DC 2009
 
 
->[!TAB Critères de réussite]
+
+>[!TAB Vérifier votre travail]
 
 ** Parcours
 
