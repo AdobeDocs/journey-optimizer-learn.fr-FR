@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1058'
 ht-degree: 8%
 
 ---
@@ -286,9 +286,9 @@ Vous disposez désormais de la variable [!UICONTROL namespace] et le [!DNL Luma 
 
    * Type : [!UICONTROL Objet]
 
-   * Groupe de champs : [!DNLLGroupe de champs Détails de l’événement de stock de produit uma]
+   * Groupe de champs: `Luma Product Inventory Event Details Field Group`
 
-1. Ajoutez les champs suivants au **[!DNL Product Inventory Event Details]** objet :
+1. Ajoutez les champs suivants au `Product Inventory Event Details` objet :
 
    | [!UICONTROL Fieldname] | [!UICONTROL Nom d’affichage] | [!UICONTROL Type] |
    |-------------|-----------|----------|
@@ -311,9 +311,9 @@ Vous disposez désormais de la variable [!UICONTROL namespace] et le [!DNL Luma 
 
       ![enum](assets/enum.png)
 
-2. Définir `productId` champ comme **[!UICONTROL Principale identité]** using **[!DNL Luma Product namespace]**.
+1. Définir `productId` champ comme **[!UICONTROL Principale identité]** using **[!DNL Luma Product namespace]**.
 
-3. Sélectionnez la `sku` et définir une relation avec la propriété `product.sku` dans le champ **[!DNL Luma Product catalog Schema]** Schéma :
+1. Sélectionnez la `sku` et définir une relation avec la propriété `product.sku` dans le champ **[!DNL Luma Product catalog Schema]** Schéma :
 
    1. Faites défiler la page vers le bas de la page **[!UICONTROL Propriétés du champ]**.
 
@@ -329,9 +329,9 @@ Vous disposez désormais de la variable [!UICONTROL namespace] et le [!DNL Luma 
       ![Relation SKU](assets/sku_relationship.png)
 
 
-4. Activer pour **Profil**.
+1. Activer pour **Profil**.
 
-5. Sélectionner [!UICONTROL Enregistrer] pour enregistrer le schéma.
+1. Sélectionner [!UICONTROL Enregistrer] pour enregistrer le schéma.
 
 ### Créez le [!DNL Luma CRM] et [!DNL Luma Product Interactions] schémas {#create-luma-crm-and-luma-product-interactions-schemas}
 
