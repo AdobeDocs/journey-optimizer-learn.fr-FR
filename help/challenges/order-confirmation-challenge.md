@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '671'
 ht-degree: 5%
 
 ---
@@ -33,19 +33,19 @@ Luma lance sa boutique en ligne et souhaite garantir une bonne expérience clien
 
 ## Votre défi
 
-Créez un parcours qui envoie un courrier électronique de confirmation de commande lorsqu’un client Luma termine une commande en ligne.
+Créez un parcours qui envoie un courrier électronique de confirmation de commande lorsqu’un client Luma termine une commande en ligne. Le Luma
 
 >[!BEGINTABS]
 
 >[!TAB Tâche]
 
 1. Créez un parcours appelé `Luma - Order Confirmation`
-1. Utilisez l’événement : [!DNL LumaOnlinePurchase] comme déclencheur
-1. Créez l’e-mail de confirmation de commande appelé `Luma - Order Confirmation`:
+2. Utilisez l’événement : `LumaOnlinePurchase` comme déclencheur
+3. Créez l’e-mail de confirmation de commande appelé `Luma - Order Confirmation`:
 
 * Transactionnel de catégorie : veillez à sélectionner la surface de l’email transactionnel.
 * L’objet doit être personnalisé avec le prénom du destinataire et doit inclure l’expression &quot;Merci pour votre achat&quot;.
-* Utilisez la variable **Luma - Synthèse de la commande** et modifiez-le :
+* Utilisez la variable `Luma - Order summary` et modifiez-le :
 
 L&#39;email doit être structuré comme suit :
 <table>
@@ -59,7 +59,6 @@ L&#39;email doit être structuré comme suit :
     <strong>Logo Luma</strong>
       <p>
      <li>luma_logo.png</li>
-    <li>Taille 35 %, arrière-plan blanc centré </li>
     <li>Il doit comporter un lien vers le site web luma : https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
     </td>
@@ -71,9 +70,6 @@ L&#39;email doit être structuré comme suit :
     </strong>
   </td>
   <td>
-    <strong>Image</strong><p>
-    <li>luma-transactional-order-confirmation-2.jpg </li>
-    <li>Marge : Haut, bas (10)<div>
     <p>
     <strong>Texte</strong><p>
     <em>Hey {prénom}</em><p>
@@ -91,23 +87,15 @@ L&#39;email doit être structuré comme suit :
   <div>
      <strong> Section Ship</strong>
       </div>
-      <p><li>Remplacez l’adresse codée en dur dans le modèle par la payload de l’adresse du profil.
+      <p><li>Remplacez l’adresse codée en dur du modèle par l’adresse de livraison. 
+      <li>Les détails sont des attributs contextuels de l'événement (rue, ville, code postal, état).
+      <li>Le prénom et le nom proviennent du profil.
       <li> Supprimer la remise, totale, arrivée</p>
   </td>
   <td>
   <p> Ship to :</p>
       <em>Prénom Nom<br>
-      Rue<br>
-      Ville, État, code postal</em></p>
-
-    &lt;strong>Bouton :&lt;/strong>&lt;/p>
-<p><em>Afficher l’ordre</em></p>
-      <li>Couleur d’arrière-plan : rgb(25, 121, 195)</li>
-      <li>Couleur du texte : Blanc</li>
-      <li>Aucune bordure</li>
-      <li>Hauteur : 40</li>
-      <li>Ajouter un lien vers un site web de votre choix </li>
-      <li>Aligne le texte à gauche au-dessus (Conseil : utiliser la marge du conteneur)</li>
+      Adresse<br></em></p>
   </td>
  <tr>
 <td>
