@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
+source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '692'
 ht-degree: 5%
 
 ---
@@ -113,7 +113,7 @@ L&#39;email doit être structuré comme suit :
   <td>
     <strong>En-tête</strong>
     <p>
-    <em>Commande {Purchase Order Number}</em>
+    <em>Ordre : `purchaseOrderNumber`</em>
     </p>
     <strong>Liste des produits commandés :
   </strong>
@@ -164,7 +164,7 @@ Déclenchez le Parcours que vous avez créé en mode test et envoyez-le vous-mê
    3. Dans l’écran suivant, ajoutez votre adresse électronique entre parenthèses : *yourname@yourdomain* dans l’éditeur d’expression, puis cliquez sur ok.
 2. Mise du parcours en mode test
 3. Déclenchez l’événement avec les paramètres suivants :
-   * Définissez l’identifiant de profil sur : Jenna_Palmer9530@emailsim.io
+   * Définissez l’identifiant de profil sur : Valeur d’identité :`a8f14eab3b483c2b96171b575ecd90b1`
    * Type d’événement : commerce.purchases
    * Nom : Sprite Yoga Companion Kit
    * Quantité : 1
@@ -172,12 +172,13 @@ Déclenchez le Parcours que vous avez créé en mode test et envoyez-le vous-mê
    * Numéro de commande : 6253728
    * SKU : 24-WG080
    * productImageURL : <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
+   * 
 
 Vous devriez recevoir l’e-mail de confirmation d’achat personnalisé, avec le produit spécifié.
 
-* La ligne d’objet doit commencer par le prénom de votre profil de test : Jenna
+* La ligne d’objet doit porter le prénom du profil de test : Leora
 * La section Détails de la commande doit être renseignée avec les détails de la commande que vous avez saisis lors du test.
-* Les informations sur les clients doivent comporter le code de ville et postal de votre profil de test :
+* Le *Ship to* doit comporter le code de ville et postal de votre profil de test :
 
    43913 Thierer Terrace, Washington DC 2009
 
@@ -185,17 +186,30 @@ Vous devriez recevoir l’e-mail de confirmation d’achat personnalisé, avec l
 
 >[!TAB Vérifier votre travail]
 
-** Parcours
+**Parcours**
 
 ![Parcours](/help/challenges/assets/c2-journey.png)
 
 
-** E-mail
+**E-mail**
 
 **Objet:**
 
 {{ profile.person.name.firstName }}, merci pour votre achat !
 
+**Ship to section :**
+
+Voici à quoi votre code doit ressembler :
+
+```javascript
+{{ profile.person.name.firstName }} {{ profile.person.name.lastName }}
+{{context.journey.events.454181416.commerce.shipping.address.street1}}
+{{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
+```
+
+*event.45481416* sera un nombre différent pour vous.
+
+CONSEIL : Personnaliser chaque ligne séparément
 
 **Section Détails de la commande :**
 

@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 5%
@@ -63,7 +63,7 @@ Testez votre parcours:
 
 3. Définir le parcours en mode test
 4. Déclenchement d’un événement
-5. Ajoutez ce qui suit : [!DNL CRM ID] pour [!DNL Stanleigh Stooke] dans la [!UICONTROL Identifiant de profil] field : `4f34057d9d9e792c28ba18ecae378e98`
+5. Ajoutez ce qui suit : [!DNL CRM ID] pour `Stanleigh Stooke` dans la [!UICONTROL Identifiant de profil] field : `4f34057d9d9e792c28ba18ecae378e98`
 
 **Résultat :** Vous devriez recevoir la personnalisation *Luma - État du platine - Bienvenue* e-mail.
 
