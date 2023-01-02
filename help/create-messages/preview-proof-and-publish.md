@@ -1,6 +1,6 @@
 ---
 title: Aperçu, BAT et publication
-description: Découvrez comment tester le rendu des e-mails dans les boîtes de réception, prévisualiser vos e-mails personnalisés par rapport aux profils de test, envoyer des bons à tirer et publier votre e-mail.
+description: Découvrez comment tester le rendu des e-mails dans les boîtes de réception, prévisualiser vos e-mails personnalisés par rapport aux profils de test, envoyer des BAT et publier votre e-mail.
 kt: 7533
 thumbnail: 334239.jpg
 feature: Email Design, Email Rendering
@@ -18,6 +18,6 @@ ht-degree: 100%
 
 # Aperçu, BAT et publication
 
-Découvrez comment tester le rendu des e-mails dans les boîtes de réception, prévisualiser vos e-mails personnalisés par rapport aux profils de test, envoyer des bons à tirer et publier votre e-mail.
+Découvrez comment tester le rendu des e-mails dans les boîtes de réception, prévisualiser vos e-mails personnalisés par rapport aux profils de test, envoyer des BAT et publier votre e-mail.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334239?quality=12)
