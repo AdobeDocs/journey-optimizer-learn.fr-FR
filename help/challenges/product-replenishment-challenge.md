@@ -1,6 +1,6 @@
 ---
 title: Défi lié au réapprovisionnement du produit
-description: Appliquez ce que vous avez appris sur la création de segments et testez vos compétences.
+description: Appliquez vos connaissances en matière de création de segments et testez vos compétences.
 kt: 8417
 feature: Segments
 role: User
@@ -8,9 +8,9 @@ level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
 source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '609'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
@@ -19,104 +19,104 @@ ht-degree: 3%
 | Défi | Réapprovisionnement du produit |
 |---|---|
 | Personne | Gestionnaire de parcours |
-| Compétences requises | <ul><li>[Créer des segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=en)</li><li> [Importation et création de contenu d’e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=en)</li><li>[Cas d’utilisation : lecture de segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li> |
-| Ressources à télécharger | [Fichiers d’email de collection saisonnière](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
+| Compétences requises | <ul><li>[Créer des segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=fr)</li><li> [Importer et créer du contenu d’e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=fr)</li><li>[Cas d’utilisation : lecture de segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=fr)</li> |
+| Ressources à télécharger | [Fichiers d’e-mail de collection saisonnière](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
-## L&#39;histoire
+## L’histoire
 
-Lorsque vous parcourez le site web Luma, les clients peuvent ajouter à une liste de souhaits des produits qui les intéressent. Cela permet à Luma d’envoyer aux clients des messages marketing ciblés et des informations sur les produits.
+Lorsqu’ils visitent le site web Luma, les client(e)s peuvent ajouter les produits qui les intéressent à une liste de souhaits. De cette manière, Luma peut envoyer aux client(e)s des messages marketing ciblés et des informations sur les produits.
 
 ## Votre défi
 
-Luma vous demande de mettre en oeuvre un parcours dans Journey Optimizer qui avertit les clients qui ont un élément sur leur liste de souhaits précédemment en rupture de stock, lorsque cet élément est de nouveau en stock.
+Luma vous demande d’implémenter un parcours dans Journey Optimizer qui avertit les client(e)s qui ont un élément sur leur liste de souhaits précédemment en rupture de stock, lorsque cet élément est de nouveau en stock.
 
-## Définition du segment - Éléments de liste blanche en rupture de stock
+## Définir le segment - Éléments de liste de souhaits en rupture de stock
 
-Pour cibler les clients potentiels intéressés lors du redémarrage de produits, créez un segment qui se compose de clients
+Pour cibler les client(e)s potentiel(le)s intéressé(e)s lors du réapprovisionnement de produits, créez un segment qui se compose de client(e)s :
 
-* Qui ont ajouté au moins un élément à sa liste de souhaits (type d’événement Utiliser : [!UICONTROL Commerce Save For Latest])
-* Lequel **en rupture de stock** au cours des 3 derniers mois (utiliser quantité en stock = 0)
-* Et n’ont pas acheté l’article depuis.
+* Qui ont ajouté au moins un élément à leur liste de souhaits (utilisez le type d’événement : [!UICONTROL Enregistrer pour plus tard Commerce]),
+* lequel était **en rupture de stock** au cours des 3 derniers mois (utilisez quantité en stock = 0),
+* et n’ont pas acheté l’article depuis.
 
-Nommez ce segment : *votre nom - Liste d&#39;attente en rupture de stock*
+Nommez ce segment : *votre nom - Liste de souhaits en rupture de stock*.
 
 +++**VÉRIFIER VOTRE TRAVAIL**
 
-Voici à quoi votre segment doit ressembler :
+Voici à quoi votre segment doit ressembler :
 
-![Segment - Éléments de liste blanche en rupture de stock](/help/challenges/assets/C1-S2.png)
+![Segment - Éléments de liste de souhaits en rupture de stock](/help/challenges/assets/C1-S2.png)
 
-Clients ayant ajouté à leur liste de souhaits un article en rupture de stock au cours des 3 derniers mois :
+Client(e)s ayant ajouté à leur liste de souhaits un article en rupture de stock au cours des 3 derniers mois :
 
-* Événement : Enregistrer pour plus tard
+* Événement : enregistrer pour plus tard
    * Inclure au moins 1
-   * Lorsque la quantité de stock est 0
+   * lorsque la quantité de stock est 0
 
-et n’ont pas acheté l’article depuis :
+et n’ont pas acheté l’article depuis :
 
-* Excluez de tous les types d’événements Achats où le SKU correspond au SKU de la variable **Enregistrer pour un événement ultérieur**.
+* Excluez de tous les types d’événement Achats où le SKU correspond au SKU de la variable **Événement enregistrer pour plus tard**.
 
 >[!TIP]
-> * Sélectionnez le SKU sous Enregistrer pour plus tard dans la *Parcourir les variables* section
+> * Sélectionnez le SKU sous Enregistrer pour plus tard dans la section *Parcourir les variables*.
 > * Utilisez l’option de comparaison lorsque vous déposez le SKU sous Enregistrer pour plus tard dans le champ d’événement.
 
 
-Vérifiez le code dans le coin inférieur droit de l’écran Modifier le segment, sous Événements. Le code doit se présenter comme suit :
+Vérifiez le code dans le coin inférieur droit de l’écran Modifier le segment, sous Événements. Le code doit se présenter comme suit :
 
-Code:
+Code :
 ```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
 
 +++
 
-### Créer un email - Réapprovisionnement Luma-Produit
+### Créer un e-mail - Réapprovisionnement produit Luma
 
-Avertissez les clients qui ont ajouté un article en rupture de stock avec un appel de démarrage d’achat maintenant que l’article est de nouveau en stock.
+Avertissez les client(e)s qui ont ajouté un article en rupture de stock avec un appel de démarrage d’achat maintenant que l’article est de nouveau en stock.
 
-### Création du parcours - Notification de réapprovisionnement du produit
+### Créer le parcours - Notification de réapprovisionnement du produit
 
-Lorsqu’un article précédemment en rupture de stock est de nouveau en stock, avertissez les clients qui ont ajouté un article en rupture de stock avec un appel pour commencer à faire leurs achats maintenant que l’article est de nouveau en stock.
+Lorsqu’un article précédemment en rupture de stock est de nouveau en stock, avertissez les client(e)s qui ont ajouté un article en rupture de stock avec un appel de démarrage d’achat maintenant que l’article est de nouveau en stock.
 
-1. Créez un parcours appelé &quot;your name_Luma - Product Restock (votre nom_Luma - Référencement de produit)
+1. Créez un parcours appelé « votrenom_Luma - Réapprovisonnement du produit ».
 1. Le parcours doit être déclenché lorsqu’un produit est de nouveau en stock.
-1. Envoyez la variable *Réapprovisionnement Luma-Produit* envoyer par courrier électronique à
-1. Utilisateurs qui avaient ajouté cet élément à leur liste de souhaits alors qu&#39;il était en rupture de stock
+1. Envoyez l’e-mail *Réapprovisionnement de produit Luma* aux
+1. utilisateurs et utilisatrices qui avaient ajouté cet élément à leur liste de souhaits alors qu’il était en rupture de stock.
 
 >[!TIP]
 >
-> Utilisez l’événement professionnel existant. Vous devez ajouter une condition qui vérifie que le SKU du réapprovisionnement est inclus dans (n’importe quel) type d’événement enregistré pour les laters.
+> Utilisez l’événement métier existant. Vous devez ajouter une condition qui vérifie que le SKU du réapprovisionnement est inclus dans (n’importe quel) type d’événement enregistrer pour plus tard.
 
 +++**CRITÈRES DE RÉUSSITE**
 
-Testez votre parcours:
+Testez votre parcours :
 
-1. Assurez-vous que l’événement de qualification de segment a l’espace de noms = E-mail
-1. Remplacez les paramètres de courrier électronique par défaut et définissez-les sur votre propre adresse électronique (voir #1 de courrier électronique pour obtenir des instructions).
+1. Assurez-vous que l’événement de qualification de segment a l’espace de noms = E-mail.
+1. Remplacez les paramètres d’e-mail par défaut et définissez-les sur votre propre adresse e-mail (voir e-mail #1 pour obtenir des instructions).
 1. Définir le parcours en mode test
-1. Déclencher un événement : saisissez les données suivantes :
+1. Déclencher un événement - Saisissez les données suivantes :
 
-   * Description : Oubliez les machines fantaisistes et les adhésions coûteuses - le kit Harmony Lumaflex Strength Band Kit est tout ce dont vous avez besoin pour faire une incroyable séance de sport. Le kit contient tout ce dont vous avez besoin pour une gamme d&#39;exercices de renforcement et de tonte.
-   * Nom : Harmony Lumaflex Strength Band Kit
-   * Prix : 22
-   * ID de produit : 24-UG03
-   * URL de l’image du produit : https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/ug03-bk-0.jpSKU: 24-UG03
-   * Type d’événement Stock : restock
-   * Identifiant de profil : Jenna_Palmer9530@emailsim.io
+   * Description : Oubliez les machines fantaisistes et les adhésions coûteuses - Le kit de bandes de résistance et de renforcement Harmony Lumaflex est tout ce dont vous avez besoin pour faire une incroyable séance de sport. Le kit contient tout ce dont vous avez besoin pour une série d’exercices de renforcement et de tonification.
+   * Nom : Kit de bandes de résistance et de renforcement Harmony Lumaflex.
+   * Prix : 22.
+   * ID de produit : 24-UG03.
+   * URL de l’image du produit : https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/ug03-bk-0.jpSKU: 24-UG03
+   * Type d’événement Stock : réapprovisonnement
+   * Identifiant de profil : Jenna_Palmer9530@emailsim.io
 
-Vous devriez recevoir l’e-mail &quot;Rafraîchissement des produits Luma Email&quot; avec les détails du produit et la personnalisation pour Jenna.
+Vous devriez recevoir l’e-mail « Réapprovisonnement des produits Luma » avec les détails du produit et la personnalisation pour Jenna.
 
 +++
 
 +++**VÉRIFIER VOTRE TRAVAIL**
 
-Voici à quoi votre parcours doit ressembler :
+Voici à quoi votre parcours doit ressembler :
 
 ![Parcours de réapprovisionnement du produit](/help/challenges/assets/c3-j3-journey.png)
 
-Condition : Dans une liste bloquée
+Condition : dans une liste de souhaits.
 
-![Condition - dans la liste bloquée](/help/challenges/assets/c3-j3-condition.png)
+![Condition - dans une liste de souhaits](/help/challenges/assets/c3-j3-condition.png)
 
-Code de condition :
+Code de condition :
 
 ```in(@{LumaProductRestock._wwfovlab065.sku},#{ExperiencePlatform.ExperienceEvents.experienceevent.all(currentDataPackField.eventType=="commerce.saveForLaters").productListItems.all().SKU})```
 
