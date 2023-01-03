@@ -8,7 +8,7 @@ exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 73%
+ht-degree: 92%
 
 ---
 
@@ -22,4 +22,4 @@ Pour en savoir plus sur la création de balises à lʼaide dʼune API, consultez
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours, [Prise en main de la gestion des décisions pour les marketeurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours, [Prise en main de la gestion des décisions pour les professionnels du marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible gratuitement sur Experience League !
