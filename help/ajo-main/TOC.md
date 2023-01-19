@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
-source-git-commit: cba8982f4be9c60ab1d9efe9a6009033369f10a3
+source-git-commit: 615038fe6d2a3e8e48d9533a6e87a452bf3d7447
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 95%
+source-wordcount: '289'
+ht-degree: 94%
 
 ---
 
@@ -19,10 +19,10 @@ ht-degree: 95%
    + [Présentation de Journey Optimizer (partie 2)](/help/introduction/journey-optimizer-overview-part-2.md)
    + [Fonctionnalités clés et interface utilisateur](/help/introduction/key-capabilities-and-user-interface.md)
    + [Architecture](/help/introduction/architecture.md)
-   + [Fonctionnalités mobiles pour les spécialistes du marketing](/help/create-messages/mobile-capabilities.md)
-   + [Fonctionnalités mobiles pour les développeurs](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [Fonctionnalités mobiles pour les spécialistes du marketing](/help/channels/mobile-capabilities.md)
+   + [Fonctionnalités mobiles pour les développeurs](/help/channels/mobile-capabilities-for-developers.md)
 + Campagnes {#create-campaigns}
-   + [Créer une campagne](/help/create-champaigns/create-a-campaign.md)
+   + [Créer une campagne](/help/create-campaigns/create-a-campaign.md)
 + Parcours {#create-journeys}
    + [Vue d’ensemble de la zone de travail du parcours](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Présentation de la création d’un parcours](/help/create-journeys/introduction-to-building-a-journey.md)
@@ -33,22 +33,20 @@ ht-degree: 95%
    + [Créer un profil de test](/help/create-journeys/test-a-journey.md)
    + [Publier un parcours](/help/create-journeys/publish-a-journey.md)
    + [Copier un parcours dans une autre sandbox](/help/create-journeys/copy-a-journey.md)
++ Canal e-mail{#email-channel}
+   + [Créer du contenu avec le Concepteur d&#39;e-mail](/help/channels/create-content-with-the-email-designer.md)
+   + [Importation et création de contenu d’e-mail HTML](/help/channels/import-and-author-html-email-content.md)
+   + [Aperçu, BAT et publication](/help/channels/preview-proof-and-publish.md)
++ Canal In App{#in-app-channel}
+   + [Messages in-app pour les campagnes](/help/channels/in-app-messaging-for-campaigns.md)
+   + [Créer un message in-app](/help/channels/author-in-app-messages.md)
 + Canal SMS{#sms-channel}
-   + [Configuration des informations d’identification de l’API SMS et des surfaces des canaux](/help/set-up-channels/set-up-sms-channel.md)
    + [Création et diffusion de messages SMS](/help/channels/author-and-deliver-sms-messages.md)
    + [Prise en charge des mots-clés entrants pour les SMS](/help/channels/inbound-keyword-support-for-sms.md)
 + Profils client, segments et abonnements {#profiles-segments-subscriptions}
    + [Profil unifié et segmentation - Vue d’ensemble](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Créer des segments](/help/set-up-resources/create-segments.md)
    + [Abonnements et pages de destination](/help/subscriptions-and-landing-pages.md)
-+ Créer des messages {#create-messages}
-   + Créer des e-mails {#create-emails}
-      + [Créer du contenu avec le Concepteur d&#39;e-mail](/help/create-messages/create-content-with-the-email-designer.md)
-      + [Importation et création de contenu d’e-mail HTML](/help/create-messages/import-and-author-html-email-content.md)
-      + [Aperçu, BAT et publication](/help/create-messages/preview-proof-and-publish.md)
-   + Créer des messages in-app {#create-in-app}
-      + [Messages in-app pour les campagnes](/help/create-messages/in-app-messaging-for-campaigns.md)
-      + [Créer un message in-app](/help/create-messages/author-in-app-messages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Personnalisation du contenu {#personalize-content}
    + [Personnalisation basée sur un profil et l’appartenance à un segment](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
@@ -80,6 +78,7 @@ ht-degree: 95%
       + [Configuration des connecteurs source](/help/set-up-data/configure-source-connectors.md)
    + Configurer des canaux {#channel-configuration}
       + [Configurer un canal e-mail](/help/set-up-channels/set-up-email-channel.md)
+      + [Configuration des informations d’identification de l’API SMS et des surfaces des canaux](/help/set-up-channels/set-up-sms-channel.md)
       + [Délégation de sous-domaines CName](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Configurer les règles de fréquence des messages](/help/administration/configure-frequency-rules.md)
    + Configurer des parcours {#journey-configuration}
