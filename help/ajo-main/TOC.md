@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
-source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
+source-git-commit: cba8982f4be9c60ab1d9efe9a6009033369f10a3
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 100%
+source-wordcount: '291'
+ht-degree: 95%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 100%
    + [Architecture](/help/introduction/architecture.md)
    + [Fonctionnalités mobiles pour les spécialistes du marketing](/help/create-messages/mobile-capabilities.md)
    + [Fonctionnalités mobiles pour les développeurs](/help/create-messages/mobile-capabilities-for-developers.md)
-+ Créer des campagnes {#create-campaigns}
++ Campagnes {#create-campaigns}
    + [Créer une campagne](/help/create-champaigns/create-a-campaign.md)
-+ Créer des parcours {#create-journeys}
++ Parcours {#create-journeys}
    + [Vue d’ensemble de la zone de travail du parcours](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Présentation de la création d’un parcours](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Cas d’utilisation : parcours transactionnel](/help/create-journeys/use-case-transactional-journey.md)
@@ -33,6 +33,10 @@ ht-degree: 100%
    + [Créer un profil de test](/help/create-journeys/test-a-journey.md)
    + [Publier un parcours](/help/create-journeys/publish-a-journey.md)
    + [Copier un parcours dans une autre sandbox](/help/create-journeys/copy-a-journey.md)
++ Canal SMS{#sms-channel}
+   + [Configuration des informations d’identification de l’API SMS et des surfaces des canaux](/help/set-up-channels/set-up-sms-channel.md)
+   + [Création et diffusion de messages SMS](/help/channels/author-and-deliver-sms-messages.md)
+   + [Prise en charge des mots-clés entrants pour les SMS](/help/channels/inbound-keyword-support-for-sms.md)
 + Profils client, segments et abonnements {#profiles-segments-subscriptions}
    + [Profil unifié et segmentation - Vue d’ensemble](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Créer des segments](/help/set-up-resources/create-segments.md)
@@ -42,9 +46,6 @@ ht-degree: 100%
       + [Créer du contenu avec le Concepteur d&#39;e-mail](/help/create-messages/create-content-with-the-email-designer.md)
       + [Importation et création de contenu d’e-mail HTML](/help/create-messages/import-and-author-html-email-content.md)
       + [Aperçu, BAT et publication](/help/create-messages/preview-proof-and-publish.md)
-   + Créer des SMS {#create-sms}
-      + [Configurer, créer et diffuser des messages SMS](/help/create-messages/configure-author-and-deliver-sms-messages.md)
-      + [Prise en charge des mots-clés entrants pour les SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
    + Créer des messages in-app {#create-in-app}
       + [Messages in-app pour les campagnes](/help/create-messages/in-app-messaging-for-campaigns.md)
       + [Créer un message in-app](/help/create-messages/author-in-app-messages.md)
@@ -78,8 +79,8 @@ ht-degree: 100%
       + [Création de jeux de données et ingestion de données](/help/set-up-data/create-datasets-and-ingest-data.md)
       + [Configuration des connecteurs source](/help/set-up-data/configure-source-connectors.md)
    + Configurer des canaux {#channel-configuration}
-      + [Configurer un canal e-mail](/help/set-up-email-channel/set-up-email-channel.md)
-      + [Délégation de sous-domaines CName](/help/set-up-email-channel/delegate-cname-subdomains.md)
+      + [Configurer un canal e-mail](/help/set-up-channels/set-up-email-channel.md)
+      + [Délégation de sous-domaines CName](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Configurer les règles de fréquence des messages](/help/administration/configure-frequency-rules.md)
    + Configurer des parcours {#journey-configuration}
       + [Configurer les sources de données](/help/set-up-journeys/configure-data-sources.md)
