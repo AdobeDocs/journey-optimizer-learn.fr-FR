@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
+source-git-commit: 02625ddf2348f2754c821c8e49a1e70154fd6e63
 workflow-type: tm+mt
-source-wordcount: '654'
-ht-degree: 61%
+source-wordcount: '653'
+ht-degree: 50%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 61%
 | Défi | Créer un e-mail transactionnel de confirmation de commande |
 |---|---|
 | Utilisateurs | Gestionnaire de parcours |
-| Compétences requises | <ul><li>[Créer un contenu d’e-mail avec l’éditeur de messages](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=fr)</li> <li>[Utiliser des informations d’événement contextuelles pour la personnalisation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=fr)</li><li>[Utiliser des fonctions d’assistance pour la personnalisation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=fr)</li></ul> |
+| Compétences requises | <ul><li>[Créer un contenu d’e-mail avec l’éditeur de messages](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=en)</li> <li>[Utiliser des informations d’événement contextuelles pour la personnalisation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=fr)</li><li>[Utiliser des fonctions d’assistance pour la personnalisation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=fr)</li></ul> |
 | Ressources à télécharger | [Ressources de confirmation de commande](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
 ## L’histoire
@@ -128,15 +128,15 @@ L’e-mail doit être structuré comme suit :
 
 >[!TIP]
 >
->Pour vous permettre de résoudre les problèmes de vos parcours, il est recommandé d’ajouter un autre chemin d’accès à toutes les actions de message en cas d’expiration ou d’erreur.
+>Pour vous permettre de résoudre les problèmes liés à vos parcours, il est recommandé d’ajouter un autre chemin à toutes les actions de message en cas d’expiration ou d’erreur.
 
 >[!TAB Critères de réussite]
 
-Déclenchez le parcours que vous avez créé en mode test et envoyez l’e-mail à vous-même :
+Déclenchez le Parcours que vous avez créé en mode test et envoyez-le vous-même :
 
 1. Avant de passer en mode test, remplacez les paramètres de courrier électronique à envoyer au test de l’adresse électronique :
    1. Ouvrez la vue Détails de l&#39;email.
-   2. Dans les paramètres de l’e-mail, cliquez sur le symbole T (activez le remplacement des paramètres).
+   2. Dans la section Paramètres de l’e-mail , cliquez sur le symbole T (activer le remplacement des paramètres).
    3. Cliquez dans le champ Adresse.
    4. Dans l’écran suivant, ajoutez votre adresse électronique entre parenthèses : *&quot;yourname@yourdomain&quot;* dans l’éditeur d’expression, puis cliquez sur ok.
 2. Mettez le parcours en mode test.
@@ -158,7 +158,7 @@ Vous devriez recevoir l’email de confirmation d’achat personnalisé.
 
 * Voici à quoi votre corps d’email doit ressembler :
 
-![E-mail](//help/challenges/assets/c2-email.png)
+![E-mail](/help/challenges/assets/c2-email.png)
 
 >[!TAB Vérifier votre travail]
 
@@ -183,11 +183,11 @@ Voici à quoi votre code doit ressembler :
 {{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
 ```
 
-*event.45481416* sera un nombre différent pour vous.
+*event.45481416* est un nombre différent pour vous.
 
 CONSEIL : personnalisez chaque ligne séparément.
 
-**Section Détails de la commande :**
+**Section Détails de la commande:**
 
 Voici à quoi votre code doit ressembler :
 
