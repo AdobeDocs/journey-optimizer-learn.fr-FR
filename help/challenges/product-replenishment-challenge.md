@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
 workflow-type: tm+mt
-source-wordcount: '609'
-ht-degree: 100%
+source-wordcount: '570'
+ht-degree: 89%
 
 ---
 
@@ -30,62 +30,34 @@ Lorsqu’ils visitent le site web Luma, les client(e)s peuvent ajouter les produ
 
 Luma vous demande d’implémenter un parcours dans Journey Optimizer qui avertit les client(e)s qui ont un élément sur leur liste de souhaits précédemment en rupture de stock, lorsque cet élément est de nouveau en stock.
 
-## Définir le segment - Éléments de liste de souhaits en rupture de stock
+>[!BEGINTABS]
 
-Pour cibler les client(e)s potentiel(le)s intéressé(e)s lors du réapprovisionnement de produits, créez un segment qui se compose de client(e)s :
+>[!TAB Tâche]
 
-* Qui ont ajouté au moins un élément à leur liste de souhaits (utilisez le type d’événement : [!UICONTROL Enregistrer pour plus tard Commerce]),
-* lequel était **en rupture de stock** au cours des 3 derniers mois (utilisez quantité en stock = 0),
+## 1. Définition du segment - Éléments de liste blanche en rupture de stock
+
+Pour cibler les clients potentiels intéressés lors du redémarrage de produits, créez un segment composé de clients :
+
+* Qui ont ajouté au moins un élément à sa liste de souhaits (utilisez le type d’événement : [!UICONTROL Commerce Save For Latest])
+* lequel était en rupture de stock au cours des 3 derniers mois (utilisez quantité en stock = 0),
 * et n’ont pas acheté l’article depuis.
 
-Nommez ce segment : *votre nom - Liste de souhaits en rupture de stock*.
-
-+++**VÉRIFIER VOTRE TRAVAIL**
-
-Voici à quoi votre segment doit ressembler :
-
-![Segment - Éléments de liste de souhaits en rupture de stock](/help/challenges/assets/C1-S2.png)
-
-Client(e)s ayant ajouté à leur liste de souhaits un article en rupture de stock au cours des 3 derniers mois :
-
-* Événement : enregistrer pour plus tard
-   * Inclure au moins 1
-   * lorsque la quantité de stock est 0
-
-et n’ont pas acheté l’article depuis :
-
-* Excluez de tous les types d’événement Achats où le SKU correspond au SKU de la variable **Événement enregistrer pour plus tard**.
-
 >[!TIP]
-> * Sélectionnez le SKU sous Enregistrer pour plus tard dans la section *Parcourir les variables*.
-> * Utilisez l’option de comparaison lorsque vous déposez le SKU sous Enregistrer pour plus tard dans le champ d’événement.
+>Excluez de tous les types d’événement Achats où le SKU correspond au SKU de la variable *Événement enregistrer pour plus tard*. Vous trouverez le champ dans le *Parcourir les variables* .
+
+Nommez ce segment : `Out-of-stock-Wishlist`
 
 
-Vérifiez le code dans le coin inférieur droit de l’écran Modifier le segment, sous Événements. Le code doit se présenter comme suit :
-
-Code :
-```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
-
-+++
-
-### Créer un e-mail - Réapprovisionnement produit Luma
-
-Avertissez les client(e)s qui ont ajouté un article en rupture de stock avec un appel de démarrage d’achat maintenant que l’article est de nouveau en stock.
-
-### Créer le parcours - Notification de réapprovisionnement du produit
+### 2. Créer le parcours - Notification de réapprovisionnement du produit
 
 Lorsqu’un article précédemment en rupture de stock est de nouveau en stock, avertissez les client(e)s qui ont ajouté un article en rupture de stock avec un appel de démarrage d’achat maintenant que l’article est de nouveau en stock.
 
-1. Créez un parcours appelé « votrenom_Luma - Réapprovisonnement du produit ».
-1. Le parcours doit être déclenché lorsqu’un produit est de nouveau en stock.
-1. Envoyez l’e-mail *Réapprovisionnement de produit Luma* aux
-1. utilisateurs et utilisatrices qui avaient ajouté cet élément à leur liste de souhaits alors qu’il était en rupture de stock.
+1. Appelez le parcours : `Product Restock`
+2. Le parcours doit être déclenché lorsqu’un produit est de nouveau en stock.
+3. Envoyez l’e-mail *Réapprovisionnement de produit Luma* aux
+4. utilisateurs et utilisatrices qui avaient ajouté cet élément à leur liste de souhaits alors qu’il était en rupture de stock.
 
->[!TIP]
->
-> Utilisez l’événement métier existant. Vous devez ajouter une condition qui vérifie que le SKU du réapprovisionnement est inclus dans (n’importe quel) type d’événement enregistrer pour plus tard.
-
-+++**CRITÈRES DE RÉUSSITE**
+>[!TAB Critères de réussite]
 
 Testez votre parcours :
 
@@ -104,9 +76,14 @@ Testez votre parcours :
 
 Vous devriez recevoir l’e-mail « Réapprovisonnement des produits Luma » avec les détails du produit et la personnalisation pour Jenna.
 
-+++
+>[!TAB Vérifier votre travail]
 
-+++**VÉRIFIER VOTRE TRAVAIL**
+Voici à quoi votre segment doit ressembler :
+
+![Segment - Éléments de liste de souhaits en rupture de stock](/help/challenges/assets/C1-S2.png)
+
+
+
 
 Voici à quoi votre parcours doit ressembler :
 
@@ -120,4 +97,29 @@ Code de condition :
 
 ```in(@{LumaProductRestock._wwfovlab065.sku},#{ExperiencePlatform.ExperienceEvents.experienceevent.all(currentDataPackField.eventType=="commerce.saveForLaters").productListItems.all().SKU})```
 
-+++
+
+>[!TIP]
+> * Sélectionnez le SKU sous Enregistrer pour plus tard dans la section *Parcourir les variables*.
+> * Utilisez l’option de comparaison lorsque vous déposez le SKU sous Enregistrer pour plus tard dans le champ d’événement.
+
+
+Vérifiez le code dans le coin inférieur droit de l’écran Modifier le segment, sous Événements. Le code doit se présenter comme suit :
+
+Code :
+```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
+
+>[!ENDTABS]
+
+### Créer un e-mail - Réapprovisionnement produit Luma
+
+Avertissez les client(e)s qui ont ajouté un article en rupture de stock avec un appel de démarrage d’achat maintenant que l’article est de nouveau en stock.
+
+
+
+>[!TIP]
+>
+> Utilisez l’événement métier existant. Vous devez ajouter une condition qui vérifie que le SKU du réapprovisionnement est inclus dans (n’importe quel) type d’événement enregistrer pour plus tard.
+
+
+
+
