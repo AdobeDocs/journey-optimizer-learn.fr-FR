@@ -6,10 +6,11 @@ doc-type: tutorial
 kt: 9382
 role: Admin
 level: Beginner
+hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '341'
 ht-degree: 9%
 
 ---
@@ -35,17 +36,15 @@ Avant de commencer à configurer votre environnement de test de formation, véri
 
 1. Les fichiers JSON contenant les exemples de données, configurés sur votre instance Journey Optimizer :
 
-   1. Téléchargez la `luma-data.zip` fichier [here](/help/tutorial-configure-a-training-sandbox/assets/luma-data.zip), qui contient tous les fichiers JSON requis pour ce tutoriel.
+   1. Téléchargez la `luma-sample-data.zip` fichier [here](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-sample-data.zip), qui contient tous les fichiers JSON requis pour ce tutoriel.
 
    1. Dans votre dossier de téléchargements, déplacez le `luma-data.zip` vers l’emplacement souhaité sur votre ordinateur, puis décompressez-le.
 
-      Il doit y avoir trois fichiers JSON : `luma-crm.json`, `luma-loyalty.json`, `luma-products.json`.
+      Ces fichiers contiennent les exemples de données pour votre environnement de test d’entraînement.
 
-      Ces fichiers contiennent les exemples de données que vous ingérez dans votre environnement de test.
+   2. Ouvrez chaque fichier et recherchez **`yourOrganizationID`** et remplacez-le par [ID d’organisation](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=fr).
 
-   1. Ouvrez chaque fichier et recherchez **`yourOrganizationID`** et remplacez-le par [ID d’organisation](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=fr).
-
-   1. Enregistrez les fichiers.
+   3. Enregistrez les fichiers.
 
 ## Commençons
 

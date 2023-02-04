@@ -6,13 +6,13 @@ doc-type: tutorial
 kt: 9382
 role: Admin
 level: Beginner
-recommendations: noDisplay, noCatalog
 hide: true
+recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
+source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
 workflow-type: tm+mt
-source-wordcount: '1058'
-ht-degree: 8%
+source-wordcount: '1031'
+ht-degree: 9%
 
 ---
 
@@ -56,15 +56,17 @@ Au cours de cette étape, vous définissez la structure des données d’exemple
 
 * [[!DNL Luma Loyalty Schema]](#create-luma-loyalty-schema)
 
-* [[!DNL Luma Product catalog Schema]](#create-luma-product-catalog-schema)
+* [[!DNL Luma Product Catalog Schema]](#create-luma-product-catalog-schema)
 
-* [[!DNL Luma Product Inventory Events]](#create-luma-product-inventory-event-schema)
+* [[!DNL Luma Product Inventory Events] Schéma](#create-luma-product-inventory-event-schema)
 
 * [[!DNL Luma CRM Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
 * [[!DNL Luma Web Events Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
-* [[!DNL Luma Test Profiles Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Offline Purchase Events Schema]](#create-additional-schemas)
+
+* [[!DNL Luma Test Profiles Schema]](#create-additional-schemas)
 
 >[!TIP]
 >
@@ -82,7 +84,6 @@ Commencez par créer le [!DNL Luma Loyalty] schema :
 
 1. Dans le menu déroulant, sélectionnez **[!UICONTROL XDM Individual Profile]**, puisque vous modélisez les attributs d’un client individuel (points, état, etc.).
 
-   ![Créer un schéma](assets/loyaltyCreateSchema.png)
 
 #### Ajouter des groupes de champs existants
 
@@ -110,7 +111,7 @@ Vous êtes ensuite invité à ajouter des groupes de champs au schéma. Vous dev
 
 1. Entrée `Luma Loyalty Schema` comme la propriété [!UICONTROL Nom d’affichage].
 
-#### Créez un [!UICONTROL groupe de champs]
+#### Créer [!UICONTROL groupe de champs]
 
 Pour garantir la cohérence entre les schémas, Adobe recommande de gérer tous les identifiants système dans un seul groupe :
 
@@ -138,7 +139,7 @@ Le nouveau groupe de champs vide est ajouté à votre schéma. Les boutons + vou
 
    * **Nom du champ:** `systemIdentifier`
 
-   * **[!UICONTROL Nom d’affichage]:** `System Identifier`
+   * **[!UICONTROL Nom d’affichage] :**`System Identifier`
 
    * **Type :** Objet
 
@@ -152,7 +153,7 @@ Le nouveau groupe de champs vide est ajouté à votre schéma. Les boutons + vou
 
    | [!UICONTROL Fieldname] | [!UICONTROL Nom d’affichage] | [!UICONTROL Type] |
    |-------------|-----------|----------|
-   | `loyaltyId` | `Loyalty ID` | [!UICONTROL Chaîne] |
+   | `loyaltyId` | `Loyalty Id` | [!UICONTROL Chaîne] |
    | `crmId` | `CRM Id` | [!UICONTROL Chaîne] |
 
 ![fields](./assets/add_fields.png)
@@ -239,15 +240,16 @@ Vous disposez désormais de la variable [!UICONTROL namespace] et le [!DNL Luma 
 
    | [!UICONTROL Fieldname] | [!UICONTROL Nom d’affichage] | [!UICONTROL Type] |
    |-------------|-----------|----------|
-   | `sku` | `SKU` | [!UICONTROL Chaîne] |
-   | `name` | `Name` | [!UICONTROL Chaîne] |
-   | `category` | `Category` | [!UICONTROL Chaîne] |
-   | `color` | `Color` | [!UICONTROL Chaîne] |
-   | `size` | `Size` | [!UICONTROL Chaîne] |
-   | `price` | `Price` | [!UICONTROL Double] |
-   | `description` | `Description` | [!UICONTROL Chaîne] |
-   | `ImageURL` | `Image URL` | [!UICONTROL Chaîne] |
-   | `stockQuantity` | `Stock Quantity` | [!UICONTROL Chaîne] |
+   | `sku` | `Product SKU` | [!UICONTROL Chaîne] |
+   | `name` | `Product Name` | [!UICONTROL Chaîne] |
+   | `category` | `Product Category` | [!UICONTROL Chaîne] |
+   | `color` | `Product Color` | [!UICONTROL Chaîne] |
+   | `size` | `Product Size` | [!UICONTROL Chaîne] |
+   | `price` | `Product Price` | [!UICONTROL Double] |
+   | `description` | `Product Description` | [!UICONTROL Chaîne] |
+   | `imageURL` | `Product Image URL` | [!UICONTROL Chaîne] |
+   | `stockQuantity` | `Product Stock Quantity` | [!UICONTROL Chaîne] |
+   | `url` | `Product URL` | [!UICONTROL Chaîne] |
 
 1. Définissez la variable **[!DNL SKU]** comme identité Principale
 1. Ajoutez la variable **[!UICONTROL Nom d’affichage]** `Luma Product Catalog Field Group` au [!UICONTROL groupe de champs].
@@ -301,17 +303,17 @@ Vous disposez désormais de la variable [!UICONTROL namespace] et le [!DNL Luma 
 
    3. Activer **[!UICONTROL Enum]**.
 
-   4. Entrée **[!UICONTROL values] ([!UICONTROL label)]**: `restock` (`restock`).
+   4. Entrée **[!UICONTROL values] ([!UICONTROL label)]**: `restock` (`Restock`).
 
    5. Sélectionner **[!UICONTROL Ajouter une ligne]**.
 
-   6. Entrée **[!UICONTROL values] ([!UICONTROL label)]**: `outOfStock` (`out of stock`).
+   6. Entrée **[!UICONTROL values] ([!UICONTROL label)]**: `outOfStock` (`Out of Stock`).
 
    7. Sélectionner **[!UICONTROL Appliquer]**.
 
       ![enum](assets/enum.png)
 
-1. Définir `productId` champ comme **[!UICONTROL Principale identité]** using **[!DNL Luma Product namespace]**.
+1. Définir `inventory.Event.sku` champ comme **[!UICONTROL Principale identité]** en utilisant la variable **[!DNL LumaProductSKU namespace]**.
 
 1. Sélectionnez la `sku` et définir une relation avec la propriété `product.sku` dans le champ **[!DNL Luma Product catalog Schema]** Schéma :
 
@@ -319,9 +321,9 @@ Vous disposez désormais de la variable [!UICONTROL namespace] et le [!DNL Luma 
 
    2. Activer **[!UICONTROL Relation]**.
 
-      1. **[!UICONTROL Schéma de référence]**: [!DNL Luma Product catalog Schema].
+      1. **[!UICONTROL Schéma de référence]**: [!DNL Luma Product Catalog Schema].
 
-      2. **[!UICONTROL Espace de noms d’identité de référence]**: [!DNL Luma Product].
+      2. **[!UICONTROL Espace de noms d’identité de référence]**: [!DNL LumaProductSKU].
    3. Sélectionner **[!UICONTROL Appliquer]**.
 
       Le schéma doit se présenter comme suit :
@@ -333,18 +335,17 @@ Vous disposez désormais de la variable [!UICONTROL namespace] et le [!DNL Luma 
 
 1. Sélectionner [!UICONTROL Enregistrer] pour enregistrer le schéma.
 
-### Créez le [!DNL Luma CRM] et [!DNL Luma Product Interactions] schémas {#create-luma-crm-and-luma-product-interactions-schemas}
+### Création de schémas supplémentaires {#create-additional-schemas}
 
 Créez les [!UICONTROL schémas]:
 
-| [!UICONTROL Nom d’affichage] | [!DNL Luma CRM] | [!DNL Luma Product Interactions] | [!DNL Luma Test Profiles] |
-|  ---| ------- | ---- |----|
-| **[!UICONTROL Type]** | [!UICONTROL XDM Individual Profile] | [!UICONTROL Événement d’expérience XDM] | [!UICONTROL XDM Individual Profile] |
-| **[!UICONTROL Ajouter un groupe de champs existant]** | Identifiants Luma<br>Détails démographiques<br>Détails du contact personnel | Mappage d’identités<br>Détails du commerce | Identifiants Luma<br>Détails démographiques<br>Détails du contact personnel<br>Détails du test de profil |
-| **[!UICONTROL Relation]** |  | *[!DNL productListItems.SKU]*:<br> Schéma de référence *[!DNL Luma Product catalog Schema]* <br>[!DNL Reference identity namespace] *[!DNL Luma Product]* schema |
-| **[!UICONTROL Identité Principal] [!UICONTROL namespace])** | systemIdentifier.crmId<br>(Identifiant Luma CRM) |  | personalEmail.address<br>(Email) |
-| **[!UICONTROL Identité Secondaire] [!UICONTROL namespace]** | personalEmail.address (Email)<br>mobilePhone.number (Phone) |  |
-| **[!UICONTROL Activer pour le profil]** | oui | oui | oui |
+| [!UICONTROL Nom d’affichage] | [!DNL Luma CRM Schema] | [!DNL Luma Web Events Schema] | [!DNL Luma Test Profiles schema] | [!DNL Luma Offline Purchase Events Schema] |
+|  ---| ------- | ---- |----|----|
+| **[!UICONTROL Classe]** | [!UICONTROL XDM Individual Profile] | [!UICONTROL Événement d’expérience XDM] | [!UICONTROL XDM Individual Profile] | [UICONTROL XDM ExperienceEvent] |
+| **[!UICONTROL Ajouter un groupe de champs existant]** | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details` | `Orchestration eventID`<br>`Consumer Experience Event`,br>`AEP Web SDK ExperienceEvent` | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details` | `Luma Identity Profile Field Group` <br>`Commerce Details` |
+| **[!UICONTROL Relation]** |  | `productListItems.SKU`:<br> Schéma de référence `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |  | `productListItems.SKU`:<br> Schéma de référence `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |
+| **[!UICONTROL Identité Principal] [!UICONTROL namespace])** | `systemIdentifier.crmId` |  | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
+| **[!UICONTROL Activer pour le profil]** | oui | oui | oui | oui |
 
 ## Étapes suivantes
 
