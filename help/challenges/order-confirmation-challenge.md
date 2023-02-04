@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 02625ddf2348f2754c821c8e49a1e70154fd6e63
+source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '653'
+ht-degree: 50%
 
 ---
 
@@ -42,7 +42,6 @@ Créez un parcours qui envoie un e-mail de confirmation de commande lorsqu’un(
 1. Créez un parcours appelé `Luma - Order Confirmation`.
 2. Utilisez l’événement : `LumaOnlinePurchase`
 3. Créez un **transactionnel**  email appelé `Luma - Order Confirmation`
-
 * L’objet &quot;Merci pour votre achat, `FirstName`&quot;
 * Utilisez le modèle `Luma - Order summary` et modifiez-le :
    * Supprimez le `You may also like` sections
