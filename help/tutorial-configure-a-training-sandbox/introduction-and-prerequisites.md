@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
+source-git-commit: 8538fbc0a4e33991ce1f65aeb92d29cc4ac51a56
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 9%
@@ -41,4 +41,6 @@ Avant de commencer à configurer votre environnement de test de formation, véri
 
 ## Commençons
 
-Commencez par le [Configuration manuelle des données](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md). Au cours de cette étape, vous définissez la structure de données requise. Une fois la configuration de données terminée, vous pouvez ingérer des données dans votre environnement de test, puis configurer des événements.
+Commencez par le [Configuration manuelle des données](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md).
+
+Au cours de cette étape, vous définissez la structure de données requise. Une fois la configuration de données terminée, vous pouvez ingérer des données dans votre environnement de test, puis configurer des événements.
