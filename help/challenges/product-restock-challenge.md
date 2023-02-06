@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 2f7074e5d9109cdbc1db69f6f5c48667b2276da7
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 83%
+source-wordcount: '580'
+ht-degree: 69%
 
 ---
 
@@ -19,12 +19,12 @@ ht-degree: 83%
 | Défi | Réapprovisionnement du produit |
 |---|---|
 | Personne | Gestionnaire de parcours |
-| Compétences requises | <ul><li>[Créer des segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=fr)</li><li> [Importer et créer du contenu d’e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=fr)</li><li>[Cas d’utilisation : lecture de segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=fr)</li> |
+| Compétences requises | <ul><li>[Créer des segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=fr)</li><li> [Importer et créer du contenu d’e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=en)</li><li>[Cas d’utilisation : lecture de segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=fr)</li> |
 | Ressources à télécharger | [Fichier d’email de redémarrage de produit](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## L’histoire
 
-Lorsqu’ils visitent le site web Luma, les client(e)s peuvent ajouter les produits qui les intéressent à une liste de souhaits. De cette manière, Luma peut envoyer aux client(e)s des messages marketing ciblés et des informations sur les produits.
+Lorsque vous parcourez le site web Luma, les clients peuvent ajouter des produits qui les intéressent à une liste de souhaits, ce qui permet à Luma d’envoyer aux clients des messages marketing ciblés et des informations sur les produits.
 
 ## Votre défi
 
@@ -39,7 +39,7 @@ Luma vous demande d’implémenter un parcours dans Journey Optimizer qui avert
 Pour cibler les clients potentiels intéressés lors du redémarrage de produits, créez un segment composé de clients :
 
 * Qui ont ajouté au moins un élément à sa liste de souhaits (utilisez le type d’événement : [!UICONTROL Commerce Save For Latest])
-* lequel était en rupture de stock au cours des 3 derniers mois (utilisez quantité en stock = 0),
+* Qui était en rupture de stock au cours des trois derniers mois (utiliser la quantité en stock = 0)
 * et n’ont pas acheté l’article depuis.
 
 >[!TIP]
@@ -54,7 +54,7 @@ Lorsqu’un article précédemment en rupture de stock est de nouveau en stock, 
 
 1. Appelez le parcours : `Product Restock`
 2. Le parcours doit être déclenché lorsqu’un produit est de nouveau en stock.
-3. Envoyez la variable *Email de redémarrage de produit* envoyer par courrier électronique à
+3. Envoyez la variable *Email de redémarrage de produit* to
 4. utilisateurs et utilisatrices qui avaient ajouté cet élément à leur liste de souhaits alors qu’il était en rupture de stock.
 
 >[!TAB Critères de réussite]
@@ -116,7 +116,7 @@ Avertissez les client(e)s qui ont ajouté un article en rupture de stock avec un
 
 >[!TIP]
 >
-> Utilisez l’événement métier existant. Vous devez ajouter une condition qui vérifie que le SKU du réapprovisionnement est inclus dans (n’importe quel) type d’événement enregistrer pour plus tard.
+> Utilisez l’événement métier existant. Ajoutez une condition qui vérifie que le SKU du réapprovisionnement est inclus dans (n’importe quel) type d’événement save pour les laters.
 
 
 
