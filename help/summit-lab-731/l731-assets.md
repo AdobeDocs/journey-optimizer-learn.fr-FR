@@ -8,10 +8,10 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: 417efd939d9b2cbb0867854b9918175ca1bf4052
+source-git-commit: ce271a2bbddd7cd36d773cc9360d9a0724f0c77d
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 7%
+source-wordcount: '160'
+ht-degree: 6%
 
 ---
 
@@ -22,7 +22,7 @@ Cette page comporte du texte et des liens utilisés dans le laboratoire du somme
 
 ## Leçon 1 - Téléchargement et installation de l’application
 
-http://ajolab.s3-website-us-east-1.amazonaws.com/index.html
+[http://ajolab.s3-website-us-east-1.amazonaws.com/index.html](http://ajolab.s3-website-us-east-1.amazonaws.com/index.html)
 
 ## Leçon 2 - Créer des campagnes mobiles
 
