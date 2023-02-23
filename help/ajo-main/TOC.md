@@ -1,10 +1,10 @@
 ---
 user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: Ce sont des Tutorials Journey Optimizer.
-source-git-commit: ac590d04a50f20f3767d82c17f9548a372044b6b
+user-guide-description: Il s’agit des tutoriels de Journey Optimizer.
+source-git-commit: 31b554c145e78f1486e43dfb5f84d74751a0b966
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '294'
 ht-degree: 93%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 93%
    + [Fonctionnalités mobiles pour les spécialistes du marketing](/help/channels/mobile-capabilities.md)
    + [Fonctionnalités mobiles pour les développeurs](/help/channels/mobile-capabilities-for-developers.md)
 + Campagnes {#create-campaigns}
-   + [Création d’une campagne](/help/create-campaigns/create-a-campaign.md)
+   + [Créer une campagne](/help/create-campaigns/create-a-campaign.md)
 + Parcours {#create-journeys}
    + [Vue d’ensemble de la zone de travail du parcours](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Présentation de la création d’un parcours](/help/create-journeys/introduction-to-building-a-journey.md)
@@ -37,7 +37,7 @@ ht-degree: 93%
    + [Créer du contenu avec le Concepteur d&#39;e-mail](/help/channels/create-content-with-the-email-designer.md)
    + [Importation et création de contenu d’e-mail HTML](/help/channels/import-and-author-html-email-content.md)
    + [Aperçu, BAT et publication](/help/channels/preview-proof-and-publish.md)
-   + [Modèles de contenu ](/help/channels/content-templates.md)
+   + [Modèles de contenu](/help/channels/content-templates.md)
 + Canal In App{#in-app-channel}
    + [Messages in-app pour les campagnes](/help/channels/in-app-messaging-for-campaigns.md)
    + [Créer un message in-app](/help/channels/author-in-app-messages.md)
@@ -91,3 +91,4 @@ ht-degree: 93%
    + [Création et gestion d’environnements Sandbox](/help/set-up-access/create-and-manage-sandboxes.md)
 + Confidentialité {#privacy}
    + [Masquer les données dans les messages](/help/privacy/mask-data-in-messages.md)
++ [Summit Lab 2023 - Assets](/help/summit-lab-731/l731-assets.md)
