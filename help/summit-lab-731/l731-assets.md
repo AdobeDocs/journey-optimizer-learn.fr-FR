@@ -8,13 +8,13 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: ce271a2bbddd7cd36d773cc9360d9a0724f0c77d
+exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
+source-git-commit: 5557b1d2005c62ce738120e80c3450545725ba65
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '178'
 ht-degree: 6%
 
 ---
-
 
 # Summit Lab L731
 
@@ -38,7 +38,12 @@ Cette page comporte du texte et des liens utilisés dans le laboratoire du somme
 
 ## Leçon 3 - Création d’un Parcours omnicanal
 
-| Message | Texte | Liens |
+| Message | Texte | Liens | Image |
 |----|----|----|
 | SMS | Bienvenue à Vegas Rester. Ignorez la ligne et archivez-vous avec l’application mobile : lab://checkin |  |
-| Push | Bienvenue à Vegas Rester. Ignorer la ligne et archiver avec l’application mobile | lab://checkin |
+| Push | Bienvenue à Vegas Rester. Ignorer la ligne et archiver avec l’application mobile | lab://checkin |  |
+
+
+Il s&#39;agit de l&#39;image que nous utilisons pour le SMS et la notification push :
+
+![Archivage en ligne](/help/assets/vegas_online_check_in.jpeg)
