@@ -8,9 +8,9 @@ level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
 source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '580'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
@@ -19,49 +19,49 @@ ht-degree: 69%
 | Défi | Réapprovisionnement du produit |
 |---|---|
 | Personne | Gestionnaire de parcours |
-| Compétences requises | <ul><li>[Créer des segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=fr)</li><li> [Importer et créer du contenu d’e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=en)</li><li>[Cas d’utilisation : lecture de segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=fr)</li> |
-| Ressources à télécharger | [Fichier d’email de redémarrage de produit](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
+| Compétences requises | <ul><li>[Créer des segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=fr)</li><li> [Importer et créer du contenu d’e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=fr)</li><li>[Cas d’utilisation : lecture de segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=fr)</li> |
+| Ressources à télécharger | [Fichier d’e-mail de réapprovisionnement de produit](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## L’histoire
 
-Lorsque vous parcourez le site web Luma, les clients peuvent ajouter des produits qui les intéressent à une liste de souhaits, ce qui permet à Luma d’envoyer aux clients des messages marketing ciblés et des informations sur les produits.
+Lorsque vous parcourez le site web Luma, les clientes et clients peuvent ajouter des produits qui les intéressent à une liste de souhaits, ce qui permet à Luma d’envoyer aux clientes et clients des messages de marketing ciblés et des informations sur les produits.
 
 ## Votre défi
 
-Luma vous demande d’implémenter un parcours dans Journey Optimizer qui avertit les client(e)s qui ont un élément sur leur liste de souhaits précédemment en rupture de stock, lorsque cet élément est de nouveau en stock. L’équipe créative vous fournit les [Fichier d’email de redémarrage de produit](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip).
+Luma vous demande d’implémenter un parcours dans Journey Optimizer qui avertit les clientes et clients qui ont un élément précédemment en rupture de stock sur leur liste de souhaits, lorsque cet élément est de nouveau en stock. L’équipe créative vous fournit le [fichier d’email de réapprovisionnement de produit](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip).
 
 >[!BEGINTABS]
 
 >[!TAB Tâche]
 
-## 1. Définition du segment - Éléments de liste blanche en rupture de stock
+## 1. Définir le segment - Éléments de liste de souhaits en rupture de stock
 
-Pour cibler les clients potentiels intéressés lors du redémarrage de produits, créez un segment composé de clients :
+Pour cibler les clientes et les clients potentiels intéressés lors du réapprovisionnement de produits, créez un segment qui se compose de clientes et clients :
 
-* Qui ont ajouté au moins un élément à sa liste de souhaits (utilisez le type d’événement : [!UICONTROL Commerce Save For Latest])
-* Qui était en rupture de stock au cours des trois derniers mois (utiliser la quantité en stock = 0)
+* qui ont ajouté au moins un élément à leur liste de souhaits (utilisez le type d’événement : [!UICONTROL Enregistrer pour plus tard Commerce]),
+* lequel était en rupture de stock au cours des 3 derniers mois (utilisez quantité en stock = 0),
 * et n’ont pas acheté l’article depuis.
 
 >[!TIP]
->Excluez de tous les types d’événement Achats où le SKU correspond au SKU de la variable *Événement enregistrer pour plus tard*. Vous trouverez le champ dans le *Parcourir les variables* .
+>Excluez de tous les types d’événement Achats où le SKU correspond au SKU de la variable *Événement enregistrer pour plus tard*. Vous trouverez le champ dans la section *Parcourir les variables*.
 
-Nommez ce segment : `Out-of-stock-Wishlist`
+Nommez ce segment : `Out-of-stock-Wishlist`.
 
 
-### 2. Créer le parcours - Notification de réapprovisionnement du produit
+### 2. Créer le parcours - Notification de réapprovisionnement du produit
 
-Lorsqu’un article précédemment en rupture de stock est de nouveau en stock, avertissez les client(e)s qui ont ajouté un article en rupture de stock avec un appel de démarrage d’achat maintenant que l’article est de nouveau en stock.
+Lorsqu’un article précédemment en rupture de stock est de nouveau en stock, avertissez les clientes et clients qui ont ajouté un article en rupture de stock avec un appel au démarrage d’achat maintenant que l’article est de nouveau en stock.
 
-1. Appelez le parcours : `Product Restock`
+1. Appelez le parcours : `Product Restock`.
 2. Le parcours doit être déclenché lorsqu’un produit est de nouveau en stock.
-3. Envoyez la variable *Email de redémarrage de produit* to
+3. Envoyez l’*e-mail de réapprovisionnement du produit* aux
 4. utilisateurs et utilisatrices qui avaient ajouté cet élément à leur liste de souhaits alors qu’il était en rupture de stock.
 
 >[!TAB Critères de réussite]
 
 Testez votre parcours :
 
-1. Assurez-vous que l’événement de segment lu comporte l’espace de noms = `Luma CRM ID`
+1. Assurez-vous que l’événement de segment lu comporte l’espace de noms = `Luma CRM ID`.
 1. Remplacez les paramètres d’e-mail par défaut et définissez-les sur votre propre adresse e-mail (voir e-mail #1 pour obtenir des instructions).
 1. Définir le parcours en mode test
 1. Déclencher un événement - Saisissez les données suivantes :
@@ -116,7 +116,7 @@ Avertissez les client(e)s qui ont ajouté un article en rupture de stock avec un
 
 >[!TIP]
 >
-> Utilisez l’événement métier existant. Ajoutez une condition qui vérifie que le SKU du réapprovisionnement est inclus dans (n’importe quel) type d’événement save pour les laters.
+> Utilisez l’événement métier existant. Ajoutez une condition qui vérifie que le SKU du réapprovisionnement est inclus dans le type d’événement enregistrer pour plus tard (n’importe lequel).
 
 
 
