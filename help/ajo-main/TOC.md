@@ -1,11 +1,11 @@
 ---
 user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: Il s’agit des tutoriels de Journey Optimizer.
+user-guide-description: Voici les tutoriels pour Journey Optimizer.
 source-git-commit: 3bc6680939544f5c4e054a658d1e17e077b9fa63
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -38,11 +38,11 @@ ht-degree: 94%
    + [Importation et création de contenu d’e-mail HTML](/help/channels/import-and-author-html-email-content.md)
    + [Aperçu, BAT et publication](/help/channels/preview-proof-and-publish.md)
    + [Modèles de contenu](/help/channels/content-templates.md)
-+ Canal In App{#in-app-channel}
++ Canal in-app{#in-app-channel}
    + [Messages in-app pour les campagnes](/help/channels/in-app-messaging-for-campaigns.md)
    + [Créer un message in-app](/help/channels/author-in-app-messages.md)
 + Canal SMS{#sms-channel}
-   + [Création et diffusion de messages SMS](/help/channels/author-and-deliver-sms-messages.md)
+   + [Créer et diffuser des messages SMS](/help/channels/author-and-deliver-sms-messages.md)
    + [Prise en charge des mots-clés entrants pour les SMS](/help/channels/inbound-keyword-support-for-sms.md)
 + Profils client, segments et abonnements {#profiles-segments-subscriptions}
    + [Profil unifié et segmentation - Vue d’ensemble](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
@@ -80,7 +80,7 @@ ht-degree: 94%
    + Configurer des canaux {#channel-configuration}
       + [Configurer un canal e-mail](/help/set-up-channels/set-up-email-channel.md)
       + [Délégation de sous-domaines CName](/help/set-up-channels/delegate-cname-subdomains.md)
-      + [Configuration des informations d’identification de l’API SMS et des surfaces des canaux](/help/set-up-channels/set-up-sms-channel.md)
+      + [Configurer des informations d’identification de l’API SMS et des surfaces de canal](/help/set-up-channels/set-up-sms-channel.md)
       + [Configurer les règles de fréquence des messages](/help/administration/configure-frequency-rules.md)
    + Configurer des parcours {#journey-configuration}
    + [Configurer les sources de données](/help/set-up-journeys/configure-data-sources.md)
