@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 5557b1d2005c62ce738120e80c3450545725ba65
+source-git-commit: 16031e0e4ef29f5243a7a2e933aa83d7b1fbd7ac
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 6%
+source-wordcount: '188'
+ht-degree: 5%
 
 ---
 
@@ -38,12 +38,12 @@ Cette page comporte du texte et des liens utilisés dans le laboratoire du somme
 
 ## Leçon 3 - Création d’un Parcours omnicanal
 
-| Message | Texte | Liens | Image |
-|----|----|----|
+| Message | Texte | Lien profond | Média |
+|----|----|----|----|
+| Push | Bienvenue à Vegas Rester. Ignorer la ligne et archiver avec l’application mobile | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
 | SMS | Bienvenue à Vegas Rester. Ignorez la ligne et archivez-vous avec l’application mobile : lab://checkin |  |
-| Push | Bienvenue à Vegas Rester. Ignorer la ligne et archiver avec l’application mobile | lab://checkin |  |
 
 
 Il s&#39;agit de l&#39;image que nous utilisons pour le SMS et la notification push :
 
-![Archivage en ligne](/help/assets/vegas_online_check_in.jpeg)
+![Archivage en ligne](/help/assets/vegas_online_check_in.jpg)
