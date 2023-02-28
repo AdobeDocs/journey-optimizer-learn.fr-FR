@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 01216aba7c23af67ad131aa24f017f95e6fa9025
+source-git-commit: b9c836756122dd555cbc1e6150f91e5e5ff9b176
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 5%
+source-wordcount: '219'
+ht-degree: 6%
 
 ---
 
@@ -38,10 +38,12 @@ Cette page comporte du texte et des liens utilisés dans le laboratoire du somme
 
 | Champ | Texte | Liens |
 |----|----|----|
+| Nom de la campagne | `<your seat number> March Vegas Campaign` |  |
 | Option URL du média |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
 | Title | C&#39;est en train d&#39;arriver et c&#39;est en direct ! |  |
 | Corps | Les Adobes Summit reviennent à Las Vegas du 21 au 23 mars 2023. Préparez-vous à des conférenciers stimulants, à des sessions d&#39;expansion des compétences et à de nouvelles connexions. |  |
 | Bouton | Réservez dès maintenant un hôtel et économisez 10 % | lab://booking?suite=presidential&amp;discount=10 |
+| URL de base |  | lab:// |
 
 
 
