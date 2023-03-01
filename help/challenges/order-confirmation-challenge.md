@@ -1,16 +1,16 @@
 ---
 title: Créer un e-mail de confirmation de commande
-description: Tester vos connaissances sur la création et la personnalisation de messages transactionnels
+description: Tester vos connaissances sur la création et la personnalisation de messages transactionnels.
 kt: 7531
 feature: Journeys
 role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
-workflow-type: ht
-source-wordcount: '653'
-ht-degree: 100%
+source-git-commit: 6737f81f9cd9fc34740ce60e10c8036e29f97f68
+workflow-type: tm+mt
+source-wordcount: '657'
+ht-degree: 93%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 100%
 | Compétences requises | <ul><li>[Créer un contenu d’e-mail avec l’éditeur de messages](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=fr)</li> <li>[Utiliser des informations d’événement contextuelles pour la personnalisation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=fr)</li><li>[Utiliser des fonctions d’assistance pour la personnalisation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=fr)</li></ul> |
 | Ressources à télécharger | [Ressources de confirmation de commande](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
+{style=&quot;table-layout:auto&quot;}
+
 ## L’histoire
 
-Luma lance sa boutique en ligne et souhaite garantir une bonne expérience client en proposant un e-mail de confirmation de commande une fois qu’un(e) client(e) a passé une commande.
-
-
+Luma lance sa boutique en ligne et souhaite garantir une expérience client optimale. Ils fournissent un email de confirmation de commande une fois qu’un client a passé une commande.
 
 ## Votre défi
 
@@ -40,19 +40,25 @@ Créez un parcours qui envoie un e-mail de confirmation de commande lorsqu’une
 >[!TAB Tâche]
 
 1. Créez un parcours appelé `Luma - Order Confirmation`.
-2. Utilisez l’événement : `LumaOnlinePurchase`.
-3. Créez un e-mail **transactionnel** appelé `Luma - Order Confirmation`.
-* Avec comme objet : « Merci pour votre achat, `FirstName` ».
-* Utilisez le modèle `Luma - Order summary` et modifiez-le :
-   * Supprimez les sections `You may also like`.
-   * Ajoutez le lien de désabonnement au bas de l’e-mail.
+
+1. Utilisez l’événement : `LumaOnlinePurchase`.
+
+1. Créez un **transactionnel**  email appelé `Luma - Order Confirmation`.
+
+   * Avec comme objet : « Merci pour votre achat, `FirstName` ».
+
+   * Utilisez le modèle `Luma - Order summary` et modifiez-le :
+
+      * Supprimez les sections `You may also like`.
+
+      * Ajoutez le lien de désabonnement au bas de l’e-mail.
 
 L’e-mail doit être structuré comme suit :
 <table>
 <tr>
 <td>
   <div>
-     <strong>Section d’en-tête</strong>
+     <strong> Section d’en-tête</strong>
       </div>
   </td>
   <td>
@@ -65,7 +71,8 @@ L’e-mail doit être structuré comme suit :
   <tr>
   <td>
   <div>
-    <strong>Section de confirmation de commande</strong>
+    <strong>Section de confirmation de commande
+    </strong>
   </td>
   <td>
     <p>
@@ -74,7 +81,7 @@ L’e-mail doit être structuré comme suit :
    <div>
     <p>
      <em>Votre commande a été passée.
-    <p>Une fois votre paquet envoyé, nous vous enverrons un e-mail avec un numéro de suivi afin que vous puissiez suivre votre commande.</p></em>
+    <p>Une fois votre colis envoyé, nous vous enverrons un e-mail avec un numéro de suivi afin que vous puissiez suivre votre commande.</p></em>
     </strong>
     </tr>
   </td>
@@ -97,7 +104,7 @@ L’e-mail doit être structuré comme suit :
  <tr>
 <td>
   <div>
-     <strong>Section d’informations sur la commande</strong>
+     <strong>Section Détails de la commande</strong>
       </div>
        <p><li>Ajoutez cette section sous la section <b>Adresse de livraison</b>.
       </p><br>
@@ -124,7 +131,6 @@ L’e-mail doit être structuré comme suit :
   </tr>
 </table>
 
-
 >[!TIP]
 >
 >Pour vous permettre de résoudre les problèmes de vos parcours, il est recommandé d’ajouter un autre chemin d’accès à toutes les actions de message en cas d’expiration ou d’erreur.
@@ -135,11 +141,11 @@ Déclenchez le parcours que vous avez créé en mode test et envoyez l’e-mail 
 
 1. Avant de passer en mode test, remplacez les paramètres d‘e-mail pour envoyer l’email de test à votre adresse e-mail :
    1. Ouvrez la vue Détails de l’e-mail.
-   2. Dans la section des paramètres de l’e-mail, cliquez sur le symbole T (activer le remplacement de paramètre).
-   3. Cliquez dans le champ Adresse.
-   4. Dans l’écran suivant, ajoutez votre adresse e-mail entre parenthèses : *« votrenom@votredomaine »* dans l’éditeur d’expression, puis cliquez sur OK.
-2. Mettez le parcours en mode test.
-3. Déclenchez l’événement avec les paramètres suivants :
+   1. Dans la section des paramètres de l’e-mail, cliquez sur le symbole T (activer le remplacement de paramètre).
+   1. Cliquez dans le champ Adresse.
+   1. Dans l’écran suivant, ajoutez votre adresse e-mail entre parenthèses : *« votrenom@votredomaine »* dans l’éditeur d’expression, puis cliquez sur OK.
+1. Mettez le parcours en mode test.
+1. Déclenchez l’événement avec les paramètres suivants :
    * Définissez l’identifiant de profil sur : valeur d’identité :`a8f14eab3b483c2b96171b575ecd90b1`
    * Type d’événement : commerce.purchases
    * `Quantity` : 1
