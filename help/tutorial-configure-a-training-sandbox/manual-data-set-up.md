@@ -9,10 +9,10 @@ level: Beginner
 hide: true
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
+source-git-commit: 4df1bdca81a585f728aa68519aa7ec7cd0c2f014
 workflow-type: tm+mt
-source-wordcount: '1027'
-ht-degree: 9%
+source-wordcount: '1020'
+ht-degree: 11%
 
 ---
 
@@ -29,7 +29,7 @@ Au cours de cette étape, vous créez des espaces de noms d’identité pour le 
 
 Commencez par créer un [!UICONTROL namespace] pour le [!DNL Luma Loyalty ID] schema :
 
-1. Dans l’interface utilisateur de Journey Optimizer, accédez à ***[!UICONTROL Client]** > **[!UICONTROL Identités]** dans le volet de navigation de gauche.
+1. Dans l’interface utilisateur de Journey Optimizer, accédez à **[!UICONTROL Client]** > **[!UICONTROL Identités]** dans le volet de navigation de gauche.
 
 1. Sélectionner **[!UICONTROL Créer un espace de noms d’identité]**.
 
@@ -72,28 +72,27 @@ Au cours de cette étape, vous définissez la structure des données d’exemple
 >
 >Regardez le tutoriel vidéo : [Création d’un schéma](/help/set-up-data/create-schema.md) avant de commencer.
 
-### Créer [!DNL Luma Loyalty] [!UICONTROL Schéma] {#create-luma-loyalty-schema}
+### Créer [!DNL Luma Loyalty Schema] {#create-luma-loyalty-schema}
+
+Cette section décrit comment créer le [!DNL Luma Loyalty] schéma et configuration des groupes de champs.
 
 #### Création du schéma
-
-Commencez par créer le [!DNL Luma Loyalty] schema :
 
 1. Accédez à **[!UICONTROL GESTION DES DONNÉES]** > **[!UICONTROL Schémas]** dans le volet de navigation de gauche.
 
 1. Sélectionner **[!UICONTROL Création d’un schéma]** en haut à droite.
 
-1. Dans le menu déroulant, sélectionnez **[!UICONTROL XDM Individual Profile]**, puisque vous modélisez les attributs d’un client individuel (points, état, etc.).
+1. Dans le menu déroulant, sélectionnez **[!UICONTROL XDM Individual Profile]**.
 
+   Vous sélectionnez cette option car vous modélisez les attributs d’un client (points, statut, etc.).
 
 #### Ajouter des groupes de champs existants
 
-Vous êtes ensuite invité à ajouter des groupes de champs au schéma. Ajoutez tous les champs aux schémas à l’aide de groupes. Vous ajoutez des groupes de champs existants et vous devez en créer un.
+Vous êtes ensuite invité à ajouter des groupes de champs au schéma à l’aide de groupes. Vous devez ajouter des groupes de champs existants et créer un groupe de champs.
 
->[!NOTE]
->
->Si la variable [!UICONTROL Groupes de champs] modal ne s’ouvre pas automatiquement sur le [!UICONTROL Schémas] page, sélectionnez **[!UICONTROL Ajouter]** (comme illustré ci-dessous).
+1. Sur le [!UICONTROL Schéma] , si le modal de groupes de champs ne s’ouvrait pas automatiquement, sélectionnez **[!UICONTROL Ajouter]**.
 
-![Ajouter un groupe de champs](assets/add_field_group.png)
+   ![Ajouter un groupe de champs](assets/add_field_group.png)
 
 1. Sur le **[!UICONTROL Ajouter des groupes de champs]** , activez les groupes de champs suivants :
 
@@ -109,9 +108,9 @@ Vous êtes ensuite invité à ajouter des groupes de champs au schéma. Ajoutez 
 
 1. Sélectionnez le noeud supérieur du schéma.
 
-1. Entrée `Luma Loyalty Schema` comme la propriété [!UICONTROL Nom d’affichage].
+1. Entrée `Luma Loyalty Schema` comme la propriété **[!UICONTROL Nom d’affichage]**.
 
-#### Créez un [!UICONTROL groupe de champs]
+#### Créez un [!UICONTROL groupe de champs] {#create-field-group}
 
 Pour garantir la cohérence entre les schémas, Adobe recommande de gérer tous les identifiants système dans un seul groupe :
 
@@ -123,7 +122,7 @@ Pour garantir la cohérence entre les schémas, Adobe recommande de gérer tous 
 
 1. Ajouter `system identifiers for XDM Individual Profile class` comme la propriété **[!UICONTROL Description]**.
 
-1. Sélectionner **[!UICONTROL Ajouter des groupes de champs]**.
+1. Sélectionnez **[!UICONTROL Ajouter des groupes de champs]**.
 
    ![Créer un groupe de champs](assets/addnewfieldgroup.png)
 
@@ -145,7 +144,7 @@ Le nouveau groupe de champs vide est ajouté à votre schéma. Les boutons + vou
 
    * **[!UICONTROL Attribuer un groupe de champs]:** [!DNL Luma identifiers]
 
-1. Sélectionner **[!UICONTROL Appliquer]**.
+1. Sélectionnez **[!UICONTROL Appliquer]**.
 
    ![Ajouter un identifiant de système](assets/addsysteidentifier.png)
 
@@ -176,7 +175,7 @@ Vous disposez désormais de la variable [!UICONTROL namespace] et le [!DNL Luma 
 
    5. Sélectionnez la `Luma Loyalty Id` namespace de **[!UICONTROL Espaces de noms d’identité]** menu déroulant.
 
-   6. Sélectionner **[!UICONTROL Appliquer]**.
+   6. Sélectionnez **[!UICONTROL Appliquer]**.
 
       ![Principale identité](/help/tutorial-configure-a-training-sandbox/assets/primary_identity.png)
 
@@ -192,7 +191,7 @@ Vous disposez désormais de la variable [!UICONTROL namespace] et le [!DNL Luma 
 
    4. Sélectionnez la `Luma CRM Id` namespace de **[!UICONTROL Espaces de noms d’identité]** menu déroulant.
 
-   5. Sélectionner **[!UICONTROL Appliquer]**.
+   5. Sélectionnez **[!UICONTROL Appliquer]**.
 
 #### Activation pour le profil et enregistrement du schéma
 
@@ -206,21 +205,21 @@ Vous disposez désormais de la variable [!UICONTROL namespace] et le [!DNL Luma 
 
 1. Sélectionnez **[!UICONTROL Enregistrer]**.
 
-### Créer [!DNL Luma Product catalog Schema] {#create-luma-product-catalog-schema}
+### Créer [!DNL Luma Product Catalog Schema] {#create-luma-product-catalog-schema}
 
-1. Accédez à [!UICONTROL GESTION DES DONNÉES] -> **[!UICONTROL Schémas]** dans le volet de navigation de gauche.
+1. Accédez à **[!UICONTROL GESTION DES DONNÉES]** > **[!UICONTROL Schémas]** dans le volet de navigation de gauche.
 
-1. Sélectionnez la **[!UICONTROL Création d’un schéma]** en haut à droite.
+1. Sélectionner **[!UICONTROL Création d’un schéma]** (en haut à droite).
 
-1. Dans le menu déroulant, sélectionnez **[!UICONTROL Parcourir tous les types de schéma]**, qui vous permet de créer une classe.
+1. Pour créer une classe, sélectionnez **[!UICONTROL Parcourir tous les types de schéma]** dans le menu déroulant.
 
-1. Sélectionner **[!UICONTROL Création d’une classe].
+1. Sélectionner **[!UICONTROL Création d’une classe]**.
 
 1. Ajoutez le nom d’affichage : `Luma Product Catalog Class`.
 
 1. Attribuez une classe.
 
-1. Créez un [!UICONTROL groupe de champs]:
+1. Créez un [!UICONTROL Groupe de champs]:
 
    * Nom d’affichage: `Luma Product Catalog Field Group`
 
@@ -234,7 +233,7 @@ Vous disposez désormais de la variable [!UICONTROL namespace] et le [!DNL Luma 
 
    * Groupe de champs: [!DNL Luma Product Catalog Field Group]
 
-1. Sélectionner **[!UICONTROL Appliquer]**.
+1. Sélectionnez **[!UICONTROL Appliquer]**.
 
 1. Ajoutez les champs suivants au **[!DNL Product]** objet :
 
@@ -251,16 +250,14 @@ Vous disposez désormais de la variable [!UICONTROL namespace] et le [!DNL Luma 
    | `stockQuantity` | `Product Stock Quantity` | [!UICONTROL Chaîne] |
    | `url` | `Product URL` | [!UICONTROL Chaîne] |
 
-1. Définissez la variable **[!DNL SKU]** comme identité Principale
+1. Définissez la variable **[!DNL SKU]** comme identité Principale.
 1. Ajoutez la variable **[!UICONTROL Nom d’affichage]** `Luma Product Catalog Field Group` au [!UICONTROL groupe de champs].
 
 1. Sélectionnez **[!UICONTROL Enregistrer]**.
 
-
 ### Créer [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
 
-
-1. Accédez à **[!UICONTROL GESTION DES DONNÉES]** -> **[!UICONTROL Schémas]** dans le volet de navigation de gauche.
+1. Accédez à **[!UICONTROL GESTION DES DONNÉES]** > **[!UICONTROL Schémas]** dans le volet de navigation de gauche.
 
 1. Sélectionnez la **[!UICONTROL Création d’un schéma]** en haut à droite.
 
@@ -309,7 +306,7 @@ Vous disposez désormais de la variable [!UICONTROL namespace] et le [!DNL Luma 
 
    6. Entrée **[!UICONTROL values] ([!UICONTROL label)]**: `outOfStock` (`Out of Stock`).
 
-   7. Sélectionner **[!UICONTROL Appliquer]**.
+   7. Sélectionnez **[!UICONTROL Appliquer]**.
 
       ![enum](assets/enum.png)
 
@@ -324,7 +321,7 @@ Vous disposez désormais de la variable [!UICONTROL namespace] et le [!DNL Luma 
       1. **[!UICONTROL Schéma de référence]**: [!DNL Luma Product Catalog Schema].
 
       2. **[!UICONTROL Espace de noms d’identité de référence]**: [!DNL LumaProductSKU].
-   3. Sélectionner **[!UICONTROL Appliquer]**.
+   3. Sélectionnez **[!UICONTROL Appliquer]**.
 
       Le schéma doit se présenter comme suit :
 

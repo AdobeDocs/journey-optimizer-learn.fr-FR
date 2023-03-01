@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
+source-git-commit: 2a671ad01f1cdb60c731a707b0584bf2f4262d9b
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '338'
 ht-degree: 9%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 9%
 
 ![Tutoriel sur la bannière - Configuration d’un environnement de test de formation](./assets/ajo-banner-configure-training-sandbox.png)
 
-Ce tutoriel est conçu pour les administrateurs et les ingénieurs de données chargés de fournir un environnement de formation Adobe Journey Optimizer. Découvrez les étapes requises pour configurer les schémas, ingérer des exemples de données et créer des événements. Vous créez également trois profils de test qui permettent aux apprenants de vérifier leur travail.
+Ce tutoriel est conçu pour les administrateurs et les ingénieurs de données chargés de fournir un Adobe. [!DNL Journey Optimizer] environnement de formation. Découvrez les étapes requises pour configurer les schémas, ingérer des exemples de données et créer des événements. Vous créez également trois profils de test qui permettent aux apprenants de vérifier leur travail.
 
 Les exemples de données fournis sont basés sur une société de vêtements de fiction appelée _[!DNL Luma]_. [!DNL Luma] dispose de magasins dans plusieurs pays, d’une présence en ligne sur un site web et d’applications mobiles. [!DNL Luma] utilise Adobe Journey Optimizer pour offrir des expériences connectées, contextuelles et personnalisées à ses clients.
 
@@ -30,13 +30,23 @@ Les exemples de données fournis sont basés sur une société de vêtements de 
 Avant de commencer à configurer votre environnement de test de formation, vérifiez que vous disposez des éléments suivants :
 
 1. Un développement dédié [sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/access-control/create-and-manage-sandboxes.html?lang=en).
+
 1. [Paramètres prédéfinis de message électronique](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-email-channel.html?lang=en) configurée pour le marketing et la messagerie transactionnelle.
+
 1. **[!UICONTROL Administrateur de parcours]** et **[!UICONTROL Gestionnaire de données]** droits pour l’environnement de test de formation.
+
 1. Votre [ID d’organisation](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=fr).
+
 1. Les fichiers JSON contenant les exemples de données, configurés sur votre instance Journey Optimizer :
+
    1. Téléchargez la `luma-sample-data.zip` fichier [here](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-sample-data.zip), qui contient tous les fichiers JSON requis pour ce tutoriel.
-   1. Dans votre dossier de téléchargements, déplacez le `luma-data.zip` vers l’emplacement souhaité sur votre ordinateur, puis décompressez-le. Ces fichiers contiennent les exemples de données pour votre environnement de test d’entraînement.
+
+   1. Dans votre dossier de téléchargements, déplacez le `luma-data.zip` vers l’emplacement souhaité sur votre ordinateur, puis décompressez-le.
+
+      Ces fichiers contiennent les exemples de données pour votre environnement de test d’entraînement.
+
    1. Ouvrez chaque fichier et recherchez **`yourOrganizationID`** et remplacez-le par [ID d’organisation](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=fr).
+
    1. Enregistrez les fichiers.
 
 ## Commençons
