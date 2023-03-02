@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
-workflow-type: ht
-source-wordcount: '456'
-ht-degree: 100%
+source-git-commit: dfa4c8a0fd984bdd1a99e4b0a819dbb9cbd4c321
+workflow-type: tm+mt
+source-wordcount: '463'
+ht-degree: 81%
 
 ---
 
@@ -23,15 +23,18 @@ Chaque défi de cette section répond à un cas d’utilisation unique que vous 
 
 ## Conditions préalables
 
+Vérifiez que les conditions préalables suivantes sont remplies.
+
 ### Configuration requise
 
-* Accès à une sandbox Journey Optimizer. Nous vous recommandons d’effectuer le défi dans une sandbox de formation dédiée.
-* AEM Assets Essentials doit être configuré pour votre instance.
-* Les canaux e-mail doivent être configurés pour les messages transactionnels et de marketing.
+* Accès à un environnement de test Journey Optimizer : il est recommandé de relever le défi dans un environnement de test de formation dédié.
+* AEM Assets Essentials doit être configuré pour votre instance.
+* Les canaux email doivent être configurés pour les messages transactionnels et marketing.
 
 ### Droits d’accès
 
 Vous avez besoin des droits d’accès suivants :
+
 * *Gestionnaire de parcours* ou *Administrateur de parcours*
 * Afficher les profils de test et leurs attributs
 
@@ -40,8 +43,7 @@ Vous avez besoin des droits d’accès suivants :
 
 ### Actions requises
 
-* Si vous découvrez Adobe Journey Optimizer, suivez le cours [Prise en main de Journey Optimizer pour les responsables et les administrateurs de Journey](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=fr).
-
+* Si vous découvrez Adobe Journey Optimizer, suivez le cours. [Prise en main de Journey Optimizer pour les responsables et les administrateurs de Parcours](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=fr).
 
 ## L’histoire
 
@@ -86,7 +88,7 @@ Luma cherche à promouvoir ses vêtements et sa collection d’articles les plus
     </a>
     </div>
     <p>
-    <em>Envoyez un e-mail lorsqu’un client fidèle passe à un nouveau niveau pour le féliciter et l’informer de ses nouveaux avantages.</em>
+    <em>Envoyez un email lorsqu’un client fidèle passe à un nouveau niveau pour le féliciter et l’informer de ses nouveaux avantages.</em>
     <p>
     <b>Compétences requises :</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=fr"> Créer des segments</li>
