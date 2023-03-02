@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
+source-git-commit: fc439f6e3875e859f5c4b9a6012c98b8d5d4be32
 workflow-type: tm+mt
-source-wordcount: '1175'
+source-wordcount: '1178'
 ht-degree: 100%
 
 ---
@@ -23,6 +23,8 @@ ht-degree: 100%
 | Utilisateurs | Gestionnaire de parcours |
 | Compétences requises | <ul><li>[Créer des segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=fr)</li><li> [Importer et créer du contenu d’e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=fr)</li><li>[Cas d’utilisation : lecture de segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=fr)</li> |
 | Ressources à télécharger | [Fichiers d’e-mail de collection saisonnière](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## L’histoire
 
@@ -69,7 +71,7 @@ Vous pouvez également vérifier l’onglet [!UICONTROL Appartenance à un segme
 
 >[!TAB Vérifier votre travail]
 
-Champs de segment : [!UICONTROL Attributs] > [!UICONTROL Profil individuel XDM] > [!UICONTROL Fidélité] > [!UICONTROL Niveau].
+Champs de segment : **[!UICONTROL Attributs]** > **[!UICONTROL Profil individuel XDM]** > **[!UICONTROL Fidélité]** > **[!UICONTROL Niveau]**.
 
 Voici à quoi votre segment doit ressembler :
 
@@ -101,13 +103,13 @@ Une agence vous a fourni quatre fichiers HTML avec la conception des emails :
 
 1. [Télécharger les fichiers d’e-mail de la collection saisonnière](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip).
 
-2. Créez un parcours appelé *Luma - Annonce de la collection d’été* selon les directives suivantes :
+1. Créez un parcours appelé *Luma - Annonce de la collection d’été* selon les directives suivantes :
 
    1. Envoyez l’e-mail *Luma - annonce de la nouvelle collection d’été* au segment *Clients et clientes actifs*, en retenant 10 % de l’audience pour constituer la population témoin.
       * Titre du message *Luma - annonce de collection d’été*.
       * Objet *(prénom du ou de la destinataire), la nouvelle collection d’été Luma est arrivée !*
       * Utilisez le fichier HTML `SeasonalCollectionEmail.html` fourni pour le corps de l’e-mail.
-   2. Patientez deux jours, puis envoyez un e-mail de suivi avec du contenu plus ciblé :
+   1. Patientez deux jours, puis envoyez un e-mail de suivi avec du contenu plus ciblé :
       * Les clients hommes doivent recevoir l’e-mail **Collection pour hommes de Luma**.
          * Titre du message : *Collection pour hommes de Luma*.
          * Objet : *(prénom du destinataire), découvrez les nouveaux équipements de sport masculins !*
@@ -117,11 +119,11 @@ Une agence vous a fourni quatre fichiers HTML avec la conception des emails :
          * Objet : *(prénom de la destinataire), explorez la collection pour femmes de Luma !*
          * Corps de l’e-mail : `WomensCollectionEmail.html`.
       * Les autres client(e)s doivent recevoir l’e-mail **20 % de réduction sur la collection de Luma**.
-         * Titre du message : *20 % de réduction sur la collection de Luma*.
-         * Objet : *(prénom du ou de la destinataire), profitez de 20 % de réduction !*
-         * Corps de l’e-mail : `20OOffCollectionEmail.html`.
-   3. Après avoir envoyé les e-mails ciblés ci-dessus, patientez deux jours pour l’ouverture l’e-mail.
-   4. Si l’e-mail ciblé n’est pas ouvert dans les 2 jours, envoyez l’e-mail **20 % de réduction sur la collection de Luma** comme tentative de reciblage finale.
+      * Titre du message : *20 % de réduction sur la collection de Luma*.
+      * Objet : *(prénom du ou de la destinataire), profitez de 20 % de réduction !*
+      * Corps de l’e-mail : `20OOffCollectionEmail.html`.
+   1. Après avoir envoyé les e-mails ciblés ci-dessus, patientez deux jours pour l’ouverture l’e-mail.
+   1. Si l’e-mail ciblé n’est pas ouvert dans les 2 jours, envoyez l’e-mail **20 % de réduction sur la collection de Luma** comme tentative de reciblage finale.
 
 
 >[!TAB Critères de réussite]
@@ -133,21 +135,21 @@ Une agence vous a fourni quatre fichiers HTML avec la conception des emails :
 Prévisualisez l’e-mail :
 
 1. Ajoutez un profil de test : Louise Petti :
-   1. Espace de noms d’identité : *identifiant CRM de Luma*.
-   2. Valeur d’identité : *d1f132f9f9502bba047a6ec86c4b61f9*.
+   * Espace de noms d’identité : *identifiant CRM de Luma*.
+   * Valeur d’identité : *d1f132f9f9502bba047a6ec86c4b61f9*.
 
 Résultat :
+
 * L’objet doit être le suivant : Louise, la nouvelle collection de Luma est arrivée !
 * Le corps de l’e-mail doit correspondre à ce que vous avez vu dans l’aperçu : [annonce de nouvelle collection saisonnière](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html).
-
 
 **E-mail n° 2 - Collection pour hommes de Luma**
 
 Envoyez-vous un BAT :
 
 1. Ajoutez un profil de test : Stanleigh Stooke :
-   1. Espace de noms d’identité : *Identifiant CRM de Luma*.
-   1. Valeur de l’identité : `4f34057d9d9e792c28ba18ecae378e98`
+   * Espace de noms d’identité : *Identifiant CRM de Luma*.
+   * Valeur de l’identité : `4f34057d9d9e792c28ba18ecae378e98`
 1. Sélectionnez le profil de test : Stanleigh Stooke.
 1. Envoyez-vous un BAT.
 
@@ -164,14 +166,12 @@ Prévisualiser l’e-mail avec le profil de test *Louise Petti.*
 * L’objet doit être le suivant : *Louise, découvrez la collection pour femmes de Luma !*
 * Le corps de l’e-mail doit correspondre à ce que vous avez vu dans l’aperçu : [Collection pour femmes de Luma](/help/challenges/assets/email-assets/WomensCollectionEmail.html).
 
-
 **E-mail n° 4 - 20 % de réduction sur la collection de Luma**
 
 Prévisualisez l’e-mail avec le profil de test *Louise Petti.*
 
 * L’objet doit être le suivant : *Louise, profitez de 20 % de réduction !*
 * Le corps de l’e-mail doit correspondre à ce que vous avez vu dans l’aperçu : [20 % de réduction sur la collection de Luma](/help/challenges/assets/email-assets/20OOffCollectionEmail.html).
-
 
 #### Tester votre parcours
 
@@ -181,13 +181,15 @@ Prévisualisez l’e-mail avec le profil de test *Louise Petti.*
 >
 >1. Assurez-vous que l’[!UICONTROL activité Lecture de segment] contient l’espace de noms défini sur **l’identifiant CRM de Luma (lumaCrmId)**.
 >1. Pour chaque e-mail, remplacez les paramètres d’e-mail par défaut des e-mails afin qu’ils soient envoyés à votre adresse e-mail :
->    * Affichez les valeurs masquées en cliquant sur le symbole de l’œil.
->    * Dans les paramètres de l’e-mail, cliquez sur le symbole T (activer le remplacement des paramètres).
->
->      ![Remplacer les paramètres d’e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * Cliquez dans le champ [!UICONTROL Adresse].
->    * Dans l’écran suivant, ajoutez votre adresse e-mail entre parenthèses : `"yourname@yourdomain"` dans l’éditeur d’expression, puis cliquez sur OK.
+   >    * Affichez les valeurs masquées en cliquant sur le symbole de l’œil.
+   >    * Dans les paramètres de l’e-mail, cliquez sur le symbole T (activer le remplacement des paramètres).
+
+      >
+      >      ![Remplacer les paramètres d’e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Cliquez dans le champ [!UICONTROL Adresse].
+   >    * Dans l’écran suivant, ajoutez votre adresse e-mail entre parenthèses : `"yourname@yourdomain"` dans l’éditeur d’expression, puis cliquez sur OK.
+
 >
 
 
