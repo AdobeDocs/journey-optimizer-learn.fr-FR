@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
-source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
+source-git-commit: 5e9829459bc3092e60375fca3e759a2aac88446f
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 97%
+source-wordcount: '313'
+ht-degree: 93%
 
 ---
 
@@ -92,6 +92,6 @@ ht-degree: 97%
 + Confidentialité {#privacy}
    + [Masquer les données dans les messages](/help/privacy/mask-data-in-messages.md)
 + Exercices et défis {#exercises-and-challenges}
-   + [Configuration d’un environnement de test de formation](/https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
-   + [Les défis](/https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
+   + [Configuration d’un environnement de test de formation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
+   + [Les défis](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
 + [Summit Lab](/help/summit-lab-731/l731-assets.md)
