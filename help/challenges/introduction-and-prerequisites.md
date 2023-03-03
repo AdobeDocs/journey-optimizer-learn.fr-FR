@@ -1,19 +1,19 @@
 ---
-title: Défis Journey Optimizer - Introduction et conditions préalables
+title: Défis liés à Journey Optimizer - Introduction et conditions préalables
 description: Découvrez les principes de base de création d’un parcours dans la zone de travail du parcours.
 feature: Journeys
 role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: f56ada2b4adeced3a77f2313a1a211f71260d0b7
 workflow-type: tm+mt
 source-wordcount: '463'
-ht-degree: 81%
+ht-degree: 78%
 
 ---
 
-# Défis Journey Optimizer - Introduction et conditions préalables
+# Défis liés à Journey Optimizer - Introduction et conditions préalables
 
 ![Bannière de défis AJO](./assets/ajo-banner-challenges.png)
 
