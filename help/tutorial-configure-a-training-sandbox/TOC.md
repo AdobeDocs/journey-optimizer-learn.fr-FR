@@ -4,10 +4,10 @@ user-guide-description: Configuration d’un environnement de test à des fins d
 breadcrumb-title: Tutoriel - Configuration d’un environnement de test de formation
 breadcrumb-url: /docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html
 index: false
-source-git-commit: ed2c9573f70be2ea3060e8e13a2abb7118cb6103
+source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 0%
+source-wordcount: '45'
+ht-degree: 2%
 
 ---
 
@@ -19,3 +19,4 @@ ht-degree: 0%
    + [Configuration de la structure des données (manuellement)](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md)
    + [Ingestion de données (manuellement)](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)
 + [Étape 2 : Configuration des événements](/help/tutorial-configure-a-training-sandbox/configure-events.md)
++ [Tutoriels](/https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
