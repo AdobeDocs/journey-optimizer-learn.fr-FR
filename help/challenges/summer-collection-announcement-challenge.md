@@ -23,7 +23,7 @@ ht-degree: 100%
 | Compétences requises | <ul><li>[Créer des segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=fr)</li><li> [Importer et créer du contenu d’e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=fr)</li><li>[Cas d’utilisation : lecture de segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=fr)</li> |
 | Ressources à télécharger | [Fichiers d’e-mail de collection saisonnière](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## L’histoire
 
@@ -180,15 +180,13 @@ Prévisualisez l’e-mail avec le profil de test *Louise Petti.*
 >
 >1. Assurez-vous que l’[!UICONTROL activité Lecture de segment] contient l’espace de noms défini sur **l’identifiant CRM de Luma (lumaCrmId)**.
 >1. Pour chaque e-mail, remplacez les paramètres d’e-mail par défaut des e-mails afin qu’ils soient envoyés à votre adresse e-mail :
-   >    * Affichez les valeurs masquées en cliquant sur le symbole de l’œil.
-   >    * Dans les paramètres de l’e-mail, cliquez sur le symbole T (activer le remplacement des paramètres).
-
-      >
-      >      ![Remplacer les paramètres d’e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
-   > 
-   >    * Cliquez dans le champ [!UICONTROL Adresse].
-   >    * Dans l’écran suivant, ajoutez votre adresse e-mail entre parenthèses : `"yourname@yourdomain"` dans l’éditeur d’expression, puis cliquez sur OK.
-
+>    * Affichez les valeurs masquées en cliquant sur le symbole de l’œil.
+>    * Dans les paramètres de l’e-mail, cliquez sur le symbole T (activer le remplacement des paramètres).
+>
+>      ![Remplacer les paramètres d’e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
+> 
+>    * Cliquez dans le champ [!UICONTROL Adresse].
+>    * Dans l’écran suivant, ajoutez votre adresse e-mail entre parenthèses : `"yourname@yourdomain"` dans l’éditeur d’expression, puis cliquez sur OK.
 >
 
 
