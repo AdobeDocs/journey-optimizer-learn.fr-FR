@@ -39,7 +39,7 @@ Vous avez besoin des droits d’accès suivants :
 * Afficher les profils de test et leurs attributs
 
 >[!NOTE]
-> Les exercices ont été développés à partir des données d’exemple de Luma. Il est recommandé de configurer une sandbox de formation configurée avec les données d’exemple. Consultez le tutoriel [Configurer une sandbox de formation](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) pour obtenir des instructions détaillées.
+> Les exercices ont été développés à partir des données d’exemple de Luma. Il est recommandé de configurer un sandbox de formation configuré avec les données d’exemple. Consultez le tutoriel [Configurer un sandbox de formation](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) pour obtenir des instructions détaillées.
 
 ### Actions requises
 
