@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 55d91b1ebe1b55a2c0a7d2a7e4ff1a63187b7fdf
+source-git-commit: 8e9f7460410a117031598096d81eabd3090647af
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 40%
+source-wordcount: '327'
+ht-degree: 39%
 
 ---
 
@@ -65,7 +65,7 @@ Cliquez sur **Installer quand même**
 | Nom de la campagne | `<your seat number> March Vegas Campaign` |  |
 | Correspondance | booknow |  |
 | Option URL de médias |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| Titre | C’est bientôt et c’est en direct ! |  |
+| Titre | C&#39;est en train d&#39;arriver et c&#39;est en direct ! |  |
 | Corps | L’Adobe Summit est de retour à Las Vegas du 21 au 23 mars 2023. Préparez-vous à des interventions passionnantes, à des sessions pour accroître vos compétences et à de nouvelles rencontres. |  |
 | Bouton | Réservez un hôtel dès maintenant et économisez 10 %. | lab://booking?suite=presidential&amp;discount=10 |
 | Bouton : Événement interactif | CTA in-app |  |
