@@ -1,19 +1,19 @@
 ---
-title: Défis liés à Journey Optimizer - Introduction et conditions préalables
-description: Les défis fournissent un scénario et les conditions nécessaires pour pratiquer ce que vous avez appris. Chaque défi répond à un cas d’utilisation unique que vous implémentez.
+title: Défis Journey Optimizer - Introduction et conditions préalables
+description: Les défis fournissent un scénario et les conditions nécessaires pour mettre en pratique ce que vous avez appris. Chaque défi répond à un cas d’utilisation unique que vous implémentez.
 feature: Journeys
 role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '475'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
-# Défis liés à Journey Optimizer - Introduction et conditions préalables
+# Défis Journey Optimizer - Introduction et conditions préalables
 
 ![Bannière de défis AJO](./assets/ajo-banner-challenges.png)
 
@@ -27,9 +27,9 @@ Vérifiez que les conditions préalables suivantes sont remplies.
 
 ### Configuration requise
 
-* Accès à un environnement de test Journey Optimizer : il est recommandé de relever le défi dans un environnement de test de formation dédié.
-* AEM Assets Essentials doit être configuré pour votre instance.
-* Les canaux email doivent être configurés pour les messages transactionnels et marketing.
+* Accès à une sandbox Journey Optimizer. Nous vous recommandons d’effectuer le défi dans une sandbox de formation dédiée.
+* AEM Assets Essentials doit être configuré pour votre instance.
+* Les canaux e-mail doivent être configurés pour les messages transactionnels et de marketing.
 
 ### Droits d’accès
 
@@ -43,7 +43,7 @@ Vous avez besoin des droits d’accès suivants :
 
 ### Actions requises
 
-* Si vous découvrez Adobe Journey Optimizer, suivez le cours. [Prise en main de Journey Optimizer pour les responsables et les administrateurs de Parcours](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=fr).
+* Si vous découvrez Adobe Journey Optimizer, suivez le cours [Prise en main de Journey Optimizer pour les responsables et les administrateurs et administratrices de Journey](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=fr).
 
 ## L’histoire
 
@@ -88,7 +88,7 @@ Luma cherche à promouvoir ses vêtements et sa collection d’articles les plus
     </a>
     </div>
     <p>
-    <em>Envoyez un email lorsqu’un client fidèle passe à un nouveau niveau pour le féliciter et l’informer de ses nouveaux avantages.</em>
+    <em>Envoyer un e-mail lorsqu’une personne cliente fidèle passe à un nouveau niveau pour la féliciter et l’informer de ses nouveaux avantages.</em>
     <p>
     <b>Compétences requises :</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=fr"> Créer des segments</li>
