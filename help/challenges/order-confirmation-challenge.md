@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: tm+mt
-source-wordcount: '657'
-ht-degree: 93%
+workflow-type: ht
+source-wordcount: '654'
+ht-degree: 100%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 93%
 | Compétences requises | <ul><li>[Créer un contenu d’e-mail avec l’éditeur de messages](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=fr)</li> <li>[Utiliser des informations d’événement contextuelles pour la personnalisation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=fr)</li><li>[Utiliser des fonctions d’assistance pour la personnalisation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=fr)</li></ul> |
 | Ressources à télécharger | [Ressources de confirmation de commande](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## L’histoire
 
-Luma lance sa boutique en ligne et souhaite garantir une expérience client optimale. Ils fournissent un email de confirmation de commande une fois qu’un client a passé une commande.
+Luma lance sa boutique en ligne et souhaite garantir une expérience client optimale. Un e-mail de confirmation de commande est envoyé une fois qu’un client ou qu’une cliente a passé une commande.
 
 ## Votre défi
 
@@ -41,9 +41,9 @@ Créez un parcours qui envoie un e-mail de confirmation de commande lorsqu’une
 
 1. Créez un parcours appelé `Luma - Order Confirmation`.
 
-1. Utilisez l’événement : `LumaOnlinePurchase`.
+1. Utilisez l’événement : `LumaOnlinePurchase`.
 
-1. Créez un **transactionnel**  email appelé `Luma - Order Confirmation`.
+1. Créez un e-mail **transactionnel** appelé `Luma - Order Confirmation`.
 
    * Avec comme objet : « Merci pour votre achat, `FirstName` ».
 
@@ -58,7 +58,7 @@ L’e-mail doit être structuré comme suit :
 <tr>
 <td>
   <div>
-     <strong> Section d’en-tête</strong>
+     <strong>Section d’en-tête</strong>
       </div>
   </td>
   <td>
@@ -72,7 +72,7 @@ L’e-mail doit être structuré comme suit :
   <td>
   <div>
     <strong>Section de confirmation de commande
-    </strong>
+</strong>
   </td>
   <td>
     <p>
@@ -104,7 +104,7 @@ L’e-mail doit être structuré comme suit :
  <tr>
 <td>
   <div>
-     <strong>Section Détails de la commande</strong>
+     <strong>Section d’informations sur la commande</strong>
       </div>
        <p><li>Ajoutez cette section sous la section <b>Adresse de livraison</b>.
       </p><br>
