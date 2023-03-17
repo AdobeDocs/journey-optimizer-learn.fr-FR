@@ -1,6 +1,6 @@
 ---
-title: Configuration des événements
-description: Configuration de trois événements requis pour les défis Journey Optimizer pratiques
+title: Configurer des événements
+description: Configurer trois événements requis pour les défis pratiques Journey Optimizer
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
 kt: 9382
@@ -9,25 +9,25 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
 source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '190'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
-# Configuration des événements
+# Configurer des événements
 
-Dans cette section, vous configurez les trois événements requis pour les exercices pratiques dans la variable [Défis liés à Journey Optimizer](/help/challenges/introduction-and-prerequisites.md).
+Dans cette section, vous configurez les trois événements requis pour les exercices pratiques dans les [Défis Journey Optimizer](/help/challenges/introduction-and-prerequisites.md).
 
-La vidéo suivante explique comment créer des événements :
+La vidéo suivante vous explique comment créer des événements :
 
 >[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12)
 
 ## Créer un événement d’achat en ligne Luma
 
-Lors de l’utilisation de cet événement, Journey Optimizer reçoit des informations lorsqu’une personne achète des produits luma en ligne.
+Lors de l’utilisation de cet événement, Journey Optimizer reçoit des informations lorsqu’une personne achète des produits Luma en ligne.
 
-1. Créez un événement avec les paramètres suivants :
+1. Créez un événement avec les paramètres suivants :
 
    | [!UICONTROL Paramètre] | [!UICONTROL Valeur] |
    |-------------|-----------|
@@ -37,22 +37,22 @@ Lors de l’utilisation de cet événement, Journey Optimizer reçoit des inform
    | [!UICONTROL Schéma] | `Luma Web Events Schema` |
    | [!UICONTROL Champs] | `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url` |
 
-1. Ajoutez la variable [!UICONTROL Condition d’identifiant d’événement]: `LumaOnlinePurchase.eventType is commerce.purchases`:
+1. Ajoutez la [!UICONTROL condition d’identifiant d’événement] : `LumaOnlinePurchase.eventType is commerce.purchases` :
 
    1. Sélectionnez l’icône représentant un crayon pour modifier le champ.
 
-   1. Sur le **[!UICONTROL Ajout d’une condition d’identifiant d’événement]** modale, faites glisser et déposez le `eventType` sur la zone de travail.
-   1. Sélectionner `commerce.purchases`.
-   1. Sélectionner **[!UICONTROL Ok]** sur la zone de travail.
-   1. Sélectionner **[!UICONTROL Ok]** sur le modal.
+   1. Sur la fenêtre modale **[!UICONTROL Ajouter une condition d’identifiant d’événement]**, faites glisser et déposez le `eventType` sur la zone de travail.
+   1. Sélectionnez `commerce.purchases`.
+   1. Sélectionnez **[!UICONTROL OK]** dans la zone de travail.
+   1. Sélectionnez **[!UICONTROL OK]** dans la boîte de dialogue modale.
 
-   ![Ajouter une condition d’événement](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
+   ![Ajout d’une condition d’événement.](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
 
-1. Sélectionner [!UICONTROL ESPACE DE NOMS]: `Luma CRM ID (lumaCrmId)`
+1. Sélectionnez l’[!UICONTROL ESPACE DE NOMS] : `Luma CRM ID (lumaCrmId)`.
 
 1. Sélectionnez **[!UICONTROL Enregistrer]**.
 
-## Créer *[!DNL Luma Wishlist Add]* event
+## Créer un événement *[!DNL Luma Wishlist Add]*
 
 | [!UICONTROL Paramètre] | [!UICONTROL Valeur] |
 |-------------|-----------|
@@ -60,18 +60,18 @@ Lors de l’utilisation de cet événement, Journey Optimizer reçoit des inform
 | [!UICONTROL TYPE] | [!UICONTROL Unitaire] |
 | [!UICONTROL Type d’identifiant d’événement] | [!UICONTROL Basé sur des règles] |
 | [!UICONTROL Schéma] | `Luma Product Interactions` |
-| [!UICONTROL Champs] | EventType<br>productListItem.quantity<br><b>Dans Éléments de liste de produits > Produits Luma > _*[!DNL yourOrganizationID]* > Produit :</b> <br>Nom<br>Prix<br> ProductImageURL<br>ProductURL |
+| [!UICONTROL Champs] | EventType <br>productListItem.quantity<br><b> dans Éléments de la liste de produits > Produits Luma > _*[!DNL yourOrganizationID]* > Produit : </b> <br>Nom<br> Prix<br> ProductImageURL<br> ProductURL |
 | [!UICONTROL Condition] | [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters] |
-| [!UICONTROL Espace de noms] | Email(EMail) |
+| [!UICONTROL Espace de noms] | E-mail (E-mail) |
 
-## Créer *[!DNL Luma Product Restock]* event
+## Créer un événement *[!DNL Luma Product Restock]*
 
 | [!UICONTROL Paramètre] | [!UICONTROL Valeur] |
 |-------------|-----------|
 | [!UICONTROL NOM] | `LumaProductRestock` |
-| [!UICONTROL TYPE] | [!UICONTROL Commerciale] |
+| [!UICONTROL TYPE] | [!UICONTROL Entreprise] |
 | [!UICONTROL Schéma] | [!DNL Luma Product Inventory Events] |
-| [!UICONTROL Champs] | SKU <br> stockEventType<br><b> yourOrganizationID > product :</b> <br>name<br>prix<br> ImageURL<br>description |
-| [!UICONTROL Condition] | LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType is restock |
+| [!UICONTROL Champs] | SKU <br> stockEventType<br><b> yourOrganizationID > Produit : </b> <br>Nom<br> Prix<br> ImageURL<br> Description |
+| [!UICONTROL Condition] | LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType est en réapprovisionnement |
 
-Félicitations ! Votre environnement de test est maintenant prêt à l’emploi.
+Félicitations ! Vous pouvez désormais utiliser votre sandbox.
