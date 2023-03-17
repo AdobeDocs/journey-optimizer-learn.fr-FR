@@ -12,7 +12,7 @@ exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 8e9f7460410a117031598096d81eabd3090647af
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 39%
+ht-degree: 55%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 39%
 
 Cette page comporte du texte et des liens utilisés dans le L731 Summit Lab. Cela vous permet de copier et coller le contenu dans vos messages Journey Optimizer.
 
-## Exercice 1.1 - Téléchargement et installation de l’application
+## Exercice 1.1 : télécharger et installer l’application
 
 Analyser le code QR pour télécharger l’application
 
@@ -28,7 +28,7 @@ Analyser le code QR pour télécharger l’application
 
 >[!TAB iOS]
 
-![Code QR pour iOS](/help/assets/lab731-ios-qr-code.png)
+![Code QR pour iOS.](/help/assets/lab731-ios-qr-code.png)
 
 Vous devrez installer Testflight. Une fois que vous avez installé Testflight, suivez les étapes pour installer l’application Vegas Rester :
 
@@ -48,11 +48,11 @@ Cliquez sur **Installer quand même**
 
 >[!ENDTABS]
 
-## Exercice 1.3 : Connexion à Adobe Journey Optimizer
+## Exercice 1.3 : se connecter à Adobe Journey Optimizer
 
-[Cliquez ici pour vous connecter à Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
+[Cliquez ici pour vous connecter à Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home).
 
-**Détails de la connexion :**
+**Identifiants de connexion :**
 
 * **Nom d’utilisateur :** `L731+<your seat number>@summitlab.us` (exemple : L731+001@summitlab.us)
 * **Mot de passe :** Adobe2023 !
@@ -68,7 +68,7 @@ Cliquez sur **Installer quand même**
 | Titre | C&#39;est en train d&#39;arriver et c&#39;est en direct ! |  |
 | Corps | L’Adobe Summit est de retour à Las Vegas du 21 au 23 mars 2023. Préparez-vous à des interventions passionnantes, à des sessions pour accroître vos compétences et à de nouvelles rencontres. |  |
 | Bouton | Réservez un hôtel dès maintenant et économisez 10 %. | lab://booking?suite=presidential&amp;discount=10 |
-| Bouton : Événement interactif | CTA in-app |  |
+| Bouton : événement interactif | Apple à l’action in-app |  |
 | URL de base |  | iOS : lab:// <br>Android™ : https://lab |
 
 
@@ -79,7 +79,7 @@ Cliquez sur **Installer quand même**
 >[!TAB Message push]
 
 **Titre:**\
-Bienvenue à Vegas Restez !
+Bienvenue sur Vegas Stay !
 
 **Corps:**\
 Ne faites pas la queue et enregistrez-vous avec l’application mobile.
