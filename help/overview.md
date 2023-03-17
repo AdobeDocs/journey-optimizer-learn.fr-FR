@@ -5,7 +5,7 @@ recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '490'
 ht-degree: 100%
 
@@ -32,9 +32,9 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
    *Découvrez comment vous abonner à des alertes prédéfinies pour les comportements de parcours inattendus et recevoir des notifications par e-mail dans Journey Optimizer ou à l’aide d’une API.*
 
-* **[Copier un parcours dans une autre sandbox](/help/create-journeys/copy-a-journey.md)**
+* **[Copier un parcours dans un autre sandbox](/help/create-journeys/copy-a-journey.md)**
 
-   *Découvrez comment copier un parcours et ses objets dépendants d’une sandbox à une autre.*
+   *Découvrez comment copier un parcours et ses objets dépendants d’un sandbox à un autre.*
 
 * **[Masquer les données dans les messages](/help/privacy/mask-data-in-messages.md)**
 
