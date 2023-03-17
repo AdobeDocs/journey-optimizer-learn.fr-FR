@@ -1,6 +1,6 @@
 ---
 title: Ajouter des offres pour personnaliser un message
-description: Découvrez comment ajouter un composant de gestion de décision aux messages dans Journey Optimizer.
+description: Découvrez comment ajouter un composant de gestion des décisions aux messages dans Journey Optimizer.
 kt: 8033
 thumbnail: 334088.jpg
 feature: Personalization, Offers
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 exl-id: 4b3719de-804d-47e4-80a5-93c9ee1dc09a
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 35%
+ht-degree: 100%
 
 ---
 
 # Ajouter des offres pour personnaliser un message
 
-Découvrez comment ajouter un composant de gestion de décision aux messages dans Journey Optimizer.
+Découvrez comment ajouter un composant de gestion des décisions aux messages dans Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334088?quality=12)
