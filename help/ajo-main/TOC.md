@@ -3,9 +3,9 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 source-git-commit: 5e9829459bc3092e60375fca3e759a2aac88446f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '313'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 93%
    + [Cas d’utilisation : qualification du segment](/help/create-journeys/use-case-read-segment-qualification.md)
    + [Créer un profil de test](/help/create-journeys/test-a-journey.md)
    + [Publier un parcours](/help/create-journeys/publish-a-journey.md)
-   + [Copier un parcours dans une autre sandbox](/help/create-journeys/copy-a-journey.md)
+   + [Copier un parcours dans un autre sandbox](/help/create-journeys/copy-a-journey.md)
 + Canal e-mail{#email-channel}
    + [Créer du contenu avec le Concepteur d&#39;e-mail](/help/channels/create-content-with-the-email-designer.md)
    + [Importation et création de contenu d’e-mail HTML](/help/channels/import-and-author-html-email-content.md)
@@ -88,10 +88,10 @@ ht-degree: 93%
    + [Créer des actions](/help/set-up-journeys/create-actions.md)
 + Contrôle d’accès {#access-control}
    + [Gestion des accès](/help/set-up-access/access-management.md)
-   + [Création et gestion d’environnements Sandbox](/help/set-up-access/create-and-manage-sandboxes.md)
+   + [Création et gestion de sandbox](/help/set-up-access/create-and-manage-sandboxes.md)
 + Confidentialité {#privacy}
    + [Masquer les données dans les messages](/help/privacy/mask-data-in-messages.md)
 + Exercices et défis {#exercises-and-challenges}
-   + [Configuration d’un environnement de test de formation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
-   + [Les défis](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
-+ [Summit Lab](/help/summit-lab-731/l731-assets.md)
+   + [Configuration d’une sandbox de formation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=fr)
+   + [Défis](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=fr)
++ [Summit Lab](/help/summit-lab-731/l731-assets.md)
