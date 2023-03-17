@@ -1,14 +1,14 @@
 ---
-title: Création de balises
-description: Découvrez comment créer des balises dans la gestion de la décision. Les balises sont des composants de blocs de création d’offres facultatifs.
+title: Créer des balises
+description: Découvrez comment créer des balises pour la gestion des décisions. Les balises sont des composants de blocs de création d’offres facultatifs.
 feature: Offers
 kt: 6753
 thumbnail: 329374.jpg
 exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Pour en savoir plus sur la création de balises à lʼaide dʼune API, consultez
 
 >[!INFO]
 >
-> Cette vidéo fait partie d’un cours, [Prise en main de la gestion des décisions pour les professionnels du marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours, [Prise en main de la gestion des décisions pour les personnes professionnelles du marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible gratuitement sur Experience League !
