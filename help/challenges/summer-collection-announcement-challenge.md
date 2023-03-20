@@ -7,7 +7,7 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1175'
 ht-degree: 100%
 
@@ -180,13 +180,15 @@ Prévisualisez l’e-mail avec le profil de test *Louise Petti.*
 >
 >1. Assurez-vous que l’[!UICONTROL activité Lecture de segment] contient l’espace de noms défini sur **l’identifiant CRM de Luma (lumaCrmId)**.
 >1. Pour chaque e-mail, remplacez les paramètres d’e-mail par défaut des e-mails afin qu’ils soient envoyés à votre adresse e-mail :
->    * Affichez les valeurs masquées en cliquant sur le symbole de l’œil.
->    * Dans les paramètres de l’e-mail, cliquez sur le symbole T (activer le remplacement des paramètres).
->
->      ![Remplacer les paramètres d’e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * Cliquez dans le champ [!UICONTROL Adresse].
->    * Dans l’écran suivant, ajoutez votre adresse e-mail entre parenthèses : `"yourname@yourdomain"` dans l’éditeur d’expression, puis cliquez sur OK.
+   >    * Affichez les valeurs masquées en cliquant sur le symbole de l’œil.
+   >    * Dans les paramètres de l’e-mail, cliquez sur le symbole T (activer le remplacement des paramètres).
+
+      >
+      >      ![Remplacer les paramètres d’e-mail](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Cliquez dans le champ [!UICONTROL Adresse].
+   >    * Dans l’écran suivant, ajoutez votre adresse e-mail entre parenthèses : `"yourname@yourdomain"` dans l’éditeur d’expression, puis cliquez sur OK.
+
 >
 
 
