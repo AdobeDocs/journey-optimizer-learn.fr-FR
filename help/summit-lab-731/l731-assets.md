@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 8e9f7460410a117031598096d81eabd3090647af
+source-git-commit: ea4ba49056ad3e575c0953ad963966bcecf54c9f
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 55%
+source-wordcount: '355'
+ht-degree: 53%
 
 ---
 
@@ -30,11 +30,97 @@ Analyser le code QR pour télécharger l’application
 
 ![Code QR pour iOS.](/help/assets/lab731-ios-qr-code.png)
 
-Vous devrez installer Testflight. Une fois que vous avez installé Testflight, suivez les étapes pour installer l’application Vegas Rester :
+Vous devrez installer Testflight (étapes 1 à 4). Une fois que vous avez installé Testflight, suivez les étapes 5 à 8 pour installer l’application de séjour Vegas :
 
-![étapes d’installation d’iOS](/help/assets/lab731-install-ios.png)
-
->[!TAB Android™]
+<table>
+<tr>
+</tr>
+<tr>
+<td>
+ <div>
+      <p>
+      <b>Étape 1 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-1.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Étape 2 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-2.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Étape 3 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-3.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Étape 4 </b>
+      <p>
+      <a href="Step 4">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-4.PNG"/>
+      </a>
+      </div>
+  </td>
+  </tr>
+  <tr>
+<td>
+ <div>
+      <p>
+      <b>Étape 5 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-5.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Étape 6 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-6.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Étape 7 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-7.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Étape 8 </b>
+      <p>
+      <a href="Step 4">
+        <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-8.PNG"/>
+      </a>
+      </div>
+  </td>
+  </tr>
+</table>
+&gt;[!TAB Android™]
 
 ![Code QR pour Android](/help/assets/lab731-android-qr-code.png)
 
@@ -74,9 +160,15 @@ Cliquez sur **Installer quand même**
 
 ## Leçon 3 : créer un parcours omnicanal
 
+**Libellé du parcours :**
+<your seat number> - Parcours de bienvenue
+
 >[!BEGINTABS]
 
 >[!TAB Message push]
+
+**Libellé :**
+Message de bienvenue
 
 **Titre:**\
 Bienvenue sur Vegas Stay !
@@ -97,10 +189,16 @@ Il s’agit de l’image que nous utilisons pour la notification push :
 
 >[!TAB SMS Message]
 
+**Libellé :**
+Message de bienvenue
+
 **Message :**
 Bienvenue à Vegas Rester. Ne faites pas la queue et enregistrez-vous avec l’application mobile : lab://checkin.
 
 >[!TAB Message électronique]
+
+**Libellé :**
+Message de confirmation
 
 **Objet :**
 {{profile.person.name.firstName}}, vous êtes enregistré, maintenant consultez nos offres pour votre séjour !
