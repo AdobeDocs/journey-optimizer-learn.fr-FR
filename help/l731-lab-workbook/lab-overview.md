@@ -8,7 +8,7 @@ level: Advanced
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: 84d1ad8ed2ffa48ccdd5cb8faac1079a98f33c7f
+source-git-commit: 675f402b8c2ad8511736bbb683922fc07763e247
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 1%
@@ -19,6 +19,7 @@ ht-degree: 1%
 # L731 - Créer des instants mobiles personnalisés avec Journey Optimizer
 
 ## Présentation de l’atelier
+
 Dans ce laboratoire pratique, vous apprendrez à mettre en oeuvre une stratégie marketing multicanal qui comprend des campagnes et des parcours in-app, push, SMS et de messagerie électronique dans Adobe Journey Optimizer.
 
 ## Points clés

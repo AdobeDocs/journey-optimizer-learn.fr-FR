@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: ea4ba49056ad3e575c0953ad963966bcecf54c9f
+source-git-commit: 675f402b8c2ad8511736bbb683922fc07763e247
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 53%
@@ -120,7 +120,7 @@ Vous devrez installer Testflight (étapes 1 à 4). Une fois que vous avez instal
   </td>
   </tr>
 </table>
-&gt;[!TAB Android™]
+&gt;[!TAB Android]
 
 ![Code QR pour Android](/help/assets/lab731-android-qr-code.png)
 
@@ -155,13 +155,13 @@ Cliquez sur **Installer quand même**
 | Corps | L’Adobe Summit est de retour à Las Vegas du 21 au 23 mars 2023. Préparez-vous à des interventions passionnantes, à des sessions pour accroître vos compétences et à de nouvelles rencontres. |  |
 | Bouton | Réservez un hôtel dès maintenant et économisez 10 %. | lab://booking?suite=presidential&amp;discount=10 |
 | Bouton : événement interactif | Apple à l’action in-app |  |
-| URL de base |  | iOS : lab:// <br>Android™ : https://lab |
+| URL de base |  | iOS : lab:// <br>Android&amp; : https://lab |
 
 
 ## Leçon 3 : créer un parcours omnicanal
 
 **Libellé du parcours :**
-<your seat number> - Parcours de bienvenue
+`<your seat number>` - Parcours de bienvenue
 
 >[!BEGINTABS]
 
