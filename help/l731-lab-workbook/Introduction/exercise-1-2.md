@@ -1,31 +1,31 @@
 ---
-title: Exercice 1.2
-description: Téléchargement et installation de l’application mobile
+title: Exercice 1.2
+description: Télécharger et installer l’application mobile
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
 recommendations: noDisplay, noCatalog
 hide: true
 source-git-commit: 879eeea18f565db742f62d7dbdf65f61341ead2e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '193'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# Exercice 1.2 : Enregistrement en tant qu’utilisateur avec l’application
+# Exercice 1.2 : s’enregistrer en tant qu’utilisateur ou utilisatrice avec l’application
 
 >[!IMPORTANT]\
->Inscrivez-vous avec une **adresse électronique à laquelle vous pouvez accéder au cours de la session de laboratoire.**, et **votre numéro de téléphone mobile**.
+>Inscrivez-vous en utilisant une **adresse e-mail à laquelle vous pouvez accéder au cours de la session de ce Lab**. Indiquez également **votre numéro de téléphone mobile**.
 >
-> Ces informations sont requises pour que vous puissiez recevoir les messages que vous enverrez. Il vous permet également d’accéder à vos informations dans Journey Optimizer. Il ne sera pas utilisé à d&#39;autres fins que pour ce laboratoire.
+> Ces informations sont requises pour que vous puissiez recevoir les messages que vous enverrez. Elles vous permettront également d’accéder à vos informations dans Journey Optimizer. Elles ne seront pas utilisées à d’autres fins en dehors de ce Lab.
 
 1. Ouvrez l’application.
 1. Dans la fenêtre contextuelle, cliquez sur Autoriser.
-1. Inscrivez-vous :
+1. Inscrivez-vous :
 
-   Lors de la première ouverture de l’application, vous serez invité à vous inscrire. Veuillez saisir les détails suivants :
+   Lors de la première ouverture de l’application, cette dernière vous propose de vous inscrire. Saisissez les informations suivantes :
 
    <table>
     <tr>
@@ -35,24 +35,24 @@ ht-degree: 1%
     </div>
     </td>
     <td>
-    <strong>Email : </strong><br>Entrez une adresse électronique à laquelle vous pouvez accéder pendant le laboratoire.
+    <strong>Email : </strong><br>saisissez une adresse e-mail à laquelle vous pouvez accéder pendant le Lab.
     </p><p>
-    <strong>Prénom, Nom </strong>
+    <strong>Prénom, Nom</strong>
     </p><p>
-    <strong>Numéro de téléphone : </strong> <br>Saisissez votre numéro de téléphone portable au format suivant : 
-    <p>+16501245566 (+numéro de téléphone du code du pays).
+    <strong>Numéro de téléphone : </strong><br>saisissez votre numéro de téléphone mobile au format suivant : 
+    <p>+16501245566 (+code du pays).
     </p><p>
-    <strong>Numéro de siège : </strong><br>Votre numéro de siège se trouve à votre poste de travail. Il est TRÈS IMPORTANT de saisir le bon numéro de siège !
+    <strong>Numéro de poste : </strong><br>le numéro de votre poste se trouve sur votre station de travail. Il est TRÈS IMPORTANT de saisir le bon numéro de poste.
     </p><p>
-    <strong>Sélectionnez Centre d'intérêt : </strong></br>Sports, Bien-être, Dîner ou Divertissement
+    <strong>Sélectionnez le centre d’intérêt : </strong></br>sports, bien-être, restauration ou divertissement.
     </p><p>
-    <strong>Sélectionnez le niveau d’adhésion : </strong></br>Rouge, Bleu, Vert ou Jaune</p>
+    <strong>Sélectionnez le niveau d’adhésion : </strong></br>rouge, bleu, vert ou jaune.</p>
     </td>
     </tr>
     </table>
 
-1. Cliquez sur **Envoyer**
+1. Cliquez sur **Envoyer**.
 
 >[!SUCCESS]
 >
->Vous avez créé un utilisateur de l’application et un profil a été créé pour cet utilisateur dans Adobe Journey Optimizer.
+>Vous avez créé un utilisateur ou une utilisatrice de l’application. Un profil a été créé dans Adobe Journey Optimizer.
