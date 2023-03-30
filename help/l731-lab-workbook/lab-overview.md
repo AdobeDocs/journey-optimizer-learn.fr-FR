@@ -1,6 +1,6 @@
 ---
-title: Présentation de l’atelier
-description: Dans ce laboratoire pratique, vous apprendrez à mettre en oeuvre une stratégie marketing multicanal qui comprend des campagnes et des parcours in-app, push, SMS et de messagerie électronique dans Adobe Journey Optimizer.
+title: Présentation du Lab
+description: Dans ce Lab pratique, vous apprendrez à mettre en œuvre une stratégie marketing multicanale qui comprend des campagnes et des parcours in-app, par notification push, SMS et e-mail dans Adobe Journey Optimizer.
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
@@ -9,22 +9,22 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 source-git-commit: 675f402b8c2ad8511736bbb683922fc07763e247
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# L731 - Créer des instants mobiles personnalisés avec Journey Optimizer
+# L731 : créer des instants mobiles personnalisés avec Journey Optimizer
 
-## Présentation de l’atelier
+## Présentation du Lab
 
-Dans ce laboratoire pratique, vous apprendrez à mettre en oeuvre une stratégie marketing multicanal qui comprend des campagnes et des parcours in-app, push, SMS et de messagerie électronique dans Adobe Journey Optimizer.
+Dans ce Lab pratique, vous apprendrez à mettre en œuvre une stratégie marketing multicanale qui comprend des campagnes et des parcours in-app, par notification push, SMS et e-mail dans Adobe Journey Optimizer.
 
 ## Points clés
 
 * Découvrez comment les interactions avec une application mobile se reflètent dans les données de profil.
-* Découvrez comment configurer des campagnes in-app et push.
+* Découvrez comment configurer des campagnes in-app et par notification push.
 * Créez un parcours omnicanal et déterminez quand utiliser quel canal.
-* Sachez comment tester votre parcours.
+* Découvrez comment tester votre parcours.
