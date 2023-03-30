@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: ht
-source-wordcount: '1020'
-ht-degree: 100%
+source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
+workflow-type: tm+mt
+source-wordcount: '1021'
+ht-degree: 98%
 
 ---
 
@@ -245,7 +245,7 @@ L’[!UICONTROL espace de noms] et le [!DNL Luma Loyalty schema] sont maintenant
    | `size` | `Product Size` | [!UICONTROL Chaîne] |
    | `price` | `Product Price` | [!UICONTROL Double] |
    | `description` | `Product Description` | [!UICONTROL Chaîne] |
-   | `imageURL` | `Product Image URL` | [!UICONTROL Chaîne] |
+   | `imageUrl` | `Product Image URL` | [!UICONTROL Chaîne] |
    | `stockQuantity` | `Product Stock Quantity` | [!UICONTROL Chaîne] |
    | `url` | `Product URL` | [!UICONTROL Chaîne] |
 
@@ -345,4 +345,4 @@ Créez les [!UICONTROL schémas] supplémentaires suivants :
 
 ## Étapes suivantes
 
-Maintenant que vous avez créé la structure de données, vous pouvez [créer des jeux de données et ingérer des données d’exemple](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
+Maintenant que vous avez créé la structure de données, vous pouvez : [créer des jeux de données et ingérer des exemples de données ;](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).

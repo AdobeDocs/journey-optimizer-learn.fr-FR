@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
-workflow-type: ht
-source-wordcount: '475'
-ht-degree: 100%
+source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
+workflow-type: tm+mt
+source-wordcount: '482'
+ht-degree: 96%
 
 ---
 
@@ -29,7 +29,7 @@ Vérifiez que les conditions préalables suivantes sont remplies.
 
 * Accès à une sandbox Journey Optimizer. Nous vous recommandons d’effectuer le défi dans une sandbox de formation dédiée.
 * AEM Assets Essentials doit être configuré pour votre instance.
-* Les canaux e-mail doivent être configurés pour les messages transactionnels et de marketing.
+* Le [les canaux de messagerie doivent être configurés.](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html) pour les messages transactionnels et marketing.
 
 ### Droits d’accès
 
