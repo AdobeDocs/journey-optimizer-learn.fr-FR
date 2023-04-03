@@ -11,7 +11,7 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
-source-git-commit: 1a9e9ac5ec8350e5dc2efff04130f33f334e2160
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Découvrez comment ajouter une personnalisation basée sur un profil à un message et comment utiliser l’appartenance à un segment comme condition préalable à un bloc de personnalisation.
 
->[!VIDEO](https://video.tv.adobe.com/v/334078?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334078?quality=12&learn=on)
