@@ -16,7 +16,7 @@ ht-degree: 100%
 
 # Exercice 1.2 : s’enregistrer en tant qu’utilisateur ou utilisatrice avec l’application
 
->[!IMPORTANT]
+>[!IMPORTANT]\
 >Inscrivez-vous en utilisant une **adresse e-mail à laquelle vous pouvez accéder au cours de la session de ce Lab**. Indiquez également **votre numéro de téléphone mobile**.
 >
 > Ces informations sont requises pour que vous puissiez recevoir les messages que vous enverrez. Elles vous permettront également d’accéder à vos informations dans Journey Optimizer. Elles ne seront pas utilisées à d’autres fins en dehors de ce Lab.
