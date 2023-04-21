@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
-source-git-commit: e8f4f8bd1428bf6e4a9af88b2b7d11ca962db581
+source-git-commit: 3a70dc06dee3e0e35557455ca0aa933873f787fe
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '321'
+ht-degree: 100%
 
 ---
 
@@ -68,16 +68,17 @@ ht-degree: 0%
    + [Créer des décisions](/help/decision-management/create-decisions.md)
    + [Diffuser des offres à l’aide de l’API Decisions](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [Limitation de la fréquence](/help/decision-management/frequency-capping.md)
++ Gestion des données {#data-management}
+   + [Présentation](/help/set-up-data/set-up-data-overview.md)
+   + [Création d’un schéma](/help/set-up-data/create-schema.md)
+   + [Mapping d’identités](/help/set-up-data/map-identities.md)
+   + [Création de jeux de données et ingestion de données](/help/set-up-data/create-datasets-and-ingest-data.md)
+   + [Configuration des connecteurs source](/help/set-up-data/configure-source-connectors.md)
+   + [Exporter des jeux de données vers des emplacements d’espace de stockage](/help/set-up-data/export-datasets.md)
 + Rapport et surveillance {#report-and-monitor}
    + [Rapports dynamiques et globaux](/help/report-and-monitor/live-and-global-reports.md)
    + [Utiliser des alertes](/help/administration/alerts.md)
 + Configuration {#configuration}
-   + Configurer des données {#data-configuration}
-      + [Présentation](/help/set-up-data/set-up-data-overview.md)
-      + [Création d’un schéma](/help/set-up-data/create-schema.md)
-      + [Mapping d’identités](/help/set-up-data/map-identities.md)
-      + [Création de jeux de données et ingestion de données](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [Configuration des connecteurs source](/help/set-up-data/configure-source-connectors.md)
    + Configurer des canaux {#channel-configuration}
       + [Configurer un canal e-mail](/help/set-up-channels/set-up-email-channel.md)
       + [Délégation de sous-domaines CName](/help/set-up-channels/delegate-cname-subdomains.md)
