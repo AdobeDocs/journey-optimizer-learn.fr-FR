@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
 source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1021'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -345,4 +345,4 @@ Créez les [!UICONTROL schémas] supplémentaires suivants :
 
 ## Étapes suivantes
 
-Maintenant que vous avez créé la structure de données, vous pouvez : [créer des jeux de données et ingérer des exemples de données ;](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
+Maintenant que vous avez créé la structure des données, vous pouvez [créer des jeux de données et ingérer des données d’exemple](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
