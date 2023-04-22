@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
-source-git-commit: 3a70dc06dee3e0e35557455ca0aa933873f787fe
+source-git-commit: 58333495c7a4fba108f171b28a977cdb8f36b758
 workflow-type: tm+mt
-source-wordcount: '321'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -44,6 +44,9 @@ ht-degree: 100%
 + Canal SMS{#sms-channel}
    + [Créer et diffuser des messages SMS](/help/channels/author-and-deliver-sms-messages.md)
    + [Prise en charge des mots-clés entrants pour les SMS](/help/channels/inbound-keyword-support-for-sms.md)
++ Canal web {#web-channel}
+   + [Créer une campagne web](/help/channels/create-a-web-campaign.md)
+   + [Créer une campagne web](/help/channels/author-a-web-campaign.md)
 + Profils client, segments et abonnements {#profiles-segments-subscriptions}
    + [Profil unifié et segmentation - Vue d’ensemble](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Créer des segments](/help/set-up-resources/create-segments.md)
@@ -67,7 +70,7 @@ ht-degree: 100%
    + [Créer des collections](/help/decision-management/create-collections.md)
    + [Créer des décisions](/help/decision-management/create-decisions.md)
    + [Diffuser des offres à l’aide de l’API Decisions](/help/decision-management/deliver-offers-with-the-decisions-api.md)
-   + [Limitation de la fréquence](/help/decision-management/frequency-capping.md)
+   + [Capping de la fréquence](/help/decision-management/frequency-capping.md)
 + Gestion des données {#data-management}
    + [Présentation](/help/set-up-data/set-up-data-overview.md)
    + [Création d’un schéma](/help/set-up-data/create-schema.md)
