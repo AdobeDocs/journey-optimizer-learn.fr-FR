@@ -1,6 +1,6 @@
 ---
 title: Créer une campagne web
-description: Comprendre ce qu’est une campagne web. Découvrez comment configurer les propriétés des campagnes web, les revoir et les publier.
+description: Comprenez ce qu’est une campagne. Découvrez comment configurer les propriétés d’une campagne web, revoir votre campagne et la publier.
 feature: Web Channel
 role: User
 level: Beginner
@@ -10,14 +10,14 @@ jira: KT-10283
 thumbnail: 3418800.jpeg
 exl-id: 5b625240-5f55-457c-8ea6-2a3f61af7047
 source-git-commit: ddfc95c3e837b92df3f98598df04c515de22be34
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '44'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
 # Créer une campagne web
 
-Comprendre ce qu’est une campagne web. Découvrez comment configurer les propriétés des campagnes web, les revoir et les publier.
+Comprenez ce qu’est une campagne. Découvrez comment configurer les propriétés d’une campagne web, revoir votre campagne et la publier.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418800/?quality=12&learn=on)
