@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: a3ac293c29e9965344c518215c2f034caa41557e
+source-git-commit: 4c2215615647da8db51914ea48f1af32936ccc57
 workflow-type: tm+mt
 source-wordcount: '357'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -201,7 +201,7 @@ Bienvenue sur Vegas Stay. Ne faites pas la queue et enregistrez-vous avec l’a
 **Libellé :**
 Message de confirmation
 
-**Objet :**
-{{profile.person.name.firstName}}, votre enregistrement est terminé, consultez maintenant nos offres pour votre séjour.
+**Objet :**
+`{{profile.person.name.firstName}},` vous êtes enregistré, maintenant consultez nos offres pour votre séjour !
 
 >[!ENDTABS]
