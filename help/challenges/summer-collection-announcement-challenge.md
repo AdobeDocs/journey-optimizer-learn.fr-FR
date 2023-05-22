@@ -6,10 +6,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 8e86fdfe2a9e8c7cc37eeb95af23d32a5c1d83a7
+source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
 workflow-type: tm+mt
-source-wordcount: '1166'
-ht-degree: 96%
+source-wordcount: '1126'
+ht-degree: 98%
 
 ---
 
@@ -140,7 +140,6 @@ Prévisualisez l’e-mail :
 Résultat :
 
 * L’objet doit être le suivant : Louise, la nouvelle collection de Luma est arrivée !
-* Le corps de l’e-mail doit correspondre à ce que vous avez vu dans l’aperçu : [annonce de nouvelle collection saisonnière](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html).
 
 **E-mail n° 2 - Collection pour hommes de Luma**
 
@@ -149,8 +148,8 @@ Envoyez-vous un BAT :
 1. Ajoutez un profil de test : Stanleigh Stooke :
    * Espace de noms d’identité : *Identifiant CRM de Luma*.
    * Valeur de l’identité : `4f34057d9d9e792c28ba18ecae378e98`
-1. Sélectionnez le profil de test : Stanleigh Stooke.
-1. Envoyez-vous un BAT.
+2. Sélectionnez le profil de test : Stanleigh Stooke.
+3. Envoyez-vous un BAT.
 
 Résultat :\
 Vous devriez recevoir un e-mail. L’objet doit être le suivant : *Stanleigh, découvrez les nouveaux équipements de sport masculins !* et le corps de l’email doit correspondre à ce que vous avez vu dans l’aperçu.
@@ -163,14 +162,12 @@ Vous devriez recevoir un e-mail. L’objet doit être le suivant : *Stanleigh, 
 Prévisualiser l’e-mail avec le profil de test *Louise Petti.*
 
 * L’objet doit être le suivant : *Louise, découvrez la collection pour femmes de Luma !*
-* Le corps de l’email doit correspondre à ce que vous avez vu dans l’aperçu.
 
 **E-mail n° 4 - 20 % de réduction sur la collection de Luma**
 
 Prévisualisez l’e-mail avec le profil de test *Louise Petti.*
 
 * L’objet doit être le suivant : *Louise, profitez de 20 % de réduction !*
-* Le corps de l’email doit correspondre à ce que vous avez vu dans l’aperçu.
 
 #### Tester votre parcours
 
