@@ -119,7 +119,7 @@ L’e-mail doit être structuré comme suit :
   Commande : <em>{purchaseOrderNumber}</em>
     </p>
     <strong>Liste des produits commandés :
-</strong>.
+  </strong>
   <p>Listez chaque produit de la commande avec une image, le prix et le nom.
   <p>La mise en page de chaque élément doit se présenter comme suit :
 <img alt="commande" src="./assets/c2-order.png">. 
