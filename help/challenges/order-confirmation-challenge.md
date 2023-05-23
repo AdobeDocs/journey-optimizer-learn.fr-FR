@@ -71,7 +71,8 @@ L’e-mail doit être structuré comme suit :
   <tr>
   <td>
   <div>
-    <strong>Section de confirmation de commande</strong>
+    <strong>Section de confirmation de commande
+    </strong>
   </td>
   <td>
     <p>
@@ -122,10 +123,10 @@ L’e-mail doit être structuré comme suit :
   </strong>
   <p>Listez chaque produit de la commande avec une image, le prix et le nom.
   <p>La mise en page de chaque élément doit se présenter comme suit :
-   <img alt="commande" src="./assets/c2-order.png">
+   <img alt="commande" src="./assets/c2-order.png"> 
 <p><b>Ajouter le lien vers le panier</b>.
 <p>Remplacez le numéro de commande (orderID) dans l’URL par le numéro de la commande :
-   <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>.
+   <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
 </td>
   </tr>
 </table>
