@@ -1,14 +1,14 @@
 ---
-title: Créer des offres personnalisées
+title: Création d’offres personnalisées
 seo-title: Create personalized offers for decision management
 description: Découvrez comment créer des offres personnalisées pour la gestion des décisions. Les offres personnalisées sont associées à des règles d’éligibilité qui vous permettent de les proposer aux clients appropriés uniquement.
 feature: Offers, Personalization
 kt: 6781
 thumbnail: 329375.jpg
 exl-id: 03428751-340f-4400-9162-b0f3021f1af1
-source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
@@ -21,6 +21,4 @@ Découvrez comment créer des [offres personnalisées](https://experienceleague.
 
 Pour en savoir plus sur la création d’activités d’offres personnalisées à lʼaide dʼune API, consultez le [guide du produit](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/personalized-offers/create.html?lang=fr).
 
->[!INFO]
->
-> Cette vidéo fait partie d’un cours, [Prise en main de la gestion des décisions pour les personnes professionnelles du marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible gratuitement sur Experience League !
+{{experienceplatform-u-1-2020-1-offerdecisioning}}
