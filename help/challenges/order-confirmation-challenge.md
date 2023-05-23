@@ -71,8 +71,7 @@ L’e-mail doit être structuré comme suit :
   <tr>
   <td>
   <div>
-    <strong>Section de confirmation de commande
-</strong>
+    <strong>Section de confirmation de commande</strong>
   </td>
   <td>
     <p>
