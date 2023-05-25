@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
-source-git-commit: 1eeaf36b58ec5a363f6f1823e3088dcbe1bc66cc
-workflow-type: ht
-source-wordcount: '331'
-ht-degree: 100%
+source-git-commit: 585d8b5655aed3b0bc1771d2bb12e7b13ee7bd60
+workflow-type: tm+mt
+source-wordcount: '336'
+ht-degree: 98%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 100%
    + [Importation et création de contenu d’e-mail HTML](/help/channels/import-and-author-html-email-content.md)
    + [Aperçu, BAT et publication](/help/channels/preview-proof-and-publish.md)
    + [Modèles de contenu](/help/channels/content-templates.md)
+   + [Configuration d’expériences de contenu pour les emails](/help/experimentation/content_experiments_for_emails.md)
 + Canal in-app{#in-app-channel}
    + [Créer une campagne in-app](/help/channels/create-an-in-app-campaign.md)
    + [Créer un message in-app](/help/channels/author-in-app-messages.md)
