@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
-source-git-commit: 88c1c616fe8f7de8356358a8fe5cc73153c35afb
+source-git-commit: 917e7bc02046311b731111e3ea54ef34829078a6
 workflow-type: tm+mt
-source-wordcount: '375'
-ht-degree: 92%
+source-wordcount: '380'
+ht-degree: 91%
 
 ---
 
@@ -72,6 +72,7 @@ ht-degree: 92%
    + [Créer des règles](/help/decision-management/create-rules.md)
    + [Création de balises](/help/decision-management/create-tags.md)
    + [Création d&#39;offres personnalisées](/help/decision-management/create-personalized-offers.md)
+   + [Créer un modèle de classement personnalisé](/help/decision-management/create-a-personalized-ranking-model.md)
    + [Créer des offres de secours](/help/decision-management/create-fallback-offers.md)
    + [Créer des collections](/help/decision-management/create-collections.md)
    + [Créer des décisions](/help/decision-management/create-decisions.md)
