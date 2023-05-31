@@ -5,7 +5,7 @@ user-guide-description: Voici les tutoriels pour Journey Optimizer.
 source-git-commit: 42c9b46a628c8655fe56112cd3fad06fcaa8269f
 workflow-type: tm+mt
 source-wordcount: '371'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 92%
 + Campagnes {#create-campaigns}
    + [Créer une campagne](/help/create-campaigns/create-a-campaign.md)
    + [Créer une campagne in-app](/help/create-campaigns/in-app.md)
-   + [Créer une campagne web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html)
+   + [Créer une campagne web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=fr)
    + [Créer des expériences de contenu pour les campagnes par e-mail](/help/create-campaigns/content-experiments.md)
 + Parcours {#create-journeys}
    + [Vue d’ensemble de la zone de travail du parcours](/help/create-journeys/overview-over-the-journey-canvas.md)
@@ -41,12 +41,12 @@ ht-degree: 92%
    + [Importation et création de contenu d’e-mail HTML](/help/channels/import-and-author-html-email-content.md)
    + [Aperçu, BAT et publication](/help/channels/preview-proof-and-publish.md)
    + [Modèles de contenu](/help/channels/content-templates.md)
-   + [Gestion, création et utilisation de fragments](/help/content-management/manage-author-use-fragments.md)
-   + [Configuration d’expériences de contenu pour les emails](/help/experimentation/content-experiments-for-emails.md)
+   + [Gérer, créer et utiliser des fragments](/help/content-management/manage-author-use-fragments.md)
+   + [Configurer des expériences de contenu pour les e-mails](/help/experimentation/content-experiments-for-emails.md)
 + Canal in-app{#in-app-channel}
    + [Créer une campagne in-app](/help/channels/create-an-in-app-campaign.md)
    + [Créer un message in-app](/help/channels/author-in-app-messages.md)
-   + [Configuration d’expériences de contenu pour les messages in-app](/help/experimentation/content-experiments-for-in-app-messages.md)
+   + [Configurer des expériences de contenu pour les messages in-app](/help/experimentation/content-experiments-for-in-app-messages.md)
 + Canal SMS{#sms-channel}
    + [Créer et diffuser des messages SMS](/help/channels/author-and-deliver-sms-messages.md)
    + [Prise en charge des mots-clés entrants pour les SMS](/help/channels/inbound-keyword-support-for-sms.md)
