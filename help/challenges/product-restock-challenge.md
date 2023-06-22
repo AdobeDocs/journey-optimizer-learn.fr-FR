@@ -1,15 +1,15 @@
 ---
 title: Défi lié au réapprovisionnement du produit
 description: Appliquez vos connaissances en matière de création de segments et testez vos compétences.
-kt: 8417
+jira: KT-8417
 feature: Segments
 role: User
 level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
-workflow-type: tm+mt
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
 source-wordcount: '580'
 ht-degree: 100%
 
@@ -101,7 +101,6 @@ Code de condition :
 > * Sélectionnez le SKU sous Enregistrer pour plus tard dans la section *Parcourir les variables*.
 > * Utilisez l’option de comparaison lorsque vous déposez le SKU sous Enregistrer pour plus tard dans le champ d’événement.
 
-
 Vérifiez le code dans le coin inférieur droit de l’écran Modifier le segment, sous Événements. Le code doit se présenter comme suit :
 
 Code :
@@ -118,6 +117,7 @@ Avertissez les client(e)s qui ont ajouté un article en rupture de stock avec un
 >[!TIP]
 >
 > Utilisez l’événement métier existant. Ajoutez une condition qui vérifie que le SKU du réapprovisionnement est inclus dans le type d’événement enregistrer pour plus tard (n’importe lequel).
+>
 
 
 
