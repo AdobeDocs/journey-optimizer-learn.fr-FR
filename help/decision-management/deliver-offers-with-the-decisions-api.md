@@ -3,11 +3,11 @@ title: Diffuser des offres avec l’API Decisions Hub
 description: Découvrez comment diffuser des offres de gestion des décisions avec l’API Decisions.
 role: Developer
 feature: Offers
-kt: 6819
+jira: KT-6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
-workflow-type: tm+mt
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
 source-wordcount: '155'
 ht-degree: 100%
 
