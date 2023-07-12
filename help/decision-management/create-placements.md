@@ -2,12 +2,14 @@
 title: Créer des emplacements
 description: Découvrez comment créer des emplacements pour la gestion des décisions. Les emplacements sont l’un des composants de base requis des offres.
 feature: Offers
+role: User
+level: Beginner
 jira: KT-6736
 thumbnail: 329372.jpg
 exl-id: 71d6fa23-e6e7-49d7-997c-c1b58207dff0
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
 workflow-type: ht
-source-wordcount: '97'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
