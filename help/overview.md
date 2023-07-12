@@ -2,11 +2,14 @@
 title: Tutoriels de Journey Optimizer - Vue d’ensemble
 description: Plusieurs tutoriels vidéo vous montrent comment tirer parti des avantages de Journey Optimizer.
 recommendations: noDisplay, noCatalog
+feature: Get Started
+role: User, Developer, Admin, Leader
+level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
-workflow-type: tm+mt
-source-wordcount: '490'
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -25,20 +28,16 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 ## Nouveautés
 
 * **[Créer du contenu dynamique à l’aide du créateur de règles de condition](/help/personalize-content/create-dynamic-content.md)**
-
-   *Découvrez comment créer et enregistrer des règles de condition et comment appliquer ces règles de condition au contenu sur tous les canaux.*
+  *Découvrez comment créer et enregistrer des règles de condition et comment appliquer ces règles de condition au contenu sur tous les canaux.*
 
 * **[Utiliser les alertes](/help/administration/alerts.md)**
-
-   *Découvrez comment vous abonner à des alertes prédéfinies pour les comportements de parcours inattendus et recevoir des notifications par e-mail dans Journey Optimizer ou à l’aide d’une API.*
+  *Découvrez comment vous abonner à des alertes prédéfinies pour les comportements de parcours inattendus et recevoir des notifications par e-mail dans Journey Optimizer ou à l’aide d’une API.*
 
 * **[Copier un parcours dans un autre sandbox](/help/create-journeys/copy-a-journey.md)**
-
-   *Découvrez comment copier un parcours et ses objets dépendants d’un sandbox à un autre.*
+  *Découvrez comment copier un parcours et ses objets dépendants d’un sandbox à un autre.*
 
 * **[Masquer les données dans les messages](/help/privacy/mask-data-in-messages.md)**
-
-   *Apprenez ce qu’est le masquage de données et pourquoi l’utiliser. Découvrez comment masquer les données des messages de Journey Optimizer.*
+  *Apprenez ce qu’est le masquage de données et pourquoi l’utiliser. Découvrez comment masquer les données des messages de Journey Optimizer.*
 
 </div>
 
@@ -48,12 +47,10 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 ## Événements Experience League Live
 
 * **[Exécuter vos campagnes dans Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=fr)**
-
-   *Dans cet épisode d’Experience League Live initialement diffusé le 22 septembre 2022, regardez l’animatrice Sandra Hausmann et les spécialistes produits Bridgette Darling et Frederic Mary discuter des cas pratiques couverts par cette nouvelle fonctionnalité et présenter comment configurer et exécuter facilement une campagne dans Journey Optimizer.*
+  *Dans cet épisode d’Experience League Live initialement diffusé le 22 septembre 2022, regardez l’animatrice Sandra Hausmann et les spécialistes produits Bridgette Darling et Frederic Mary discuter des cas pratiques couverts par cette nouvelle fonctionnalité et présenter comment configurer et exécuter facilement une campagne dans Journey Optimizer.*
 
 * **[Notifications push avec Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=fr)**
-
-   *Dans cet épisode d’Experience League Live, découvrez les cas d’utilisation courants des notifications push avec Adobe Journey Optimizer et explorez les détails techniques de la configuration d’une application pour les notifications push optimisée par Adobe Experience Platform.*
+  *Dans cet épisode d’Experience League Live, découvrez les cas d’utilisation courants des notifications push avec Adobe Journey Optimizer et explorez les détails techniques de la configuration d’une application pour les notifications push optimisée par Adobe Experience Platform.*
 
 </div>
 
