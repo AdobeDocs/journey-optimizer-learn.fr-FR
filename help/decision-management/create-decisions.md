@@ -3,12 +3,14 @@ title: Créer des décisions
 description: Découvrez comment créer des décisions pour la gestion des décisions. Une décision associe vos emplacements et vos collections en une seule entité, de sorte qu’une décision puisse être prise pour proposer l’offre la plus pertinente au client.
 feature: Offers
 jira: KT-6791
+role: User
+level: Beginner
 thumbnail: 329606.jpg
 last-substantial-update: 2022-09-30T00:00:00Z
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
 workflow-type: ht
-source-wordcount: '106'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
