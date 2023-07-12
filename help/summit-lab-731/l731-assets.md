@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 4c2215615647da8db51914ea48f1af32936ccc57
-workflow-type: ht
-source-wordcount: '357'
-ht-degree: 100%
+source-git-commit: e7deb1d6c57a5b582448542a2679de6aeef44750
+workflow-type: tm+mt
+source-wordcount: '342'
+ht-degree: 92%
 
 ---
 
@@ -125,8 +125,6 @@ Le processus vous invite à installer Testflight, en suivant les étapes 1 à 4
 
 ![Code QR pour Android.](/help/assets/lab731-android-qr-code.png)
 
-Si vous utilisez le simulateur Android, cliquez sur ce lien : [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
-
 L’application n’étant pas enregistrée auprès de la boutique Google Play, vous recevez un message d’avertissement :
 
 ![Écran d’avertissement Android.](/help/assets/lab731-install-android.png)
@@ -149,14 +147,14 @@ Cliquez sur **Installer quand même**.
 
 | Champ | Texte | Liens |
 |----|----|----|
-| Nom de la campagne | `<your seat number> March Vegas Campaign` |  |
+| Nom de la campagne | `<your seat number> Vegas Stay Campaign` |  |
 | Correspondance | booknow |  |
 | Option URL de médias |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| Titre | C’est bientôt et c’est en direct. |  |
-| Corps | L’Adobe Summit est de retour à Las Vegas du 21 au 23 mars 2023. Préparez-vous à des interventions passionnantes, à des sessions pour accroître vos compétences et à de nouvelles rencontres. |  |
-| Bouton | Réservez un hôtel dès maintenant et économisez 10 %. | lab://booking?suite=presidential&amp;discount=10 |
+| Titre | Bénéficiez de votre réduction pour les lève-tôt ! |  |
+| Corps | Le retour des Adobes Summit à Las Vegas en 2024. Préparez-vous à des interventions passionnantes, à des sessions pour accroître vos compétences et à de nouvelles rencontres. Réservez dès maintenant votre suite et profitez d’une remise de 10 %. |  |
+| Bouton | Réserver maintenant | lab://booking?suite=presidential&amp;discount=10 |
 | Bouton : événement interactif | Apple à l’action in-app |  |
-| URL de base |  | iOS : lab:// <br>Android&amp; : https://lab |
+| URL de base |  | **iOS :** lab:// <br>**Android**: https://lab |
 
 
 ## Leçon 3 : créer un parcours omnicanal
