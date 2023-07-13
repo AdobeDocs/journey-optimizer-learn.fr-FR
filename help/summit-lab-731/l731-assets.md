@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 6580652b9c28d51c03944362a0fb848a0a8194e2
+source-git-commit: d44943b27a1681a2f264e762a2eac9d993ce46be
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '285'
 ht-degree: 76%
 
 ---
@@ -149,10 +149,10 @@ Cliquez sur **Installer quand même**.
 |----|----|----|
 | Nom de la campagne | `<your seat number> Vegas Stay Campaign` |  |
 | Correspondance | booknow |  |
-| Option URL de médias |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
+| Option URL de médias |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | Titre | Bénéficiez de votre réduction pour les lève-tôt ! |  |
 | Corps | L&#39;Adobe Max revient à Las Vegas. Préparez-vous à des interventions passionnantes, à des sessions pour accroître vos compétences et à de nouvelles rencontres. Réservez dès maintenant votre suite et profitez d’une remise de 10 %. |  |
-| Bouton | Réserver maintenant | lab://booking?suite=presidential&amp;discount=10 |
+| Bouton | Obtenez votre remise de 10 % ! | lab://booking?suite=presidential&amp;discount=10 |
 | Bouton : événement interactif | Apple à l’action in-app |  |
 | URL de base à utiliser pour la prévisualisation sur le périphérique |  | **iOS :** lab:// <br>**Android**: https://lab |
 
@@ -162,6 +162,6 @@ Cliquez sur **Installer quand même**.
 | Champ | Texte | Liens |
 |----|----|----|
 | Nom de la campagne | `<your seat number> Max Push Campaign` |  |
-| Option URL de médias |  | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/adobemax.jpg |
+| Option URL de médias |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | Titre | Hé ! |  |
 | Corps | Saviez-vous que l&#39;Adobe Max revient à Vegas. Réservez votre chambre maintenant et obtenez une remise de 10 %. |  |
