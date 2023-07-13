@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: d44943b27a1681a2f264e762a2eac9d993ce46be
+source-git-commit: c3081f196d271f8b32084b0477639ba0fe889e92
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '286'
 ht-degree: 76%
 
 ---
@@ -162,6 +162,6 @@ Cliquez sur **Installer quand même**.
 | Champ | Texte | Liens |
 |----|----|----|
 | Nom de la campagne | `<your seat number> Max Push Campaign` |  |
-| Option URL de médias |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
+| Option URL de médias |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |
 | Titre | Hé ! |  |
 | Corps | Saviez-vous que l&#39;Adobe Max revient à Vegas. Réservez votre chambre maintenant et obtenez une remise de 10 %. |  |
