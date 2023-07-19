@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
-source-git-commit: d755729d2a426e291f6b417546346cbd78900898
-workflow-type: ht
-source-wordcount: '383'
-ht-degree: 100%
+source-git-commit: 7dd39b0bc8b2aa17522310d38140afff9bb1e727
+workflow-type: tm+mt
+source-wordcount: '382'
+ht-degree: 98%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 100%
 + Canal web {#web-channel}
    + [Créer une campagne web](/help/channels/create-a-web-campaign.md)
    + [Créer une campagne web](/help/channels/author-a-web-campaign.md)
-+ Profils client, segments et abonnements {#profiles-segments-subscriptions}
++ Profils, audiences et abonnements {#profiles-segments-subscriptions}
    + [Profil unifié et segmentation - Vue d’ensemble](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Créer des segments](/help/set-up-resources/create-segments.md)
    + [Abonnements et pages de destination](/help/subscriptions-and-landing-pages.md)
