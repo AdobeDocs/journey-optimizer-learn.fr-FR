@@ -2,10 +2,10 @@
 user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
-source-git-commit: 7dd39b0bc8b2aa17522310d38140afff9bb1e727
+source-git-commit: 88499f15c1019c8f5d9531eb3a0dec3f4c1949a7
 workflow-type: tm+mt
 source-wordcount: '382'
-ht-degree: 98%
+ht-degree: 95%
 
 ---
 
@@ -30,9 +30,9 @@ ht-degree: 98%
    + [Vue d’ensemble de la zone de travail du parcours](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Présentation de la création d’un parcours](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Cas d’utilisation : parcours transactionnel](/help/create-journeys/use-case-transactional-journey.md)
-   + [Cas d’utilisation : lecture de segment](/help/create-journeys/use-case-read-segment.md)
    + [Cas d’utilisation : événement métier](/help/create-journeys/use-case-business-event.md)
-   + [Cas d’utilisation : qualification du segment](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [Cas d’utilisation - Lecture d’audience](/help/create-journeys/use-case-read-audience.md)
+   + [Cas d’utilisation - Qualification de l’audience](/help/create-journeys/use-case-audience-qualification.md)
    + [Créer un profil de test](/help/create-journeys/test-a-journey.md)
    + [Publier un parcours](/help/create-journeys/publish-a-journey.md)
    + [Copier un parcours dans un autre sandbox](/help/create-journeys/copy-a-journey.md)
@@ -59,7 +59,7 @@ ht-degree: 98%
    + [Abonnements et pages de destination](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Personnalisation du contenu {#personalize-content}
-   + [Personnalisation basée sur un profil et l’appartenance à un segment](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
+   + [Personnalisation basée sur l’appartenance à un profil et à une audience](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Ajout d’offres en tant que personnalisation](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Utilisation d’informations d’événement contextuelles pour la personnalisation](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Utilisation des fonctions helper pour la personnalisation](/help/personalize-content/use-helper-functions-for-personalization.md)
@@ -95,9 +95,9 @@ ht-degree: 98%
       + [Configurer des informations d’identification de l’API SMS et des surfaces de canal](/help/set-up-channels/set-up-sms-channel.md)
       + [Configurer les règles de fréquence des messages](/help/administration/configure-frequency-rules.md)
    + Configurer des parcours {#journey-configuration}
-   + [Configurer les sources de données](/help/set-up-journeys/configure-data-sources.md)
-   + [Créer des événements](/help/set-up-journeys/create-events.md)
-   + [Créer des actions](/help/set-up-journeys/create-actions.md)
+      + [Configurer les sources de données](/help/set-up-journeys/configure-data-sources.md)
+      + [Créer des événements](/help/set-up-journeys/create-events.md)
+      + [Créer des actions](/help/set-up-journeys/create-actions.md)
 + Contrôle d’accès {#access-control}
    + [Gestion des accès](/help/set-up-access/access-management.md)
    + [Configurer le contrôle d’accès basé sur les attributs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html?lang=fr)
