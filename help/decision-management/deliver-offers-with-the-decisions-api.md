@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: 6f96590c66f14b3090b329fc631772f30b510c5a
+source-git-commit: f49c9748808699309f1d1a3a570e4010a6f287a3
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '126'
 ht-degree: 100%
 
 ---
@@ -24,9 +24,3 @@ Découvrez comment diffuser des offres [avec l’API Decisions Hub](https://expe
 >[!INFO]
 >
 > Cette vidéo fait partie d’un cours, [Prise en main de la gestion des décisions pour les personnes professionnelles du marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible gratuitement sur Experience League !
-
-## Ressources supplémentaires
-
-* [Authentification et accès aux API Experience Platform (tutoriel)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html?lang=fr)
-* [[!DNL Postman] Collection pour l’authentification hors production](https://github.com/adobe/experience-platform-postman-samples/tree/master/apis/ims)
-* [[!DNL Postman]](https://www.postman.com/)

@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
-source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+source-git-commit: f49c9748808699309f1d1a3a570e4010a6f287a3
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%
@@ -21,5 +21,3 @@ Découvrez comment créer des collections pour la gestion des décisions.
 Les collections sont utilisées pour gérer les offres en groupes logiques. Elles sont nécessaires pour créer des activités de gestion des décisions. Les collections dynamiques vous permettent de regrouper les offres selon des balises, tandis que les collections statiques vous permettent de les traiter manuellement.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on)
-
-{{experienceplatform-u-1-2020-1-offerdecisioning}}

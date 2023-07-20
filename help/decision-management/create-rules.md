@@ -7,7 +7,7 @@ thumbnail: 329373.jpg
 role: User
 level: Beginner
 exl-id: 1b4cd1cd-f082-46ec-a331-9733d7c87bde
-source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+source-git-commit: f49c9748808699309f1d1a3a570e4010a6f287a3
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 100%
@@ -21,5 +21,3 @@ Découvrez comment créer des [règles de décision](https://experienceleague.ad
 >[!VIDEO](https://video.tv.adobe.com/v/329373?quality=12&learn=on)
 
 Pour en savoir plus sur la création de règles de décision à lʼaide dʼune API, consultez le [guide du produit](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/decision-rules/create.html?lang=fr).
-
-{{experienceplatform-u-1-2020-1-offerdecisioning}}
