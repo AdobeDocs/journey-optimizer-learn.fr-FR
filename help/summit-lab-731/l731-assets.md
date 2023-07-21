@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 056965ea13a84a182971b10138e5d9a75522d5c7
+source-git-commit: 0932b5cd3ad318b0094e859cbc64c5de4f8ba747
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '325'
 ht-degree: 67%
 
 ---
@@ -160,9 +160,8 @@ Cliquez sur **Installer quand même**.
 | **Modifier le contenu :** Contenu | Titre | Bénéficiez de votre réduction pour les lève-tôt ! |  |
 | **Modifier le contenu :** Contenu | Corps | L&#39;Adobe Max revient à Las Vegas. Préparez-vous à des interventions passionnantes, à des sessions pour accroître vos compétences et à de nouvelles rencontres. Réservez dès maintenant votre suite et profitez d’une remise de 10 %. |  |
 | **Modifier le contenu :** Boutons | Bouton | Obtenez votre remise de 10 % ! | lab://booking?suite=presidential&amp;discount=10 |
-| **Modifier le contenu :** Contenu |  | Bouton : Événement Interact | Apple à l’action in-app |  |
+| **Modifier le contenu :** Boutons | Événement Interact | Apple à l’action in-app |  |
 | **Aperçu sur l’appareil** |  | URL de base à utiliser pour la prévisualisation sur le périphérique |  | **iOS :** lab:// <br>**Android**: https://lab |
-
 
 ## Exercice 3 : Création d’une notification push
 
