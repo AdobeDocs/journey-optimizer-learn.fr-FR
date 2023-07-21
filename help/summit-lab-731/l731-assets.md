@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: af22cd4dfe86ade11a88428cd44460fad721942a
+source-git-commit: 056965ea13a84a182971b10138e5d9a75522d5c7
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 71%
+source-wordcount: '326'
+ht-degree: 67%
 
 ---
 
@@ -142,7 +142,7 @@ Cliquez sur **Installer quand même**.
 
 ## Exercice 1 : se connecter à Adobe Journey Optimizer
 
-[Cliquez ici pour vous connecter à Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home).
+[Cliquez ici pour vous connecter à Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home).{target="_blank"}
 
 **Identifiants de connexion :**
 
@@ -152,16 +152,16 @@ Cliquez sur **Installer quand même**.
 
 ## Exercice 2 : créer une campagne in-app
 
-| Champ | Texte | Liens |
-|----|----|----|
-| Nom de la campagne | `<your seat number> Vegas Stay Campaign` |  |
-| Correspondance | booknow |  |
-| Option URL de médias |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
-| Titre | Bénéficiez de votre réduction pour les lève-tôt ! |  |
-| Corps | L&#39;Adobe Max revient à Las Vegas. Préparez-vous à des interventions passionnantes, à des sessions pour accroître vos compétences et à de nouvelles rencontres. Réservez dès maintenant votre suite et profitez d’une remise de 10 %. |  |
-| Bouton | Obtenez votre remise de 10 % ! | lab://booking?suite=presidential&amp;discount=10 |
-| Bouton : événement interactif | Apple à l’action in-app |  |
-| URL de base à utiliser pour la prévisualisation sur le périphérique |  | **iOS :** lab:// <br>**Android**: https://lab |
+| Section | Champ | Texte | Liens |
+|----|----|----|----|
+| **Propriétés** |  | Nom de la campagne | `<your seat number> Vegas Stay Campaign` |  |
+| **Triggers** | State (État) | booknow |  |
+| **Modifier le contenu :** Média | Option URL de médias |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
+| **Modifier le contenu :** Contenu | Titre | Bénéficiez de votre réduction pour les lève-tôt ! |  |
+| **Modifier le contenu :** Contenu | Corps | L&#39;Adobe Max revient à Las Vegas. Préparez-vous à des interventions passionnantes, à des sessions pour accroître vos compétences et à de nouvelles rencontres. Réservez dès maintenant votre suite et profitez d’une remise de 10 %. |  |
+| **Modifier le contenu :** Boutons | Bouton | Obtenez votre remise de 10 % ! | lab://booking?suite=presidential&amp;discount=10 |
+| **Modifier le contenu :** Contenu |  | Bouton : Événement Interact | Apple à l’action in-app |  |
+| **Aperçu sur l’appareil** |  | URL de base à utiliser pour la prévisualisation sur le périphérique |  | **iOS :** lab:// <br>**Android**: https://lab |
 
 
 ## Exercice 3 : Création d’une notification push
