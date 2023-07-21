@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 0932b5cd3ad318b0094e859cbc64c5de4f8ba747
+source-git-commit: c72d6d4d88811ac4d40bfc512585e0ebe64741d2
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 67%
@@ -154,7 +154,7 @@ Cliquez sur **Installer quand même**.
 
 | Section | Champ | Texte | Liens |
 |----|----|----|----|
-| **Propriétés** |  | Nom de la campagne | `<your seat number> Vegas Stay Campaign` |  |
+| **Propriétés** | Nom de la campagne | `<your seat number> Vegas Stay Campaign` |  |
 | **Triggers** | State (État) | booknow |  |
 | **Modifier le contenu :** Média | Option URL de médias |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | **Modifier le contenu :** Contenu | Titre | Bénéficiez de votre réduction pour les lève-tôt ! |  |
