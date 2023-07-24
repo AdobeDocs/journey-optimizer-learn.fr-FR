@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 2f0412400db4d5bdddbb84d41e8bde17ea2533b2
+source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 67%
@@ -144,7 +144,7 @@ Cliquez sur **Installer quand même**.
 
 [Cliquez ici pour vous connecter à Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home).{target="_blank"}
 
-**Identifiants de connexion :**
+**Informations de connexion**
 
 * **Nom d’utilisateur :** `L731+<your seat number>@summitlab.us` (exemple : L731+001@summitlab.us)
 * **Mot de passe :** Adobe2023!
@@ -161,7 +161,7 @@ Cliquez sur **Installer quand même**.
 | **Modifier le contenu :** Contenu | Corps | L&#39;Adobe Max revient à Las Vegas. Préparez-vous à des interventions passionnantes, à des sessions pour accroître vos compétences et à de nouvelles rencontres. Réservez dès maintenant votre suite et profitez d’une remise de 10 %. |  |
 | **Modifier le contenu :** Boutons | Bouton | Obtenez votre remise de 10 % ! | lab://booking?suite=presidential&amp;discount=10 |
 | **Modifier le contenu :** Boutons | Événement Interact | Apple à l’action in-app |  |
-| **Aperçu sur l’appareil** |  | URL de base à utiliser pour la prévisualisation sur le périphérique |  | **iOS :** lab:// <br>**Android**: https://lab |
+| **Aperçu sur l’appareil** | URL de base à utiliser pour la prévisualisation sur le périphérique |  | **iOS :** lab:// <br>**Android**: https://lab |
 
 ## Exercice 3 : Création d’une notification push
 
