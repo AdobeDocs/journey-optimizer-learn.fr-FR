@@ -1,5 +1,5 @@
 ---
-title: Création d’offres personnalisées
+title: Créer des offres personnalisées
 seo-title: Create personalized offers for decision management
 description: Découvrez comment créer des offres personnalisées pour la gestion des décisions. Les offres personnalisées sont associées à des règles d’éligibilité qui vous permettent de les proposer aux clients appropriés uniquement.
 feature: Offers, Personalization
