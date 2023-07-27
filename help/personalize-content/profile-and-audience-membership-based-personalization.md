@@ -1,5 +1,5 @@
 ---
-title: Utiliser un profil et l’appartenance à une audience pour la personnalisation
+title: Personnalisation basée sur les profils et l’appartenance à une audience
 description: Découvrez comment ajouter une personnalisation basée sur un profil à un message et comment utiliser l’appartenance à une audience comme condition préalable à un bloc de personnalisation.
 jira: KT-8034
 thumbnail: 334078.jpg
@@ -9,14 +9,14 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
-source-git-commit: 88499f15c1019c8f5d9531eb3a0dec3f4c1949a7
-workflow-type: ht
-source-wordcount: '72'
-ht-degree: 100%
+source-git-commit: 9c0c99ca72739d1ea868cabd2ef99f998baba76b
+workflow-type: tm+mt
+source-wordcount: '70'
+ht-degree: 17%
 
 ---
 
-# Utiliser un profil et l’appartenance à une audience pour la personnalisation
+# Personnalisation basée sur les profils et l’appartenance à une audience
 
 >[!NOTE]
 >Notez le changement de nom suivant dans l’interface utilisateur : les **Segments** s’appellent désormais **Audiences**.
