@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
-source-wordcount: '190'
-ht-degree: 100%
+source-git-commit: df055830da42b94d751890af6c19074ddfea2237
+workflow-type: tm+mt
+source-wordcount: '159'
+ht-degree: 97%
 
 ---
 
@@ -52,26 +52,14 @@ Lors de l’utilisation de cet événement, Journey Optimizer reçoit des infor
 
 1. Sélectionnez **[!UICONTROL Enregistrer]**.
 
-## Créer un événement *[!DNL Luma Wishlist Add]*
-
-| [!UICONTROL Paramètre] | [!UICONTROL Valeur] |
-|-------------|-----------|
-| [!UICONTROL NOM] | `LumaWishlistAdd` |
-| [!UICONTROL TYPE] | [!UICONTROL Unitaire] |
-| [!UICONTROL Type d’identifiant d’événement] | [!UICONTROL Basé sur des règles] |
-| [!UICONTROL Schéma] | `Luma Product Interactions` |
-| [!UICONTROL Champs] | EventType <br>productListItem.quantity<br><b> dans Éléments de la liste de produits > Produits Luma > _*[!DNL yourOrganizationID]* > Produit : </b> <br>Nom<br> Prix<br> ProductImageURL<br> ProductURL |
-| [!UICONTROL Condition] | [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters] |
-| [!UICONTROL Espace de noms] | E-mail (E-mail) |
-
 ## Créer un événement *[!DNL Luma Product Restock]*
 
 | [!UICONTROL Paramètre] | [!UICONTROL Valeur] |
 |-------------|-----------|
 | [!UICONTROL NOM] | `LumaProductRestock` |
 | [!UICONTROL TYPE] | [!UICONTROL Entreprise] |
-| [!UICONTROL Schéma] | [!DNL Luma Product Inventory Events] |
-| [!UICONTROL Champs] | SKU <br> stockEventType<br><b> yourOrganizationID > Produit : </b> <br>Nom<br> Prix<br> ImageURL<br> Description |
+| [!UICONTROL Schéma] | [!DNL Luma Product Inventory Event Schema] |
+| [!UICONTROL Champs] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema_yourOrganizationID.product :</b> <br>Nom<br> Prix<br> ImageURL<br> Description |
 | [!UICONTROL Condition] | LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType est en réapprovisionnement |
 
 Félicitations ! Vous pouvez désormais utiliser votre sandbox.
