@@ -9,17 +9,14 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
-source-git-commit: c5e5a2fc5a0c4ded46565b998e36f10a26db15df
+source-git-commit: 84a5a9944d26f1a11bb65b5caebec9aaa4316392
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 32%
+source-wordcount: '56'
+ht-degree: 17%
 
 ---
 
 # Personnalisation basée sur un profil et l’appartenance à une audience
-
->[!NOTE]
->Notez le changement de nom suivant dans l’interface utilisateur : les **Segments** s’appellent désormais **Audiences**.
 
 Découvrez comment ajouter une personnalisation basée sur un profil à un message et comment utiliser l’appartenance à une audience comme condition préalable à un bloc de personnalisation.
 
