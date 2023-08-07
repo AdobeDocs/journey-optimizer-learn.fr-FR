@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '482'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -66,7 +66,7 @@ Luma cherche à promouvoir ses vêtements et sa collection d’articles les plus
    <strong><a href="summer-collection-announcement-challenge.md">Créer une annonce de collection d’été </strong>
     </a>
       <p>
-      <em>Créez un parcours qui envoie un email d’annonce de collection d’été à une audience de clients existants. </em>
+      <em>Créez un parcours qui envoie un e-mail d’annonce de collection d’été à une audience de clientèle existante.</em>
       <p>
       <b>Compétences requises :</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=fr"> Créer des segments</li>
