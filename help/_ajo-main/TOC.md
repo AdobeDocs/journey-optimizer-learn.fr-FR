@@ -3,9 +3,9 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 source-git-commit: 391abc80e405fee1e56bbf534d6c0cc822fbc389
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '396'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -31,13 +31,13 @@ ht-degree: 94%
    + [Présentation de la création d’un parcours](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Cas d’utilisation : parcours transactionnel](/help/create-journeys/use-case-transactional-journey.md)
    + [Cas d’utilisation : événement métier](/help/create-journeys/use-case-business-event.md)
-   + [Cas d’utilisation - Lecture d’audience](/help/create-journeys/use-case-read-audience.md)
-   + [Cas d’utilisation - Qualification de l’audience](/help/create-journeys/use-case-audience-qualification.md)
+   + [Cas d’utilisation : lecture d’audience](/help/create-journeys/use-case-read-audience.md)
+   + [Cas d’utilisation : qualification de l’audience](/help/create-journeys/use-case-audience-qualification.md)
    + [Créer un profil de test](/help/create-journeys/test-a-journey.md)
    + [Publier un parcours](/help/create-journeys/publish-a-journey.md)
    + [Copier un parcours dans un autre sandbox](/help/create-journeys/copy-a-journey.md)
-+ Canal courrier{#direct-mail-channel}
-   + [Canal courrier](/help/channels/direct-mail.md)
++ Canal de publipostage direct{#direct-mail-channel}
+   + [Canal de publipostage direct](/help/channels/direct-mail.md)
 + Canal e-mail{#email-channel}
    + [Créer du contenu avec le Concepteur d&#39;e-mail](/help/channels/create-content-with-the-email-designer.md)
    + [Importation et création de contenu d’e-mail HTML](/help/channels/import-and-author-html-email-content.md)
@@ -50,7 +50,7 @@ ht-degree: 94%
    + [Créer un message in-app](/help/channels/author-in-app-messages.md)
    + [Configurer des expériences de contenu pour les messages in-app](/help/experimentation/content-experiments-for-in-app-messages.md)
 + Canal de notification push{#push-channel}
-   + [Configuration et envoi d’une campagne push](/help/channels/create-a-push-campaign.md)
+   + [Configurer et envoyer une campagne de notifications push](/help/channels/create-a-push-campaign.md)
 + Canal SMS{#sms-channel}
    + [Configurer, créer et diffuser des messages SMS](/help/channels/author-sms-messages.md)
    + [Prise en charge des mots-clés entrants pour les SMS](/help/channels/inbound-keyword-support-for-sms.md)
@@ -62,8 +62,8 @@ ht-degree: 94%
    + [Créer des segments](/help/set-up-resources/create-segments.md)
    + [Abonnements et pages de destination](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
-+ Personnalisation du contenu {#personalize-content}
-   + [Personnalisation basée sur l’appartenance à un profil et à une audience](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
++ Personnaliser le contenu {#personalize-content}
+   + [Personnalisation basée sur un profil et l’appartenance à une audience](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Ajout d’offres en tant que personnalisation](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Utilisation d’informations d’événement contextuelles pour la personnalisation](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Utilisation des fonctions helper pour la personnalisation](/help/personalize-content/use-helper-functions-for-personalization.md)
@@ -74,7 +74,7 @@ ht-degree: 94%
    + [Démonstration des fonctionnalités de gestion des décisions](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [Créer des emplacements](/help/decision-management/create-placements.md)
    + [Créer des règles](/help/decision-management/create-rules.md)
-   + [Création de balises](/help/decision-management/create-tags.md)
+   + [Créer des balises](/help/decision-management/create-tags.md)
    + [Création d&#39;offres personnalisées](/help/decision-management/create-personalized-offers.md)
    + [Créer des modèles d’IA](/help/decision-management/create-ai-models.md)
    + [Créer des offres de secours](/help/decision-management/create-fallback-offers.md)
