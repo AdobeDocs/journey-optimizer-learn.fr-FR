@@ -10,9 +10,9 @@ hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '325'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -32,9 +32,9 @@ Scanner le code QR pour télécharger l’application
 
 >[!IMPORTANT]
 >
->Si vous devez demander le code d’échange, fermez l’application TestFlight et analysez à nouveau le code QR.
+>Si vous êtes invité(e) à présenter le code d’échange, fermez l’application TestFlight et scannez à nouveau le code QR.
 >
->Veuillez autoriser les notifications.
+>Autorisez les notifications.
 >
 
 Le processus vous invite à installer Testflight, en suivant les étapes 1 à 4. Une fois Testflight installé, suivez les étapes 5 à 8 pour installer l’application Vegas Stay :
@@ -144,7 +144,7 @@ Cliquez sur **Installer quand même**.
 
 [Cliquez ici pour vous connecter à Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home).{target="_blank"}
 
-**Informations de connexion**
+**Identifiants de connexion**
 
 * **Nom d’utilisateur :** `L731+<your seat number>@summitlab.us` (exemple : L731+001@summitlab.us)
 * **Mot de passe :** Adobe2023!
@@ -155,19 +155,19 @@ Cliquez sur **Installer quand même**.
 | Section | Champ | Texte | Liens |
 |----|----|----|----|
 | **Propriétés** | Nom de la campagne | `<your seat number> Vegas Stay Campaign` |  |
-| **Triggers** | State (État) | booknow |  |
-| **Modifier le contenu :** Média | Option URL de médias |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
-| **Modifier le contenu :** Contenu | Titre | Bénéficiez de votre réduction pour les lève-tôt ! |  |
-| **Modifier le contenu :** Contenu | Corps | L&#39;Adobe Max revient à Las Vegas. Préparez-vous à des interventions passionnantes, à des sessions pour accroître vos compétences et à de nouvelles rencontres. Réservez dès maintenant votre suite et profitez d’une remise de 10 %. |  |
-| **Modifier le contenu :** Boutons | Bouton | Obtenez votre remise de 10 % ! | lab://booking?suite=presidential&amp;discount=10 |
-| **Modifier le contenu :** Boutons | Événement Interact | Apple à l’action in-app |  |
-| **Aperçu sur l’appareil** | URL de base à utiliser pour la prévisualisation sur le périphérique |  | **iOS :** lab:// <br>**Android**: https://lab |
+| **Triggers** | État | booknow |  |
+| **Modifier le contenu :** médias | Option URL de médias |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
+| **Modifier le contenu :** contenu | Titre | Bénéficiez du tarif préférentiel ! |  |
+| **Modifier le contenu :** contenu | Corps | Adobe Max revient à Las Vegas. Préparez-vous à des interventions passionnantes, à des sessions pour accroître vos compétences et à de nouvelles rencontres. Réservez dès maintenant votre suite et profitez d’une remise de 10 %. |  |
+| **Modifier le contenu :** boutons | Bouton | Bénéficiez d’une remise de 10 % ! | lab://booking?suite=presidential&amp;discount=10 |
+| **Modifier le contenu: ** boutons | Événement d’interaction | Appel à l’action in-app |  |
+| **Prévisualisation sur l’appareil** | URL de base à utiliser pour la prévisualisation sur l’appareil |  | **iOS :** lab:// <br>**Android** : https://lab |
 
-## Exercice 3 : Création d’une notification push
+## Exercice 3 : créer une notification push
 
 | Champ | Texte | Liens |
 |----|----|----|
 | Nom de la campagne | `<your seat number> Max Push Campaign` |  |
-| Titre | Hé ! |  |
-| Corps | Saviez-vous que l&#39;Adobe Max revient à Vegas. Réservez votre chambre maintenant et obtenez une remise de 10 %. |  |
+| Titre | Hé ! |  |
+| Corps | Saviez-vous qu’Adobe Max revient à Vegas. Réservez votre chambre maintenant et bénéficiez d’une remise de 10 %. |  |
 | Option URL de médias |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |
