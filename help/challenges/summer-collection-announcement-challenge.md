@@ -1,6 +1,6 @@
 ---
 title: Créer une annonce de collection d’été - défi
-description: Envoyez une annonce de collection d’été à une audience de clients existants pour promouvoir la nouvelle collection d’été Luma.
+description: Envoyez une annonce de collection d’été à une audience de clientèle existante afin de promouvoir la nouvelle collection d’été de Luma.
 jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1125'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,24 +28,24 @@ ht-degree: 94%
 
 ## L’histoire
 
-Luma, une société fictive de vêtements pour les sportifs, fait la promotion de sa dernière collection de vêtements et d’équipements et encourage les ventes pour les client(e)s existant(e)s. Luma lance la nouvelle collection d’été et souhaite spécifiquement cibler différentes audiences.
+Luma, une société fictive de vêtements pour les sportifs, fait la promotion de sa dernière collection de vêtements et d’équipements et encourage les ventes pour les client(e)s existant(e)s. Luma lance la nouvelle collection d’été et souhaite en particulier cibler différentes audiences de clientèle.
 
 ## Votre défi
 
 L’équipe marketing de Luma vous demande de mettre en œuvre une campagne marketing de collection d’été dans Journey Optimizer. Votre défi est de :
 
-* Créez une audience définissant les profils qui peuvent recevoir la promotion.
-* Créer le parcours.
+* Créez une audience définissant les profils qui peuvent bénéficier de la promotion.
+* Créez le parcours.
 
-### Étape 1 : définition de l’audience - Principaux clients
+### Étape 1 : définir l’audience - Clientèle active
 
 >[!BEGINTABS]
 
 >[!TAB Tâche]
 
-#### Création d’une audience dans [!DNL Journey Optimizer]
+#### Créer une audience dans [!DNL Journey Optimizer]
 
-* Création d’une audience dans [!DNL Journey Optimizer] appelé *Clients principaux*.
+* Créer une audience dans [!DNL Journey Optimizer] appelé *Clientèle active*.
 * Le segment ne doit inclure que les clients et clientes actifs de Luma.
 * Les clients et clientes actifs sont définis comme des client(e)s ayant un niveau dans le programme de fidélité de Luma (bronze, argent, or ou platine).
 
