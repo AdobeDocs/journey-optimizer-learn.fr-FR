@@ -9,9 +9,9 @@ hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
 source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '580'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ Luma vous demande d’implémenter un parcours dans Journey Optimizer qui avert
 
 ## 1. Définir le segment - Éléments de liste de souhaits en rupture de stock
 
-Pour cibler les clients potentiels intéressés lors du redémarrage de produits, créez une audience composée de clients :
+Pour cibler la clientèle potentielle intéressée lors du réapprovisionnement de produits, créez une audience qui se compose d’une clientèle :
 
 * qui ont ajouté au moins un élément à leur liste de souhaits (utilisez le type d’événement : [!UICONTROL Enregistrer pour plus tard Commerce]),
 * lequel était en rupture de stock au cours des 3 derniers mois (utilisez quantité en stock = 0),
