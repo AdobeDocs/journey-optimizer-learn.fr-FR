@@ -56,3 +56,4 @@ ht-degree: 100%
 >[!SUCCESS]
 >
 >Vous avez créé un utilisateur ou une utilisatrice de l’application. Un profil a été créé dans Adobe Journey Optimizer.
+>
