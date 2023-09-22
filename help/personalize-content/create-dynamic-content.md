@@ -10,10 +10,10 @@ role: User
 level: Beginner
 last-substantial-update: 2022-10-03T00:00:00Z
 exl-id: 882c25c2-c990-4d20-9afe-fc5d4030bf0b
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 100%
+source-wordcount: '58'
+ht-degree: 96%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment créer et enregistrer des règles de condition et comment appliquer ces règles de condition au contenu sur tous les canaux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409815?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409815?quality=12&learn=on){transcript=true}
