@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: eb4bbc4cd8eb511dbadc87cb9b7bc6c9838a8394
+source-git-commit: 076be9da7d5fd89e47852a6d275602f10a81d7bd
 workflow-type: tm+mt
-source-wordcount: '403'
-ht-degree: 100%
+source-wordcount: '412'
+ht-degree: 97%
 
 ---
 
@@ -59,6 +59,7 @@ ht-degree: 100%
 + Canal web {#web-channel}
    + [Créer une campagne web](/help/channels/create-a-web-campaign.md)
    + [Créer une campagne web](/help/channels/author-a-web-campaign.md)
+   + [Prise en charge SPA dans l’éditeur web](/help/channels/singel-page-application-support.md)
 + Profils, audiences et abonnements {#profiles-segments-subscriptions}
    + [Profil unifié et segmentation - Vue d’ensemble](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Créer des segments](/help/set-up-resources/create-segments.md)
@@ -93,6 +94,7 @@ ht-degree: 100%
    + [Exporter des jeux de données vers des emplacements d’espace de stockage](/help/set-up-data/export-datasets.md)
 + Rapport et surveillance {#report-and-monitor}
    + [Rapports dynamiques et globaux](/help/report-and-monitor/live-and-global-reports.md)
+   + [Rapports au niveau du canal](/help/report-and-monitor/channel-level-reports.md)
    + [Utiliser des alertes](/help/administration/alerts.md)
 + Configuration {#configuration}
    + Configurer des canaux {#channel-configuration}
