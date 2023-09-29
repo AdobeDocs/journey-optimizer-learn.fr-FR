@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
 source-wordcount: '1021'
 ht-degree: 100%
@@ -20,7 +20,7 @@ ht-degree: 100%
 Dans cette section, vous créez les espaces de noms d’identité requis et définissez les exemple de structure de données [!DNL Luma] en créant les [[!UICONTROL schémas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=fr).
 
 >[!TIP]
->Regardez le tutoriel vidéo [Mapper les identités](/help/set-up-data/map-identities.md) avant de commencer.
+>Regardez le tutoriel vidéo [Mapper les identités](/help/data-management/map-identities.md) avant de commencer.
 
 ## Étape 1 : créer des espaces de noms d’identité
 
@@ -69,7 +69,7 @@ Au cours de cette étape, vous définissez la structure des données d’exemple
 
 >[!TIP]
 >
->Regardez le tutoriel vidéo [Créer un schéma](/help/set-up-data/create-schema.md) avant de commencer.
+>Regardez le tutoriel vidéo [Créer un schéma](/help/data-management/create-schema.md) avant de commencer.
 
 ### Créer [!DNL Luma Loyalty Schema] {#create-luma-loyalty-schema}
 
