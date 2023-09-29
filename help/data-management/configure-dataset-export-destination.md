@@ -2,13 +2,13 @@
 title: Configuration d’une destination d’exportation de jeux de données
 description: En savoir plus sur la configuration, le workflow et les cas d’utilisation pour exporter des jeux de données à partir de [!DNL Adobe Experience Platform] vers un emplacement de stockage dans le cloud à l’aide d’une connexion de destination.
 solution: Real-Time Customer Data Platform, Experience Platform, Journey Optimizer
-feature: Data Management
+feature: Destinations, Data Management
 role: User, Admin
 level: Beginner
 jira: KT-13946
 thumbnail: 3424392.jpg
 last-substantial-update: 2023-09-27T00:00:00Z
-source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
+source-git-commit: 8542676e7c75962b7a59cef554070a10f8f5e3d0
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 12%
