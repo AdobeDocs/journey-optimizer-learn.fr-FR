@@ -10,9 +10,9 @@ role: Developer
 level: Beginner
 exl-id: 168550e9-e304-4a1a-96da-8aab9e4af4dd
 source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Découvrez comment créer des schémas dans Adobe Experience Platform à l’a
 
 >[!VIDEO](https://video.tv.adobe.com/v/27012?quality=12&learn=on){transcript=true}
 
-Pour consulter la documentation détaillée produit, voir [Prise en main des schémas](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/get-started-schemas.html?lang=fr), [Création d’un schéma dans l’interface utilisateur](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=fr) et [Création d’un schéma avec l’API](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-api.html?lang=fr).
+Pour consulter la documentation détaillée produit, voir [Commencer avec les schémas](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/get-started-schemas.html?lang=fr), [Création d’un schéma dans l’interface utilisateur](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=fr) et [Création d’un schéma avec l’API](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-api.html?lang=fr).
