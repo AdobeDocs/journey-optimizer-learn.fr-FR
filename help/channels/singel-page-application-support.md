@@ -1,6 +1,6 @@
 ---
-title: Prise en charge des applications d’une seule page (SPA) dans l’éditeur web
-description: Découvrez comment créer des applications d’une seule page (SPA) dans l’éditeur web de Journey Optimizer.
+title: Prise en charge des applications à une seule page (SPA) dans l’éditeur web
+description: Découvrez comment créer des applications à une seule page (SPA) dans l’éditeur web de Journey Optimizer.
 feature: Web Channel
 role: Developer
 level: Intermediate
@@ -9,25 +9,25 @@ last-substantial-update: 2023-09-28T00:00:00Z
 jira: KT-14009
 thumbnail: 3424536.jpeg
 hidefromtoc: false
-source-git-commit: 2e12d30c620620155985a5d8c13a9e6c593332e8
-workflow-type: tm+mt
+exl-id: 2076e22d-d633-4bd2-ad26-6d9f5e6150e2
+source-git-commit: 2493f6cad316173f5b33d664e3215ed71d13ff76
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Prise en charge des applications à une seule page (SPA) dans l’éditeur web
 
-# Prise en charge des applications d’une seule page (SPA) dans l’éditeur web
+Découvrez comment créer des applications à une seule page (SPA) dans l’éditeur web de Journey Optimizer.
 
-Découvrez comment créer des applications d’une seule page (SPA) dans l’éditeur web de Journey Optimizer.
+Cette vidéo explique comment :
 
-Cette vidéo explique comment :
+* Découvrir les vues SPA en mode de navigation
+* Effectuer une création dans la vue actuelle
+* Appliquer des modifications de site Web à plusieurs vues ou à toutes les vues découvertes
+* Effectuer des actions en bloc sur les modifications
 
-* Découvrez SPA vues en mode Parcourir
-* Effectuer la création dans la vue actuelle
-* Application des modifications de site web à plusieurs vues ou à toutes les vues découvertes
-* Actions en bloc sur les modifications&quot;
-
-Pour plus d’informations, consultez la [Prise en main de la documentation du canal web](https://experienceleague.adobe.com/docs/journey-optimizer/using/web/get-started-web.html).
+Pour plus d’informations, consultez la [documentation Commencer avec le canal web](https://experienceleague.adobe.com/docs/journey-optimizer/using/web/get-started-web.html?lang=fr).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424536/?learn=on)
