@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: f08f646c2317cc17356594052d3174065ef00384
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '420'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -60,7 +60,7 @@ ht-degree: 94%
 + Canal web {#web-channel}
    + [Créer une campagne web](/help/channels/create-a-web-campaign.md)
    + [Créer une campagne web](/help/channels/author-a-web-campaign.md)
-   + [Prise en charge SPA dans l’éditeur web](/help/channels/singel-page-application-support.md)
+   + [Prise en charge des applications à une seule page (SPA) dans l’éditeur web](/help/channels/singel-page-application-support.md)
 + Profils, audiences et abonnements {#profiles-segments-subscriptions}
    + [Profil unifié et segmentation - Vue d’ensemble](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Créer des segments](/help/set-up-resources/create-segments.md)
@@ -92,12 +92,12 @@ ht-degree: 94%
    + [Mapping d’identités](/help/data-management/map-identities.md)
    + [Création de jeux de données et ingestion de données](/help/data-management/create-datasets-and-ingest-data.md)
    + [Configuration des connecteurs source](/help/data-management/configure-source-connectors.md)
-   + [Configuration d’une destination d’exportation de jeux de données](/help/data-management/configure-dataset-export-destination.md)
+   + [Configurer une destination d’export de jeux de données](/help/data-management/configure-dataset-export-destination.md)
    + [Exporter des jeux de données vers des emplacements d’espace de stockage](/help/data-management/export-datasets.md)
 + Rapport et surveillance {#report-and-monitor}
    + [Rapports dynamiques et globaux](/help/report-and-monitor/live-and-global-reports.md)
-   + [Rapports au niveau du canal](/help/report-and-monitor/channel-level-reports.md)
-   + [Exportation de rapports au format CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
+   + [Rapports au niveau des canaux](/help/report-and-monitor/channel-level-reports.md)
+   + [Exporter des rapports au format CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Utiliser des alertes](/help/administration/alerts.md)
 + Configuration {#configuration}
    + Configurer des canaux {#channel-configuration}
