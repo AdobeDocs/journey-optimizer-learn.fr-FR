@@ -8,9 +8,9 @@ jira: KT-6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Découvrez comment diffuser des offres [avec l’API Decisions Hub](https://expe
 
 >[!INFO]
 >
-> Cette vidéo fait partie d’un cours, [Prise en main de la gestion des décisions pour les personnes professionnelles du marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours, [Commencer avec la gestion des décisions pour les spécialistes du marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible gratuitement sur Experience League !
