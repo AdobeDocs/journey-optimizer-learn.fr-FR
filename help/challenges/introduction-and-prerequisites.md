@@ -6,18 +6,16 @@ role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
+source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '479'
 ht-degree: 100%
 
 ---
 
 # Défis Journey Optimizer - Introduction et conditions préalables
 
-![Bannière de défis AJO](./assets/ajo-banner-challenges.png)
-
-Les défis fournissent un scénario et les conditions nécessaires pour pratiquer ce que vous avez appris. Les défis vous aident à évaluer votre niveau de compétence et à identifier les lacunes en matière de connaissances.
+Les défis fournissent un scénario et les conditions nécessaires pour mettre en pratique ce que vous avez appris. Les défis vous aident à évaluer votre niveau de compétence et à identifier les lacunes en matière de connaissances.
 
 Chaque défi de cette section répond à un cas d’utilisation unique que vous implémentez. L’audience cible (utilisateurs) et les compétences requises sont répertoriées au début de chaque défi.
 

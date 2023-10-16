@@ -7,8 +7,8 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: bbdfb4b2a6bea5043c5db99d7973ef8905a30153
-workflow-type: ht
+source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
+workflow-type: tm+mt
 source-wordcount: '627'
 ht-degree: 100%
 
@@ -16,8 +16,6 @@ ht-degree: 100%
 
 
 # Tutoriels de Journey Optimizer
-
-![](./assets/ajo-banner.png)
 
 Journey Optimizer permet aux sociétés de proposer des expériences connectées, contextuelles et personnalisées à leurs clients. Le parcours client représente l’ensemble du processus d’interaction d’un client avec la marque, à partir du premier contact jusqu’au départ du client.
 
