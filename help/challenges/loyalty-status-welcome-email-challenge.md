@@ -8,7 +8,7 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
 source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '421'
 ht-degree: 100%
 
@@ -48,7 +48,7 @@ Lorsqu’une personne cliente fidèle est éligible au niveau platine, un e-mail
 
    1. Le client ou la cliente doit recevoir un e-mail intitulé `Luma - Platinum Status - Welcome`, avec l’objet `Welcome to Platinum Status, {firstName}!` et le corps d’e-mail fourni par l’équipe créative. Il s’agit d’un e-mail [!UICONTROL transactionnel].
 
-   1. Lors du téléchargement du fichier HTML, vous remarquerez que l’e-mail fait référence au statut « diamant » plutôt qu’au statut « platine ». Au lieu de demander un nouveau fichier à l’équipe créative, mettez à jour l’e-mail dans le [!UICONTROL Concepteur d’e-mail].
+   1. Lors du téléchargement du fichier HTML, vous remarquerez que l’e-mail fait référence au statut « diamant » plutôt qu’au statut « platine ». Au lieu de demander un nouveau fichier à l’équipe créative, mettez à jour l’e-mail dans le [!UICONTROL concepteur d’e-mail].
 
 >[!TAB Critères de réussite]
 
