@@ -1,5 +1,5 @@
 ---
-title: Créer une annonce de collection d’été - défi
+title: Créer une annonce de collection d’été - Défi
 description: Envoyez une annonce de collection d’été à une audience de clientèle existante afin de promouvoir la nouvelle collection d’été de Luma.
 jira: KT-8109
 feature: Segments, Journeys, Email
@@ -8,13 +8,13 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1120'
 ht-degree: 100%
 
 ---
 
-# Créer une annonce de collection d’été - défi
+# Créer une annonce de collection d’été - Défi
 
 | Défi | Créer une annonce de collection d’été |
 |---|---|
