@@ -1,6 +1,6 @@
 ---
-title: Leçon 1 - Experience Frescopa
-description: Découvrez les différents scénarios sur le site web de Frescopa.
+title: Leçon 1 - Experience Fréscopa
+description: Découvrez les différents scénarios sur le site web de Fréscopa.
 feature: Push, In App
 role: User
 level: Intermediate
@@ -9,48 +9,147 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14978
 thumbnail: KT-14978.jpeg
-source-git-commit: c33bd4645e5482956e643a0b65fe5713917d4073
+source-git-commit: df3355648178bf049df2f672528e207b53c90f28
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 0%
+source-wordcount: '559'
+ht-degree: 1%
 
 ---
 
 
-# Leçon 1 - Experience Frescopa
+# Leçon 1 - Experience Fréscopa
 
 Dans cette leçon, vous allez découvrir l’interaction avec la marque en tant que consommateur, avant de configurer des expériences mobiles en tant que marketeur dans les leçons suivantes.
 
-## Objectifs d’apprentissage 
+## Objectifs d&#39;apprentissage
 
-* Création d’un compte sur Frescopa 
-* Télécharger et installer l’application mobile 
-* Découvrez les différents scénarios sur le site web de Frescopa 
-* Découvrez les différents scénarios de l’application Frescopa
+* Créez un compte sur Fréscopa.
+* Téléchargez et installez l’application mobile.
+* Découvrez les différents scénarios sur le site web de Fréscopa.
+* Découvrez les différents scénarios sur l’application Fréscopa.
 
-## Exercices
+## Exercice 1.1 - Création d’un compte
+
+1. Accédez au [Site web de Fréscopa](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzA5NjAyMzQzLCJleHAiOjE3MTE0MTY3NDN9.V3zEKnVL3vGpPqr_34XjnJ5PSYKApYviBE02zyBalsY){target="_blank"}
+
+1. Sur la page d’accueil de Fréscopa, cliquez sur **[!UICONTROL Se connecter]**.
+
+   ![Page d&#39;accueil de Fréscopa](/help/summit/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Page d&#39;accueil de Fréscopa")
+
+1. Sur la page de connexion, sélectionnez **[!UICONTROL Créer un compte]**.
+
+   ![Page de connexion Fréscopa](/help/summit/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Connexion à Fréscopa")
+
+1. Sur la page suivante, renseignez vos informations :
+
+   1. Ajoutez **prénom** et **last name**.
+
+   1. Saisissez un **adresse email** à qui vous pouvez accéder pendant le labo.
+
+      >[!IMPORTANT]
+      > Veillez à mémoriser l’adresse électronique que vous avez enregistrée et à ce que vous puissiez accéder au compte de messagerie pendant le laboratoire. Vous avez besoin de ceci pour vous connecter au site web et à l’application !
+
+   1. Pour recevoir des SMS que vous créez au cours du laboratoire, saisissez votre **numéro de téléphone mobile**, y compris avec le code de pays :
+
+      Par exemple : `+14502741234`
+
+   1. Saisissez un **adresse postale** et **city**.
+
+   1. Saisissez votre **numéro de siège**. (Vous pouvez le trouver sur l’ordinateur de bureau de votre machine de laboratoire.)
+
+      ![Ordinateur de bureau Lab](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
+
+   1. Pour indiquer si vous disposez d’une machine Fréscopa, choisissez l’une des options suivantes : **Oui** ou **Non**.
+
+1. Cliquez sur **Enregistrer**.
+
+   ![Page d&#39;inscription Fréscopa](/help/summit/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png){width="650" align="center" zoomable="yes"}
+
+## Exercice 1.2 - Téléchargement et installation de l’application Fréscopa
+
+Installez l’application mobile sur votre appareil iOS ou Android™ en analysant le code QR du message que vous recevez lorsque vous vous enregistrez ou de ci-dessous :
+
+![Codes QR de l’application mobile Fréscopa](/help/summit/l820-lab-workbook/assets/1-2-1-qr-codes.png "Codes QR de l’application mobile Fréscopa")
+
+Installation spécifique à l’appareil :
 
 >[!BEGINTABS]
 
->[!TAB Exercice 1.1 - Création d’un compte, téléchargement et installation de l’application Frescopa ]
+>[!TAB iOS]
 
-### Exercice 1.1 - Création d’un compte, téléchargement et installation de l’application Frescopa 
+### iOS :
+
+Après avoir installé l’application, vous devez faire confiance au développeur d’entreprise Adobe :
+
+1. Accédez à **Paramètres** > **Général** > **Gestion des VPN et des périphériques**.
+
+   ![Écran des paramètres de gestion des périphériques](/help/summit/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "Écran des paramètres de gestion des périphériques"){width="250" align="center" zoomable="yes"}
+
+1. Sélectionner **Adobe Systems Inc** et **Trust Adobe Systems Inc**.
+
+   ![Écran de sélection Adobe Systems](/help/summit/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Écran de sélection Adobe Systems"){width="250" align="center" zoomable="yes"}
+   <br>
+
+   ![Écran Trust Adobe Systems](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
+
+   * Vous devriez maintenant pouvoir lancer la **application Fréscopa** sur votre iPhone : ![Icône de l’application Fréscopa](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 
- 
->[!TAB Exercice 1.2 - Exploration du site web]
+1. Ouvrez l’application.
 
-### Exercice 1.2 - Exploration du site web
+1. Dans la fenêtre contextuelle, cliquez sur **Autoriser**, pour permettre à l’application de démonstration DX de vous envoyer des notifications.
 
-Familiarisez-vous avec le site web de Frescopa :
+   ![fenêtre contextuelle de notification](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
-Accédez à https://dsn.adobe.com/web/adobe-summit-2024/home
+>[!TAB Android]
 
-Voici ce que vous devez faire :
+### Android
 
-1. Répondre au questionnaire sur le café
-2. 5 messages in-app web déclenchés 
-3. Inscrivez-vous à un abonnement café 
-4. Achat d’un produit
+Sur Android, téléchargez et installez l’APK en suivant les instructions d’alerte affichées ici :
+
+![Écran de téléchargement Android](/help/summit/l820-lab-workbook/assets/1-2-5-android-download.jpg "Écran de téléchargement Android"){width="250" align="center" zoomable="yes"}
+<br>
+![Écran d’installation Android](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
+
+* Vous devriez maintenant pouvoir lancer la **application Fréscopa** sur votre appareil Android : ![Icône de l’application Fréscopa](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 >[!ENDTABS]
+
+## Exercice 1.3 - Exploration du site web et de l’application
+
+Familiarisez-vous avec les [Site web de Fréscopa](https://dsn.adobe.com/web/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzA4NjQyNTU4LCJleHAiOjE3MTA0NTY5NTh9.m4N8Bs5ZB1jYbUSdl1B6MaYJvUiolIYI_T_TcR-xMfU){target="_blank"} et application mobile. Découvrez les différents messages in-app, push et SMS implémentés dans AJO et déclenchés par vos interactions.
+
+Voici quelques éléments à essayer :
+
+Sur le site :
+
+* Connectez-vous.
+* Explorez le site web pour déclencher des messages Web In-App.
+* Ajoutez des éléments à votre panier.
+* Regardez votre panier.
+
+Sur l’application mobile :
+
+* Connectez-vous.
+* Explorez l’application pour déclencher des expériences mobiles dans l’application.
+   * Renseignez le questionnaire sur le café.
+   * Inscrivez-vous à un abonnement café.
+   * Ajoutez des éléments à votre panier.
+   * Regardez votre panier.
+
+Vous recevez des badges pour chacune de ces activités.
+
+>[!SUCCESS]
+>Vérifiez votre état :
+>
+>Sur la page d’accueil de Frescopa, cliquez sur **Progression du défi de l’Adobe Summit Lab** (en bas de la page).
+> 
+>  ![Bouton de progression du défi](/help/summit/l820-lab-workbook/assets/1-3-challenge-progress-button.png)
+>
+> Vous pouvez voir quels badges vous avez gagné :
+> 
+> ![Badges](/help/summit/l820-lab-workbook/assets/1-3-badges.png)
+
+Dans les leçons suivantes, vous apprendrez à créer des expériences web et mobiles dans Adobe Journey Optimizer.
+
+[def]: /help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG
