@@ -9,7 +9,7 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: 0a31369dc315d1d68f291c0c15f87b0211dfddb1
+source-git-commit: 654520e25814eb94c5b19cb13087c1b93b4e4683
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -67,6 +67,4 @@ Le coeur de l&#39;activité de Fréscopa est son service d&#39;abonnement à caf
 Complémentant ses services d&#39;abonnement, le site web et l&#39;application mobile de Fréscopa propose une large gamme de produits liés au café, permettant aux clients d&#39;explorer et d&#39;enrichir leurs rituels de café. De l&#39;équipement de brasserie aux accessoires artisanaux, Fréscopa propose un guichet unique pour les amateurs de café qui recherchent la qualité et la commodité.
 
 L’engagement de Fréscopa pour l’excellence s’étend au-delà de ses produits, car l’entreprise se consacre à la création d’un parcours client transparent et agréable. La combinaison de technologies innovantes et d’une approche axée sur le client place Fréscopa au premier plan de l’industrie du café en pleine évolution. Essentiellement, Fréscopa incarne la fusion de la passion et de la technologie, redéfinissant la façon dont les individus vivent et apprécient leur café. En mettant l&#39;accent sur la qualité, la commodité et les offres personnalisées, Fréscopa invite les amateurs de café à se lancer dans un parcours de saveur, livré directement à leur porte.
-
-
 
