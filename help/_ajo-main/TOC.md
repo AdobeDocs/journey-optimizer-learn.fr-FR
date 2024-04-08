@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 1de848b430f61e93d6073d2db4cccca3dbe7676f
+source-git-commit: 64e4cdd312f1ad9807023c8dca1989d1ca9e30bd
 workflow-type: tm+mt
-source-wordcount: '477'
-ht-degree: 98%
+source-wordcount: '487'
+ht-degree: 96%
 
 ---
 
@@ -121,10 +121,11 @@ ht-degree: 98%
 + Exercices et défis {#exercises-and-challenges}
    + [Configuration d’une sandbox de formation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=fr)
    + [Défis](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=fr)
-+ [Summit Lab](/help/summit-lab-731/l731-assets.md)
 + Enregistrements dynamiques Experience League{#experience-league-live-recordings}
    + [Messages déclenchés par l’API dans Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=fr){target="_blank"}
    + [Optimiser le potentiel de votre application mobile avec Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=fr){target="_blank"}
    + [Diffuser la bonne offre au bon moment avec la gestion des décisions](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=fr){target="_blank"}
    + [Exécuter vos campagnes dans Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=fr){target="_blank"}
    + [Notifications push avec Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=fr){target="_blank"}
++ Summit Labs {#summit-labs}
+   + [Création de moments mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
