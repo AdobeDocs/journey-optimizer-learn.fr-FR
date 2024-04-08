@@ -1,5 +1,5 @@
 ---
-title: Leçon 4 - Création d’une campagne push
+title: Leçon 4 - Créer une campagne push
 description: Passez en revue les données de profil et apprenez à créer et à envoyer aux audiences une notification push dans Journey Optimizer.
 feature: Push
 role: User
@@ -8,83 +8,83 @@ doc-type: Tutorial
 duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
-source-git-commit: c590b47ad3dfc54badbac0d8fcaff6b9dd053cc1
+exl-id: 0f82d6a5-18c0-45f2-968e-a678fc2d5768
+source-git-commit: befde57252ebc12c5d6df31fde8078e4535d1261
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 0%
+source-wordcount: '781'
+ht-degree: 2%
 
 ---
 
+# Leçon 4 - Créer une campagne push
 
-# Leçon 4 - Création d’une campagne push
+Dans l’exercice précédent, vous étiez un(e) passionné(e) de café, un(e) client(e) Fréscopa. Vous avez interagi avec la marque par le biais de son site web et de l’application Fréscopa et reçu de nombreux messages transactionnels. Ces messages sont déclenchés par l’interaction de l’utilisateur avec le site web ou l’application.
 
-Dans l&#39;exercice précédent, vous étiez un passionné de café, un client de Fréscopa. Vous avez interagi avec la marque via son site web et l&#39;application Fréscopa et avez reçu de nombreux messages transactionnels. Ces messages sont déclenchés par l’interaction de l’utilisateur avec le site web ou l’application.
-
-Au cours de cet exercice, vous allez mettre votre marketeur en service et mettre en oeuvre une campagne marketing pour Fréscopa, qui utilisera le canal push pour cibler les utilisateurs de l’application Fréscopa. Les notifications push sont utilisées pour informer les utilisateurs de l’application, même s’ils n’utilisent pas l’application, mais également pour les réengager dans l’application. L&#39;objectif est d&#39;inciter le client à acheter le mélange, en offrant une remise de 10%.
+Dans cet exercice, vous allez enfiler votre casquette de spécialiste marketing et mettre en œuvre une campagne marketing pour Fréscopa, qui utilisera le canal push pour cibler les utilisateurs de l’application Fréscopa. Les notifications push sont utilisées pour tenir les utilisateurs et utilisatrices de l’application informés, même lorsqu’ils ou elles n’utilisent pas l’application, mais également pour les réengager dans l’application. L&#39;objectif est d&#39;inciter le client à acheter le mélange maison, en offrant une réduction de 10%.
 
 ## Objectifs d’apprentissage
 
-* Découvrez comment créer une campagne push.
-* Découvrez comment concevoir un message push.
+* Savoir comment créer une campagne push.
+* Découvrir comment concevoir un message push.
 
 <br>
 
-## Exercice 4.1 - Création d’une campagne push
+## Exercice 4.1 - Créer une campagne push
 
-Dans cet exercice, vous créez la campagne push, concevez et personnalisez la notification push, puis envoyez la notification push à votre propre appareil.
+Dans cet exercice, vous allez créer la campagne push, concevoir et personnaliser la notification push et l&#39;envoyer à votre propre appareil.
 
-1. Dans Journey Optimizer, dans le volet de navigation de gauche, dans la **[!UICONTROL GESTION DES PARCOURS]** , sélectionnez **Campagnes**.
+1. Dans Journey Optimizer, dans le volet de navigation de gauche, dans le **[!UICONTROL GESTION DES PARCOURS]** , sélectionnez **Campagnes**.
 
-1. Cliquez sur **[!UICONTROL Créer une campagne]**.
+1. Clic **[!UICONTROL Créer une campagne]**.
 
    ![Créer une campagne](/help/summit/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
 
-1. Sur le **[!UICONTROL Créer une campagne]** , dans la variable  **[!UICONTROL Action]** , sélectionnez **[!UICONTROL Notification push]** .
+1. Le **[!UICONTROL Créer une campagne]** , dans le  **[!UICONTROL Action]** , sélectionnez la **[!UICONTROL Notification push]** case à cocher.
 
-1. Dans la **[!UICONTROL Surface de l’application]** menu déroulant, sélectionnez *[!DNL Frecopa-Push]*.
+1. À partir du **[!UICONTROL Surface d’application]** liste déroulante, sélectionner *[!DNL Frecopa-Push]*.
 
-1. Cliquez sur **[!UICONTROL Créer]** pour créer une campagne push.
+1. Clic **[!UICONTROL Créer]** pour créer une campagne push.
 
-   ![Surface de l’application](/help/summit/l820-lab-workbook/assets/2-3-1-2-app-surface.png)
+   ![Surface d’application](/help/summit/l820-lab-workbook/assets/2-3-1-2-app-surface.png)
 
 >[!SUCCESS]
 >
->Vous devez maintenant vous trouver sur la page des propriétés de Campaign :
+>Vous devriez maintenant être sur la page Propriétés de la campagne :
 > ![Propriétés de la campagne](/help/summit/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
-## Exercice 4.2 - Configuration de votre campagne
+## Exercice 4.2 - Configurer votre campagne
 
-Sur cette page, vous pouvez configurer les propriétés, l’audience, les actions et le planning de votre campagne.
+Sur cette page, vous configurez les propriétés, l’audience, les actions et le planning de votre campagne.
 
-### 4.2.1 [!UICONTROL Section Propriétés]
+### 4 2.1. [!UICONTROL Section Propriétés]
 
-Attribuez un nom à votre campagne. Veillez à commencer le nom par votre numéro de siège, de sorte que vous puissiez facilement trouver votre campagne lorsque vous la cherchez.
+Donnez un nom à votre campagne. Veillez à commencer le nom par votre numéro de place afin de pouvoir facilement trouver votre campagne lorsque vous la recherchez.
 
-Par exemple, si le numéro de votre siège est 99 : `99 - 10% Discount Campaign`.
+Par exemple, si votre numéro de poste est 99 : `99 - 10% Discount Campaign`.
 
-### 4.2.2 **[!UICONTROL Section Audience]**
+### 4 2.2.2 **[!UICONTROL Section Audience]**
 
-1. Dans la section Audience, cliquez sur **[!UICONTROL Sélection de l’audience]**.
+1. Dans la section Audience , cliquez sur **[!UICONTROL Sélectionner une audience]**.
 
-   ![section d&#39;audience](/help/summit/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
+   ![section audience](/help/summit/l820-lab-workbook/assets/2-3-2-5-audience-section.png)
 
-1. Sur le **[!UICONTROL Sélection de l’audience]** écran, recherchez l’audience :
+1. Le **[!UICONTROL Sélectionner une audience]** écran, recherchez l’audience :
 
    **Lab - Seat`your seat number`**
 
 1. Sélectionnez l’audience, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
-   ![sélection d’audiences](/help/summit/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
+   ![sélection d’audience](/help/summit/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
 
-### 4.2.3 Modification du contenu de la notification push
+### 4.2.3 Modifier le contenu de la notification push
 
-Dans cet exercice, vous concevez et personnalisez la notification push.
+Dans cet exercice, vous allez concevoir et personnaliser la notification push.
 
-1. Dans le **[!UICONTROL Action]** , cliquez sur le bouton **[!UICONTROL Modifier le contenu] button**.
+1. Dans le **[!UICONTROL Action]** , cliquez sur **[!UICONTROL Modifier le contenu] bouton**.
 
    ![Bouton Modifier le contenu](/help/summit/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
 
-1. Dans l’écran suivant, en fonction du périphérique mobile dont vous disposez, sélectionnez l’une des options suivantes : [!DNL iOS™] ou [!DNL Android™] pour configurer votre contenu.
+1. Sur l’écran suivant, en fonction de l’appareil mobile que vous avez, sélectionnez l’une des options suivantes : [!DNL iOS™] ou [!DNL Android™] pour configurer votre contenu.
 
 >[!BEGINTABS]
 
@@ -98,18 +98,18 @@ Dans cet exercice, vous concevez et personnalisez la notification push.
 
 >[!ENDTABS]
 
-#### 4.2.3.1 [!UICONTROL Composer le message] section
+#### 4 2.3.1 [!UICONTROL Composer le message] section
 
-1. **Composez votre message :** N’hésitez pas à ajouter le texte de votre choix. Voici des exemples que vous pouvez utiliser :
+1. **Composez votre message :** N’hésitez pas à ajouter le texte de votre choix. Voici des exemples d’utilisation :
 
    * Titre : `Get 10% off today!`.
    * Corps de texte : `Today only! Get 10% off on your House Blend coffee purchase!`
 
      ![Composer le message](/help/summit/l820-lab-workbook/assets/2-3-compose-message.png)
 
-#### 4.2.3.2 Modifier le comportement en cas de clic du message en **ouvrir une page de produit ;**
+#### 4.2.3.2 Modifier le comportement en cas de clic du message en **ouvrir une page produit**
 
-1. Dans le **[!UICONTROL Comportement en cas de clic]** , sélectionnez **[!UICONTROL Deeplink]** de la **[!UICONTROL Comportement de clic sur le corps]** menu déroulant.
+1. Dans le **[!UICONTROL Comportement en cas de clic]** , sélectionnez **[!UICONTROL Lien profond]** à partir du **[!UICONTROL Comportement en cas de clic du corps]** liste déroulante.
 
 1. Copiez et collez l’URL suivante dans le **Champ URL**:
 
@@ -117,23 +117,23 @@ Dans cet exercice, vous concevez et personnalisez la notification push.
 
    ![lien profond](/help/summit/l820-lab-workbook/assets/2-3-deeplink.png)
 
-#### 4.2.3.3 Ajout d’une image au message
+#### 4.2.3.3 Ajouter une image au message
 
 1. Dans le **[!UICONTROL Ajouter un média]** , cliquez sur **[!UICONTROL Ajouter un média]**.
 
-   ![ajouter des boutons multimédias](/help/summit/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
+   ![ajouter des boutons de média](/help/summit/l820-lab-workbook/assets/2-3-3-3-add-media-buttons.png)
 
-1. Sur le **[!UICONTROL Sélectionner les ressources]** dans le volet de navigation de gauche, ouvrez la **Dossier Fréscopa** et sélectionnez une image dans ce dossier.
+1. Le **[!UICONTROL Sélectionner des ressources]** dans le volet de navigation de gauche, ouvrez l’écran **Dossier Fréscopa** et sélectionnez une image dans ce dossier.
 
    Par exemple : `HouseBlend.png`
 
-1. Cliquez sur l’image, puis sur le bouton **[!UICONTROL Sélectionner] button** pour ajouter l’image à votre notification push.
+1. Cliquez sur l’image, puis sur le **[!UICONTROL Sélectionner] bouton** pour ajouter l’image à votre notification push.
 
    ![sélectionner une image](/help/summit/l820-lab-workbook/assets/2-3-3-3-select-image.png)
 
    >[!SUCCESS]
    >
-   > 1. Dans l’écran de prévisualisation, cliquez sur **[!UICONTROL Développer la vue]**.
+   > 1. Dans l’écran d’aperçu, cliquez sur **[!UICONTROL Développer la vue]**.
    > 1. Prévisualisez votre message.
    > <br>
    >
@@ -141,27 +141,27 @@ Dans cet exercice, vous concevez et personnalisez la notification push.
 
 ### Exercice bonus
 
-Si vous avez terminé cette partie de l’exercice et que vous avez encore du temps, essayez l’exercice supplémentaire :
+Si vous avez terminé cette partie de l’exercice et que vous avez encore du temps, essayez l’exercice de bonus :
 
 +++ Exercice bonus
 
-#### Personnaliser le message que vous envoyez en ajoutant le prénom du destinataire
+#### Personnalisez le message envoyé en ajoutant le prénom du destinataire
 
-1. Cliquez sur **boîte de dialogue de personnalisation** en regard de **[!UICONTROL Corps]** champ .
+1. Clic **boîte de dialogue de personnalisation** à côté du **[!UICONTROL Corps]** champ .
 
    ![bouton de personnalisation](/help/summit/l820-lab-workbook/assets/2-3-personalization-button.png)
 
-1. Sur le **boîte de dialogue de personnalisation** , placez le curseur à l’endroit où vous souhaitez ajouter le prénom dans le texte.
+1. Le **boîte de dialogue de personnalisation** placez le curseur à l&#39;endroit où vous souhaitez ajouter le prénom dans le texte.
 
-1. Assurez-vous que la variable **Attributs de profil** sont sélectionnés dans le volet de navigation de gauche.
+1. Assurez-vous que les **Attributs de profil** sont sélectionnées dans le volet de navigation de gauche.
 
    ![Attribut de profil](/help/summit/l820-lab-workbook/assets/2-3-personalize-body-profile-attributes.png)
 
 1. Dans le **Champ de recherche**, recherchez : `first name`.
 
-1. Cliquez sur **+** en regard de **Prénom (Attributs de profil > Personne > Nom complet)** pour ajouter le champ de personnalisation à votre texte.
+1. Clic **+** à côté du **Prénom (Attributs de profil>Personne>Nom complet)** pour ajouter le champ de personnalisation à votre texte.
 
-   ![Recherche du prénom](/help/summit/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
+   ![Rechercher un prénom](/help/summit/l820-lab-workbook/assets/2-3-personalize-search-first-name.png)
 
    >[!SUCCESS]
    >
@@ -169,42 +169,49 @@ Si vous avez terminé cette partie de l’exercice et que vous avez encore du te
    > 
    >![Jeton de personnalisation](/help/summit/l820-lab-workbook/assets/2-3-personalization-token.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]** pour enregistrer la personnalisation.
+1. Clic **[!UICONTROL Enregistrer]** pour enregistrer la personnalisation.
 
 
    >[!SUCCESS]
    >
-   > 1. Dans l’écran de prévisualisation, cliquez sur **[!UICONTROL Développer la vue]**.
+   > 1. Dans l’écran d’aperçu, cliquez sur **[!UICONTROL Développer la vue]**.
    > 1. Prévisualisez votre message.
    > 
    > ![développer la vue](/help/summit/l820-lab-workbook/assets/2-3-3-expand-view.png)
 
 +++
 
-### 4.2.4 Vérifier et activer
+### 4.2.4. Vérifier et activer
 
-Si le contenu de votre message vous satisfait, vous pouvez activer le message :
+Si le contenu de votre message vous convient, vous pouvez activer le message :
 
-1. Cliquez sur **[!UICONTROL Réviser pour activer]**.
+1. Clic **[!UICONTROL Examiner pour activer]**.
 
-   ![bouton de révision et d’activation](/help/summit/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
+   ![bouton vérifier et activer](/help/summit/l820-lab-workbook/assets/2-3-4-review-and-activate-button.png)
 
-1. Sur le **[!UICONTROL Réviser pour activer]** écran, cliquez sur **[!UICONTROL Activer]**.
+1. Le **[!UICONTROL Examiner pour activer]** écran, cliquez sur **[!UICONTROL Activer]**.
 
-   ![révision pour activer l’écran](/help/summit/l820-lab-workbook/assets/2-3-4-review-to-activate.png)
+   ![écran vérifier pour activer](/help/summit/l820-lab-workbook/assets/2-3-4-review-to-activate.png)
 
 >[!SUCCESS]
-> Sur le **Page d’aperçu des campagnes**, recherchez votre campagne et vérifiez son état.
+> Le **Page de présentation des campagnes**, recherchez votre campagne et vérifiez son statut.
 >
-> ![état de la campagne](/help/summit/l820-lab-workbook/assets/2-3-push-completed.png)
+> ![statut de la campagne](/help/summit/l820-lab-workbook/assets/2-3-push-completed.png)
 > 
-> L’état passe du traitement à l’état actif, à l’état terminé. Cela peut prendre quelques minutes.
-> Une fois que l’état a été remplacé par Terminé :
+> Le statut passe de En cours de traitement à Actif, à Terminé - cette opération peut prendre quelques minutes.
+> Une fois le statut passé à terminé :
 >
-> ![résultats push](/help/summit/l820-lab-workbook/assets/2-3-push-notification-result.png)
+> ![résultats des notifications push](/help/summit/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
+## Ressources supplémentaires
 
-**Merci !**
+**Vidéos pratiques :**
 
-Merci pour votre participation. Veuillez nous faire part de vos commentaires, sur la façon dont nous l&#39;avons fait et si le laboratoire a répondu à vos attentes, en répondant au questionnaire Lab 820 Session dans l&#39;application Summit.
+* [Configurer et envoyer une campagne de notifications push](/help/channels/create-a-push-campaign.md)
 
+**Documentation du produit :**
+
+* [Prise en main des notifications push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
+* [Créer une notification push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
+* [Créer une notification push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
+* [Vérifier et envoyer votre notification push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)
