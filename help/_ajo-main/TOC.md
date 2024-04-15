@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 64e4cdd312f1ad9807023c8dca1989d1ca9e30bd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '487'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -62,7 +62,7 @@ ht-degree: 96%
 + Canal SMS{#sms-channel}
    + [Configurer, créer et diffuser des messages SMS](/help/channels/author-sms-messages.md)
    + [Prise en charge des mots-clés entrants pour les SMS](/help/channels/inbound-keyword-support-for-sms.md)
-   + [SMS - Double opt-in pour Sinch et Infobip](/help/channels/sms-double-opt-in.md)
+   + [SMS : double opt-in pour Sinch et Infobip](/help/channels/sms-double-opt-in.md)
 + Canal web {#web-channel}
    + [Créer une campagne web](/help/channels/create-a-web-campaign.md)
    + [Créer une campagne web](/help/channels/author-a-web-campaign.md)
@@ -128,4 +128,4 @@ ht-degree: 96%
    + [Exécuter vos campagnes dans Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=fr){target="_blank"}
    + [Notifications push avec Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=fr){target="_blank"}
 + Summit Labs {#summit-labs}
-   + [Création de moments mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
+   + [Créer des instants mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
