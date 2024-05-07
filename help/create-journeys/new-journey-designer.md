@@ -1,6 +1,6 @@
 ---
-title: Découvrez le nouveau concepteur de Parcours
-description: Découvrez le nouveau canevas de parcours repensé et comment exploiter les rapports en direct dans les parcours.
+title: Découvrir le nouveau concepteur de parcours
+description: Découvrez la nouvelle zone de travail de parcours repensée et comment exploiter les rapports dynamiques dans les parcours.
 feature: Journeys
 role: User
 level: Beginner, Intermediate, Experienced
@@ -12,14 +12,14 @@ hidefromtoc: false
 hide: false
 exl-id: e481336c-eaf2-4fbc-8803-9ba109559dd4
 source-git-commit: 017a2cf5b4ec44f1adfe3d1f7c970e673c216ec9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# Découvrez le nouveau concepteur de Parcours
+# Découvrir le nouveau concepteur de parcours
 
-Découvrez le nouveau canevas de parcours repensé et comment exploiter les rapports en direct dans les parcours.
+Découvrez la nouvelle zone de travail de parcours repensée et comment exploiter les rapports dynamiques dans les parcours.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428767/?learn=on){transcript=true}
