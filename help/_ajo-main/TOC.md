@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: ecaa9e4d2d63494f8c0f6ac75c3cb6b390bc654d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '524'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 94%
 + Campagnes {#create-campaigns}
    + [Créer une campagne](/help/create-campaigns/create-a-campaign.md)
    + [Créer une campagne in-app](/help/create-campaigns/in-app.md)
-   + [Configuration et envoi d’une campagne push](/help/create-campaigns/push-campaign.md)
+   + [Configurer et envoyer une campagne de notifications push](/help/create-campaigns/push-campaign.md)
    + [Créer une campagne web](/help/create-campaigns/web-campaign.md)
-   + [Création d’une campagne d’expérience basée sur du code](/help/create-campaigns/code-based-experience.md)
+   + [Créer une campagne d’expérience basée sur le code](/help/create-campaigns/code-based-experience.md)
    + [Déclencher des campagnes à l’aide d’API](/help/create-campaigns/api-triggered-campaigns.md)
    + [Créer des expériences de contenu pour les campagnes par e-mail](/help/create-campaigns/content-experiments.md)
 + Parcours {#create-journeys}
@@ -53,8 +53,8 @@ ht-degree: 94%
    + [Gérer, créer et utiliser des fragments](/help/content-management/manage-author-use-fragments.md)
    + [Créer et utiliser des fragments d’expression](/help/content-management/expression-fragments.md)
    + [Configurer des expériences de contenu pour les e-mails](/help/experimentation/content-experiments-for-emails.md)
-+ Canal d’expérience basé sur le code{#code-based-experience-channel}
-   + [Création d’une campagne d’expérience basée sur du code](/help/channels/create-a-code-based-experience-campaign.md)
++ Canal d’expérience basée sur le code {#code-based-experience-channel}
+   + [Créer une campagne d’expérience basée sur le code](/help/channels/create-a-code-based-experience-campaign.md)
 + Canal de publipostage direct{#direct-mail-channel}
    + [Canal de publipostage direct](/help/channels/direct-mail.md)
 + Canal in-app{#in-app-channel}
@@ -66,7 +66,7 @@ ht-degree: 94%
    + [Configurer et envoyer une campagne de notifications push](/help/channels/create-a-push-campaign.md)
 + Canal SMS{#sms-channel}
    + [Configurer, créer et diffuser des messages SMS](/help/channels/author-sms-messages.md)
-   + [Création d’un message MMS](/help/channels/author-mms.md)
+   + [Créer un message MMS](/help/channels/author-mms.md)
    + [SMS : double opt-in pour Sinch et Infobip](/help/channels/sms-double-opt-in.md)
 + Canal web {#web-channel}
    + [Créer une campagne web](/help/channels/create-a-web-campaign.md)
@@ -113,7 +113,7 @@ ht-degree: 94%
       + [Configurer des informations d’identification de l’API SMS et des surfaces de canal](/help/set-up-channels/set-up-sms-channel.md)
       + [Configurer les règles de fréquence des messages](/help/administration/configure-frequency-rules.md)
       + [Créer et exécuter un plan de préchauffage d’adresses IP](/help/administration/create-and-execute-an-ip-warmup-plan.md)
-      + [Configuration des informations d’identification de l’API MMS et des surfaces des canaux](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+      + [Configurer les informations d’identification de l’API MMS et des surfaces de canal](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + Configurer des parcours {#journey-configuration}
       + [Configurer les sources de données](/help/set-up-journeys/configure-data-sources.md)
       + [Créer des événements](/help/set-up-journeys/create-events.md)
