@@ -13,10 +13,10 @@ hidefromtoc: true
 hide: true
 badgeBeta: label="Version Beta" type="Informative"
 exl-id: 90b80e5c-ce12-4298-b7be-20a94512062e
-source-git-commit: 507745fa63e82f8fde800c8538fdf8a2e2506c8d
-workflow-type: ht
-source-wordcount: '50'
-ht-degree: 100%
+source-git-commit: 7e8c682b4c7163e659e2cdee62ea05d14d4db7d9
+workflow-type: tm+mt
+source-wordcount: '61'
+ht-degree: 57%
 
 ---
 
@@ -26,4 +26,4 @@ Découvrez comment créer et exécuter un plan de préchauffage des adresses IP
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425965/?learn=on)
 
-Consultez la documentation du produit [Commencer les plans de préchauffage d’adresses IP](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-gs.html?lang=fr) pour plus d’informations.
+Voir [Guide des bonnes pratiques de délivrabilité](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/introduction) pour connaître les bonnes pratiques relatives à [Critères de ciblage](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria), [Remarques spécifiques aux FAI lors du réchauffement d’IP](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming), et [Volume](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume) pendant le réchauffement de l’IP.
