@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 3c32d6ade8353c7533d6d84f5c64325b9a2d778e
+source-git-commit: 823ba83b03a2886a755f0e475c39931f08c76fb2
 workflow-type: tm+mt
-source-wordcount: '539'
-ht-degree: 98%
+source-wordcount: '544'
+ht-degree: 97%
 
 ---
 
@@ -22,6 +22,7 @@ ht-degree: 98%
    + [Architecture](/help/introduction/architecture.md)
    + [Fonctionnalités mobiles pour les spécialistes du marketing](/help/channels/mobile-capabilities.md)
    + [Fonctionnalités mobiles pour les développeurs](/help/channels/mobile-capabilities-for-developers.md)
+   + [Obtenir de l’aide avec l’assistant d’IA](/help/ai-assistant.md)
 + Campagnes {#create-campaigns}
    + [Créer une campagne](/help/create-campaigns/create-a-campaign.md)
    + [Créer une campagne in-app](/help/create-campaigns/in-app.md)
