@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: c9a4813c607c87a44c8a70ceea727e554f097521
-workflow-type: ht
-source-wordcount: '556'
-ht-degree: 100%
+source-git-commit: 821dd99521bbeed642031c9f9d6a312c67afc454
+workflow-type: tm+mt
+source-wordcount: '559'
+ht-degree: 99%
 
 ---
 
@@ -79,6 +79,7 @@ ht-degree: 100%
    + [Gérer les ressources](/help/assets-essentials-overview.md)
    + [Créer et utiliser des fragments d’expression](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
    + [Configurer des messages multilingues](/help/content-management/set-up-multilingual-messages.md)
+   + [Créer des messages multilingues](/help/content-management/create-multilingual-messages.md)
 + Personnaliser le contenu {#personalize-content}
    + [Personnalisation basée sur un profil et l’appartenance à une audience](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Ajout d’offres en tant que personnalisation](/help/personalize-content/add-offer-decisioning-to-messages.md)
