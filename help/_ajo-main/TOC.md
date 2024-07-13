@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 0feda01400ce1b8f87bb6143f1913fa6cdd54632
+source-git-commit: 45a973fa9700abbf254573906d5778ded9483316
 workflow-type: tm+mt
-source-wordcount: '560'
-ht-degree: 98%
+source-wordcount: '550'
+ht-degree: 97%
 
 ---
 
@@ -56,9 +56,6 @@ ht-degree: 98%
       + [Créer du contenu avec le Concepteur d&#39;e-mail](/help/channels/create-content-with-the-email-designer.md)
       + [Importation et création de contenu d’e-mail HTML](/help/channels/import-and-author-html-email-content.md)
       + [Aperçu, BAT et publication](/help/channels/preview-proof-and-publish.md)
-      + [Modèles de contenu](/help/channels/content-templates.md)
-      + [Gérer, créer et utiliser des fragments](/help/content-management/manage-author-use-fragments.md)
-      + [Créer et utiliser des fragments d’expression](/help/content-management/expression-fragments.md)
       + [Configurer des expériences de contenu pour les e-mails](/help/experimentation/content-experiments-for-emails.md)
    + Canal in-app{#in-app-channel}
       + [Créer une campagne in-app](/help/channels/create-an-in-app-campaign.md)
@@ -77,7 +74,9 @@ ht-degree: 98%
       + [Prise en charge des applications à une seule page (SPA) dans l’éditeur web](/help/channels/singel-page-application-support.md)
 + Gestion de contenu{#content-management}
    + [Gérer les ressources](/help/assets-essentials-overview.md)
-   + [Créer et utiliser des fragments d’expression](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
+   + [Gestion des modèles de contenu](/help/content-management/content-templates.md)
+   + [Gérer les fragments](/help/content-management/manage-fragments.md)
+   + [Créer des fragments d’expression](/help/content-management/expression-fragments.md)
    + [Configuration de la messagerie multilingue](/help/content-management/set-up-multilingual-messages.md)
    + [Créer un message multilingue](/help/content-management/create-multilingual-messages.md)
 + Personnaliser le contenu {#personalize-content}
