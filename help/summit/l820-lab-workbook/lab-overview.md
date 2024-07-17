@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # CLASSEUR LAB
 
-![Adobe Summit - texte de remplacement](/help/summit/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
+![Adobe Summit - texte alternatif](/help/summit/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
 
 ## L820 - Création de moments mobiles personnalisés avec Adobe Journey Optimizer
 
@@ -35,11 +35,11 @@ Dans ce laboratoire pratique, vous découvrez divers scénarios mobiles et appre
 >Les participants ne peuvent reproduire, utiliser, diffuser ou divulguer des informations confidentielles à aucune personne ou entité.
 >Les divulgations de produits sont faites à titre d’information uniquement, ne sont pas une garantie de fonctionnalités futures et peuvent être modifiées à tout moment. Par conséquent, ces fonctionnalités de produit ne font en aucun cas partie de votre accord avec Adobe ou de tout autre engagement envers vous.
 ><br>
->**Exclusion**
+>**Clause de non-responsabilité**
 >Adobe vous permet d’accéder rapidement aux fonctionnalités qui exploitent la technologie d’IA générative. Veuillez noter que ces fonctionnalités sont encore en cours de développement et peuvent produire des réponses inattendues ou inexactes. Vos commentaires sont les bienvenus au fur et à mesure que cette fonctionnalité est mise sur le marché.
 
 
-### Principaux points à retenir
+### Principales acquisitions
 
 * Découvrez la variété d’expériences mobiles prises en charge.
 * Configurez une campagne push.
@@ -54,8 +54,8 @@ Dans ce laboratoire pratique, vous découvrez divers scénarios mobiles et appre
 ![Numéro de siège](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
 Vous avez besoin d’un accès à :
 
-* [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"}  - Les détails de connexion sont fournis pendant les exercices.
-* [Site web de Fréscopa](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
+* [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - Les détails de connexion sont fournis pendant les exercices.
+* [Site Web Fréscopa](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
 
 
 ### Comprendre le cas d’utilisation

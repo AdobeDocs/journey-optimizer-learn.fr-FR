@@ -1,5 +1,5 @@
 ---
-title: Publication d’un parcours et d’un statut de parcours
+title: Publish d’un parcours et d’un parcours
 description: Découvrez les différents états d’un parcours et l’impact de la publication.
 jira: KT-7528
 thumbnail: 3424998.jpeg
@@ -17,7 +17,7 @@ ht-degree: 68%
 
 ---
 
-# Publication d’un parcours et d’un statut de parcours
+# Publish d’un parcours et d’un parcours
 
 Découvrez les différents états d’un parcours et l’impact de la publication.
 
