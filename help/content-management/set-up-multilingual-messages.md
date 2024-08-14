@@ -1,5 +1,5 @@
 ---
-title: Configuration de la messagerie multilingue
+title: Configurer des messages multilingues
 description: Découvrez comment configurer des projets de traduction pour la traduction automatisée et le paramètre linguistique requis pour la traduction manuelle et les projets de traduction automatisée pour les messages multilingues.
 feature: Multilingual Content
 role: Admin
@@ -9,15 +9,15 @@ duration: 599
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-14034
 thumbnail: KT-14034.jpeg
-source-git-commit: 28cdf4939f12b981e2c3953814ca3ca612cdbe9d
-workflow-type: tm+mt
+exl-id: 59464ab1-dac2-4e68-9025-606d29d076f0
+source-git-commit: 55734ce3bc1329663bd65970892d80c99878e1a7
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
-
-# Configuration de la messagerie multilingue
+# Configurer des messages multilingues
 
 {{limited-availability}}
 
