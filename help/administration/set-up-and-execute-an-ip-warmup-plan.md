@@ -1,6 +1,6 @@
 ---
-title: Configuration et exécution d’un plan de préparation des adresses IP
-description: Découvrez ce qu’est le réchauffement des adresses IP et comment configurer et exécuter un plan de réchauffement des adresses IP dans Adobe Journey Optimizer.
+title: Configurer et exécuter un plan de préchauffage d’adresses IP
+description: Découvrez ce qu’est le préchauffage des adresses IP et comment configurer et exécuter un plan de préchauffage des adresses IP dans Adobe Journey Optimizer.
 feature: IP Warmup Plans
 role: Admin
 level: Beginner
@@ -13,14 +13,14 @@ jira: KT-14602
 source-git-commit: 5e6503b8f15ee0dfc7f2894e8d1d7a8493abe63d
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 4%
+ht-degree: 62%
 
 ---
 
 
-# Configuration et exécution d’un plan de préparation des adresses IP
+# Configurer et exécuter un plan de préchauffage d’adresses IP
 
-Découvrez ce qu’est le réchauffement des adresses IP et comment configurer et exécuter un plan de réchauffement des adresses IP dans Adobe Journey Optimizer.
+Découvrez ce qu’est le préchauffage des adresses IP et comment configurer et exécuter un plan de préchauffage des adresses IP dans Adobe Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
 
