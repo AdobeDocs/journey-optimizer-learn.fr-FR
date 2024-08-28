@@ -1,6 +1,6 @@
 ---
-title: Configuration guidée du canal
-description: La configuration guidée des canaux vous permet de configurer et de valider rapidement les canaux web et mobiles avec les ressources nécessaires dans Experience Platform, Journey Optimizer et la collecte de données, afin que votre équipe marketing puisse commencer à créer des campagnes et des Parcours. Découvrez comment configurer et valider une notification de canal push sur un exemple d’application de marketing mobile iOS.
+title: Configuration guidée des canaux
+description: La configuration guidée des canaux vous permet de configurer et de valider rapidement les canaux web et mobiles avec les ressources nécessaires dans Experience Platform, Journey Optimizer et la collecte de données, afin que votre équipe marketing puisse commencer à créer des campagnes et des parcours. Découvrez comment configurer et valider une notification de canal push sur un exemple d’application de marketing mobile iOS.
 feature: Channel Configuration, Push
 role: Admin, Developer
 level: Beginner
@@ -11,24 +11,24 @@ jira: KT-16041
 hidefromtoc: true
 hide: true
 source-git-commit: 79e5376bdf570664ff308ae18b27168f8fefd891
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '150'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Configuration guidée du canal
+# Configuration guidée des canaux
 
-La configuration guidée des canaux vous permet de configurer et de valider rapidement les canaux web et mobiles avec les ressources nécessaires dans Experience Platform, Journey Optimizer et la collecte de données, afin que votre équipe marketing puisse commencer à créer des campagnes et des Parcours.
+La configuration guidée des canaux vous permet de configurer et de valider rapidement les canaux web et mobiles avec les ressources nécessaires dans Experience Platform, Journey Optimizer et la collecte de données, afin que votre équipe marketing puisse commencer à créer des campagnes et des parcours.
 
-Découvrez comment configurer et valider une notification de canal push sur un exemple d’application de marketing mobile iOS.
+Découvrez comment configurer et valider une notification de canal push sur un exemple d’application de marketing mobile iOS.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
-Pour plus d’informations, consultez la documentation du produit :
+Pour plus d&#39;informations, consultez la documentation du produit :
 
-* [Prise en main de la configuration guidée du canal](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config)
-* [Configuration de la configuration mobile Android](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-android)
-* [Configuration de la configuration mobile iOS](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-ios)
-* [ Configuration web ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-web)
+* [Commencer avec la configuration guidée des canaux](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config)
+* [Configurer Android mobile](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-android)
+* [Configurer iOS mobile](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-ios)
+* [Configurer le web](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-web)
