@@ -116,7 +116,7 @@ ht-degree: 99%
 + Configuration {#configuration}
    + Configurer des canaux {#channel-configuration}
       + [Configuration des canaux](/help/set-up-channels/configure-channels.md)
-      + [Configuration guidée du canal](/help/set-up-channels/guided-channel-setup.md)
+      + [Configuration guidée des canaux](/help/set-up-channels/guided-channel-setup.md)
       + [Configurer un canal e-mail](/help/set-up-channels/set-up-email-channel.md)
       + [Délégation de sous-domaines CName](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Configurer et exécuter un plan de préchauffage d’adresses IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
