@@ -1,6 +1,6 @@
 ---
-title: Configuration des règles de fonctionnement - Fréquence des messages
-description: Découvrez comment configurer des règles de limitation de fréquence. Pour plus d’informations, voir [documentation du produit]([https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/frequency-rules)] .
+title: Configuration des règles métier - limitation de fréquence
+description: Découvrez comment configurer des règles de limitation de fréquence.
 feature: Frequency Rules
 role: User
 level: Beginner
@@ -8,15 +8,15 @@ doc-type: Feature Video
 duration: 332
 last-substantial-update: 2024-09-10T00:00:00Z
 jira: KT-14860
-source-git-commit: 406d57307ca700d0cf4e95a39d55665654c3de93
+source-git-commit: 25c9704ad0a1080d6796a6b1ec1557f986c2a786
 workflow-type: tm+mt
-source-wordcount: '39'
+source-wordcount: '31'
 ht-degree: 0%
 
 ---
 
 
-# Configuration des règles de fonctionnement - Fréquence des messages
+# Configuration des règles de fonctionnement - Limitation de la fréquence
 
 Découvrez comment configurer des règles de limitation de fréquence.
 
