@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 4261e738c5c539b387a5f05c48c581954fe11510
+source-git-commit: 0f286412ace011859fc5f1f79ef4baf61d83ac50
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 88%
+source-wordcount: '631'
+ht-degree: 87%
 
 ---
 
@@ -57,12 +57,13 @@ ht-degree: 88%
       + [Importation et création de contenu d’e-mail HTML](/help/channels/import-and-author-html-email-content.md)
       + [Aperçu, BAT et publication](/help/channels/preview-proof-and-publish.md)
       + [Configurer des expériences de contenu pour les e-mails](/help/experimentation/content-experiments-for-emails.md)
+   + Cartes de contenu (#content-cards)
+      + [Création de cartes de contenu](/help/channels/create-content-cards.md)
    + Canal in-app{#in-app-channel}
       + [Créer une campagne in-app](/help/channels/create-an-in-app-campaign.md)
       + [Créer un message in-app dans un parcours](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [Créer un message in-app](/help/channels/author-in-app-messages.md)
       + [Configurer des expériences de contenu pour les messages in-app](/help/experimentation/content-experiments-for-in-app-messages.md)
-      + [Création de cartes de contenu](/help/channels/create-content-cards.md)
    + Canal de notification push{#push-channel}
       + [Configurer et envoyer une campagne de notifications push](/help/channels/create-a-push-campaign.md)
    + Canal SMS{#sms-channel}
