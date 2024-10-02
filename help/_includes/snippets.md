@@ -1,8 +1,8 @@
 ---
-source-git-commit: dc11d8bae005038b610637fd0057b4bd92d53374
-workflow-type: ht
-source-wordcount: '143'
-ht-degree: 100%
+source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
+workflow-type: tm+mt
+source-wordcount: '178'
+ht-degree: 80%
 
 ---
 # Fragments de code AJO
@@ -38,3 +38,9 @@ Experience League LIVE :
 >[!AVAILABILITY]
 >
 >Cette fonctionnalité est actuellement en version bêta et disponible uniquement pour les clientes et clients bêta. Pour rejoindre le programme de version bêta, contactez l’assistance clientèle d’Adobe.
+
+## Vidéo Platform - Stratégies (#platform-video)
+
+>>[!NOTE]
+>>
+La vidéo présente cette fonctionnalité dans l’interface utilisateur de Adobe Experience Platform. La même fonctionnalité est disponible dans Journey Optimizer dans les sections GESTION DES DONNÉES et CONFIDENTIALITÉ dans le volet de navigation de gauche.

@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 0f8cacf3676b4d14f11264fbd691fa73ef01f6ed
+source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
 workflow-type: tm+mt
-source-wordcount: '630'
-ht-degree: 88%
+source-wordcount: '642'
+ht-degree: 86%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 88%
       + [Aperçu, BAT et publication](/help/channels/preview-proof-and-publish.md)
       + [Configurer des expériences de contenu pour les e-mails](/help/experimentation/content-experiments-for-emails.md)
    + Cartes de contenu{#content-cards}
-      + [Création de cartes de contenu](/help/channels/create-content-cards.md)
+      + [Créer des cartes de contenu](/help/channels/create-content-cards.md)
    + Canal in-app{#in-app-channel}
       + [Créer une campagne in-app](/help/channels/create-an-in-app-campaign.md)
       + [Créer un message in-app dans un parcours](/help/channels/create-an-in-app-message-in-a-journey.md)
@@ -141,6 +141,8 @@ ht-degree: 88%
    + [Créer et gérer des sandbox](/help/set-up-access/create-and-manage-sandboxes.md)
 + Gouvernance et confidentialité des données {#data-governance-and-privacy}
    + [Structure de gouvernance des données](/help/privacy/data-governance-framework.md)
+   + [Classification des données à l’aide d’étiquettes](/help/privacy/classify-data-using-lables.md)
+   + [Application des stratégies d’utilisation des données aux canaux Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Masquer les données dans les messages](/help/privacy/mask-data-in-messages.md)
 + Exercices et défis {#exercises-and-challenges}
    + [Configuration d’une sandbox de formation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=fr)
