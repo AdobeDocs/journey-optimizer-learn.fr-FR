@@ -1,5 +1,5 @@
 ---
-source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
+source-git-commit: f6e9e2b286c220bf90eab7632f2110176b0c7ba2
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 80%
@@ -41,6 +41,6 @@ Experience League LIVE :
 
 ## Vidéo Platform - Stratégies (#platform-video)
 
->>[!NOTE]
->>
-La vidéo présente cette fonctionnalité dans l’interface utilisateur de Adobe Experience Platform. La même fonctionnalité est disponible dans Journey Optimizer dans les sections GESTION DES DONNÉES et CONFIDENTIALITÉ dans le volet de navigation de gauche.
+>[!NOTE]
+>
+>La vidéo présente cette fonctionnalité dans l’interface utilisateur de Adobe Experience Platform. La même fonctionnalité est disponible dans Journey Optimizer dans les sections GESTION DES DONNÉES et CONFIDENTIALITÉ dans le volet de navigation de gauche.
