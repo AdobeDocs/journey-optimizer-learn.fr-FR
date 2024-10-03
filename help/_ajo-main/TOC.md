@@ -3,9 +3,9 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
+source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '646'
 ht-degree: 86%
 
 ---
@@ -142,6 +142,7 @@ ht-degree: 86%
 + Gouvernance et confidentialité des données {#data-governance-and-privacy}
    + [Structure de gouvernance des données](/help/privacy/data-governance-framework.md)
    + [Classification des données à l’aide d’étiquettes](/help/privacy/classify-data-using-lables.md)
+   + [Création de politiques d’utilisation des données](/help/privacy/create-data-usage-policies.md)
    + [Application des stratégies d’utilisation des données aux canaux Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Masquer les données dans les messages](/help/privacy/mask-data-in-messages.md)
 + Exercices et défis {#exercises-and-challenges}
