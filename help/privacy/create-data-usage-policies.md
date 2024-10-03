@@ -10,7 +10,7 @@ last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-16267
 hide: true
 hidefromtoc: true
-source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
+source-git-commit: e98a023c6c30444dd58d9030868e3619c0958a37
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # Création de stratégies d’utilisation des données
 
->>[!NOTE]
->>
-La vidéo présente cette fonctionnalité dans l’interface utilisateur de Adobe Experience Platform. La même fonctionnalité est disponible dans l’interface utilisateur de Journey Optimizer, dans la section CONFIDENTIALITÉ du volet de navigation de gauche.
-
 Découvrez comment créer et gérer des stratégies d’utilisation des données. Les stratégies d’utilisation des données vous permettent de restreindre l’utilisation des données à des fins spécifiques en fonction de l’étiquetage des données. Pour découvrir l’approche basée sur l’API, voir [Création de stratégies d’utilisation des données avec l’API|https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create].
+
+>[!NOTE]
+>
+>La vidéo présente cette fonctionnalité dans l’interface utilisateur de Adobe Experience Platform. La même fonctionnalité est disponible dans l’interface utilisateur de Journey Optimizer, dans la section CONFIDENTIALITÉ du volet de navigation de gauche.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 

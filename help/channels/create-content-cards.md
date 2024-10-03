@@ -1,5 +1,5 @@
 ---
-title: Création de cartes de contenu
+title: Créer des cartes de contenu
 description: Découvrez comment créer des cartes de contenu pour votre application.
 feature: In App
 role: User
@@ -10,17 +10,15 @@ last-substantial-update: 2024-09-26T00:00:00Z
 jira: KT-15791
 hidefromtoc: false
 hide: false
-source-git-commit: 257da58273562df68623cb1ae17a423643361b02
+source-git-commit: e98a023c6c30444dd58d9030868e3619c0958a37
 workflow-type: tm+mt
 source-wordcount: '24'
-ht-degree: 0%
+ht-degree: 25%
 
 ---
 
 
-# Création de cartes de contenu
-
-{{limited-availability}}
+# Créer des cartes de contenu
 
 Découvrez comment créer des cartes de contenu pour votre application.
 

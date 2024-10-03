@@ -10,9 +10,9 @@ last-substantial-update: 2024-10-01T00:00:00Z
 jira: KT-16263
 hide: true
 hidefromtoc: true
-source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
+source-git-commit: e98a023c6c30444dd58d9030868e3619c0958a37
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,10 @@ Présentation de Data Governance Framework dans Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
 
-Regardez la liste de lecture [Commencer avec la gouvernance des données Adobe Experience Platform](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-data-governance) pour en savoir plus sur la gouvernance des données sur Adobe Experience Platform et sur la manière de classer les données à l’aide d’étiquettes, de créer des stratégies d’utilisation des données et d’appliquer des stratégies d’utilisation des données sur Experience Platform.
-
 Consultez la documentation du produit pour plus d’informations sur la [gouvernance des données](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy-restricted) dans Journey Optimizer.
+
+## Apprentissage supplémentaire
+
+* [Playlist : Prise en main de la gouvernance des données Adobe Experience Platform](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-data-governance)
+
+  *En savoir plus sur la gouvernance des données dans Adobe Experience Platform et comment classer les données à l’aide d’étiquettes, créer des stratégies d’utilisation des données et appliquer des stratégies d’utilisation des données sur Experience Platform.*
