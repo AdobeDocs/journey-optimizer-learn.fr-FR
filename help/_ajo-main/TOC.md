@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
 workflow-type: tm+mt
 source-wordcount: '646'
-ht-degree: 86%
+ht-degree: 98%
 
 ---
 
@@ -75,9 +75,9 @@ ht-degree: 86%
       + [Créer une campagne web](/help/channels/author-a-web-campaign.md)
       + [Prise en charge des applications à une seule page (SPA) dans l’éditeur web](/help/channels/singel-page-application-support.md)
 + Gestion de contenu{#content-management}
-   + Accélérateur de contenu de l’assistant AI{#content-accelerator}
-      + [Présentation de l’accélérateur de contenu de l’assistant d’IA](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
-      + [Création de contenu avec l’assistant d’IA dans Journey Optimizer - Content Accelerator](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
+   + Accélérateur de contenu de l’assistant IA{#content-accelerator}
+      + [Présentation de l’accélérateur de contenu de l’Assistant IA](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
+      + [Créer du contenu avec l’Assistant IA dans Journey Optimizer - Accélérateur de contenu](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
    + [Gérer les ressources](/help/assets-essentials-overview.md)
    + [Gérer les modèles de contenu](/help/content-management/content-templates.md)
    + [Gérer les fragments](/help/content-management/manage-fragments.md)
@@ -120,7 +120,7 @@ ht-degree: 86%
    + [Amélioration de la création de rapports avec Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + Configuration {#configuration}
    + Configurer des canaux {#channel-configuration}
-      + [Configuration des canaux](/help/set-up-channels/configure-channels.md)
+      + [Configurer des canaux](/help/set-up-channels/configure-channels.md)
       + [Configuration guidée des canaux](/help/set-up-channels/guided-channel-setup.md)
       + [Configurer un canal e-mail](/help/set-up-channels/set-up-email-channel.md)
       + [Délégation de sous-domaines CName](/help/set-up-channels/delegate-cname-subdomains.md)
@@ -132,15 +132,15 @@ ht-degree: 86%
       + [Configurer les sources de données](/help/set-up-journeys/configure-data-sources.md)
       + [Créer des événements](/help/set-up-journeys/create-events.md)
       + [Créer des actions](/help/set-up-journeys/create-actions.md)
-   + Règles de fonctionnement {#business-rules}
-      + [Configuration des règles de limitation de fréquence](/help/configuration/configure-frequency-capping-rules.md)
-      + [Test et rapport sur les règles de fréquence](/help/configuration/test-and-report-on-frequency-rules.md)
+   + Règles commerciales {#business-rules}
+      + [Configurer des règles de capping de la fréquence](/help/configuration/configure-frequency-capping-rules.md)
+      + [Tester les règles de fréquence et établir des rapports à ce sujet](/help/configuration/test-and-report-on-frequency-rules.md)
 + Contrôle d’accès {#access-control}
    + [Gestion des accès](/help/set-up-access/access-management.md)
    + [Configurer le contrôle d’accès basé sur les attributs](/help/administration/attribute-based-access-control.md)
    + [Créer et gérer des sandbox](/help/set-up-access/create-and-manage-sandboxes.md)
-+ Gouvernance et confidentialité des données {#data-governance-and-privacy}
-   + [Structure de gouvernance des données](/help/privacy/data-governance-framework.md)
++ Gouvernance et confidentialité des données{#data-governance-and-privacy}
+   + [Cadre de gouvernance des données](/help/privacy/data-governance-framework.md)
    + [Classification des données à l’aide d’étiquettes](/help/privacy/classify-data-using-lables.md)
    + [Création de politiques d’utilisation des données](/help/privacy/create-data-usage-policies.md)
    + [Application des stratégies d’utilisation des données aux canaux Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
@@ -149,8 +149,8 @@ ht-degree: 86%
    + [Configuration d’une sandbox de formation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=fr)
    + [Défis](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=fr)
 + Enregistrements dynamiques Experience League{#experience-league-live-recordings}
-   + [Bash de l’IA - Déverrouillage de la puissance de l’assistant d’IA dans les applications Adobe Experience Platform et Campaign](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
-   + [Points phares d’été - Il faut essayer des fonctionnalités dans Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)
+   + [L’IA en vedette - Exploiter toute la puissance de l’Assistant IA dans les applications Adobe Experience Platform et Campaign.](https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
+   + [Les points forts de l’été - Trois fonctionnalités incontournables à tester dans Adobe Journey Optimizer.](https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)
    + [Nouveau canal d’expérience basé sur le code dans Journey Optimizer](https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
    + [Messages déclenchés par l’API dans Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=fr){target="_blank"}
    + [Diffuser la bonne offre au bon moment avec la gestion des décisions](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=fr){target="_blank"}
