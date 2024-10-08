@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
+source-git-commit: f0c457a9aa6e96ca185e526058797479bfbf72da
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 98%
+source-wordcount: '685'
+ht-degree: 89%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 98%
    + [Déclencher des campagnes à l’aide d’API](/help/create-campaigns/api-triggered-campaigns.md)
    + [Créer des expériences de contenu pour les campagnes par e-mail](/help/create-campaigns/content-experiments.md)
 + Parcours {#create-journeys}
-   + [Vue d’ensemble de la zone de travail du parcours](/help/create-journeys/overview-over-the-journey-canvas.md)
+   + [Designer Parcours - Aperçu](/help/create-journeys/journey-designer-overview.md)
    + [Découvrir le nouveau concepteur de parcours](/help/create-journeys/new-journey-designer.md)
    + [Présentation de la création d’un parcours](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Cas d’utilisation : parcours transactionnel](/help/create-journeys/use-case-transactional-journey.md)
@@ -44,15 +44,19 @@ ht-degree: 98%
    + [Mettre à jour du contenu dans un parcours dynamique](/help/create-journeys/update-content-in-live-journey.md)
    + [Copier un parcours dans un autre sandbox](/help/create-journeys/copy-a-journey.md)
 + Profils, audiences et abonnements {#profiles-audiences-subscriptions}
+   + [Profils et audiences - Présentation](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [Profil unifié et segmentation - Vue d’ensemble](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Créer des audiences à l’aide du créateur de règles](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Abonnements et pages de destination](/help/subscriptions-and-landing-pages.md)
 + Canaux {#channels}
+   + [Optimisation des applications mobiles - Aperçu](/help/channels/mobile-app-optimization-overview.md)
    + Canal d’expérience basée sur le code {#code-based-experience-channel}
       + [Créer une campagne d’expérience basée sur le code](/help/channels/create-a-code-based-experience-campaign.md)
    + Canal courrier{#direct-mail-channel}
       + [Créer un courrier](/help/channels/direct-mail.md)
    + Canal e-mail{#email-channel}
+      + [Canal email - Présentation](/help/channels/email-channel-overview.md)
+      + [Conception et personnalisation des emails - Aperçu](/help/channels/email-design-and-personalization-overview.md)
       + [Créer du contenu avec le Concepteur d&#39;e-mail](/help/channels/create-content-with-the-email-designer.md)
       + [Importation et création de contenu d’e-mail HTML](/help/channels/import-and-author-html-email-content.md)
       + [Aperçu, BAT et publication](/help/channels/preview-proof-and-publish.md)
@@ -60,31 +64,40 @@ ht-degree: 98%
    + Cartes de contenu{#content-cards}
       + [Créer des cartes de contenu](/help/channels/create-content-cards.md)
    + Canal in-app{#in-app-channel}
+      + [Messages in-app - Présentation](/help/channels/in-app-messages-overview.md)
       + [Créer une campagne in-app](/help/channels/create-an-in-app-campaign.md)
       + [Créer un message in-app dans un parcours](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [Créer un message in-app](/help/channels/author-in-app-messages.md)
       + [Configurer des expériences de contenu pour les messages in-app](/help/experimentation/content-experiments-for-in-app-messages.md)
    + Canal de notification push{#push-channel}
+      + [Notifications push - Aperçu](/help/channels/push-notifications-overview.md)
       + [Configurer et envoyer une campagne de notifications push](/help/channels/create-a-push-campaign.md)
    + Canal SMS{#sms-channel}
+      + [SMS/MMS - Présentation](/help/channels/sms-mms-messages-overview.md)
       + [Configurer, créer et diffuser des messages SMS](/help/channels/author-sms-messages.md)
       + [Créer un message MMS](/help/channels/author-mms.md)
       + [SMS : double opt-in pour Sinch et Infobip](/help/channels/sms-double-opt-in.md)
    + Canal web {#web-channel}
+      + [Personnalisation web - Aperçu](/help/channels/web-personalization-overview.md)
       + [Créer une campagne web](/help/channels/create-a-web-campaign.md)
       + [Créer une campagne web](/help/channels/author-a-web-campaign.md)
       + [Prise en charge des applications à une seule page (SPA) dans l’éditeur web](/help/channels/singel-page-application-support.md)
 + Gestion de contenu{#content-management}
-   + Accélérateur de contenu de l’assistant IA{#content-accelerator}
-      + [Présentation de l’accélérateur de contenu de l’Assistant IA](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
-      + [Créer du contenu avec l’Assistant IA dans Journey Optimizer - Accélérateur de contenu](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
+   + [Création de messages - Aperçu](/help/content-management/message-authoring-overview.md)
+   + [Gestion des actifs numériques - Aperçu](/help/content-management/digital-asset-management-overview.md)
    + [Gérer les ressources](/help/assets-essentials-overview.md)
    + [Gérer les modèles de contenu](/help/content-management/content-templates.md)
    + [Gérer les fragments](/help/content-management/manage-fragments.md)
    + [Créer des fragments d’expression](/help/content-management/expression-fragments.md)
-   + [Configurer des messages multilingues](/help/content-management/set-up-multilingual-messages.md)
-   + [Créer un message multilingue](/help/content-management/create-multilingual-messages.md)
+   + [Expérience - Aperçu](/help/content-management/experimentation-overview.md)
+   + Messages multilingues {#multilingual-messaging}
+      + [Configurer des messages multilingues](/help/content-management/set-up-multilingual-messages.md)
+      + [Créer un message multilingue](/help/content-management/create-multilingual-messages.md)
+   + Accélérateur de contenu de l’assistant IA{#content-accelerator}
+      + [Accélérateur de contenu de l’assistant d’IA - Aperçu](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [Création de contenu à l’aide de l’accélérateur de contenu de l’assistant d’IA](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + Personnaliser le contenu {#personalize-content}
+   + [Éditeur Personalization - Aperçu](/help/personalize-content/personalization-editor-overview.md)
    + [Personnalisation basée sur un profil et l’appartenance à une audience](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Ajout d’offres en tant que personnalisation](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Utilisation d’informations d’événement contextuelles pour la personnalisation](/help/personalize-content/use-contextual-event-information-for-personalization.md)
@@ -113,6 +126,7 @@ ht-degree: 98%
    + [Configurer une destination d’export de jeux de données](/help/data-management/configure-dataset-export-destination.md)
    + [Exporter des jeux de données vers des emplacements d’espace de stockage](/help/data-management/export-datasets.md)
 + Rapport et surveillance {#report-and-monitor}
+   + [Mesure et création de rapports - Aperçu](/help/report-and-monitor/measurement-and-reporting-overview.md)
    + [Rapports dynamiques et globaux](/help/report-and-monitor/live-and-global-reports.md)
    + [Rapports au niveau des canaux](/help/report-and-monitor/channel-level-reports.md)
    + [Exporter des rapports au format CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
