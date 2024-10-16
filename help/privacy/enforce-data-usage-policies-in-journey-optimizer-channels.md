@@ -1,6 +1,6 @@
 ---
-title: Application des stratégies d’utilisation des données aux canaux Journey Optimizer
-description: Découvrez comment l’étiquetage de l’utilisation des données est appliqué dans les canaux Journey Optimizer.
+title: Appliquer les politiques d’utilisation des données aux canaux Journey Optimizer
+description: Découvrez comment les libellés d’utilisation des données sont appliqués dans les canaux Journey Optimizer.
 feature: Governance, Privacy
 role: Data Architect, Admin, User
 level: Beginner
@@ -10,19 +10,19 @@ last-substantial-update: 2024-10-01T00:00:00Z
 jira: KT-16264
 hide: false
 hidefromtoc: false
-badgePrivateBeta: label="Private Beta" type="Informative"
+badgePrivateBeta: label="Private Beta" type="Informative"
 source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Application des stratégies d’utilisation des données aux canaux Journey Optimizer
+# Appliquer les politiques d’utilisation des données aux canaux Journey Optimizer
 
-Découvrez comment les stratégies d’utilisation des données sont appliquées dans les canaux Journey Optimizer.
+Découvrez comment les politiques d’utilisation des données sont appliquées dans les canaux Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
-Pour plus d’informations sur la [gouvernance des données](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy-restricted) et sur la [ utilisation des stratégies de consentement](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent-restricted) dans Journey Optimizer, consultez la documentation du produit.
+Pour plus d’informations sur la [gouvernance des données](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/privacy/action-privacy-restricted) et sur l’[utilisation des politiques de consentement](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/privacy/consent/consent-restricted) dans Journey Optimizer, consultez la documentation du produit.

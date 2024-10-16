@@ -1,6 +1,6 @@
 ---
-title: Création de stratégies d’utilisation des données
-description: Découvrez comment créer et gérer des stratégies d’utilisation des données.
+title: Créer des politiques d’utilisation des données
+description: Découvrez comment créer et gérer des politiques d’utilisation des données.
 feature: Governance, Privacy
 role: User
 level: Beginner
@@ -11,23 +11,23 @@ jira: KT-16267
 hide: false
 hidefromtoc: false
 source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Création de stratégies d’utilisation des données
+# Créer des politiques d’utilisation des données
 
-Découvrez comment créer et gérer des stratégies d’utilisation des données. Les stratégies d’utilisation des données vous permettent de restreindre l’utilisation des données à des fins spécifiques en fonction de l’étiquetage des données. Pour découvrir l’approche basée sur l’API, voir [Création de stratégies d’utilisation des données avec l’API|https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create].
+Découvrez comment créer et gérer des politiques d’utilisation des données. Les politiques d’utilisation des données vous permettent de restreindre l’utilisation des données à des fins spécifiques en fonction des libellés des données. Pour découvrir l’approche basée sur l’API, voir [Créer des politiques d’utilisation des données avec l’API|https://experienceleague.adobe.com/fr/docs/experience-platform/data-governance/policies/create].
 
 >[!NOTE]
 >
->La vidéo présente cette fonctionnalité dans l’interface utilisateur de Adobe Experience Platform. La même fonctionnalité est disponible dans l’interface utilisateur de Journey Optimizer, dans la section CONFIDENTIALITÉ du volet de navigation de gauche.
+>La vidéo présente cette fonction dans l’interface d’utilisation d’Adobe Experience Platform. Cette même fonctionnalité est disponible dans l’interface d’utilisation de Journey Optimizer, à la section CONFIDENTIALITÉ dans le volet de navigation de gauche.
 >
->Regardez ce [tutoriel](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md) pour comprendre comment les stratégies sont appliquées dans les canaux Journey Optimizer.
+>Regardez ce [tutoriel](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md) pour comprendre comment les politiques sont appliquées dans les canaux Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
-Consultez la documentation du produit pour plus d’informations sur l’ [utilisation des stratégies de consentement](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent-restricted) dans Journey Optimizer.
+Pour plus d’informations sur la façon de [travailler avec les politiques de consentement](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/privacy/consent/consent-restricted) dans Journey Optimizer, consultez la documentation du produit.
