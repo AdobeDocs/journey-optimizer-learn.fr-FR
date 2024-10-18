@@ -10,17 +10,17 @@ last-substantial-update: 2024-10-03T00:00:00Z
 jira: KT-16267
 hide: false
 hidefromtoc: false
-source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: ht
+source-git-commit: da924ae1f11f87ef6d940d7ccfc0ac3b9cf3b896
+workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
 
 # Créer des politiques d’utilisation des données
 
-Découvrez comment créer et gérer des politiques d’utilisation des données. Les politiques d’utilisation des données vous permettent de restreindre l’utilisation des données à des fins spécifiques en fonction des libellés des données. Pour découvrir l’approche basée sur l’API, voir [Créer des politiques d’utilisation des données avec l’API|https://experienceleague.adobe.com/fr/docs/experience-platform/data-governance/policies/create].
+Découvrez comment créer et gérer des politiques d’utilisation des données. Les politiques d’utilisation des données vous permettent de restreindre l’utilisation des données à des fins spécifiques en fonction des libellés des données. Pour découvrir l’approche basée sur l’API, voir [Création de stratégies d’utilisation des données avec l’API](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create).
 
 >[!NOTE]
 >
