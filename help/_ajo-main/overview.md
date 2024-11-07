@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: cf1bf6d0602314e870834035882f2bf1929f307a
-workflow-type: ht
-source-wordcount: '377'
-ht-degree: 100%
+source-git-commit: 2d0a573812fbcbce347821532d5ab254b3a4c98c
+workflow-type: tm+mt
+source-wordcount: '372'
+ht-degree: 98%
 
 ---
 
@@ -48,8 +48,8 @@ Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionn
 <table>
 <tr>
   <td>
-    <a href="../introduction/journey-optimizer-overview-part-1.md">
-      <img alt="Présentation de Journey Optimizer (partie 1) : diffusion de parcours omnicanal (vidéo)" src="../assets/334174.jpg"/>
+    <a href="../introduction/journey-optimizer-overview.md">
+      <img alt="Présentation de Journey Optimizer (vidéo)" src="../assets/334174.jpg"/>
     </a>
     <div>
       <a href="../introduction/journey-optimizer-overview-part-1.md">
