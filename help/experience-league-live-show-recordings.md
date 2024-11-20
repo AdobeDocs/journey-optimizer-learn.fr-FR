@@ -4,10 +4,10 @@ description: Experience League LIVE est une émission en streaming produite par 
 feature: Overview
 doc-type: Catalog
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
-source-git-commit: 7ac7d6f068caf4e7e05c5e3aba48182128d4f8e6
+source-git-commit: 46f9f606490ce7364792e370e24ba1d76d8ffe1c
 workflow-type: tm+mt
-source-wordcount: '788'
-ht-degree: 10%
+source-wordcount: '774'
+ht-degree: 11%
 
 ---
 
@@ -22,7 +22,9 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
 * https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24
   {description = Learn how Content Cards deliver key updates, promotions, and messages seamlessly within your app or website, ensuring a non-intrusive user experience. (November 6, 2024)}
 * https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
+     {description = Learn about Federated Audience Composition provides a comprehensive approach to audience curation and activation with Real-Time CDP and Journey Optimizer. (October 24, 2024)}
 * https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24
+    {description = AI-driven tools are transforming the way we engage customers and streamline workflows. Learn how Adobe's AI capabilities will accelerate your productivity. (September 26, 2024)}
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -32,7 +34,7 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24" title="Affichage des cartes de contenu pour Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436281/?quality=12&format=jpeg&nocache=1732141554372" alt="Affichage des cartes de contenu pour Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436281/?quality=12&format=jpeg&nocache=1732146043307" alt="Affichage des cartes de contenu pour Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -55,7 +57,7 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="Harmonisation des audiences dans les écosystèmes de l’expérience - Composition de l’audience fédérée en Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?quality=12&format=jpeg&nocache=1732141554374" alt="Harmonisation des audiences dans les écosystèmes de l’expérience - Composition de l’audience fédérée en Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?quality=12&format=jpeg&nocache=1732146043310" alt="Harmonisation des audiences dans les écosystèmes de l’expérience - Composition de l’audience fédérée en Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -65,7 +67,7 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" title="Harmonisation des audiences dans les écosystèmes de l’expérience - Composition de l’audience fédérée en Experience Platform">Harmonisation des audiences dans les écosystèmes d’expérience - Composition de l’audience fédérée en Experience Platform</a>
                     </p>
-                    <p class="is-size-6">Découvrez comment la composition d’audiences fédérées offre une approche complète du traitement et de l’activation des audiences avec Real-Time CDP et Journey Optimizer.</p>
+                    <p class="is-size-6">En savoir plus sur la composition d’audiences fédérées offre une approche complète du traitement et de l’activation des audiences avec Real-Time CDP et Journey Optimizer. (24 octobre 2024)</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
@@ -78,7 +80,7 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24" title="Bash de l’IA - Déverrouillage de la puissance de l’assistant d’IA dans les applications Adobe Experience Platform et Campaign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434781/?format=jpeg&nocache=1732141554366" alt="Bash de l’IA - Déverrouillage de la puissance de l’assistant d’IA dans les applications Adobe Experience Platform et Campaign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434781/?format=jpeg&nocache=1732146043304" alt="Bash de l’IA - Déverrouillage de la puissance de l’assistant d’IA dans les applications Adobe Experience Platform et Campaign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -88,7 +90,7 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24" target="_blank" rel="referrer" title="Bash de l’IA - Déverrouillage de la puissance de l’assistant d’IA dans les applications Adobe Experience Platform et Campaign">L’IA en vedette - Exploiter toute la puissance de l’Assistant IA dans les applications Adobe Experience Platform et Campaign.</a>
                     </p>
-                    <p class="is-size-6">Les outils pilotés par l’IA transforment la manière dont nous interagissons avec les clients et rationalisons les workflows. Rejoignez notre webinaire Experience League Live sur le thème de l’IA pour suivre le rythme de l’innovation et découvrir comment les capacités de l’Adobe vont accélérer votre productivité.</p>
+                    <p class="is-size-6">Les outils pilotés par l’IA transforment la manière dont nous interagissons avec les clients et rationalisons les workflows. Découvrez comment les fonctionnalités d’IA de l’Adobe vont accélérer votre productivité. (26 septembre 2024)</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
@@ -121,7 +123,7 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24" title="Points phares de l’été - Il faut essayer les fonctionnalités de Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433225/?format=jpeg&nocache=1732141554889" alt="Points phares de l’été - Il faut essayer les fonctionnalités de Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433225/?format=jpeg&nocache=1732146045031" alt="Points phares de l’été - Il faut essayer les fonctionnalités de Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -144,7 +146,7 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24" title="Nouveau canal d’expérience basé sur le code dans Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428095/?quality=12&format=jpeg&nocache=1732141554907" alt="Nouveau canal d’expérience basé sur le code dans Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428095/?quality=12&format=jpeg&nocache=1732146045035" alt="Nouveau canal d’expérience basé sur le code dans Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -167,7 +169,7 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=fr" title="Messagerie déclenchée par l’API dans Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422169/?format=jpeg&nocache=1732141555020" alt="Messagerie déclenchée par l’API dans Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422169/?format=jpeg&nocache=1732146045417" alt="Messagerie déclenchée par l’API dans Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -190,7 +192,7 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=fr" title="Optimiser le potentiel de votre application mobile avec Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419194/?quality=12&format=jpeg&nocache=1732141554960" alt="Optimiser le potentiel de votre application mobile avec Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419194/?quality=12&format=jpeg&nocache=1732146045235" alt="Optimiser le potentiel de votre application mobile avec Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -213,7 +215,7 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=fr" title="Diffuser la bonne offre au bon moment avec la gestion de la décision" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410560/?quality=12&format=jpeg&nocache=1732141554959" alt="Diffuser la bonne offre au bon moment avec la gestion de la décision"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410560/?quality=12&format=jpeg&nocache=1732146045377" alt="Diffuser la bonne offre au bon moment avec la gestion de la décision"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -236,7 +238,7 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=fr" title="Exécuter vos campagnes dans Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3409504/?quality=12&format=jpeg&nocache=1732141555017" alt="Exécuter vos campagnes dans Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3409504/?quality=12&format=jpeg&nocache=1732146045412" alt="Exécuter vos campagnes dans Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -259,7 +261,7 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=fr" title="Notifications push avec Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/342810/?quality=12&format=jpeg&nocache=1732141555019" alt="Notifications push avec Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/342810/?quality=12&format=jpeg&nocache=1732146045229" alt="Notifications push avec Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
