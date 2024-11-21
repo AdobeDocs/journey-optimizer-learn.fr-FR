@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 7b1947ff1df01b8119bd0dd5ddf8745cd229394e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '372'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -49,29 +49,29 @@ Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionn
 <tr>
     <td>
     <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-      <img alt="Création de contenu à l’aide de l’accélérateur de contenu de l’assistant d’IA (vidéo)" src="../assets/3434635.jpg"/>
+      <img alt="Créer du contenu avec l’accélérateur de contenu de l’Assistant IA (vidéo)" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-    <strong>Création de contenu à l’aide de l’accélérateur de contenu de l’assistant d’IA</strong>
+    <strong>Créer du contenu avec l’accélérateur de contenu de l’Assistant IA</strong>
     </a>
     </div>
     <p>
-    <em>Découvrez comment utiliser l’accélérateur de contenu de l’assistant d’IA pour générer des suggestions proactives de variations de contenu pour le texte et les images.
+    <em>Découvrez comment utiliser l’accélérateur de contenu de l’Assistant IA pour générer des suggestions de variation de contenu proactives pour le texte et les images.
 </em>
     <p>
   </td>
     <td>
     <a href="../experimentation/content-experiments-for-emails.md">
-      <img alt="Configuration d’expériences de contenu pour les campagnes par e-mail (vidéo)" src="../assets/3419893.jpeg"/>
+      <img alt="Configurer des expériences de contenu pour les campagnes par e-mail (vidéo)" src="../assets/3419893.jpeg"/>
     </a>
     <div>
       <a href="../experimentation/content-experiments-for-emails.md">
-    <strong>Configuration d’expériences de contenu pour les campagnes par e-mail </strong>
+    <strong>Configurer des expériences de contenu pour les campagnes par e-mail </strong>
     </a>
     </div>
     <p>
-    <em>Découvrez comment configurer des expériences de contenu pour un test A/B et explorer le contenu des emails qui détermine le mieux vos objectifs commerciaux.</em>
+    <em>Découvrez comment configurer des expériences de contenu pour un test A/B et explorer le contenu des e-mails qui répond le mieux aux objectifs de votre entreprise.</em>
     <p>
   </td>
   </td>
