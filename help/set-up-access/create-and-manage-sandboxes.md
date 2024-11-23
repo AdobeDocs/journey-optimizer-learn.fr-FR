@@ -1,23 +1,23 @@
 ---
-title: Création et gestion de sandbox
-description: Découvrez ce que sont les sandbox et comment faire la distinction entre les sandbox de développement et de production. Découvrez comment créer, réinitialiser et supprimer des sandbox.
+title: Créer et gérer des sandbox
+description: Découvrez comment les environnements de test Experience Platform fournissent des environnements isolés pour essayer des fonctionnalités nouvelles ou existantes et travailler avec une approche rapide d’échec. Découvrez comment réinitialiser et redémarrer les environnements de développement et utiliser les environnements de test avec les appels d’API.
 jira: KT-7568
-thumbnail: 334355.jpg
 feature: Sandboxes
 doc-type: feature video
-team: PM
-role: Admin
+team: TM
+role: Admin, User
 level: Beginner
+last-substantial-update: 2024-11-22T00:00:00Z
 exl-id: b1ad3aa7-2b58-4a9f-8c5c-085126586c11
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: cfa548b1c8490e74cb40bba48386a4b6efd0ba67
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 100%
+source-wordcount: '90'
+ht-degree: 7%
 
 ---
 
-# Création et gestion de sandbox
+# Utilisation des sandbox
 
-Découvrez ce que sont les sandbox et comment faire la distinction entre les sandbox de développement et de production. Découvrez comment créer, réinitialiser et supprimer des sandbox.
+Découvrez comment les environnements de test Experience Platform fournissent des environnements isolés pour tester des fonctionnalités nouvelles ou existantes et travailler avec une approche &quot;fail fast&quot;. Découvrez comment réinitialiser et redémarrer les environnements de développement et utiliser les environnements de test avec les appels d’API. Pour plus d’informations, consultez le [guide d’utilisation des environnements de test](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=fr).
 
->[!VIDEO](https://video.tv.adobe.com/v/334355?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29838/?learn=on)
