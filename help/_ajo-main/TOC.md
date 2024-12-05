@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 20c8649624e91fcc77745309a4816bd02e6d09bd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '603'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 99%
 
 + [Tutoriels de Journey Optimizer](/help/_ajo-main/overview.md)
 + Cas d’utilisation {#use-cases}
-   + [Intégration client](/help/use-cases/customer-onboarding.md)
+   + [Intégration des clientes et clients](/help/use-cases/customer-onboarding.md)
 + Présentation de Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Vue d’ensemble](/help/introduction/journey-optimizer-overview.md)
    + [Présentation de Journey Optimizer](/help/introduction/introduction.md)
@@ -154,7 +154,7 @@ ht-degree: 99%
 + Contrôle d’accès {#access-control}
    + [Gestion des accès](/help/set-up-access/access-management.md)
    + [Configurer le contrôle d’accès basé sur les attributs](/help/administration/attribute-based-access-control.md)
-   + [Utilisation des sandbox](/help/set-up-access/create-and-manage-sandboxes.md)
+   + [Utiliser des sandbox](/help/set-up-access/create-and-manage-sandboxes.md)
 + Gouvernance et confidentialité des données{#data-governance-and-privacy}
    + [Cadre de gouvernance des données](/help/privacy/data-governance-framework.md)
    + [Classer les données à l’aide de libellés](/help/privacy/classify-data-using-lables.md)
