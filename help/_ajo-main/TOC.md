@@ -3,9 +3,9 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 20c8649624e91fcc77745309a4816bd02e6d09bd
-workflow-type: ht
-source-wordcount: '603'
+source-git-commit: 55205636bb73af692c24ebabe4168a514b547b6f
+workflow-type: tm+mt
+source-wordcount: '601'
 ht-degree: 100%
 
 ---
@@ -133,7 +133,6 @@ ht-degree: 100%
    + [Exporter des rapports au format CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Utiliser des alertes](/help/administration/alerts.md)
    + [Amélioration de la création de rapports avec Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
-   + [Interactivité des rapports](/help/report-and-monitor/adobe-journey-optimizer-reporting-interactivity.md)
 + Configuration {#configuration}
    + Configurer des canaux {#channel-configuration}
       + [Configurer des canaux](/help/set-up-channels/configure-channels.md)
@@ -148,7 +147,7 @@ ht-degree: 100%
       + [Configurer les sources de données](/help/set-up-journeys/configure-data-sources.md)
       + [Créer des événements](/help/set-up-journeys/create-events.md)
       + [Créer des actions](/help/set-up-journeys/create-actions.md)
-   + Règles commerciales {#business-rules}
+   + Règles métier {#business-rules}
       + [Configurer des règles de capping de la fréquence](/help/configuration/configure-frequency-capping-rules.md)
       + [Tester les règles de fréquence et établir des rapports à ce sujet](/help/configuration/test-and-report-on-frequency-rules.md)
 + Contrôle d’accès {#access-control}
