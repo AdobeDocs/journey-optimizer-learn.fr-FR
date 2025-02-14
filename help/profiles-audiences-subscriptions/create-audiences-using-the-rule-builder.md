@@ -1,6 +1,6 @@
 ---
 title: Créer une audience à l’aide du créateur de règles
-description: Découvrez comment Journey Optimizer utilise des règles pour générer une audience. Apprenez à utiliser des attributs, des événements et des audiences existantes pour créer une audience.
+description: Découvrez comment Journey Optimizer (AJO) utilise des règles pour générer une audience et comment utiliser des attributs, des événements et des audiences existantes pour créer une audience.
 jira: KT-7553
 thumbnail: 3425020.jpg
 feature: Audiences
@@ -10,10 +10,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-11-02T00:00:00Z
 exl-id: a2aa7853-b014-48aa-ab0f-46d57561288e
-source-git-commit: 585264701dcffb714c74c37c1605749465a0c92b
+source-git-commit: 559371bcc7b3e3d09566f0058fa6fa825d9e39c2
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 100%
+source-wordcount: '61'
+ht-degree: 60%
 
 ---
 
