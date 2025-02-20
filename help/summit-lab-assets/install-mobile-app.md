@@ -8,10 +8,10 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: b65e9640705ca4bf1b27edac9047b70600feb8b1
+source-git-commit: f32ce2e2fd32bc11e46b6e37f62e60d641038310
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 3%
+source-wordcount: '173'
+ht-degree: 4%
 
 ---
 
@@ -28,7 +28,7 @@ Installation spécifique à l’appareil :
 
 >[!TAB iOS]
 
-### iOS :
+## iOS :
 
 Après l’installation de l’application, vous devez faire confiance au développeur d’entreprise Adobe :
 
@@ -43,18 +43,17 @@ Après l’installation de l’application, vous devez faire confiance au dével
 
    ![Écran Approbation des systèmes Adobe](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
-   * Vous devriez maintenant pouvoir lancer l’application * SecureFinancial** sur votre iPhone : ! Icône de l’application SecureFinancial](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+   Vous devriez maintenant pouvoir lancer l’application * SecureFinancial** sur votre iPhone :
 
+2. Ouvrez l’application.
 
-1. Ouvrez l’application.
-
-1. Sur la pop-up, cliquez sur **Autoriser** pour permettre à l’application DX Demo de vous envoyer des notifications.
+3. Sur la pop-up, cliquez sur **Autoriser** pour permettre à l’application DX Demo de vous envoyer des notifications.
 
    ![fenêtre contextuelle de notification](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
-### Android
+## Android
 
 Sur Android, téléchargez et installez l’APK en suivant les instructions d’alerte présentées ici :
 
@@ -62,6 +61,6 @@ Sur Android, téléchargez et installez l’APK en suivant les instructions d’
 <br>
 Écran d’installation d’Android ![](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
-* Vous devriez maintenant pouvoir lancer l’application * SecureFinancial** sur votre appareil Android : ! Icône de l’application SecureFinancial](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+Vous devriez maintenant pouvoir lancer l’application * SecureFinancial** sur votre appareil Android :
 
 >[!ENDTABS]
