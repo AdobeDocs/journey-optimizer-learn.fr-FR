@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: f32ce2e2fd32bc11e46b6e37f62e60d641038310
+source-git-commit: 278f78c256a4124e287e6f7d8b11adad39d18275
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '170'
 ht-degree: 4%
 
 ---
@@ -45,11 +45,10 @@ Après l’installation de l’application, vous devez faire confiance au dével
 
    Vous devriez maintenant pouvoir lancer l’application * SecureFinancial** sur votre iPhone :
 
-2. Ouvrez l’application.
+1. Ouvrez l’application.
 
-3. Sur la pop-up, cliquez sur **Autoriser** pour permettre à l’application DX Demo de vous envoyer des notifications.
+1. Sur la pop-up, cliquez sur **Autoriser** pour permettre à l’application DX Demo de vous envoyer des notifications.
 
-   ![fenêtre contextuelle de notification](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
