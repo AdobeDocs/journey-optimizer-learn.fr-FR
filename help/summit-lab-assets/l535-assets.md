@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: b65e9640705ca4bf1b27edac9047b70600feb8b1
+source-git-commit: 9e0de40d26aa53dca190d469e51c9cf3345abcbb
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 23%
+source-wordcount: '57'
+ht-degree: 26%
 
 ---
 
@@ -22,6 +22,8 @@ Cette page contient du texte et des liens utilisés dans le L535 Summit Lab. Cel
 
 ## Images
 
+![Logo SecureFinancial](/help/summit-lab-assets/assets/SecureFinancial-logo.png)
+
 ![Téléphone portable](/help/summit-lab-assets/assets/online-banking-app-01.png)
 
-Cliquez [ici](/help/summit-lab-assets/install-mobile-app.md) pour obtenir des instructions sur la façon d’installer l’application.
+
