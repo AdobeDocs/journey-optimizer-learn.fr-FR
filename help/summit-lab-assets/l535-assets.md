@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: 51ab40981a42b0df56d3994f1155eb4ae7575b17
+source-git-commit: c7a2575121dd10c79a2a0459186e042335a67623
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 21%
+source-wordcount: '112'
+ht-degree: 29%
 
 ---
 
@@ -26,21 +26,23 @@ Cette page contient du texte et des liens utilisés dans le L535 Summit Lab. Cel
 * [Site Web de SecurFinancial](https://dsn.adobe.com/web/hausmann-FTTN?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsIm5hbWUiOiJBbm9ueW1vdXMiLCJpc1N1cGVyVXNlciI6ZmFsc2UsImlzc3VlciI6ImhhdXNtYW5uIiwicHJvamVjdHMiOnsiaGF1c21hbm4tRlRUTiI6InZpZXcifSwiaWF0IjoxNzQwNzU2NTYxLCJleHAiOjE3NDMzNDg1NjF9.ryOTsqDH9B33436RlIo4AHFxx8aGjNEMqv9FAxLZb9U)
 * [Télécharger l’application](https://demo-system-next.s3.amazonaws.com/dxdemo/summit/index.html)
 
-## Exercices
+## Copier-coller pour les exercices
 
-### Exercice 2.3
+### Exercice 2.3 : composer l’e-mail
 
-**Étape 12** Invite de message électronique :
+#### Prompt
 
-Générer un e-mail de bienvenue pour le nouveau SecurFinancial
-clients qui viennent d’ouvrir un nouveau compte d’épargne. Ajouter un
-appel à l&#39;action pour installer l&#39;application mobile SecurFinancial.
+```
+Generate a welcome email for new SecurFinancial
+customers who just opened a new savings account. Add a
+call to action to install the SecurFinancial mobile app.
+```
 
-### Exercice 3.1
+### Exercice 3.1 : appliquer du contenu dynamique au message SMS
 
-**Étape 7**
+#### Code
 
-```javascript
+```
 {%#if select _Push_details1 from profile.pushNotificationDetails where
 _Push_details1.token.isNotNull()%}
 Welcome to your new SecurFinancial checking account! Discover the
@@ -56,8 +58,66 @@ s3.amazonaws.com/dxdemo/summit/index.html
 {%/if%} 
 ```
 
+### Exercice 4.2 - Configurer les traitements
+
+#### Titre
+
+```
+Welcome to SecurFinancial"
+```
+
+#### Corps de texte
+
+```
+Did you know you can find an ATM near in the SecurFinancial app? Try it now!"
+```
+
+#### URL
+
+```
+dxdemo://atm
+```
+
+### Exercice 6 - Cartes de contenu
+
+#### Titre
+
+```
+Welcome to SecurFinancial!
+```
+
+#### Corps
+
+```
+Thank you for downloading the app. You can find
+ATMs, track your spending and more. All within the
+app.
+```
+
+#### URL de médias
+
+```
+https://demo-systemnext.
+s3.amazonaws.com/assets/securfinancial/homeloan.
+jpg
+```
+
+#### Titre du bouton
+
+```
+Find ATMs
+```
+
+#### URL cible
+
+```
+dxdemo://atm
+```
+
+## Images
 
 ![Logo SecureFinancial](/help/summit-lab-assets/assets/SecureFinancial-logo.png)
+
 
 ![Téléphone portable](/help/summit-lab-assets/assets/online-banking-app-01.png)
 
