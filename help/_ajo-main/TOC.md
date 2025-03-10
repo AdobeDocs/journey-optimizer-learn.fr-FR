@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: dd1b5afc1547169139371247255f4d42a5c105be
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '632'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -97,9 +97,9 @@ ht-degree: 96%
    + Messages multilingues {#multilingual-messaging}
       + [Configurer des messages multilingues](/help/content-management/set-up-multilingual-messages.md)
       + [Créer un message multilingue](/help/content-management/create-multilingual-messages.md)
-   + Assistant AI pour la génération de contenu {#content-accelerator}
-      + [Assistant d’IA pour la génération de contenu - Aperçu](/help/content-management/ai-assistant-content-accelerator-overview.md)
-      + [Créer du contenu à l’aide de l’assistant AI pour la génération de contenu](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+   + Assistant IA pour la génération de contenu {#content-accelerator}
+      + [Assistant IA pour la génération de contenu : vue d’ensemble](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [Créer du contenu avec l’Assistant IA pour la génération de contenu](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + Personnaliser le contenu {#personalize-content}
    + [Éditeur de personnalisation : vue d’ensemble](/help/personalize-content/personalization-editor-overview.md)
    + [Personnalisation basée sur un profil et l’appartenance à une audience](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -171,4 +171,4 @@ ht-degree: 96%
 + Summit Labs {#summit-labs}
    + [Créer des instants mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
    + [Aide-mémoire](/help/summit-lab-assets/l535-assets.md)
-   + [Installation de l’application mobile](/help/summit-lab-assets/install-mobile-app.md)
+   + [Installer l’application mobile](/help/summit-lab-assets/install-mobile-app.md)
