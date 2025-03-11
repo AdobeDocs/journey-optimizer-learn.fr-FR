@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: eb429656bc1e86a8be9e8bac3d5bfff9c5807b1e
+source-git-commit: e9aa3f63bfc54d165dd044a645aaa366f34c2921
 workflow-type: tm+mt
-source-wordcount: '638'
-ht-degree: 99%
+source-wordcount: '635'
+ht-degree: 97%
 
 ---
 
@@ -110,9 +110,9 @@ ht-degree: 99%
    + [Utilisation des fonctions helper pour la personnalisation](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Utilisation et gestion des expressions enregistrées dans la bibliothèque de personnalisation](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Créer du contenu dynamique à l’aide du créateur de règles de condition](/help/personalize-content/create-dynamic-content.md)
-+ Gestion des décisions {#decision-management}
-   + [Présentation de la gestion des décisions](/help/decision-management/introduction-to-decision-management.md)
-   + [Démonstration des fonctionnalités de gestion des décisions](/help/decision-management/demo-of-decision-management-capabilities.md)
++ Prise de décision {#decisioning}
+   + [Présentation de la prise de décision](/help/decision-management/introduction-to-decisioning.md)
+   + [Démonstration des fonctionnalités de prise de décision](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [Créer des emplacements](/help/decision-management/create-placements.md)
    + [Créer des règles](/help/decision-management/create-rules.md)
    + [Créer des balises](/help/decision-management/create-tags.md)
