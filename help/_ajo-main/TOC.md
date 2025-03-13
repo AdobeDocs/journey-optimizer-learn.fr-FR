@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: e9aa3f63bfc54d165dd044a645aaa366f34c2921
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '635'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -99,9 +99,9 @@ ht-degree: 97%
    + Assistant IA pour la génération de contenu {#content-accelerator}
       + [Assistant IA pour la génération de contenu : vue d’ensemble](/help/content-management/ai-assistant-content-accelerator-overview.md)
       + [Créer du contenu avec l’Assistant IA pour la génération de contenu](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
-   + Modèles de contenu {#content-templates}
+   + Modèles de contenu{#content-templates}
       + [Créer des modèles de contenu](/help/content-management/templates/create-content-templates.md)
-      + [Verrouiller le contenu dans les modèles](/help/content-management/templates/content-locking.md)
+      + [Verrouiller du contenu dans des modèles](/help/content-management/templates/content-locking.md)
 + Personnaliser le contenu {#personalize-content}
    + [Éditeur de personnalisation : vue d’ensemble](/help/personalize-content/personalization-editor-overview.md)
    + [Personnalisation basée sur un profil et l’appartenance à une audience](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
