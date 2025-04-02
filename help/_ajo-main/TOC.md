@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
 workflow-type: tm+mt
 source-wordcount: '662'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 95%
    + [Profil unifié et segmentation - Vue d’ensemble](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Créer des audiences à l’aide du créateur de règles](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Créer une audience en chargeant un fichier CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
-   + [Évaluer les audiences à la demande](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
+   + [Évaluer des audiences à la demande](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [Abonnements et pages de destination](/help/subscriptions-and-landing-pages.md)
 + Canaux {#channels}
    + [Optimisation des applications mobiles : vue d’ensemble](/help/channels/mobile-app-optimization-overview.md)
@@ -91,7 +91,7 @@ ht-degree: 95%
    + [Création de messages : vue d’ensemble](/help/content-management/message-authoring-overview.md)
    + [Gestion des ressource numérique : vue d’ensemble](/help/content-management/digital-asset-management-overview.md)
    + [Gérer les ressources](/help/assets-essentials-overview.md)
-   + [Modification de ressources avec Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
+   + [Modifier les ressources avec Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
    + [Gérer les fragments](/help/content-management/manage-fragments.md)
    + [Créer des fragments d’expression](/help/content-management/expression-fragments.md)
    + [Expérimentation : vue d’ensemble](/help/content-management/experimentation-overview.md)
@@ -114,10 +114,10 @@ ht-degree: 95%
    + [Utilisation et gestion des expressions enregistrées dans la bibliothèque de personnalisation](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Créer du contenu dynamique à l’aide du créateur de règles de condition](/help/personalize-content/create-dynamic-content.md)
 + Fonctionnalités de décision {#decision-capabilities}
-   + Prise de décision {#decisioning}
-      + [Présentation de la prise de décision](/help/decisioning/introduction-to-decisioning.md)
-      + [Présentation complète de la prise de décision](/help/decisioning/decisioning-end-to-end.md)
-   + Decision Management {#decision-management}
+   + Prise de décisions {#decisioning}
+      + [Présentation de la prise de décisions](/help/decisioning/introduction-to-decisioning.md)
+      + [Présentation complète de la prise de décisions](/help/decisioning/decisioning-end-to-end.md)
+   + Gestion des décisions {#decision-management}
       + [Présentation de la gestion des décisions](/help/decision-management/introduction-to-decision-management.md)
       + [Démonstration des fonctionnalités de gestion des décisions](/help/decision-management/demo-of-decision-management-capabilities.md)
       + [Créer des emplacements](/help/decision-management/create-placements.md)
