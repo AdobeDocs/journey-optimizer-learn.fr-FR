@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '662'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -51,11 +51,11 @@ ht-degree: 99%
    + [Créer des audiences à l’aide du créateur de règles](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Créer une audience en chargeant un fichier CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Évaluer des audiences à la demande](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
-   + [Abonnements et pages de destination](/help/subscriptions-and-landing-pages.md)
+   + [Abonnements et landing pages](/help/subscriptions-and-landing-pages.md)
 + Canaux {#channels}
    + [Optimisation des applications mobiles : vue d’ensemble](/help/channels/mobile-app-optimization-overview.md)
-   + Canal d’expérience basée sur le code {#code-based-experience-channel}
-      + [Créer une campagne d’expérience basée sur le code](/help/channels/create-a-code-based-experience-campaign.md)
+   + Canal d’expérience basée sur du code{#code-based-experience-channel}
+      + [Créer une campagne d’expérience basée sur du code](/help/channels/create-a-code-based-experience-campaign.md)
       + [Utiliser la prise de décision dans le canal basé sur le code](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canal courrier{#direct-mail-channel}
       + [Créer un courrier](/help/channels/direct-mail.md)
@@ -95,7 +95,7 @@ ht-degree: 99%
    + [Gérer les fragments](/help/content-management/manage-fragments.md)
    + [Créer des fragments d’expression](/help/content-management/expression-fragments.md)
    + [Expérimentation : vue d’ensemble](/help/content-management/experimentation-overview.md)
-   + [Création d’un e-mail à l’aide de GenStudio](/help/content-management/create-an-email-using-genstudio.md)
+   + [Créer un e-mail à l’aide de GenStudio](/help/content-management/create-an-email-using-genstudio.md)
    + Messages multilingues {#multilingual-messaging}
       + [Configurer des messages multilingues](/help/content-management/set-up-multilingual-messages.md)
       + [Créer un message multilingue](/help/content-management/create-multilingual-messages.md)
@@ -113,7 +113,7 @@ ht-degree: 99%
    + [Utilisation des fonctions helper pour la personnalisation](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Utilisation et gestion des expressions enregistrées dans la bibliothèque de personnalisation](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Créer du contenu dynamique à l’aide du créateur de règles de condition](/help/personalize-content/create-dynamic-content.md)
-+ Fonctionnalités de décision {#decision-capabilities}
++ Fonctionnalités de décision{#decision-capabilities}
    + Prise de décisions {#decisioning}
       + [Présentation de la prise de décisions](/help/decisioning/introduction-to-decisioning.md)
       + [Présentation complète de la prise de décisions](/help/decisioning/decisioning-end-to-end.md)
@@ -130,7 +130,7 @@ ht-degree: 99%
       + [Créer des décisions](/help/decision-management/create-decisions.md)
       + [Diffuser des offres à l’aide de l’API Decisions](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [Capping de la fréquence](/help/decision-management/frequency-capping.md)
-+ Gestion des données {#data-management}
++ Data Management {#data-management}
    + [Présentation](/help/data-management/set-up-data-overview.md)
    + [Création d’un schéma](/help/data-management/create-schema.md)
    + [Mapping d’identités](/help/data-management/map-identities.md)
@@ -167,7 +167,7 @@ ht-degree: 99%
    + [Gestion des accès](/help/set-up-access/access-management.md)
    + [Configurer le contrôle d’accès basé sur les attributs](/help/administration/attribute-based-access-control.md)
    + [Utiliser des sandbox](/help/set-up-access/create-and-manage-sandboxes.md)
-+ Gouvernance et confidentialité des données{#data-governance-and-privacy}
++ Gouvernance et confidentialité des données {#data-governance-and-privacy}
    + [Cadre de gouvernance des données](/help/privacy/data-governance-framework.md)
    + [Classer les données à l’aide de libellés](/help/privacy/classify-data-using-lables.md)
    + [Créer des politiques d’utilisation des données](/help/privacy/create-data-usage-policies.md)
@@ -178,6 +178,6 @@ ht-degree: 99%
    + [Défis](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=fr)
 + [Enregistrements dynamiques Experience League](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
-   + [Créer des instants mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
+   + [Créer des moments mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
    + [Aide-mémoire](/help/summit-lab-assets/l535-assets.md)
    + [Installer l’application mobile](/help/summit-lab-assets/install-mobile-app.md)
