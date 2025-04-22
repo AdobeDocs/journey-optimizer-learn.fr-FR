@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 66092b7d9d2a377dcd3ad1e5a9da7891b117f7be
-workflow-type: ht
-source-wordcount: '378'
-ht-degree: 100%
+source-git-commit: 812d668949923db814f0ec44d858b72d9bac472d
+workflow-type: tm+mt
+source-wordcount: '375'
+ht-degree: 90%
 
 ---
 
@@ -49,15 +49,15 @@ Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionn
 <tr>
     <td>
     <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-      <img alt="Créer du contenu avec l’accélérateur de contenu de l’Assistant IA (vidéo)" src="../assets/3434635.jpg"/>
+      <img alt="Créer du contenu à l’aide de l’accélérateur de contenu de l’assistant AI (vidéo)" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-    <strong>Créer du contenu avec l’accélérateur de contenu de l’Assistant IA</strong>
+    <strong>Créer du contenu à l’aide de l’accélérateur de contenu de l’assistant AI</strong>
     </a>
     </div>
     <p>
-    <em>Découvrez comment utiliser l’accélérateur de contenu de l’Assistant IA pour générer des suggestions de variation de contenu proactives pour le texte et les images.
+    <em>Découvrez comment utiliser l’accélérateur de contenu de l’assistant AI pour générer des suggestions proactives de variation de contenu pour le texte et les images.
 </em>
     <p>
   </td>
