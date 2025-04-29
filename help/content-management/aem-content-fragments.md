@@ -1,6 +1,6 @@
 ---
-title: Utiliser les fragments de contenu Adobe Experience Manager
-description: Découvrez comment Adobe Experience Manager (AEM) s’intègre de manière transparente à Adobe Journey Optimizer pour rationaliser la gestion de contenu et assurer la cohérence de la marque sur l’ensemble des canaux. Découvrez comment créer, approuver et générer des fragments de contenu, permuter et simuler facilement du nouveau contenu. Idéal pour ceux qui recherchent une gestion de contenu efficace et une valorisation de marque cohérente.
+title: Utiliser les fragments de contenu Adobe Experience Manager
+description: Découvrez comment Adobe Experience Manager (AEM) s’intègre de manière transparente à Adobe Journey Optimizer pour rationaliser la gestion de contenu et assurer la cohérence de la marque sur l’ensemble des canaux. Découvrez comment créer, approuver et rendre des fragments de contenu ainsi que permuter et simuler facilement du nouveau contenu. Idéal pour les personnes qui recherchent une gestion de contenu efficace et une image de marque cohérente.
 feature: Fragments
 topic: Content Management
 role: User
@@ -16,12 +16,12 @@ index: false
 source-git-commit: 210b854d56cc71193476118aacf5469068e84eda
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Utiliser les fragments de contenu Adobe Experience Manager
+# Utiliser les fragments de contenu Adobe Experience Manager
 
-Découvrez comment Adobe Experience Manager (AEM) s’intègre de manière transparente à Adobe Journey Optimizer pour rationaliser la gestion de contenu et assurer la cohérence de la marque sur l’ensemble des canaux. Découvrez comment créer, approuver et générer des fragments de contenu, permuter et simuler facilement du nouveau contenu. Idéal pour ceux qui recherchent une gestion de contenu efficace et une valorisation de marque cohérente.
+Découvrez comment Adobe Experience Manager (AEM) s’intègre de manière transparente à Adobe Journey Optimizer pour rationaliser la gestion de contenu et assurer la cohérence de la marque sur l’ensemble des canaux. Découvrez comment créer, approuver et rendre des fragments de contenu ainsi que permuter et simuler facilement du nouveau contenu. Idéal pour les personnes qui recherchent une gestion de contenu efficace et une image de marque cohérente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457691/?learn=on&enablevpops)

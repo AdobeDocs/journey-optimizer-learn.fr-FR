@@ -94,10 +94,10 @@ ht-degree: 98%
       + [Gérer les ressources](/help/assets-essentials-overview.md)
       + [Intégration d’AEM Dynamic Media](/help/content-management/aem-dynamic-media-integration.md)
       + [Modifier les ressources avec Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
-   + Utiliser les fragments {#fragments}
+   + Utiliser des fragments {#fragments}
       + [Gérer les fragments](/help/content-management/manage-fragments.md)
       + [Créer des fragments d’expression](/help/content-management/expression-fragments.md)
-      + [Utilisation de fragments de contenu AEM](/help/content-management/aem-content-fragments.md)
+      + [Utiliser des fragments de contenu AEM](/help/content-management/aem-content-fragments.md)
    + Modèles de contenu{#content-templates}
       + [Créer des modèles de contenu](/help/content-management/templates/create-content-templates.md)
       + [Verrouiller du contenu dans des modèles](/help/content-management/templates/content-locking.md)
@@ -105,7 +105,7 @@ ht-degree: 98%
       + [Configurer des messages multilingues](/help/content-management/set-up-multilingual-messages.md)
       + [Créer un message multilingue](/help/content-management/create-multilingual-messages.md)
    + Assistant IA pour la génération de contenu {#content-accelerator}
-      + [Assistant IA pour la génération de contenu : vue d’ensemble](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [Assistant IA pour la génération de contenu : vue d’ensemble](/help/content-management/ai-assistant-content-accelerator-overview.md)
       + [Créer du contenu avec l’Assistant IA pour la génération de contenu](/help/content-management/create-content-using-ai-assistant-content-accelerator.md)
    + [Expérimentation : vue d’ensemble](/help/content-management/experimentation-overview.md)
    + [Créer un e-mail à l’aide de GenStudio](/help/content-management/create-an-email-using-genstudio.md)
