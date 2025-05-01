@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: da95a1a259523039308cc5c5beb6bd93cf5de0f4
+source-git-commit: eccb016c737f94eef1cbd8357a9ce37a053904a1
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 98%
+source-wordcount: '696'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + Cas d’utilisation {#use-cases}
    + [Intégration des clientes et clients](/help/use-cases/customer-onboarding.md)
    + [Panier abandonné](/help/use-cases/abandoned-cart.md)
+
 + Présentation de Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Vue d’ensemble](/help/introduction/journey-optimizer-overview.md)
    + [Présentation de Journey Optimizer](/help/introduction/introduction.md)
@@ -181,7 +182,13 @@ ht-degree: 98%
 + Exercices et défis {#exercises-and-challenges}
    + [Configuration d’une sandbox de formation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=fr)
    + [Défis](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=fr)
-+ [Enregistrements dynamiques Experience League](/help/experience-league-live-show-recordings.md)
++ [Enregistrements d’Experience League Live Show](/help/experience-league-live-show-recordings.md)
++ Création d’audiences à l’aide de Web SDK {#tutorial-creating-audiences}
+   + [Introduction](../tutorial-creating-audience/introduction.md)
+   + [Créer Un Schéma, Des Jeux De Données..etc](../tutorial-creating-audience/create-schema-and-dataset.md)
+   + [Création de balises AEP](../tutorial-creating-audience/create-aep-tags.md)
+   + [Créer un formulaire web](../tutorial-creating-audience/create-web-form.md)
+   + [Déboguer la solution](../tutorial-creating-audience/debug.md)
 + Summit Labs {#summit-labs}
    + [Créer des moments mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
    + [Aide-mémoire](/help/summit-lab-assets/l535-assets.md)
