@@ -20,6 +20,6 @@ ht-degree: 65%
 
 Découvrez comment utiliser les règles de capping de la fréquence.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433397/?learn=on&captions=fre_fr)
 
 Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/configuration/frequency-rules).

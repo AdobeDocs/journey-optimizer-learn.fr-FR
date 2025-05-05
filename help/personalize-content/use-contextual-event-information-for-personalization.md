@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment utiliser des informations d’événement contextuelles dans un parcours pour personnaliser un message.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425027?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3428528?quality=12&learn=on&captions=fre_fr){transcript=true}

@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Découvrez comment diffuser des offres [avec l’API Decisions Hub](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=fr). En utilisant [!DNL Postman] à des fins d’illustration, un appel API est effectué pour récupérer l’identifiant du conteneur. Ensuite, un exemple d’appel de l’API Decisions est personnalisé avec l’identifiant d’activité, l’identifiant d’emplacement, l’espace de noms d’identité et l’identifiant de client afin de récupérer une offre personnalisée. Une fois que vous avez récupéré une offre personnalisée avec l’API Decisions, vous pouvez intégrer le contenu de l’offre à votre système marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/329919?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342829?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 >[!INFO]
 >

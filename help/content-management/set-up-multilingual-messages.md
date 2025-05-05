@@ -25,4 +25,4 @@ La fonctionnalité de message multilingue Adobe Journey Optimizer vous permet 
 
 Découvrez comment configurer des projets de traduction pour la traduction automatisée et le paramètre linguistique requis pour la traduction manuelle et les projets de traduction automatisée pour les messages multilingues.
  
->[!VIDEO](https://video.tv.adobe.com/v/3430661/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453545/?learn=on&captions=fre_fr)

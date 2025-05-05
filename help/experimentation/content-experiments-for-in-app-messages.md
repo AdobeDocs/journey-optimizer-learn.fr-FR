@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment configurer et analyser des expériences de contenu pour les messages in-app de test AB.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419898/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445290/?learn=on&captions=fre_fr){transcript=true}

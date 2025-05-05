@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Découvrez comment transformer des valeurs de personnalisation à l’aide de fonctions helper de personnalisation. Examinez également différents cas d’utilisation de fonctions helper.
 
->[!VIDEO](https://video.tv.adobe.com/v/334244?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416644?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 Pour en savoir plus sur les [fonctions d’assistance](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalized-dynamic-content/personalization/build-expressions/functions/functions.html?lang=fr), consultez le guide du produit.

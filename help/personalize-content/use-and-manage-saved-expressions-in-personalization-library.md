@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment utiliser les éléments enregistrés de la bibliothèque de personnalisation dans un message ainsi que comment créer et gérer les éléments de la bibliothèque de personnalisation.
 
->[!VIDEO](https://video.tv.adobe.com/v/340941?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344985?quality=12&learn=on&captions=fre_fr){transcript=true}

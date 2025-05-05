@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez les données de profil client en temps réel et les étapes requises pour configurer les données de profil client pour Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/335878?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418465?quality=12&learn=on&captions=fre_fr){transcript=true}

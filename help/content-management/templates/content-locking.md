@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Découvrez comment verrouiller du contenu dans des modèles. Ce tutoriel aborde le verrouillage complet ou partiel des modèles, l’utilisation des modes de verrouillage en lecture seule et de contenu, ainsi que la gestion des zones modifiables dans un modèle verrouillé.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451591/?learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451609/?learn=on&enablevpops&captions=fre_fr){transcript=true}
 
 Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/content-templates/content-locking).

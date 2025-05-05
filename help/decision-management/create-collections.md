@@ -20,4 +20,4 @@ Découvrez comment créer des collections pour la gestion des décisions.
 
 Les collections sont utilisées pour gérer les offres en groupes logiques. Elles sont nécessaires pour créer des activités de gestion des décisions. Les collections dynamiques vous permettent de regrouper les offres selon des balises, tandis que les collections statiques vous permettent de les traiter manuellement.
 
->[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/346687?quality=12&learn=on&captions=fre_fr){transcript=true}

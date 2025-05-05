@@ -20,5 +20,5 @@ ht-degree: 100%
 
 Apprenez comment créer entièrement des e-mails. Découvrez comment utiliser des ressources de la bibliothèque Adobe Experience Manager Assets Essentials, modifier la conception d’e-mails réactifs et créer des e-mails à partir de modèles.
 
->[!VIDEO](https://video.tv.adobe.com/v/334150?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416232?quality=12&learn=on&captions=fre_fr){transcript=true}
 

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment télécharger un rapport CSV pour un rapport et un widget unique.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439608/?learn=on&captions=fre_fr)

@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Comprendre le cadre de gouvernance des données dans Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33154/?learn=on&captions=fre_fr)
 
 Pour plus d’informations sur la [gouvernance des données](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/privacy/action-privacy-restricted) dans Journey Optimizer, consultez la documentation du produit.
 

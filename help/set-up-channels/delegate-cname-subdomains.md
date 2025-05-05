@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment créer un sous-domaine à l’aide de la méthode CNAME pour pointer vers des enregistrements spécifiques à Adobe.
 
->[!VIDEO](https://video.tv.adobe.com/v/339484?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342230?quality=12&learn=on&captions=fre_fr){transcript=true}

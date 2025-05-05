@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Découvrez comment créer des [offres personnalisées](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html?lang=fr) pour la gestion des décisions. Les offres personnalisées sont associées à des règles d’éligibilité qui vous permettent de les proposer aux clients appropriés uniquement. Par exemple, vous pouvez restreindre une offre de pelles à neige aux régions où il neige et seulement en hiver.
 
->[!VIDEO](https://video.tv.adobe.com/v/329375?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/341347?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 Pour en savoir plus sur la création d’activités d’offres personnalisées à lʼaide dʼune API, consultez le [guide du produit](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/personalized-offers/create.html?lang=fr).

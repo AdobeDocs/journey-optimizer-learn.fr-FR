@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment tester le rendu des e-mails dans les boîtes de réception à l’aide de Litmus, prévisualiser vos e-mails personnalisés par rapport aux profils de test, envoyer des BAT et publier votre e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425026?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430344?quality=12&learn=on&captions=fre_fr){transcript=true}

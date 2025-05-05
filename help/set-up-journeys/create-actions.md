@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Découvrez ce qu’est une action, comment utiliser les actions Modifier le profil et Saut dans Journey Optimizer et comment configurer une action personnalisée.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428396?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430274?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 Consultez la documentation du produit pour plus d’informations sur la manière de [configurer une action personnalisée](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/configuration/configure-journeys/action-journeys/about-custom-action-configuration){target="_blank"}.

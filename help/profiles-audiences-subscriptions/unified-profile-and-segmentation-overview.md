@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment créer un profil unifié, puis créer des segments en fonction des attributs de profil afin de personnaliser les parcours client.
 
->[!VIDEO](https://video.tv.adobe.com/v/342114?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345508?quality=12&learn=on&captions=fre_fr){transcript=true}

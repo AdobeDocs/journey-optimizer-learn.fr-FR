@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment importer et activer efficacement une audience en chargeant un fichier CSV. Découvrez comment personnaliser votre contenu à l’aide d’attributs d’enrichissement issus du fichier CSV, afin d’offrir une expérience plus adaptée à votre audience.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444298/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444345/?learn=on&enablevpops&captions=fre_fr)

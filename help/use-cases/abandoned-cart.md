@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment mettre en œuvre le cas d’utilisation de panier abandonné à l’aide de la fonctionnalité Playbook de Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443966/?learn=on&enablevpops&captions=fre_fr)

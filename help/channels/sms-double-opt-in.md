@@ -21,4 +21,4 @@ ht-degree: 57%
 
 Découvrez comment configurer le double opt-in pour les SMS.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427129/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440276/?learn=on&captions=fre_fr)

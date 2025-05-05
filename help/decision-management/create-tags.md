@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Découvrez comment [créer des balises](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-tags.html?lang=fr) dans [!DNL Decision Management]. Les balises sont des composants de blocs de création d’offres facultatifs. Elles peuvent être utilisées pour organiser les offres et les regrouper dans des collections dynamiques.
 
->[!VIDEO](https://video.tv.adobe.com/v/329374?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/341366?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 Pour en savoir plus sur la création de balises à lʼaide dʼune API, consultez le [guide du produit](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/tags/create.html?lang=fr).

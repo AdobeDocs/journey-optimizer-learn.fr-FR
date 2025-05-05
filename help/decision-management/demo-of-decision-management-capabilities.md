@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment les marques peuvent utiliser la gestion des décisions pour définir et gérer leurs offres, exploiter les données de la clientèle en temps réel et offrir les expériences adéquates que leurs clientes et clients sont en droit d’attendre.
 
->[!VIDEO](https://video.tv.adobe.com/v/326841?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340346?quality=12&learn=on&captions=fre_fr){transcript=true}

@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Obtenez une vue d’ensemble de la gestion des décisions de Journey Optimizer. La vidéo couvre les défis commerciaux que les fonctionnalités de gestion des décisions résolvent, ses fonctionnalités clés, l’architecture de base et ses principaux cas d’utilisation.
 
->[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340412?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 
 

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Apprenez la différence entre les rapports dynamiques et globaux. Découvrez également comment accéder aux rapports spécifiques aux messages et aux parcours et les analyser et comment modifier les tableaux de bord des rapports.  
 
->[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416275?quality=12&learn=on&captions=fre_fr){transcript=true}

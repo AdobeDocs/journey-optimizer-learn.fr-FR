@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Découvrez comment créer des [règles de décision](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-decision-rules.html?lang=fr) pour la gestion des décisions. Les règles ou « règles de décision » sont l’un des composants de base requis des offres personnalisées. Les règles sont créées à l’aide des événements et attributs du profil client en temps réel de Platform, et à partir des contraintes d’éligibilité des offres. Par exemple, une règle peut être utilisée pour restreindre une offre de pelles à neige à des clients qui vivent dans des régions où il neige.
 
->[!VIDEO](https://video.tv.adobe.com/v/329373?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/341367?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 Pour en savoir plus sur la création de règles de décision à lʼaide dʼune API, consultez le [guide du produit](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/decision-rules/create.html?lang=fr).

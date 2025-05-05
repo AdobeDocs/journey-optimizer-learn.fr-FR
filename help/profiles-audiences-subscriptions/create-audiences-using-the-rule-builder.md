@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment Journey Optimizer utilise des règles pour générer une audience. Apprenez à utiliser des attributs, des événements et des audiences existantes pour créer une audience.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425020?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430324?quality=12&learn=on&captions=fre_fr){transcript=true}

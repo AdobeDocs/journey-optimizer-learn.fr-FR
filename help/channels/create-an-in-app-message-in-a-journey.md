@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez ce qu’est un message in-app et comment il peut être appliqué dans un parcours. Découvrez comment créer un message in-app dans un parcours et comment tester et publier votre parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423077/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451832/?learn=on&captions=fre_fr){transcript=true}

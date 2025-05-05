@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment fonctionne le capping de la fréquence pour les travaux Offer Decisioning. Découvrez comment configurer le capping de la fréquence pour un événement personnalisé et comment configurer des incréments en définissant la fréquence.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417853/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422162/?quality=12&learn=on&captions=fre_fr){transcript=true}

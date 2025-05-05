@@ -23,4 +23,4 @@ ht-degree: 66%
 
 Découvrez comment tester et générer des rapports sur les règles de fréquence. Découvrez comment déterminer les règles de fréquence qui seront héritées pour un message.
 
->[!VIDEO](https://video.tv.adobe.com/v/344451?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411122?quality=12&learn=on&captions=fre_fr){transcript=true}

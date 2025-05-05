@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment créer et enregistrer des règles de condition et comment appliquer ces règles de condition au contenu sur tous les canaux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409815?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413671?quality=12&learn=on&captions=fre_fr){transcript=true}

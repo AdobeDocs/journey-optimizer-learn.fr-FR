@@ -28,6 +28,6 @@ Découvrez comment vous abonner à des alertes prédéfinies pour les comporteme
 >
 >Lors de l’accès aux alertes à partir de Journey Optimizer, seules les alertes spécifiques à vos Parcours actifs s’affichent par défaut.
 
->[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423919?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/alerts.html?lang=fr).

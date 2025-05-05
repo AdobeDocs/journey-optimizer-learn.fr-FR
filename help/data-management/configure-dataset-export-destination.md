@@ -22,4 +22,4 @@ Découvrez la configuration, le workflow et les cas d’utilisation pour exporte
 
 Pour plus d’informations sur l’export de jeux de données vers des emplacements d’espace de stockage depuis Adobe Journey Optimizer, consultez la [documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=fr).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424392/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448820/?learn=on&captions=fre_fr)

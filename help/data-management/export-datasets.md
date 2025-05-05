@@ -27,6 +27,6 @@ Découvrez comment exporter un jeu de données de Journey Optimizer vers une de
 >[!NOTE]
 >Pendant la phase bêta, tous les jeux de données sont visibles. Une fois cette fonctionnalité disponible, elle se limite aux jeux de données générés par le système.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432014/?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=fr).

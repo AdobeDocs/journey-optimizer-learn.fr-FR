@@ -21,4 +21,4 @@ ht-degree: 100%
 Découvrez comment créer un modèle d’IA pour Offer Decisioning et l’appliquer à une décision.
 fonctionnalité : offres
 
->[!VIDEO](https://video.tv.adobe.com/v/3419959/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444669/?learn=on&captions=fre_fr){transcript=true}

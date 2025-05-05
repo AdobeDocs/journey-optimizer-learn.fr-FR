@@ -23,4 +23,4 @@ Découvrez comment configurer les abonnements et créer des pages de destination
 * Intégrer lʼoption dʼabonnement ou de désabonnement dans votre message
 * Configurer des parcours pertinents
 
->[!VIDEO](https://video.tv.adobe.com/v/341280?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344398?quality=12&learn=on&captions=fre_fr){transcript=true}

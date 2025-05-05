@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Comprenez les cas d’utilisation applicables pour les parcours de qualification d’audience. Découvrez comment créer un parcours avec qualification d’audience et les bonnes pratiques à appliquer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425028?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446206?quality=12&learn=on&captions=fre_fr){transcript=true}
