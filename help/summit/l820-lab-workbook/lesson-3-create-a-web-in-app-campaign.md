@@ -154,7 +154,7 @@ Dans cette section, vous définissez le contenu, la conception et la mise en pag
 
 **Documentation du produit :**
 
-* [Prise en main du canal In-App](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Créer un message Web In-App](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
-* [Concevoir votre contenu in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [Vérifiez et envoyez votre notification in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [Prise en main du canal In-App](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Créer un message Web In-App](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [Concevoir votre contenu in-app](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/design-in-app)
+* [Vérifiez et envoyez votre notification in-app](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/send-in-app)

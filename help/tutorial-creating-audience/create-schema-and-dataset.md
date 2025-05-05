@@ -19,7 +19,7 @@ ht-degree: 0%
 
 * Connexion à Adobe Experience Platform
 
-* Création d’un schéma basé sur un événement XDM appelé Conseils financiers dans Journey Optimizer. Si vous ne connaissez pas la création d’un schéma, consultez cette [documentation](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Création d’un schéma basé sur un événement XDM appelé Conseils financiers dans Journey Optimizer. Si vous ne connaissez pas la création d’un schéma, consultez cette [documentation](https://experienceleague.adobe.com/fr/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 * Ajoutez la structure suivante à votre schéma. L’élément PreferredFinancialInstrument stocke la préférence de l’utilisateur pour les actions, les obligations et les CD
   ![xdm-schema](assets/xdm-schema.png)

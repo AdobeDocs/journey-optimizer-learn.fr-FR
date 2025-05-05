@@ -23,4 +23,4 @@ Découvrez comment diffuser des offres [avec l’API Decisions Hub](https://expe
 
 >[!INFO]
 >
-> Cette vidéo fait partie d’un cours, [Commencer avec la gestion des décisions pour les spécialistes du marketing](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours, [Commencer avec la gestion des décisions pour les spécialistes du marketing](https://experienceleague.adobe.com/?lang=fr&recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), disponible gratuitement sur Experience League !

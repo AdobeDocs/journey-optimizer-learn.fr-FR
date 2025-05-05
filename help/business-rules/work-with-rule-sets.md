@@ -22,4 +22,4 @@ Découvrez comment créer un jeu de règles de limitation de la fréquence des c
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
 
-Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/rule-sets).
+Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/configuration/rule-sets).
