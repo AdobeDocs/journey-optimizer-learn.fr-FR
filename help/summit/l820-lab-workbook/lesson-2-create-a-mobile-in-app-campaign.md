@@ -204,6 +204,7 @@ Lorsque vous cliquez en dehors du champ de valeur, votre image doit apparaître.
          5. Position personnalisée
          6. Animation personnalisée
          7. Coin arrondi du message
+
    <br>
 4. Lorsque vous avez terminé de créer votre contenu et que vous êtes satisfait de votre message, cliquez sur le bouton **[!UICONTROL Réviser pour activer]** .
 
