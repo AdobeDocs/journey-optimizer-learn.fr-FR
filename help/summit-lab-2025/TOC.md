@@ -5,9 +5,9 @@ role: User
 level: Beginner,Intermediate
 breadcrumb-title: scaling-orchestration-to-omnicanal-engagement
 breadcrumb-url: /docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
-source-git-commit: e7c9cc0861f3c0b94e08c82d5ae5d71ce8143aaa
+source-git-commit: 5d16504842320184344186e21a9ae08ef0b19837
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '83'
 ht-degree: 1%
 
 ---
@@ -15,11 +15,10 @@ ht-degree: 1%
 
 # Évolution de l’orchestration à l’engagement omnicanal{#scaling-orchestration-to-omnichannel-engagement}
 
-[Présentation du tutoriel]{#overview}
 + [Introduction](/help/summit-lab-2025/introduction.md)
-+ [Leçon 1 - Découvrez le parcours ]&#x200B;(/help/summit-lab-2025/lesson-1-experience -the-parcours.md)
++ [Leçon 1 - Découvrir le parcours](/help/summit-lab-2025/lesson-1-experience-the-journey.md)
 + [Leçon 2 - Création d’un parcours de bienvenue](/help/summit-lab-2025/lesson-2-create-a-welcome-journey.md)
 + [Leçon 3 - Créer du contenu dynamique](/help/summit-lab-2025/lesson-3-create-dynamic-content.md)
 + [Leçon 4 - Créer une expérience de contenu](/help/summit-lab-2025/lesson-4-create-a-content-experiment.md)
 + [Leçon 5 - Tester votre Parcours](/help/summit-lab-2025/lesson-5-test-your-journey.md)
-+ [Leçon 6 - Créer une campagne de carte de contenu]&#x200B;(/help/summit-lab-2025/lesson-6-create-a content-card-campaign.md)
++ [Leçon 6 : créer une campagne de cartes de contenu](/help/summit-lab-2025/lesson-6-create-a-content-card-campaign.md)
