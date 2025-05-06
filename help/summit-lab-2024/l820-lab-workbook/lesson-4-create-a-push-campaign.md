@@ -98,7 +98,7 @@ Dans cet exercice, vous allez concevoir et personnaliser la notification push.
 
 >[!ENDTABS]
 
-#### 4.2.3.1 section [!UICONTROL  Composer le message ]
+#### 4.2.3.1 section [!UICONTROL &#x200B; Composer le message &#x200B;]
 
 1. **Composez votre message :** n’hésitez pas à ajouter le texte de votre choix. Voici des exemples d’utilisation :
 
