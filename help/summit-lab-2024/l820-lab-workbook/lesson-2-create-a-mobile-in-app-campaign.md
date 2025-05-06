@@ -321,7 +321,7 @@ Les fonctionnalités **Dupliquer la campagne** et **Prévisualiser sur l’appar
 
 **Documentation du produit :**
 
-* [Prise en main du canal in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Créer un message in-app mobile](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
-* [Concevoir votre contenu in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [Vérifier et envoyer votre notification in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [Prise en main du canal in-app](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Créer un message in-app mobile](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/create-in-app)
+* [Concevoir votre contenu in-app](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/design-in-app)
+* [Vérifier et envoyer votre notification in-app](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/send-in-app)
