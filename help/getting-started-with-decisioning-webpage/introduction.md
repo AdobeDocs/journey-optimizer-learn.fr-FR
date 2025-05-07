@@ -7,15 +7,15 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
-source-git-commit: 9695a4db0d0caa44a8c7d49e069320309ffc40a6
+exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
+source-git-commit: 5ab637d9b9955ab334ee67ed887e34026b04206d
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '271'
 ht-degree: 1%
 
 ---
 
-
-# Création d’audiences AJO en fonction des préférences d’investissement des utilisateurs (actions, obligations, CD)
+# Personnaliser des offres de page web avec AJO Decisioning en fonction de l’audience
 
 Ce tutoriel s’appuie sur une configuration de segmentation d’audience créée précédemment à l’aide de la SDK Web Adobe Experience Platform (AEP). Dans le tutoriel précédent, les préférences utilisateur, telles que l’intérêt pour les actions, les obligations ou les certificats de dépôt (CD), ont été capturées et utilisées pour segmenter les individus en audiences ciblées dans Adobe Experience Platform (AEP). Ce tutoriel s’appuie sur ces bases en utilisant Adobe Journey Optimizer (AJO) Decisioning pour diffuser des offres financières personnalisées à ces audiences en temps réel, ce qui améliore les résultats d’engagement et de conversion.
 
@@ -47,8 +47,3 @@ Ce tutoriel vous guide tout au long de la diffusion d’offres d’investissemen
 * AEP Web SDK (Alloy.js)
 * Segmentation d’AEP Edge
 * Une page web pour afficher les offres
-
-
-
-
-
