@@ -6,10 +6,11 @@ breadcrumb-url: /docs/journey-optimizer-learn/configure-a-training-sandbox/intro
 index: false
 role: Admin
 level: Beginner
-source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+auto-video-transcripts: true
+source-git-commit: 007d349d95e4fa2a84dfb4f0830fba8af4cf106b
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 100%
+ht-degree: 84%
 
 ---
 
@@ -17,7 +18,7 @@ ht-degree: 100%
 # Tutoriel - Configurer une sandbox de formation {#configure-a-training-sandbox}
 
 + [Configurer une sandbox de formation](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md)
-+ Étape 1 : configurer la structure des données et importer des données d’exemple {#set-up-data-structure-and-ingest-data}
++ Étape 1 : configurer la structure des données et importer des données d’exemple {#set-up-data-structure-and-ingest-data}
    + [Configurer la structure des données et importer des données d’exemple à l’aide de Postman](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=fr)
    + [Configurer la structure de données (manuellement)](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md)
    + [Importer des données d’exemple (manuellement)](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)
