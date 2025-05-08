@@ -3,9 +3,9 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: dcbff038644730ba759aa67ce62adf57caed3afa
+source-git-commit: 6bf0c2487afff4811aa94e9591ae29c38af15d34
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '744'
 ht-degree: 90%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 90%
 + Cas d’utilisation {#use-cases}
    + [Intégration des clientes et clients](/help/use-cases/customer-onboarding.md)
    + [Panier abandonné](/help/use-cases/abandoned-cart.md)
-   + [Créer des audiences](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
+   + [Création d’audiences en fonction des préférences utilisateur](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
    + [Prise de décision sur une page web](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
-   + [Évolution de l’orchestration à l’engagement omnicanal](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [Évolution de l’orchestration à l’engagement omnicanal](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Présentation de Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Vue d’ensemble](/help/introduction/journey-optimizer-overview.md)
@@ -205,6 +205,6 @@ ht-degree: 90%
    + [Créer une page web](../getting-started-with-decisioning-webpage/create-web-page.md)
 
 + Summit Labs {#summit-labs}
-   + [Créer des moments mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [Créer des moments mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+   + [Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 

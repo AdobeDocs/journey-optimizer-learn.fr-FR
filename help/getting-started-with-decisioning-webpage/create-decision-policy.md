@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
-source-git-commit: a675979bc590190e0481e63efbc2cfd30752b7c0
+exl-id: 186e4a7d-6077-401f-9958-2f955214bc35
+source-git-commit: 6bf0c2487afff4811aa94e9591ae29c38af15d34
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 13%
 
 ---
-
 
 # Créer Une Politique De Décision
 
@@ -42,4 +42,4 @@ Dans l’éditeur de personnalisation, cliquez sur Insérer une politique . Le c
 Ce code parcourt une liste d’offres personnalisées choisies pour l’utilisateur et affiche le texte de chacune d’elles sur la page web. Il affiche le message (appelé offerText) de chaque offre dans un paragraphe, de sorte que les utilisateurs et utilisatrices puissent voir clairement leur contenu personnalisé.
 Si aucune offre personnalisée n’est disponible, une offre de secours s’affiche pour vous assurer que l’espace n’est pas laissé vide.
 
-Cliquez sur Enregistrer , puis sur Activer la campagne
+Cliquez sur Enregistrer , puis sur Activer la campagne.
