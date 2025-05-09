@@ -14,7 +14,7 @@ hide: false
 index: true
 exl-id: c42fca4f-bc31-43ad-9e3a-9936a6623051
 source-git-commit: fd50ce73503ca6b42e0171d8476ea08928ebd165
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
 ht-degree: 100%
 
@@ -28,6 +28,6 @@ ht-degree: 100%
 
 Découvrez comment modifier vos ressources dans Adobe Journey Optimizer à l’aide des outils d’Adobe Express.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455525/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
 
 Consultez la [documentation du produit Journey Optimizer](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/assets-images/express) pour plus d’informations sur l’accès à cette fonctionnalité à partir de l’éditeur de contenu. Pour en savoir plus sur Adobe Express, reportez-vous à [cette documentation](https://helpx.adobe.com/fr/express/user-guide.html).
