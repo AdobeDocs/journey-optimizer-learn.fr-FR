@@ -17,8 +17,8 @@ ht-degree: 96%
 + Cas d’utilisation {#use-cases}
    + [Intégration des clientes et clients](/help/use-cases/customer-onboarding.md)
    + [Panier abandonné](/help/use-cases/abandoned-cart.md)
-   + [Création d’audiences en fonction des préférences utilisateur](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
-   + [Prise de décision sur une page web](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
+   + [Création d’audiences en fonction des préférences utilisateur](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
+   + [Prise de décision sur une page web](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
    + [Évolution de l’orchestration à l’engagement omnicanal](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Présentation de Journey Optimizer {#introduction-to-journey-optimizer}
