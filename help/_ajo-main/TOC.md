@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 217e3e8b416c89f2d7141849028dc4d88e0bd484
 workflow-type: tm+mt
 source-wordcount: '751'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 89%
 + Cas d’utilisation {#use-cases}
    + [Intégration des clientes et clients](/help/use-cases/customer-onboarding.md)
    + [Panier abandonné](/help/use-cases/abandoned-cart.md)
-   + [Création d’audiences en fonction des préférences utilisateur](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
-   + [Prise de décision sur une page web](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
+   + [Création d’audiences en fonction des préférences utilisateur](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
+   + [Prise de décision sur une page web](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
    + [Évolution de l’orchestration à l’engagement omnicanal](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Présentation de Journey Optimizer {#introduction-to-journey-optimizer}
@@ -94,10 +94,10 @@ ht-degree: 89%
       + [Prise en charge des applications à une seule page (SPA) dans l’éditeur web](/help/channels/singel-page-application-support.md)
 + Gestion de contenu{#content-management}
    + [Création de messages : vue d’ensemble](/help/content-management/message-authoring-overview.md)
-   + Gestion des ressources {#assets}
+   + Gérer les ressources {#assets}
       + [Gestion des ressource numérique : vue d’ensemble](/help/content-management/digital-asset-management-overview.md)
       + [Gérer les ressources](/help/assets-essentials-overview.md)
-      + [Intégration d’AEM Dynamic Media](/help/content-management/aem-dynamic-media-integration.md)
+      + [Intégration d’AEM Dynamic Media](/help/content-management/aem-dynamic-media-integration.md)
       + [Modifier les ressources avec Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
    + Utiliser des fragments {#fragments}
       + [Gérer les fragments](/help/content-management/manage-fragments.md)
@@ -122,7 +122,7 @@ ht-degree: 89%
    + [Utilisation des fonctions helper pour la personnalisation](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Utilisation et gestion des expressions enregistrées dans la bibliothèque de personnalisation](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Créer du contenu dynamique à l’aide du créateur de règles de condition](/help/personalize-content/create-dynamic-content.md)
-   + [Playground de l’éditeur de Personalization](/help/personalize-content/personalization-editor-playground.md)
+   + [Terrain de jeu de l’éditeur de personnalisation](/help/personalize-content/personalization-editor-playground.md)
 + Fonctionnalités de décision{#decision-capabilities}
    + Prise de décisions {#decisioning}
       + [Présentation de la prise de décisions](/help/decisioning/introduction-to-decisioning.md)
@@ -186,11 +186,11 @@ ht-degree: 89%
 + Exercices et défis {#exercises-and-challenges}
    + [Configuration d’une sandbox de formation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=fr)
    + [Défis](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=fr)
-+ [Enregistrements d’Experience League Live Show](/help/experience-league-live-show-recordings.md)
-+ Création d’audiences à l’aide de Web SDK {#tutorial-creating-audiences}
++ [Enregistrements en direct Experience League](/help/experience-league-live-show-recordings.md)
++ Création d’audiences à l’aide du SDK web {#tutorial-creating-audiences}
    + [Introduction](../tutorial-creating-audience/introduction.md)
-   + [Créer Un Schéma, Des Jeux De Données..etc](../tutorial-creating-audience/create-schema-and-dataset.md)
-   + [Création de balises AEP](../tutorial-creating-audience/create-aep-tags.md)
+   + [Créer un schéma, des jeux de données,etc.](../tutorial-creating-audience/create-schema-and-dataset.md)
+   + [Créer des balises AEP](../tutorial-creating-audience/create-aep-tags.md)
    + [Créer un formulaire web](../tutorial-creating-audience/create-web-form.md)
    + [Déboguer la solution](../tutorial-creating-audience/debug.md)
 + Prise de décision sur une page web {#getting-started-with-decisioning-webpage}
@@ -202,10 +202,10 @@ ht-degree: 89%
    + [Créer un canal](../getting-started-with-decisioning-webpage/create-channel.md)
    + [Créer une campagne](../getting-started-with-decisioning-webpage/create-campaign.md)
    + [Créer Une Politique De Décision](../getting-started-with-decisioning-webpage/create-decision-policy.md)
-   + [Création de balises AEP](../getting-started-with-decisioning-webpage/create-aep-tags.md)
+   + [Créer des balises AEP](../getting-started-with-decisioning-webpage/create-aep-tags.md)
    + [Créer une page web](../getting-started-with-decisioning-webpage/create-web-page.md)
 
 + Summit Labs {#summit-labs}
    + [Créer des moments mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
