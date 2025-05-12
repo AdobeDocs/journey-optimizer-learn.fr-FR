@@ -1,5 +1,5 @@
 ---
-title: Personnaliser des offres web avec Decisioning
+title: Utilisation de Decisioning pour personnaliser les offres web
 description: Découvrez comment utiliser la prise de décision Journey Optimizer (AJO) pour diffuser des offres personnalisées sur une page web en exploitant la segmentation d’audience intégrée à Experience Platform (AEP).
 feature: Decisioning
 role: User
@@ -8,16 +8,16 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
-source-git-commit: 90f691b1cebb202ead66aafeb2e79087a8ae49ef
+source-git-commit: 71c406e7a06c49f01245970c280c6a7beb84da5f
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '256'
 ht-degree: 1%
 
 ---
 
 # Utilisation de Decisioning pour personnaliser les offres web
 
-Ce tutoriel s’appuie sur une configuration de segmentation d’audience créée précédemment à l’aide de la SDK Web Adobe Experience Platform (AEP). Dans le [tutoriel précédent](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction), les préférences des utilisateurs, telles que l’intérêt pour les actions, les obligations ou les certificats de dépôt (CD), ont été capturées et utilisées pour segmenter les individus en audiences ciblées dans Experience Platform. Ce tutoriel s’appuie sur ces bases en utilisant Adobe Journey Optimizer (AJO) Decisioning pour diffuser des offres financières personnalisées à ces audiences en temps réel, ce qui améliore les résultats d’engagement et de conversion.
+Ce tutoriel s’appuie sur une configuration de segmentation d’audience créée précédemment à l’aide de la SDK Web Adobe Experience Platform (AEP). Dans le [tutoriel précédent](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction), les préférences des utilisateurs, telles que l’intérêt pour les actions, les obligations ou les certificats de dépôt (CD), ont été capturées et utilisées pour segmenter les individus en audiences ciblées dans Experience Platform. Ce tutoriel s’appuie sur ces bases en utilisant Adobe Journey Optimizer (AJO) Decisioning pour diffuser des offres financières personnalisées à ces audiences en temps réel, ce qui améliore les résultats d’engagement et de conversion.
 
 Vous pouvez tester en direct les offres AJO personnalisées via le lien ci-dessous.
 [Cliquez ici pour voir la démonstration en direct](https://gbedekar489.github.io/finwise/welcome.html). La page affiche des offres en temps réel en fonction de vos préférences d’investissement.
