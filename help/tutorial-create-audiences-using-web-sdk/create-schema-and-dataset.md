@@ -22,7 +22,7 @@ ht-degree: 0%
 * Connexion à Adobe Experience Platform
 * Gestion des données -> Schémas -> Créer un schéma
 
-* Créez un schéma basé sur un événement XDM appelé _conseillers financiers_. Si vous ne connaissez pas la création d’un schéma, consultez cette [documentation](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Créez un schéma basé sur un événement XDM appelé _conseillers financiers_. Si vous ne connaissez pas la création d’un schéma, consultez cette [documentation](https://experienceleague.adobe.com/fr/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 * Ajoutez la structure suivante à votre schéma. L’élément PreferredFinancialInstrument stocke la préférence de l’utilisateur ou de l’utilisatrice pour les actions, les obligations et les CD. Le **__techmarketingdemos_**&#x200B;est l’identifiant du client et sera différent dans votre environnement.
   ![xdm-schema](assets/xdm-schema.png)
