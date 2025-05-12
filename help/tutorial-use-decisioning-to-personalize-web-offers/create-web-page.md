@@ -8,9 +8,9 @@ feature: Decisioning
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 72a67137-303d-4dfe-9b70-322c81e5fb27
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -21,18 +21,27 @@ Cette page web a été créée pour tester les offres personnalisées diffusées
 
 Le script suivant est chargé de récupérer et d’afficher une offre personnalisée sur une page web à l’aide de Adobe Journey Optimizer.
 
-1. Décoder les entités HTML : il existe une fonction d’assistance qui convertit en toute sécurité les caractères spéciaux du contenu de l’offre en HTML lisible.
+1. Décoder les entités HTML :
 
-2. Exécutez la personnalisation :
-Lorsqu’elle est appelée, elle envoie une requête (sendEvent) à Adobe Web SDK pour obtenir du contenu personnalisé pour une zone spécifique de la page (l’élément #ajo-offer).
-Si une offre est renvoyée, elle décode l’HTML et l’insère dans la page.
-Si rien n’est renvoyé, un avertissement est consigné.
+   Il existe une fonction d’assistance qui convertit en toute sécurité tous les caractères spéciaux du contenu de l’offre en HTML lisible.
 
-3. Attendez le SDK :
-Étant donné qu’Adobe SDK (alloy) se charge de manière asynchrone, le script attend qu’il soit complètement chargé avant d’effectuer la requête.
-Il vérifie l’alliage toutes les 200 millisecondes, jusqu’à 20 fois, pour éviter les erreurs.
+1. Exécutez la personnalisation :
 
-4. Au chargement de la page : une fois le chargement de la page terminé, le script lance le processus en appelant waitForAlloy().
+   Lorsqu’elle est appelée, elle envoie une requête (`sendEvent`) à Adobe Web SDK afin d’obtenir du contenu personnalisé pour une zone spécifique de la page (l’élément `#ajo-offer`).
+
+   Si une offre est renvoyée, elle décode l’HTML et l’insère dans la page.
+
+   Si rien n’est renvoyé, un avertissement est consigné.
+
+1. Attendez le SDK :
+
+   Étant donné qu’Adobe SDK (alloy) se charge de manière asynchrone, le script attend qu’il soit complètement chargé avant d’effectuer la requête.
+
+   Il vérifie l’alliage toutes les 200 millisecondes, jusqu’à 20 fois, pour éviter les erreurs.
+
+1. Au chargement de la page :
+
+   Une fois le chargement de la page terminé, le script lance le processus en appelant `waitForAlloy()`.
 
 
 
