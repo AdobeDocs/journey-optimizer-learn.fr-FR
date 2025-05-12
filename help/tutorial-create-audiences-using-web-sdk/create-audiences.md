@@ -34,7 +34,7 @@ Dans Adobe Experience Platform, les audiences sont des groupes d’utilisateurs 
    * Clients intéressés par le CD
 
 
-* Assurez-vous que la méthode d’évaluation de chaque audience est définie sur _**Edge**_ pour la qualification en temps réel.
+* Assurez-vous que la méthode d’évaluation de chaque audience est définie sur _&#x200B;**Edge**&#x200B;_ pour la qualification en temps réel.
   ![edge-audience](assets/audience-edge.png)
 
 * Utilisez le champ Instrument financier préféré pour segmenter les utilisateurs en fonction de leur intérêt d’investissement sélectionné, tel que Actions, Obligations ou CD
@@ -48,7 +48,7 @@ Dans Adobe Experience Platform, les audiences sont des groupes d’utilisateurs 
 
 >[!NOTE]
 >
->>Si le champ PreferredFinancialInstrument n’est pas visible dans l’onglet Événements, cliquez sur l’icône des paramètres et activez/désactivez l’option Afficher l’ensemble du schéma XDM.
+>&#x200B;>Si le champ PreferredFinancialInstrument n’est pas visible dans l’onglet Événements, cliquez sur l’icône des paramètres et activez/désactivez l’option Afficher l’ensemble du schéma XDM.
 
 
 
