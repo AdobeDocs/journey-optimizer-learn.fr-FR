@@ -63,7 +63,7 @@ app.listen(PORT, () => {
 
 ## Ajouter HTML/Assets
 
-Copiez tous les fichiers HTML et CSS fournis [](assets/login-app-files.zip) dans ce dossier. Copiez et collez le script AEP Tags dans la section `<head>` du fichier index.html.
+Copiez tous les fichiers HTML et CSS fournis [&#128279;](assets/login-app-files.zip) dans ce dossier. Copiez et collez le script AEP Tags dans la section `<head>` du fichier index.html.
 
 ## Exécution du serveur
 
