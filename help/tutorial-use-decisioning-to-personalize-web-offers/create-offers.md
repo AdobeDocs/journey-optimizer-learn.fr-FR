@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: d705992a-0d47-4bb9-b3d8-b925974e64cb
-source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
+source-git-commit: 502cdc41b666959141ff4dfc63608cc463009811
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '232'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,8 @@ Ce schéma :
    Pour chaque offre, copiez et collez le texte de l’offre correspondante fourni à la fin de cet article dans l’élément d’offre approprié.
 
 1. Balisez les offres à l’aide de la balise créée à l’étape précédente.
-
+1. Ajoutez l’audience appropriée à chaque offre.
+   ![éligibilité-des-offres](assets/offer-eligibility.png)
 1. Valider les offres.
 
 Offre terminée avec des attributs standard et personnalisés définis :
