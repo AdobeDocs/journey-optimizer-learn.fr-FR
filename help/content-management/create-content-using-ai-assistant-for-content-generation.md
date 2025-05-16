@@ -11,7 +11,7 @@ last-substantial-update: 2024-09-23T00:00:00Z
 jira: KT-16226
 exl-id: cd14c201-58a4-4459-a368-4024dc337798
 source-git-commit: f24ee1c6024e7ed7242448fe119a1437d6a69cb6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment utiliser l’Assistant IA pour la génération de contenu afin de générer des suggestions de variation de contenu proactives pour le texte et les images.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434637/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)

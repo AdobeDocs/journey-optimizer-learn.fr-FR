@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: f6ddb0f7b8b7570582eaaa3b20fd3a70450cdaf1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '377'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -49,15 +49,15 @@ Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionn
 <tr>
     <td>
     <a href="../content-management/create-content-using-ai-assistant-for-content-generation.md">
-      <img alt="Créer du contenu à l’aide de l’assistant AI pour la génération de contenu (vidéo)" src="../assets/3434635.jpg"/>
+      <img alt="Créer du contenu en utilisant l’assistant IA pour la génération de contenu (vidéo)" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/create-content-using-ai-assistant-for-content-generation.md">
-    <strong>Créer du contenu à l’aide de l’assistant AI pour la génération de contenu</strong>
+    <strong>Créer du contenu en utilisant l’assistant IA pour la génération de contenu</strong>
     </a>
     </div>
     <p>
-    <em>Découvrez comment utiliser l’assistant AI pour la génération de contenu afin de générer des suggestions proactives de variation de contenu pour le texte et les images.
+    <em>Découvrez comment utiliser l’assistant IA pour la génération de contenu afin de créer des suggestions de variation de contenu proactives pour le texte et les images.
 </em>
     <p>
   </td>
