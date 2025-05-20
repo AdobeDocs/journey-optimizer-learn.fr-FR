@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 2790e0765b1a4ee281516c437ef18cf35c7bf4d2
-workflow-type: ht
-source-wordcount: '714'
-ht-degree: 100%
+source-git-commit: 0537383a1eb59dec48bc46be83b7c5cb43f695b2
+workflow-type: tm+mt
+source-wordcount: '735'
+ht-degree: 97%
 
 ---
 
@@ -19,6 +19,10 @@ ht-degree: 100%
    + [Panier abandonné](/help/use-cases/abandoned-cart.md)
    + [Améliorer l’engagement de la clientèle](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Évolution de l’orchestration à l’engagement omnicanal](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+Playbooks de cas d’utilisation  {#use-case-playbooks}
+   + [Vue d’ensemble](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [Configuration d’un sandbox de playbook](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [Créer et publier des instances de playbook](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Présentation de Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Vue d’ensemble](/help/introduction/journey-optimizer-overview.md)
    + [Présentation de Journey Optimizer](/help/introduction/introduction.md)
@@ -188,6 +192,7 @@ ht-degree: 100%
    + [Défis](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=fr)
 + [Enregistrements en direct Experience League](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
+   + [Aide-mémoire du Summit Lab 2025](/help/summit-lab-assets/l535-assets.md)
    + [Créer des moments mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
    + [Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
