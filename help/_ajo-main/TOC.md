@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 0537383a1eb59dec48bc46be83b7c5cb43f695b2
+source-git-commit: 7ff7eaa6fe6001b1d1923b950d0a8079a53feeb4
 workflow-type: tm+mt
 source-wordcount: '735'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -19,10 +19,10 @@ ht-degree: 97%
    + [Panier abandonné](/help/use-cases/abandoned-cart.md)
    + [Améliorer l’engagement de la clientèle](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Évolution de l’orchestration à l’engagement omnicanal](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-Playbooks de cas d’utilisation  {#use-case-playbooks}
-   + [Vue d’ensemble](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [Configuration d’un sandbox de playbook](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [Créer et publier des instances de playbook](http://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
++ Playbooks de cas d’utilisation {#use-case-playbooks}
+   + [Vue d’ensemble](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [Configuration d’un sandbox de playbook](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [Créer et publier des instances de playbook](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Présentation de Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Vue d’ensemble](/help/introduction/journey-optimizer-overview.md)
    + [Présentation de Journey Optimizer](/help/introduction/introduction.md)
