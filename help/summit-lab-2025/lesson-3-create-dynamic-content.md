@@ -10,10 +10,10 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17875
 index: false
 exl-id: e3a93300-e5db-4c8b-8afc-18f101db93d0
-source-git-commit: 2744e115ee5569328cb187d1288b4f01b22c82de
+source-git-commit: 7dd827b24c709149201139d180e5bec4c1c6d5dd
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 6%
+source-wordcount: '159'
+ht-degree: 0%
 
 ---
 
@@ -27,6 +27,4 @@ Dans cet exercice, vous appliquez du contenu dynamique au SMS à titre d’exemp
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457913/?learn=on&enablevpops)
 
-## Ressources supplémentaires
-
-* [Créer du contenu dynamique à l’aide du créateur de règles de condition](/help/personalize-content/create-dynamic-content.md)
+Voir [Créer du contenu dynamique avec le créateur de règles de condition](/help/personalize-content/create-dynamic-content.md) pour plus d’informations à ce sujet.

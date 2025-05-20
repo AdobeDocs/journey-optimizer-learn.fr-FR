@@ -10,10 +10,10 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17945
 index: false
 exl-id: d2ac4c55-b40c-448a-bf88-cd85b47320ac
-source-git-commit: 2744e115ee5569328cb187d1288b4f01b22c82de
+source-git-commit: 7dd827b24c709149201139d180e5bec4c1c6d5dd
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 4%
+source-wordcount: '127'
+ht-degree: 0%
 
 ---
 
@@ -30,6 +30,4 @@ expérience.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457973/?learn=on&enablevpops)
 
-## Ressources supplémentaires
-
-* [Créer des cartes de contenu](/help/channels/create-content-cards.md)
+Voir [Créer des cartes de contenu](/help/channels/create-content-cards.md) pour plus d’informations à ce sujet.
