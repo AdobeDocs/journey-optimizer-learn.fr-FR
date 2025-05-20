@@ -22,4 +22,4 @@ Découvrez comment mettre en œuvre le cas d’utilisation de panier abandonné 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
 
-Pour plus d’informations, consultez [Configuration d’un sandbox de playbook](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"} et [Création et publication d’instances de playbook](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}.
+Pour plus d’informations, consultez [Configuration d’un sandbox de playbook](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"} et [Création et publication d’instances de playbook](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}.
