@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Ces tutoriels se concentrent sur l’amélioration de l’engagement et de la personnalisation des clients en utilisant la création d’audiences en temps réel et la prise de décision personnalisée par le biais de formulaires web et de pages web. En intégrant ces puissantes techniques, les entreprises peuvent s’assurer que le bon message atteint la bonne audience au bon moment, ce qui améliore l’engagement des clients et stimule les efforts de marketing personnalisés.
 
-1. [Création d’audiences à l’aide de Web SDK (tutoriel)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
+1. [Création d’audiences à l’aide de Web SDK (tutoriel)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
 
    Découvrez comment :
 
@@ -27,7 +27,7 @@ Ces tutoriels se concentrent sur l’amélioration de l’engagement et de la pe
    * Trier automatiquement les utilisateurs en audiences spécifiques en fonction de leurs choix.
 
 
-2. [Utilisation de la prise de décision pour personnaliser les offres web (tutoriel)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+2. [Utilisation de la prise de décision pour personnaliser les offres web (tutoriel)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 
 En vous basant sur le premier tutoriel, apprenez à utiliser un catalogue centralisé d’offres marketing et un moteur de décision intelligent pour afficher à chaque personne les offres les plus pertinentes.
 
