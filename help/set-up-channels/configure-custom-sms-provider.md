@@ -22,4 +22,4 @@ Découvrez comment configurer un fournisseur de SMS autre que Sinch, Twilio et I
 
 Pour plus d’informations, consultez [Configuration d’un fournisseur SMS personnalisé](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom).
 
->[!VIDEO](https://video.tv.adobe.com/v/3431625/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443608/?learn=on&enablevpops&captions=fre_fr)
