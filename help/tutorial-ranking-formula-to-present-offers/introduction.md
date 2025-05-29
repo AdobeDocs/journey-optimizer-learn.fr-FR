@@ -22,7 +22,7 @@ Ce cas pratique montre comment diffuser des offres financières personnalisées 
 
 Ce tutoriel s’appuie sur les concepts clés de Adobe Journey Optimizer et de Adobe Experience Platform. Avant de poursuivre, vérifiez que les conditions préalables suivantes sont remplies :
 
-* Le [tutoriel sur l’assemblage d’identités](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction) est terminé. Des identifiants CRM ont été associés avec succès aux ECID dans Adobe Experience Platform.
+* Le [tutoriel sur l’assemblage d’identités](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction) est terminé. Des identifiants CRM ont été associés avec succès aux ECID dans Adobe Experience Platform.
 
 * Vous connaissez la création d’éléments d’offre dans AJO, notamment la définition de contenu, la configuration des métadonnées et les règles d’éligibilité.
 
