@@ -20,4 +20,4 @@ ht-degree: 0%
 Découvrez comment Adobe a identifié et éliminé les principaux obstacles à l’expérimentation à grande échelle, de l’idéation à l’exécution, à l’aide de solutions pilotées par les plateformes.
 
 <!-- 62_S531_3442531_165_overcoming-barriers-to-experimentation-at-scale -->
->[!VIDEO](https://video.tv.adobe.com/v/3458237/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460374/?learn=on&enablevpops=true&captions=fre_fr)
