@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 jira: KT-18089
-source-git-commit: 68bd0a65e7d7f2d57f9620e76555485a1a79b4ae
+exl-id: 894ad6b7-c4b4-465e-8535-3fdcd77e00eb
+source-git-commit: 860f4fa4f6b491f3327776ba372bd5fa20e5d5d3
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 9%
@@ -22,7 +23,7 @@ Une propriété AEP Tags appelée FinWise est créée. Les extensions suivantes 
 
 ![tags-extensions](assets/tags-extensions.png)
 
-Configurez l’extension AEP Web SDK à l’aide du flux de données Financial Advisors créé dans le tutoriel précédent.
+Configurez l’extension AEP Web SDK à l’aide du flux de données Financial Advisors créé à l’étape précédente.
 Le service Experience Cloud ID est une extension facultative ajoutée à la propriété de balise à des fins de débogage.
 
 ## Balisage des éléments de données
@@ -51,4 +52,3 @@ Action Envoyer l’événement
 ## Enregistrer et créer
 
 Enregistrez vos modifications, créez et créez la bibliothèque.
-
