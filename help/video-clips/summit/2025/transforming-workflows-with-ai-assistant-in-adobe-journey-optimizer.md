@@ -20,4 +20,4 @@ ht-degree: 0%
 Découvrez comment l’assistant d’IA dans Adobe Journey Optimizer révolutionne les workflows en fournissant des informations instantanées sur les données et des fonctionnalités de dépannage, ce qui vous permet de gagner des heures de travail manuel.
 
 <!-- 65_S653_3442539_33_transforming-workflows-with-ai-assistant-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458195/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460433/?learn=on&enablevpops=true&captions=fre_fr)

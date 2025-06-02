@@ -20,4 +20,4 @@ ht-degree: 0%
 Découvrez les dernières innovations et intégrations de canaux dans Adobe Journey Optimizer, notamment WhatsApp, les activités iOS Live et la messagerie RCS, pour améliorer l’engagement des clients.
 
 <!-- 62_S520_3442520_207_new-channels-and-integrations-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458234/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460344/?learn=on&enablevpops=true&captions=fre_fr)

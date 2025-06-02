@@ -20,4 +20,4 @@ ht-degree: 0%
 Découvrez les prochaines fonctionnalités des cartes de contenu , notamment les nouveaux modèles, les boîtes de réception de messages, etc.
 
 <!-- 62_S603_3442534_83_future-enhancements-for-content-cards -->
->[!VIDEO](https://video.tv.adobe.com/v/3458202/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460322/?learn=on&enablevpops=true&captions=fre_fr)

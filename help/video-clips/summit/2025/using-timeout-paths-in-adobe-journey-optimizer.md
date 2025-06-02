@@ -20,4 +20,4 @@ ht-degree: 0%
 Découvrez comment gérer les délais d’expiration et les erreurs dans Adobe Journey Optimizer en configurant des chemins de délai d’expiration pour que les profils continuent de se déplacer le long de leur parcours.
 
 <!-- 62_S522_3442522_36_using-timeout-paths-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458213/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460468/?learn=on&enablevpops=true&captions=fre_fr)
