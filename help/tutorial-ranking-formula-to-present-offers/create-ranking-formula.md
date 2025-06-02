@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: eee1b86e-b33f-408e-9faf-90317bc5e861
+source-git-commit: 69868d1f303fa0c67530b3343a678a850a8e493b
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # Créer une formule de classement
 
@@ -31,35 +31,34 @@ Un critère dans une formule de classement fait référence à une règle condit
 
 
 Critère 1
-![criteria_one](assets/criteria1.png)
 
-Le critère 1 contient trois critères :
-
-* offre._techmarketingdemos.offerDetails.zipCode == « 92128 » : vérifie le code postal associé à l&#39;offre.
-
-* _techmarketingdemos.zipCode == « 92128 » : vérifie le code postal du profil de l&#39;utilisateur.
-
-* _techmarketingdemos.annualIncome > 100000 - vérifie le niveau de revenu à partir du profil de l’utilisateur.
-
-Si tous ces critères sont remplis, l’offre obtient un score de 40.
+Cette condition filtre les éléments de décision (offres) **pour n’inclure que** les offres balisées avec « IncomeLevel ».
+Ces offres filtrées passeront ensuite à l’étape suivante, telle que le classement ou la diffusion, en fonction de la logique supplémentaire que vous définissez.
+![criteria_one](assets/income-related-formula.png)
 
 
+L&#39;expression suivante est utilisée pour créer le score de classement
+
+```pql
+if(   offer._techmarketingdemos.offerDetails.zipCode = _techmarketingdemos.zipCode,   _techmarketingdemos.annualIncome / 1000 + 10000,   if(     not offer._techmarketingdemos.offerDetails.zipCode,     _techmarketingdemos.annualIncome / 1000,     -9999   ) )
+```
+
+Fonctionnement de la formule
+
+* Si l’offre a le même code postal que l’utilisateur ou l’utilisatrice, attribuez-lui un score très élevé afin qu’elle soit sélectionnée en premier.
+
+* Si l’offre ne comporte aucun code postal (il s’agit d’une offre générale), donnez-lui un score normal en fonction du revenu de l’utilisateur.
+
+* Si le code postal de l’offre est différent de celui de l’utilisateur, donnez-lui un score très faible afin qu’elle ne soit pas sélectionnée.
+
+Ainsi, le système :
+
+* Toujours essayer d’afficher d’abord une offre ZIP correspondante,
+
+* Retourne à une offre générale si aucune correspondance n’est trouvée et évite d’afficher les offres destinées à d’autres codes postaux.
 
 
-
-
-Critère 2
-![criteria_two](assets/criteria2.png)
-
-Le critère 2 contient trois critères :
-
-* offre._techmarketingdemos.offerDetails.zipCode == « 92126 » : vérifie le code postal associé à l&#39;offre.
-
-* _techmarketingdemos.zipCode == « 92126 » : vérifie le code postal du profil de l&#39;utilisateur.
-
-* _techmarketingdemos.annualIncome &lt; 100000 - vérifie le niveau de revenu du profil de l’utilisateur.
-
-Si tous ces critères sont remplis, l’offre obtient un score de 30.
+Si un élément d’offre ne répond à aucun des critères de filtre (comme ne pas avoir la balise « IncomeLevel »), l’offre reçoit un score de classement par défaut de 10.
 
 
 

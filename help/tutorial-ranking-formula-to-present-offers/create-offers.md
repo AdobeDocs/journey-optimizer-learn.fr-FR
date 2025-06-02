@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: 7dd49746-bea6-4679-9d88-d8f9d2aa5b52
+source-git-commit: fb0ef6d502c6e3ba37ef528683a8888ed83f2990
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # Création d’offres basées sur l’emplacement avec ciblage du code postal
 
@@ -73,12 +73,9 @@ Texte de l’offre pour l’offre générique, sans code postal associé à l’
 </div>
 ```
 
-Regroupez ces offres dans une collection appelée **_GenericOffers_**
+Regroupez ces offres dans une collection appelée **offres liées aux revenus**
 
 Les offres sont disponibles pour tous les visiteurs et visiteuses (il n’existe donc pas de contraintes d’éligibilité strictes). La formule de classement devient alors essentielle pour déterminer l’offre à afficher en fonction du contexte du profil.
 Comme les règles d’éligibilité ne filtrent pas les offres, les trois sont traitées comme des candidats.
 La stratégie de sélection récupère les trois.
 La formule de classement les classe en fonction des attributs de profil (tels que le code postal et le revenu annuel) pour sélectionner le meilleur.
-
-
-
