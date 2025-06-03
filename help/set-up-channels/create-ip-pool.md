@@ -20,4 +20,4 @@ ht-degree: 19%
 
 Découvrez comment créer un pool d’adresses IP pour protéger la réputation de votre expéditeur et améliorer la délivrabilité des e-mails.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463145/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463251/?learn=on&enablevpops&captions=fre_fr)
