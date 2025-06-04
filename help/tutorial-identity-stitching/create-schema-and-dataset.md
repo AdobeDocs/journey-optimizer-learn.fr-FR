@@ -6,8 +6,10 @@ role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-04-30T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-18089
-source-git-commit: 860f4fa4f6b491f3327776ba372bd5fa20e5d5d3
+exl-id: 8bb85ba7-3c50-4596-88f8-e112c48a8253
+source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -25,7 +27,7 @@ Pour créer un schéma XDM
 * Connexion à Adobe Experience Platform
 * Gestion des données -> Schémas -> Créer un schéma
 
-* Créez un schéma basé sur un événement XDM appelé **_conseillers financiers_**. Si vous ne connaissez pas la création d’un schéma, consultez cette [documentation](https://experienceleague.adobe.com/fr/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Créez un schéma basé sur un événement XDM appelé **_conseillers financiers_**. Si vous ne connaissez pas la création d’un schéma, consultez cette [documentation](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 
 * Assurez-vous que le schéma est activé pour le profil.
@@ -54,4 +56,3 @@ Un flux de données dans Adobe Experience Platform est comme un pipeline (ou une
 * Sélectionnez le jeu de données d’événement approprié (créé précédemment).
 
 * Enregistrez le flux de données.
-
