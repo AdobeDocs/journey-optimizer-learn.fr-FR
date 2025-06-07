@@ -22,4 +22,4 @@ Découvrez comment identifier et gérer les conflits potentiels, tels que les au
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
 
-Consultez la documentation du produit pour plus d’informations sur la [Détection des conflits potentiels dans les parcours et les campagnes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/conflicts).
+Consultez la documentation du produit pour plus d’informations sur la [Détection des conflits potentiels dans les parcours et les campagnes](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/conflict-prioritization/conflicts).
