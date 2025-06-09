@@ -23,7 +23,7 @@ Une formule de classement dans Adobe Journey Optimizer est utilisée lors de la 
 
 * Prise de décision ->Configuration de la stratégie ->Formules de classement ->Créer une formule
 
-Nommez la formule _**Météo - En rapport - Offres**_
+Nommez la formule _&#x200B;**Météo - En rapport - Offres**&#x200B;_
 
 
 

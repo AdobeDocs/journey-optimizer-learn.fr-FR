@@ -39,7 +39,7 @@ Un **jeu de données dans Adobe Experience Platform (AEP)** est un conteneur de 
 
 
 * Gestion des données -> Jeux de données -> Créer un jeu de données
-* Créez un jeu de données appelé **_Weather-schema-dataset_** basé sur le schéma XDM (_**Weather-Schema**_) créé à l’étape précédente.
+* Créez un jeu de données appelé **_Weather-schema-dataset_** basé sur le schéma XDM (_&#x200B;**Weather-Schema**&#x200B;_) créé à l’étape précédente.
 
 
 ## Créer un flux de données

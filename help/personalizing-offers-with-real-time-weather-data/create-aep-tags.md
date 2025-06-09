@@ -23,7 +23,7 @@ Cette [ vidéo décrit le processus de création d’Adobe Experience Tags](http
 
 * Connexion à la collecte de données
 * Cliquez sur Balises -> Nouvelle propriété .
-* Créez une balise Adobe Experience Platform appelée _**personalization-on-weather**_.
+* Créez une balise Adobe Experience Platform appelée _&#x200B;**personalization-on-weather**&#x200B;_.
 
 * Ajoutez les extensions suivantes à la balise .
   ![tags-extensions](assets/tags-extensions1.png)
