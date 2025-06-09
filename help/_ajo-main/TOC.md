@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 3df01adcd0c400e6fd90c8ea29dd10b2bd774756
+source-git-commit: 7d812f589172c5052a1e9bfcf6a99d0769a6c2c7
 workflow-type: tm+mt
-source-wordcount: '769'
-ht-degree: 95%
+source-wordcount: '774'
+ht-degree: 94%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 95%
    + [Améliorer l’engagement de la clientèle](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Évolution de l’orchestration à l’engagement omnicanal](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Playbooks de cas d’utilisation {#use-case-playbooks}
-   + [Vue d’ensemble](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [Configuration d’un sandbox de playbook](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [Créer et publier des instances de playbook](http://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [Vue d’ensemble](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [Configuration d’un sandbox de playbook](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [Créer et publier des instances de playbook](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Présentation de Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Vue d’ensemble](/help/introduction/journey-optimizer-overview.md)
    + [Présentation de Journey Optimizer](/help/introduction/introduction.md)
@@ -52,7 +52,7 @@ ht-degree: 95%
    + [Mettre à jour du contenu dans un parcours dynamique](/help/create-journeys/update-content-in-live-journey.md)
    + [Copier un parcours dans un autre sandbox](/help/create-journeys/copy-a-journey.md)
    + [Le parcours Déclencher quotidiennement s’exécute après la segmentation par lots.](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [Résolution des problèmes liés aux actions entrantes dans parcours](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
+   + [Résolution des problèmes liés aux actions entrantes dans parcours](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
 + Gestion des conflits {#conflict-management}
    + [Identifier les conflits potentiels](/help/conflict-management/identify-potential-conflicts.md)
    + [Attribuer des scores de priorité](/help/conflict-management/assign-priority-score.md)
@@ -135,6 +135,7 @@ ht-degree: 95%
    + Prise de décisions {#decisioning}
       + [Présentation de la prise de décisions](/help/decisioning/introduction-to-decisioning.md)
       + [Présentation complète de la prise de décisions](/help/decisioning/decisioning-end-to-end.md)
+      + [Naviguer dans l&#39;interface du créateur de formules](/help/decisioning/formula-builder-ui.md)
    + Gestion des décisions {#decision-management}
       + [Présentation de la gestion des décisions](/help/decision-management/introduction-to-decision-management.md)
       + [Démonstration des fonctionnalités de gestion des décisions](/help/decision-management/demo-of-decision-management-capabilities.md)
