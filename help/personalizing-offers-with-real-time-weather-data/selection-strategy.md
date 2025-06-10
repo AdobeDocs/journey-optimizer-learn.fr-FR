@@ -23,7 +23,7 @@ Pour créer une stratégie de sélection
 
 * Connexion à Journey Optimizer
 
-* Accédez à _**Prise de décision ->Configuration de la stratégie ->Stratégies de sélection ->Créer une stratégie de sélection**_
+* Accédez à _&#x200B;**Prise de décision ->Configuration de la stratégie ->Stratégies de sélection ->Créer une stratégie de sélection**&#x200B;_
 
 * Indiquez le nom de la stratégie de sélection, la collection, l’éligibilité et la méthode de classement, comme illustré dans la capture d’écran
 
