@@ -23,7 +23,7 @@ Les collections vous permettent de classer et de regrouper vos éléments de dé
 Procédure de création d’une collection
 
 * Connexion à Journey Optimizer
-* Accédez à _**Balises ->Créer une catégorie de balises**_(_**WeatherRelatedOffers**_).
+* Accédez à _&#x200B;**Balises ->Créer une catégorie de balises**&#x200B;_(_&#x200B;**WeatherRelatedOffers**&#x200B;_).
 * Cliquez sur Enregistrer .
-* Cliquez sur Créer des balises (chaud, froid, printemps). Ces balises doivent se trouver sous la catégorie de balises _**WeatherRelatedOffers**_
+* Cliquez sur Créer des balises (chaud, froid, printemps). Ces balises doivent se trouver sous la catégorie de balises _&#x200B;**WeatherRelatedOffers**&#x200B;_
 
