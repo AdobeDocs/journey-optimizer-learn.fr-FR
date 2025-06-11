@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: dac6b373226bd0be2533cf859e4f250018cf568b
+source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ Pour utiliser Adobe Experience Platform Web SDK (Alloy.js) sur une page web, les
 Pour créer un schéma XDM
 
 * Connexion à Adobe Experience Platform
-* Gestion des données -> Schémas -> Créer un schéma
+* Accédez à _**Gestion des données -> Schémas -> Créer un schéma**_
 
-* Créez un schéma basé sur un événement XDM appelé **_Weather-Schema_**. Si vous ne connaissez pas la création d’un schéma, consultez cette [documentation](https://experienceleague.adobe.com/fr/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Créez un schéma basé sur un événement XDM appelé **_Weather-Schema_**. Si vous ne connaissez pas la création d’un schéma, consultez cette [documentation](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 
 * Assurez-vous que le schéma comporte les champs suivants avec le type de données approprié.
@@ -37,16 +37,15 @@ Pour créer un schéma XDM
 
 Un **jeu de données dans Adobe Experience Platform (AEP)** est un conteneur de stockage structuré utilisé pour ingérer, stocker et activer des données en fonction d’un schéma XDM défini.
 
-
-* Gestion des données -> Jeux de données -> Créer un jeu de données
-* Créez un jeu de données appelé **_Weather-schema-dataset_** basé sur le schéma XDM (_&#x200B;**Weather-Schema**&#x200B;_) créé à l’étape précédente.
+* Accédez à _**Gestion des données -> Jeux de données -> Créer un jeu de données**_
+* Créez un jeu de données appelé **_Weather-schema-dataset_** basé sur le schéma XDM (_**Weather-Schema**_) créé à l’étape précédente.
 
 
 ## Créer un flux de données
 
 Un flux de données dans Adobe Experience Platform est comme un pipeline (ou une autoroute) sécurisé qui connecte votre site web ou votre application aux services Adobe, permettant aux données d’entrer et au contenu personnalisé de revenir.
 
-* Accédez à Collecte de données > Flux de données, puis cliquez sur Nouveau flux de données. Nommez le flux de données **weather-related-datastream**
+* Accédez à _**Collecte de données > Flux de données**_, puis cliquez sur Nouveau flux de données. Nommez le flux de données **weather-related-datastream**
 
 
 * Fournissez les détails suivants, comme illustré dans la capture d’écran ci-dessous.
