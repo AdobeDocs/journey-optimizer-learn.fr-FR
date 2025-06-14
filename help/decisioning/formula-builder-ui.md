@@ -24,4 +24,4 @@ Le créateur de formules de Adobe Journey Optimizer est une interface visuelle p
 
 Cette vidéo présente brièvement l’interface utilisateur du créateur de formules.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463738?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3463741?quality=12&learn=on&captions=fre_fr){transcript=true}
