@@ -22,4 +22,4 @@ Découvrez comment hiérarchiser les actions entrantes, en veillant à ce que le
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435529/?learn=on&enablevpops)
 
-Consultez la documentation du produit pour plus d’informations sur la manière d’[Attribuer des scores de priorité aux parcours et aux campagnes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/priority-scores).
+Consultez la documentation du produit pour plus d’informations sur la manière d’[Attribuer des scores de priorité aux parcours et aux campagnes](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/conflict-prioritization/priority-scores).
