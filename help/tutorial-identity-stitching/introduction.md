@@ -8,18 +8,18 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 jira: KT-18089
 exl-id: d6a1201a-3779-4718-8ea8-b88f925f53b6
-source-git-commit: 96d9d525a3d9be399f7fa229b67166acf8130721
+source-git-commit: f3aeb66ca67448e7751ab2cd6d0bb6ce38f73530
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 1%
+source-wordcount: '247'
+ht-degree: 0%
 
 ---
 
-# Description du cas d’utilisation
+# Combinaison d’identités dans AEP
 
 Dans les expériences client modernes, il est essentiel d’unifier les identités des utilisateurs sur les différents appareils et canaux. Ce cas pratique montre comment implémenter la combinaison d’identités dans Adobe Experience Platform (AEP) en liant un identifiant CRM connu, capturé lors de la connexion de l’utilisateur, à l’identifiant Experience Cloud anonyme (ECID) généré par Adobe Web SDK. En associant ces identités en temps réel, AEP peut créer un profil client plus complet couvrant à la fois le comportement anonyme et les données authentifiées. Cela permet une segmentation, une personnalisation et une prise de décision d’audience plus précises au sein d’outils tels que Adobe Journey Optimizer (AJO).
 
-## 🧠 requises pour le tutoriel sur l’assemblage d’identités
+## Compétences requises pour le tutoriel sur la combinaison d’identités
 
 Pour tirer le meilleur parti de ce tutoriel, il est recommandé de connaître les éléments suivants :
 
