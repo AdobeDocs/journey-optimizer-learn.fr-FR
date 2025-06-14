@@ -22,4 +22,4 @@ Découvrez comment hiérarchiser les actions entrantes, en veillant à ce que le
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
 
-Consultez la documentation du produit pour plus d’informations sur la limitation et l’arbitrage des Parcours [](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping).
+Consultez la documentation du produit pour plus d’informations sur la limitation et l’arbitrage des Parcours [&#128279;](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping).
