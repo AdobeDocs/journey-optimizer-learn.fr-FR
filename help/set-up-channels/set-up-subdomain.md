@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment configurer un sous-domaine pour votre canal e-mail dans Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3458490/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463227/?learn=on&enablevpops&captions=fre_fr)
