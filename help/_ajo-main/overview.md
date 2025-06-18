@@ -33,13 +33,13 @@ Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionn
 ## Derniers événements Experience League Live
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
+* https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
   {title = Master Frequency Capping & Conflict Prioritization (June 18, 2025)}
   {description = In this session, Adobe experts Ariel Sultan and Aaron Forrest dove into new features in Adobe Journey Optimizer to help you govern and prioritize customer messages with precision. They showed how to reduce messaging fatigue, resolve conflicts, and deliver impactful experiences that resonate. }
-* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
+* https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
      {title = Agile Workflows for Personalized Content at Scale (June 05, 2025)}
      {description = In this session, Adobe experts Chris Ivory, Amarnath Vannarath, and Rohan Bhatt showcase how Adobe Journey Optimizer (AJO) seamlessly integrates with Adobe Express and GenStudio for Performance Marketing. Learn how these tools bring unparalleled flexibility, collaboration, and AI-powered creativity to your marketing workflows.}
-* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
+* https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
      {title = Unlocking operational insights with AI Assistant in Adobe Experience Platform (February 27, 2025)}
      {description = ur experts discussed how AI Assistant can unlock valuable operational insights, boosting productivity and redefining work in Adobe Experience Platform and its platform-based applications.}
 
@@ -50,7 +50,7 @@ Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionn
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="Limitation De La Fréquence Des Principal Et Hiérarchisation Des Conflits (18 Juin 2025)" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="Limitation De La Fréquence Des Principal Et Hiérarchisation Des Conflits (18 Juin 2025)" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464052/?format=jpeg&nocache=1750288896715" alt="Limitation De La Fréquence Des Principal Et Hiérarchisation Des Conflits (18 Juin 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -59,11 +59,11 @@ Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionn
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" title="Limitation De La Fréquence Des Principal Et Hiérarchisation Des Conflits (18 Juin 2025)">Limitation De La Fréquence Des Principal Et Hiérarchisation Des Conflits (18 Juin 2025)</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" title="Limitation De La Fréquence Des Principal Et Hiérarchisation Des Conflits (18 Juin 2025)">Limitation De La Fréquence Des Principal Et Hiérarchisation Des Conflits (18 Juin 2025)</a>
                     </p>
                     <p class="is-size-6">Au cours de cette session, Ariel Sultan et Aaron Forrest, experts d’Adobe, ont exploré les nouvelles fonctionnalités de Adobe Journey Optimizer pour vous aider à gouverner et à classer les messages des clients par priorité avec précision. Ils ont montré comment réduire la fatigue des messages, résoudre les conflits et offrir des expériences percutantes qui trouvent un écho.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
                 </a>
             </div>
@@ -73,7 +73,7 @@ Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionn
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="Workflows agiles pour contenu personnalisé à grande échelle (5 juin 2025)" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" title="Workflows agiles pour contenu personnalisé à grande échelle (5 juin 2025)" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3436457?format=jpeg&nocache=1750288896708" alt="Workflows agiles pour contenu personnalisé à grande échelle (5 juin 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -82,11 +82,11 @@ Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionn
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" title="Workflows agiles pour contenu personnalisé à grande échelle (5 juin 2025)">Workflows agiles pour du contenu personnalisé à grande échelle (5 juin 2025)</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" title="Workflows agiles pour contenu personnalisé à grande échelle (5 juin 2025)">Workflows agiles pour du contenu personnalisé à grande échelle (5 juin 2025)</a>
                     </p>
                     <p class="is-size-6">Au cours de cette session, les experts Adobe Chris Ivory, Amarnath Vannarath et Rohan Bhatt montrent comment Adobe Journey Optimizer (AJO) s’intègre de manière transparente à Adobe Express et GenStudio for Performance Marketing. Découvrez comment ces outils apportent une flexibilité, une collaboration et une créativité inégalées basées sur l’IA à vos workflows marketing.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
                 </a>
             </div>
@@ -96,7 +96,7 @@ Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionn
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" title="Déverrouillage des informations opérationnelles avec l’assistant d’IA dans Adobe Experience Platform (27 février 2025)" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" title="Déverrouillage des informations opérationnelles avec l’assistant d’IA dans Adobe Experience Platform (27 février 2025)" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448635/?format=jpeg&nocache=1750288896696" alt="Déverrouillage des informations opérationnelles avec l’assistant d’IA dans Adobe Experience Platform (27 février 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -105,11 +105,11 @@ Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionn
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" title="Déverrouillage des informations opérationnelles avec l’assistant d’IA dans Adobe Experience Platform (27 février 2025)">Déverrouillage des informations opérationnelles avec l’assistant d’IA dans Adobe Experience Platform (27 février 2025)</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" title="Déverrouillage des informations opérationnelles avec l’assistant d’IA dans Adobe Experience Platform (27 février 2025)">Déverrouillage des informations opérationnelles avec l’assistant d’IA dans Adobe Experience Platform (27 février 2025)</a>
                     </p>
                     <p class="is-size-6">Nos experts ont discuté de la manière dont AI Assistant peut débloquer de précieuses informations opérationnelles, stimuler la productivité et redéfinir le travail dans Adobe Experience Platform et ses applications basées sur la plateforme.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
                 </a>
             </div>
