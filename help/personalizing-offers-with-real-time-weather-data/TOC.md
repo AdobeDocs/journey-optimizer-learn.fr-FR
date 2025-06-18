@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: personnalisation-des-offres-avec-les-données-météorologiques-en-temps réel
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 auto-video-transcripts: true
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: 530613b18ea37ae3739957e45ede7d47fbedc447
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '120'
 ht-degree: 11%
 
 ---
@@ -25,4 +25,5 @@ ht-degree: 11%
 + [Créer une stratégie de sélection](./selection-strategy.md)
 + [Créer une campagne](./create-campaign.md)
 + [Tester la solution](./create-web-page.md)
++ [Type de contenu JSON](./json-content-type.md)
 
