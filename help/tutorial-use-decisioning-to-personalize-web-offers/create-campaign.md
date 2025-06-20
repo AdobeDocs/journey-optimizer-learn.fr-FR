@@ -23,7 +23,7 @@ Dans Adobe Journey Optimizer (AJO), une campagne fait office de conteneur regrou
 1. Connectez-vous à Journey Optimizer.
 1. Cliquez sur **[!UICONTROL Gestion des Parcours]** > **[!UICONTROL Campagnes]** > **[!UICONTROL Créer une campagne]** > **[!UICONTROL Planifier le marketing]**.
 1. Attribuer un nom significatif à la campagne
-1. Accédez à l’onglet _**Action**_
+1. Accédez à l’onglet _&#x200B;**Action**&#x200B;_
 1. Sélectionnez l’action **[!UICONTROL Expérience basée sur du code]**, puis sélectionnez la configuration créée à l’étape précédente.
 1. Cliquez sur **[!UICONTROL Modifier le contenu]**.
 
