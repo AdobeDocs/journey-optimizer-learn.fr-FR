@@ -24,4 +24,4 @@ Découvrez comment les développeurs peuvent rationaliser la collaboration avec 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463993/?learn=on&enablevpops&captions=fre_fr)
 
-Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields) détaillée.
+Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields) détaillée.
