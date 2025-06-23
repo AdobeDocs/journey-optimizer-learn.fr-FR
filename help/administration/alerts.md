@@ -30,4 +30,4 @@ Découvrez comment vous abonner à des alertes prédéfinies pour les comporteme
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
-Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/test/alerts){target="_blank"}.
+Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/test/alerts){target="_blank"}.
