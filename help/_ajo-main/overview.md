@@ -139,7 +139,7 @@ Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionn
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="Fonctionnalités clés et interface utilisateur" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424995?format=jpeg&nocache=1750716558140" alt="Fonctionnalités clés et interface utilisateur"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430314?format=jpeg&nocache=1750716558140&captions=fre_fr" alt="Fonctionnalités clés et interface utilisateur"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -162,7 +162,7 @@ Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionn
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey" title="Présentation de la création d’un parcours" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424996?format=jpeg&nocache=1750716558129" alt="Présentation de la création d’un parcours"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430351?format=jpeg&nocache=1750716558129&captions=fre_fr" alt="Présentation de la création d’un parcours"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -185,7 +185,7 @@ Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionn
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="Créer une audience à l’aide du créateur de règles" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425020?format=jpeg&nocache=1750716558079" alt="Créer une audience à l’aide du créateur de règles"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430324?format=jpeg&nocache=1750716558079&captions=fre_fr" alt="Créer une audience à l’aide du créateur de règles"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -208,7 +208,7 @@ Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionn
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="Créer du contenu avec l’Assistant IA pour la génération de contenu" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434635/?format=jpeg&nocache=1750716558123" alt="Créer du contenu avec l’Assistant IA pour la génération de contenu"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434637/?format=jpeg&nocache=1750716558123&captions=fre_fr" alt="Créer du contenu avec l’Assistant IA pour la génération de contenu"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -254,7 +254,7 @@ Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionn
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="Configurer des expériences de contenu pour les messages in-app" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419898/?format=jpeg&nocache=1750716558135" alt="Configurer des expériences de contenu pour les messages in-app"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445290/?format=jpeg&nocache=1750716558135&captions=fre_fr" alt="Configurer des expériences de contenu pour les messages in-app"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
