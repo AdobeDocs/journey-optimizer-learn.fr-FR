@@ -23,4 +23,4 @@ Découvrez comment rendre les composants HTML d’un fragment modifiables, ce qu
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464363/?learn=on&enablevpops)
 
-Voir la [documentation du produit](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/customizable-fragments) pour plus d’informations sur cette fonctionnalité.
+Voir la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/fragments/customizable-fragments) pour plus d’informations sur cette fonctionnalité.
