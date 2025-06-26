@@ -1,6 +1,6 @@
 ---
 title: Guide de l’interface du créateur de formules dans Adobe Journey Optimizer
-description: Découvrez comment utiliser le Créateur de formules d’IA dans Adobe Journey Optimizer pour créer des stratégies de classement d’offres personnalisées.
+description: Découvrez comment utiliser le Créateur de formules d’IA dans Adobe Journey Optimizer pour créer des stratégies de classement d’offres personnalisées. Cette présentation explique comment utiliser le créateur de formules d’IA pour combiner les scores des modèles, les données de profil et d’offre, les signaux contextuels et les règles métier afin de personnaliser les décisions et de classer les offres par priorité en fonction de vos objectifs marketing.
 feature: Decisioning
 topic: Integrations
 role: User
@@ -11,9 +11,9 @@ last-substantial-update: 2025-06-25T00:00:00Z
 jira: KT-17614
 thumbnail: KT-17614.jpeg
 exl-id: 0926ec17-7b6a-49be-95c1-059366cdaa81
-source-git-commit: 5139c3f3de9943eac4f63cba386c551aac4a804a
+source-git-commit: 3f3c225179c4ff390eae40d1e3122ead314605b8
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
