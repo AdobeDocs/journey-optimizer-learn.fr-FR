@@ -25,9 +25,9 @@ Cela permet des mises à jour rapides et garantit la conformité entre les campa
 ## Insérer un champ modifiable dans l’éditeur de personnalisation
 
 - Ouvrez la campagne créée à l’étape précédente.
-- Cliquez sur _**Modifier la campagne**_
-- Accédez à l’onglet _**Contenu**_
-- Cliquez sur _**Modifier le code**_ et insérez un champ modifiable appelé legalDisclaimer avec une valeur par défaut en utilisant la syntaxe suivante dans l’éditeur de personnalisation
+- Cliquez sur _&#x200B;**Modifier la campagne**&#x200B;_
+- Accédez à l’onglet _&#x200B;**Contenu**&#x200B;_
+- Cliquez sur _&#x200B;**Modifier le code**&#x200B;_ et insérez un champ modifiable appelé legalDisclaimer avec une valeur par défaut en utilisant la syntaxe suivante dans l’éditeur de personnalisation
 
 - `{{#inline "legalDisclaimer" name="Legal Disclaimer"}} Legal Disclaimer will go here {{/inline}}`
 
