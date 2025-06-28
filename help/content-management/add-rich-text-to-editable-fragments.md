@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Découvrez comment rendre les composants HTML d’un fragment modifiables, ce qui permet des mises à jour dynamiques du contenu et du style. Vous découvrirez comment structurer votre HTML, configurer des champs modifiables intégrés et les connecter au contenu et au CSS par défaut, puis tester et valider vos modifications dans un environnement de campagne dynamique.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464363/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464370/?learn=on&enablevpops&captions=fre_fr)
 
 Voir la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"} pour plus d’informations sur cette fonctionnalité.
