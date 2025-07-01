@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 3028f97274815d21de68793ed3ae42053ea393b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '830'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 92%
 + Cas d’utilisation {#use-cases}
    + [Intégration des clientes et clients](/help/use-cases/customer-onboarding.md)
    + [Panier abandonné](/help/use-cases/abandoned-cart.md)
-   + [Personnalisation des offres avec des données météorologiques en temps réel dans Adobe Journey Optimizer à l’aide de Web SDK](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Utilisez la formule de classement pour diffuser des offres personnalisées dans Journey Optimizer](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [Personnalisation des offres avec des données météorologiques en temps réel dans Adobe Journey Optimizer à l’aide du SDK Web](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [Utiliser une formule de classement pour diffuser des offres personnalisées dans Journey Optimizer](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Améliorer l’engagement de la clientèle](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Évolution de l’orchestration à l’engagement omnicanal](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Playbooks de cas d’utilisation {#use-case-playbooks}
@@ -28,7 +28,7 @@ ht-degree: 92%
 + Présentation de Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer - Vue d’ensemble](/help/introduction/journey-optimizer-overview.md)
    + [Présentation de Journey Optimizer](/help/introduction/introduction.md)
-   + [Fonctionnalités clés et interface utilisateur](/help/introduction/key-capabilities-and-user-interface.md)
+   + [Fonctionnalités clés et interface d’utilisation](/help/introduction/key-capabilities-and-user-interface.md)
    + [Architecture](/help/introduction/architecture.md)
    + [Fonctionnalités mobiles pour les spécialistes du marketing](/help/channels/mobile-capabilities.md)
    + [Fonctionnalités mobiles pour les développeurs](/help/channels/mobile-capabilities-for-developers.md)
@@ -71,8 +71,8 @@ ht-degree: 92%
    + [Optimisation des applications mobiles : vue d’ensemble](/help/channels/mobile-app-optimization-overview.md)
    + Canal d’expérience basée sur du code{#code-based-experience-channel}
       + [Créer une campagne d’expérience basée sur du code](/help/channels/create-a-code-based-experience-campaign.md)
-      + [Ajouter des champs de formulaire aux modèles de canal d’expérience basés sur du code](/help/channels/form-fields-in-code-based-experiences.md)
-      + [Utiliser la prise de décision dans le canal basé sur le code](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
+      + [Ajouter des champs de formulaire aux modèles de canal d’expérience basée sur du code](/help/channels/form-fields-in-code-based-experiences.md)
+      + [Utiliser la prise de décision dans le canal basé sur du code](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canal courrier{#direct-mail-channel}
       + [Créer un courrier](/help/channels/direct-mail.md)
    + Canal e-mail{#email-channel}
@@ -113,7 +113,7 @@ ht-degree: 92%
    + Utiliser des fragments {#fragments}
       + [Gérer les fragments](/help/content-management/manage-fragments.md)
       + [Créer des fragments d’expression](/help/content-management/expression-fragments.md)
-      + [Ajout de texte enrichi à un fragment modifiable](/help/content-management/add-rich-text-to-editable-fragments.md)
+      + [Ajouter du texte enrichi à un fragment modifiable](/help/content-management/add-rich-text-to-editable-fragments.md)
       + [Utiliser des fragments de contenu AEM](/help/content-management/aem-content-fragments.md)
    + Modèles de contenu{#content-templates}
       + [Créer des modèles de contenu](/help/content-management/templates/create-content-templates.md)
@@ -141,7 +141,7 @@ ht-degree: 92%
       + [Présentation complète de la prise de décisions](/help/decisioning/decisioning-end-to-end.md)
       + [Naviguer dans l’interface du créateur de formules](/help/decisioning/formula-builder-ui.md)
       + [Personnalisation des offres avec des données météorologiques en temps réel](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [Utilisez la formule de classement pour diffuser des offres personnalisées](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [Utiliser une formule de classement pour diffuser des offres personnalisées](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
    + Gestion des décisions {#decision-management}
       + [Présentation de la gestion des décisions](/help/decision-management/introduction-to-decision-management.md)
       + [Démonstration des fonctionnalités de gestion des décisions](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -178,7 +178,7 @@ ht-degree: 92%
          + [Créer un groupe d’adresses IP](/help/set-up-channels/create-ip-pool.md)
          + [Configurer un sous-domaine](/help/set-up-channels/set-up-subdomain.md)
          + [Déléguer des sous-domaines CName](/help/set-up-channels/delegate-cname-subdomains.md)
-         + [Configurer un canal e-mail](/help/set-up-channels/configure-email-channel.md)
+         + [Configurer un canal E-mail](/help/set-up-channels/configure-email-channel.md)
          + [Configurer et exécuter un plan de préchauffage d’adresses IP](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + Canal SMS/MMS {#sms-mms-channel}
          + [Configurer des informations d’identification de l’API SMS et des surfaces de canal](/help/set-up-channels/set-up-sms-channel.md)
