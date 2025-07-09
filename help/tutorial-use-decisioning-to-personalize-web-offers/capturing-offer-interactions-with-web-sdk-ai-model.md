@@ -26,7 +26,7 @@ Avant de commencer, assurez-vous que les éléments suivants sont en place :
 
 - Une propriété Adobe Launch fonctionnelle avec l’extension Adobe Experience Platform Web SDK installée.
 
-- Un [flux de données](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset) configuré et mappé à votre sandbox AEP.
+- Un [flux de données](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset) configuré et mappé à votre sandbox AEP.
 
 - Site web sur lequel Launch est déployé.
 
@@ -35,7 +35,7 @@ Avant de commencer, assurez-vous que les éléments suivants sont en place :
 
 Pour collecter des événements d’expérience, vous devez d’abord créer un jeu de données où ces événements seront envoyés.
 
-Suivez les étapes mentionnées dans cet [article pour créer le schéma et le jeu de données requis](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)
+Suivez les étapes mentionnées dans cet [article pour créer le schéma et le jeu de données requis](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)
 
 ## Création d’un flux de données dans AEP
 
