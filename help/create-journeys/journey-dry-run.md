@@ -27,4 +27,4 @@ Ce tutoriel présente la fonctionnalité Exécution d’essai de Parcours dans A
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464681/?learn=on&enablevpops)
 
-Veuillez consulter la [documentation du produit](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run) pour plus d’informations sur cette fonctionnalité.
+Veuillez consulter la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run) pour plus d’informations sur cette fonctionnalité.
