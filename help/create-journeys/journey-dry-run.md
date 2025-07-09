@@ -25,6 +25,6 @@ ht-degree: 0%
 
 Ce tutoriel présente la fonctionnalité Exécution d’essai de Parcours dans Adobe Journey Optimizer, qui permet aux spécialistes marketing de tester la logique de parcours sans envoyer de communications réelles. Vous apprendrez à activer un parcours en mode d’exécution d’essai, à configurer des options telles que la désactivation des temps d’attente et des sources de données externes, et à interpréter les mesures de flux des profils pour valider la segmentation de l’audience et la logique conditionnelle. Découvrez comment identifier et résoudre les problèmes (tels que les fautes de frappe dans les nœuds de condition) et comment accéder aux rapports d’essai et les exporter pour une analyse plus approfondie avant de lancer le parcours en direct.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464681/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464684/?learn=on&enablevpops&captions=fre_fr)
 
 Veuillez consulter la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run) pour plus d’informations sur cette fonctionnalité.
