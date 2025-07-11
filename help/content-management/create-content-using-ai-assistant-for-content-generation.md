@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Découvrez comment utiliser l’assistant AI pour la génération de contenu afin de générer des suggestions proactives de variation de contenu pour le texte et les images.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434637/?learn=on&captions=fre_fr)
