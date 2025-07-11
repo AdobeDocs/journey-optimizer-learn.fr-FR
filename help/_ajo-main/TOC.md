@@ -3,9 +3,9 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: e4b289bcc7c9aac4f7993153d21ae0ad5e050d4e
+source-git-commit: ea0c8ff52b1f21fc0ce77871c6b32af42775fad9
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '841'
 ht-degree: 98%
 
 ---
@@ -185,7 +185,7 @@ ht-degree: 98%
          + [Configurer des informations d’identification de l’API SMS et des surfaces de canal](/help/set-up-channels/set-up-sms-channel.md)
          + [Configurer un fournisseur de SMS personnalisé](/help/set-up-channels/configure-custom-sms-provider.md)
          + [Configurer les informations d’identification de l’API MMS et des surfaces de canal](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
-         + [Configurer RCS pour l’entreprise](/help/set-up-channels/set-up-rcs.md)
+         + [Configuration de RCS](/help/set-up-channels/set-up-rcs.md)
       + Canaux mobile et web {#web-and-mobile-channels}
          + [Configuration guidée des canaux](/help/set-up-channels/guided-channel-setup.md)
    + Configurer des parcours {#journey-configuration}
