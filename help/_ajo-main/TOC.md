@@ -56,7 +56,7 @@ ht-degree: 98%
    + [Mettre à jour du contenu dans un parcours dynamique](/help/create-journeys/update-content-in-live-journey.md)
    + [Copier un parcours dans un autre sandbox](/help/create-journeys/copy-a-journey.md)
    + [Le parcours Déclencher quotidiennement s’exécute après la segmentation par lots.](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [Résolution des problèmes liés aux actions entrantes dans les parcours](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
+   + [Résolution des problèmes liés aux actions entrantes dans les parcours](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + Gestion des conflits {#conflict-management}
    + [Identifier les conflits potentiels](/help/conflict-management/identify-potential-conflicts.md)
    + [Attribuer des scores de priorité](/help/conflict-management/assign-priority-score.md)
@@ -208,7 +208,7 @@ ht-degree: 98%
    + [Appliquer les politiques d’utilisation des données aux canaux Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Masquer les données dans les messages](/help/privacy/mask-data-in-messages.md)
 + Exercices et défis {#exercises-and-challenges}
-   + [Configuration d’une sandbox de formation](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
+   + [Configuration d’une sandbox de formation](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [Défis](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
 + [Enregistrements en direct Experience League](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}

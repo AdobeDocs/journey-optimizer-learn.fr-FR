@@ -24,4 +24,4 @@ Dans ce tutoriel, vous apprendrez à activer et à appliquer un identifiant supp
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
 
-Pour plus d’informations sur les identifiants supplémentaires, consultez la [documentation du produit](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).
+Pour plus d’informations sur les identifiants supplémentaires, consultez la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).
