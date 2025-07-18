@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 032e1ac6bf969975e598f2a763cde94ba17856b0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '849'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 98%
    + [Créer un profil de test](/help/create-journeys/test-a-journey.md)
    + [Valider la logique du parcours en effectuant son test à blanc](/help/create-journeys/journey-dry-run.md)
    + [Publier un parcours](/help/create-journeys/publish-a-journey.md)
-   + [Déverrouiller la rentrée du parcours avec des ID supplémentaires](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
+   + [Déverrouiller la réintégration du parcours avec des ID supplémentaires](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [Mettre à jour du contenu dans un parcours dynamique](/help/create-journeys/update-content-in-live-journey.md)
    + [Copier un parcours dans un autre sandbox](/help/create-journeys/copy-a-journey.md)
    + [Le parcours Déclencher quotidiennement s’exécute après la segmentation par lots.](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
@@ -186,7 +186,7 @@ ht-degree: 98%
          + [Configurer des informations d’identification de l’API SMS et des surfaces de canal](/help/set-up-channels/set-up-sms-channel.md)
          + [Configurer un fournisseur de SMS personnalisé](/help/set-up-channels/configure-custom-sms-provider.md)
          + [Configurer les informations d’identification de l’API MMS et des surfaces de canal](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
-         + [Configuration de RCS](/help/set-up-channels/set-up-rcs.md)
+         + [Configurer les messages RCS](/help/set-up-channels/set-up-rcs.md)
       + Canaux mobile et web {#web-and-mobile-channels}
          + [Configuration guidée des canaux](/help/set-up-channels/guided-channel-setup.md)
    + Configurer des parcours {#journey-configuration}
