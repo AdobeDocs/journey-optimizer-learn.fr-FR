@@ -8,18 +8,18 @@ role: Developer
 level: Beginner
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 auto-video-transcripts: true
-source-git-commit: 0f49176c9295cf20721320386f37094a7bb3b38d
+source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '150'
 ht-degree: 9%
 
 ---
 
 
-# Tutoriel sur la combinaison d’identités dans AEP{#personalizing-offers-with-real-time-weather-data}
+# Tutoriel sur la personnalisation des offres avec des données météorologiques en temps réel à l’aide de Web SDK {#personalizing-offers-with-real-time-weather-data}
 
 + [Introduction](./introduction.md)
-+ [Créer un schéma, un jeu de données](./create-schema-and-dataset.md)
++ [Créer un schéma et un jeu de données](./create-schema-and-dataset.md)
 + [Créer une balise AEP](./create-aep-tags.md)
 + [Créer une catégorie de balises](./create-tag-category.md)
 + [Créer des offres](./create-offers.md)
