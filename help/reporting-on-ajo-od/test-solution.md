@@ -42,7 +42,7 @@ Ouvrez le fichier weather-offers.html dans l’éditeur de texte et remplacez la
 
 - Ouvrez la page web dans votre navigateur préféré.
 
-- Autoriser le _**suivi de l’emplacement**_. Cela est nécessaire pour obtenir les détails météorologiques en fonction de votre emplacement.
+- Autoriser le _&#x200B;**suivi de l’emplacement**&#x200B;_. Cela est nécessaire pour obtenir les détails météorologiques en fonction de votre emplacement.
 
 - Cliquez sur le bouton dans les offres pour déclencher l’événement d’interaction.
 

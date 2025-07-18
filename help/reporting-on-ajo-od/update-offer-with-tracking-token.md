@@ -18,13 +18,13 @@ ht-degree: 0%
 
 Pour modifier le code dans l’éditeur de personnalisation, procédez comme suit :
 
-Accédez à _**Gestion des Parcours ->Campagnes**_
+Accédez à _&#x200B;**Gestion des Parcours ->Campagnes**&#x200B;_
 
-Ouvrez la campagne appropriée et cliquez sur le bouton _**Arrêter la campagne**_ pour arrêter la campagne.
+Ouvrez la campagne appropriée et cliquez sur le bouton _&#x200B;**Arrêter la campagne**&#x200B;_ pour arrêter la campagne.
 
-Ouvrez la campagne arrêtée et cliquez sur le bouton _**Modifier la campagne**_.
+Ouvrez la campagne arrêtée et cliquez sur le bouton _&#x200B;**Modifier la campagne**&#x200B;_.
 
-Cliquez sur l’onglet _**Contenu**_ puis sur le bouton _**Modifier le code**_ pour ouvrir l’éditeur de personnalisation.
+Cliquez sur l’onglet _&#x200B;**Contenu**&#x200B;_ puis sur le bouton _&#x200B;**Modifier le code**&#x200B;_ pour ouvrir l’éditeur de personnalisation.
 
 Ajoutez deux nouveaux attributs de données à la balise div, comme illustré dans la capture d’écran
 ![jeton-suivi](assets/offer-item-with-tracking-code.png)

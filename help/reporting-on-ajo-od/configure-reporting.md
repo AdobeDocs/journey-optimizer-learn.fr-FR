@@ -21,6 +21,6 @@ Pour commencer la configuration des rapports pour Adobe Journey Optimizer Offer 
 
 - Connexion à Journey Optimizer
 
-- Accédez à _**Administration ->Configurations ->Rapports ->Gérer ->Ajouter un jeu de données**_
-- Sélectionnez le _**jeu de données-schéma-météo**_, qui stocke l’impression de l’offre et les événements de clic générés dans le tutoriel précédent.
+- Accédez à _&#x200B;**Administration ->Configurations ->Rapports ->Gérer ->Ajouter un jeu de données**&#x200B;_
+- Sélectionnez le _&#x200B;**jeu de données-schéma-météo**&#x200B;_, qui stocke l’impression de l’offre et les événements de clic générés dans le tutoriel précédent.
 

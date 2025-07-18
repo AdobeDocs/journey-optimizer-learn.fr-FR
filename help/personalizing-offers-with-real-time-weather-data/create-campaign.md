@@ -34,7 +34,7 @@ Lorsqu’un utilisateur visite le site web, le système détecte son emplacement
 - Création d’une configuration de canal
    - Définissez où et comment les offres s’affichent (par exemple, une page web avec une expérience basée sur du code).
    - Connexion à Parcours Optimizer
-   - Accédez à _**Administration ->Canaux->Créer une configuration de canal**_
+   - Accédez à _&#x200B;**Administration ->Canaux->Créer une configuration de canal**&#x200B;_
    - **Nom** : `offers-by-weather`\
      Identifie cette configuration pour la diffusion d&#39;offres web personnalisées.
 - **Canal** :
@@ -68,7 +68,7 @@ Ce paramètre utilise l’ECID comme identité principale pour reconnaître les 
 - **Créer une politique de décision**
    - L’action est liée à une **politique de décision** qui définit la manière dont les offres sont sélectionnées et le nombre d’offres renvoyées pour affichage. Cette stratégie utilise une **Stratégie de sélection** qui a été créée précédemment dans le tutoriel.
    - Pour insérer la politique de décision, cliquez sur **_Modifier le contenu_** dans les sections Actions , puis cliquez sur **_Modifier le code_** pour ouvrir l’éditeur de personnalisation.
-   - Sélectionnez l’icône _**Politique de décision**_ à gauche et cliquez sur le bouton **Ajouter une politique de décision** pour ouvrir l’écran **Créer une politique de décision**. Attribuez un nom significatif à la politique de décision et sélectionnez le nombre d’éléments que la politique de décision doit renvoyer. La valeur par défaut est 1.
+   - Sélectionnez l’icône _&#x200B;**Politique de décision**&#x200B;_ à gauche et cliquez sur le bouton **Ajouter une politique de décision** pour ouvrir l’écran **Créer une politique de décision**. Attribuez un nom significatif à la politique de décision et sélectionnez le nombre d’éléments que la politique de décision doit renvoyer. La valeur par défaut est 1.
    - Cliquez sur **_suivant_**, ajoutez la stratégie de sélection créée à l’étape précédente à la politique de décision et cliquez sur **suivant** pour terminer le processus de création de la politique de décision. Aucune offre de secours n’a été associée à la politique de décision.
 
 
@@ -76,7 +76,7 @@ Ce paramètre utilise l’ECID comme identité principale pour reconnaître les 
 - **Insérer une politique de décision**
   ![personalization-editor](assets/personalization-editor.png)
 
-  Insérez la nouvelle politique de décision en cliquant sur le bouton _**Insérer une politique**_. Vous insérez ainsi une boucle for dans l’éditeur de personnalisation sur le côté droit.
+  Insérez la nouvelle politique de décision en cliquant sur le bouton _&#x200B;**Insérer une politique**&#x200B;_. Vous insérez ainsi une boucle for dans l’éditeur de personnalisation sur le côté droit.
 Placez votre curseur entre les boucles de la ligne 2 et insérez le texte de l&#39;offre en accédant à l&#39;offre en descendant dans la `tenant name`. Encapsulez l’offre dans une balise &lt;div> avec l’élément d’offre de classe comme illustré dans la capture d’écran.
 
 
