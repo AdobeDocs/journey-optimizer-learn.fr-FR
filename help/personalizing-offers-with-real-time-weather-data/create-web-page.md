@@ -9,9 +9,9 @@ last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
+source-git-commit: 9c11ebd2e52de18792e9fa135db955eeeb243673
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -99,9 +99,13 @@ Le JavaScript récupère dynamiquement les informations météorologiques en fon
 
 6. **Récupère et effectue le rendu des offres**
 
-   reçoit les offres renvoyées par AJO ;
+   reçoit les offres renvoyées par AJO Decisioning ;
 
    Décode le contenu HTML.
 
    Injecte dynamiquement les offres dans le <div id="offerContainer"> element.
+
+## Étapes suivantes
+
+[Mesurez et générez des rapports sur l’impact d’AJO Decisioning.](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
 

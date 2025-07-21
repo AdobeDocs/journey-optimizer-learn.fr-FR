@@ -8,19 +8,20 @@ doc-type: Tutorial
 recommendations: noDisplay, noCatalog
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
-source-git-commit: 69bc8aace3cc502a18e691584824176833413c7e
+exl-id: 7e6014b5-c5a6-467b-8e31-58c5d966464c
+source-git-commit: ab60877bd5cb9eeeea45b1e1f08293d31929fc81
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '451'
 ht-degree: 0%
 
 ---
 
 # Capturer des événements d’impressions et d’interactions
 
-Pour activer le reporting sur les impressions et les clics d&#39;offre d&#39;AJO, les composants suivants doivent être configurés :
+Pour activer le reporting sur les impressions d&#39;offre et les clics provenant d&#39;AJO Decisioning, les composants suivants doivent être configurés :
 >[!NOTE]
 >
-> Ces conditions préalables ont déjà été remplies dans la section Créer un schéma et un jeu de données du [tutoriel précédent](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
+> Ces conditions préalables ont déjà été remplies dans la section Créer un schéma et un jeu de données du [tutoriel précédent](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
 
 ## &#x200B;1. Jeu de données dans Adobe Experience Platform (AEP)
 
