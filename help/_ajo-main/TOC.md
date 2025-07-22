@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 4a228623154a5422ba45ff1c0cc8be986787c0cb
+source-git-commit: 06c340b9fb0186821e2b56053ba6c9d7dcf56175
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 99%
+source-wordcount: '860'
+ht-degree: 98%
 
 ---
 
@@ -46,13 +46,14 @@ ht-degree: 99%
    + [Concepteur de parcours : vue d’ensemble](/help/create-journeys/journey-designer-overview.md)
    + [Découvrir le nouveau concepteur de parcours](/help/create-journeys/new-journey-designer.md)
    + [Présentation de la création d’un parcours](/help/create-journeys/introduction-to-building-a-journey.md)
+   + [Créer un profil de test](/help/create-journeys/test-a-journey.md)
+   + [Publier un parcours](/help/create-journeys/publish-a-journey.md)
    + [Cas d’utilisation : parcours transactionnel](/help/create-journeys/use-case-transactional-journey.md)
    + [Cas d’utilisation : événement métier](/help/create-journeys/use-case-business-event.md)
    + [Cas d’utilisation : lecture d’audience](/help/create-journeys/use-case-read-audience.md)
    + [Cas d’utilisation : qualification de l’audience](/help/create-journeys/use-case-audience-qualification.md)
-   + [Créer un profil de test](/help/create-journeys/test-a-journey.md)
+   + [Maîtriser le filtrage multi-attributs](/help/create-journeys/mastering-multi-attribute-filtering.md)
    + [Valider la logique du parcours en effectuant son test à blanc](/help/create-journeys/journey-dry-run.md)
-   + [Publier un parcours](/help/create-journeys/publish-a-journey.md)
    + [Déverrouiller la réintégration du parcours avec des ID supplémentaires](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [Mettre à jour du contenu dans un parcours dynamique](/help/create-journeys/update-content-in-live-journey.md)
    + [Copier un parcours dans un autre sandbox](/help/create-journeys/copy-a-journey.md)
