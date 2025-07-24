@@ -1,6 +1,6 @@
 ---
-title: Maîtriser le filtrage multi-attributs pour une gestion efficace des données
-description: Lorsque vous utilisez des schémas de recherche, vous devrez peut-être souvent filtrer une liste d’objets en fonction de plusieurs attributs. Cette vidéo explique comment effectuer un filtrage multi-attributs sur les schémas de recherche à l’aide de fonctions de filtre imbriqué. Cela s’avère particulièrement utile lorsque vous devez affiner une liste d’objets en fonction de plusieurs conditions, telles que le filtrage de produits dans un panier par identifiant et couleur.
+title: Maîtriser le filtrage multi-attribut pour une gestion efficace des données
+description: Lorsque vous utilisez des schémas de recherche, vous devrez peut-être souvent filtrer une liste d’objets en fonction de plusieurs attributs. Cette vidéo explique comment effectuer un filtrage multi-attribut sur des schémas de recherche à l’aide de fonctions filter() imbriquées. Cela se révèle particulièrement utile lorsque vous devez affiner une liste d’objets en fonction de plusieurs conditions, telles que le filtrage de produits dans un panier par identifiant et par couleur.
 feature: Journeys, Data Management
 role: User
 level: Beginner
@@ -8,16 +8,16 @@ doc-type: Technical Video
 duration: 173
 last-substantial-update: 2025-07-21T00:00:00Z
 jira: KT-18564
-source-git-commit: 48da316a65e04b398c9297f049f714e5ad862a8d
-workflow-type: tm+mt
+exl-id: 288bff70-3889-4230-920a-7681220ba9ec
+source-git-commit: 24a8289425ecfe4d6e71e30964e9861a567e40dd
+workflow-type: ht
 source-wordcount: '150'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Maîtriser le filtrage multi-attribut pour une gestion efficace des données
 
-# Maîtriser le filtrage multi-attributs pour une gestion efficace des données
-
-Lorsque vous utilisez des schémas de recherche, vous devrez peut-être souvent filtrer une liste d’objets en fonction de plusieurs attributs. Cette vidéo explique comment effectuer un filtrage multi-attributs sur les schémas de recherche à l’aide de fonctions de filtre imbriqué. Cela s’avère particulièrement utile lorsque vous devez affiner une liste d’objets en fonction de plusieurs conditions, telles que le filtrage de produits dans un panier par identifiant et couleur.
+Lorsque vous utilisez des schémas de recherche, vous devrez peut-être souvent filtrer une liste d’objets en fonction de plusieurs attributs. Cette vidéo explique comment effectuer un filtrage multi-attribut sur des schémas de recherche à l’aide de fonctions filter() imbriquées. Cela se révèle particulièrement utile lorsque vous devez affiner une liste d’objets en fonction de plusieurs conditions, telles que le filtrage de produits dans un panier par identifiant et par couleur.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3469312/?learn=on&enablevpops)

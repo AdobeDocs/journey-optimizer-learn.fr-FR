@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 06c340b9fb0186821e2b56053ba6c9d7dcf56175
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '860'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 98%
    + [Intégration des clientes et clients](/help/use-cases/customer-onboarding.md)
    + [Panier abandonné](/help/use-cases/abandoned-cart.md)
    + [Personnalisation des offres avec des données météorologiques en temps réel dans Adobe Journey Optimizer à l’aide du SDK Web](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Génération de rapports sur les impressions et les clics d’offre](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [Génération de rapports sur les impressions et les clics des offres](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Utiliser une formule de classement pour diffuser des offres personnalisées dans Journey Optimizer](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Améliorer l’engagement de la clientèle](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Évolution de l’orchestration à l’engagement omnicanal](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
@@ -52,7 +52,7 @@ ht-degree: 98%
    + [Cas d’utilisation : événement métier](/help/create-journeys/use-case-business-event.md)
    + [Cas d’utilisation : lecture d’audience](/help/create-journeys/use-case-read-audience.md)
    + [Cas d’utilisation : qualification de l’audience](/help/create-journeys/use-case-audience-qualification.md)
-   + [Maîtriser le filtrage multi-attributs](/help/create-journeys/mastering-multi-attribute-filtering.md)
+   + [Maîtriser le filtrage multi-attribut](/help/create-journeys/mastering-multi-attribute-filtering.md)
    + [Valider la logique du parcours en effectuant son test à blanc](/help/create-journeys/journey-dry-run.md)
    + [Déverrouiller la réintégration du parcours avec des ID supplémentaires](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [Mettre à jour du contenu dans un parcours dynamique](/help/create-journeys/update-content-in-live-journey.md)
