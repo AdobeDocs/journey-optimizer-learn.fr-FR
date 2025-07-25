@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
 exl-id: 7e6014b5-c5a6-467b-8e31-58c5d966464c
-source-git-commit: ab60877bd5cb9eeeea45b1e1f08293d31929fc81
+source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
 workflow-type: tm+mt
 source-wordcount: '451'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 Pour activer le reporting sur les impressions d&#39;offre et les clics provenant d&#39;AJO Decisioning, les composants suivants doivent être configurés :
 >[!NOTE]
 >
-> Ces conditions préalables ont déjà été remplies dans la section Créer un schéma et un jeu de données du [tutoriel précédent](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
+> Ces conditions préalables ont déjà été remplies dans la section Créer un schéma et un jeu de données du [tutoriel précédent](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
 
 ## &#x200B;1. Jeu de données dans Adobe Experience Platform (AEP)
 
@@ -72,6 +72,10 @@ Une impression se produit lorsqu’une offre est rendue sur la page et devient v
                 decisioning: {
                   propositionEventType: {
                     display: 1
+                  },
+                    propositionAction: {
+                            id: offerId,
+                            tokens: [trackingToken]
                   },
                   
                    propositions: window.latestPropositions

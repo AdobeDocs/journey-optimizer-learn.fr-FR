@@ -9,18 +9,18 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 894ad6b7-c4b4-465e-8535-3fdcd77e00eb
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 9%
+source-wordcount: '235'
+ht-degree: 10%
 
 ---
 
 # Envoyer le CRMID à Adobe Experience Platform
 
-Adobe Launch (balises) est utilisé pour envoyer le CRMID à Adobe Experience Platform (AEP), car il fournit un mécanisme flexible, piloté par les événements, pour transmettre des données d’identité directement depuis le navigateur. L’envoi d’un CRMID après la connexion de l’utilisateur permet à AEP de lier l’ECID anonyme au profil CRM connu, ce qui permet un regroupement précis des identités. Ce lien constitue la base de la création de profils clients unifiés, de la qualification des audiences et de la diffusion d’expériences personnalisées en temps réel dans Adobe Journey Optimizer (AJO).
+Adobe Experience Platform Tags est utilisé pour envoyer le CRMID à Adobe Experience Platform (AEP), car il fournit un mécanisme flexible piloté par les événements pour transmettre des données d’identité directement depuis le navigateur. L’envoi d’un CRMID après la connexion de l’utilisateur permet à AEP de lier l’ECID anonyme au profil CRM connu, ce qui permet un regroupement précis des identités. Ce lien constitue la base de la création de profils clients unifiés, de la qualification des audiences et de la diffusion d’expériences personnalisées en temps réel dans Adobe Journey Optimizer (AJO).
 
-Une propriété AEP Tags appelée FinWise est créée. Les extensions suivantes ont été ajoutées à la propriété Tags
+Une propriété Experience Platform Tags appelée _**FinWise**_ est créée. Les extensions suivantes ont été ajoutées à la propriété Tags
 
 ![tags-extensions](assets/tags-extensions.png)
 

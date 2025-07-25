@@ -9,18 +9,18 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 244fcb09-3b16-4e3b-b335-4e84bc93095e
-source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
+source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 2%
+source-wordcount: '496'
+ht-degree: 3%
 
 ---
 
-# Création de balises AEP
+# Création de balises Adobe Experience Platform
 
 Les balises Adobe Experience Platform (anciennement Adobe Launch) permettent de gérer et de déployer* des technologies de marketing et d’analyse sur votre site web sans avoir à modifier le code du site.
 
-Cette [ vidéo décrit le processus de création d’Adobe Experience Tags](https://experienceleague.adobe.com/fr/playlists/experience-platform-get-started-with-tags)
+Cette [ vidéo décrit le processus de création d’Adobe Experience Tags](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 * Connexion à la collecte de données
 * Cliquez sur Balises -> Nouvelle propriété .
