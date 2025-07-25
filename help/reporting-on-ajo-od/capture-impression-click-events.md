@@ -21,7 +21,7 @@ ht-degree: 0%
 Pour activer le reporting sur les impressions d&#39;offre et les clics provenant d&#39;AJO Decisioning, les composants suivants doivent être configurés :
 >[!NOTE]
 >
-> Ces conditions préalables ont déjà été remplies dans la section Créer un schéma et un jeu de données du [tutoriel précédent](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
+> Ces conditions préalables ont déjà été remplies dans la section Créer un schéma et un jeu de données du [tutoriel précédent](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
 
 ## &#x200B;1. Jeu de données dans Adobe Experience Platform (AEP)
 
