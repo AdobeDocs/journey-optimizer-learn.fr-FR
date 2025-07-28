@@ -41,7 +41,7 @@ Au lieu de créer un schéma, le schéma d’événement d’expérience existan
 
 Dans Adobe Experience Platform :
 
-- Ouvrez le schéma d’événement d’expérience _**Weather-Schema**_ existant que vous utilisez pour les offres basées sur la météo.
+- Ouvrez le schéma d’événement d’expérience _&#x200B;**Weather-Schema**&#x200B;_ existant que vous utilisez pour les offres basées sur la météo.
 
 - Ajoutez le groupe de champs :
 Événement d’expérience - Interactions de propositions
