@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 06c340b9fb0186821e2b56053ba6c9d7dcf56175
-workflow-type: ht
-source-wordcount: '860'
-ht-degree: 100%
+source-git-commit: d84462b08d8abac74f9fa1147f6d10a05922520b
+workflow-type: tm+mt
+source-wordcount: '888'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 + Cas d’utilisation {#use-cases}
    + [Intégration des clientes et clients](/help/use-cases/customer-onboarding.md)
    + [Panier abandonné](/help/use-cases/abandoned-cart.md)
+   + [Réengagement intelligent - Navigation abandonnée](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Personnalisation des offres avec des données météorologiques en temps réel dans Adobe Journey Optimizer à l’aide du SDK Web](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [Génération de rapports sur les impressions et les clics des offres](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Utiliser une formule de classement pour diffuser des offres personnalisées dans Journey Optimizer](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -107,6 +108,10 @@ ht-degree: 100%
       + [Créer une campagne web](/help/channels/create-a-web-campaign.md)
       + [Créer une campagne web](/help/channels/author-a-web-campaign.md)
       + [Prise en charge des applications à une seule page (SPA) dans l’éditeur web](/help/channels/singel-page-application-support.md)
+   + WhatsApp {#whatsapp}
+      + [Présentation du canal WhatsApp](/help/channels/whatsapp-introduction.md)
+      + [Configurer le canal WhatsApp](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel)
+      + [Création d&#39;un parcours WhatsApp](/help/channels/create-a-whatsapp-journey.md)
 + Gestion de contenu{#content-management}
    + [Création de messages : vue d’ensemble](/help/content-management/message-authoring-overview.md)
    + Gérer les ressources {#assets}
@@ -191,6 +196,8 @@ ht-degree: 100%
          + [Configurer les messages RCS](/help/set-up-channels/set-up-rcs.md)
       + Canaux mobile et web {#web-and-mobile-channels}
          + [Configuration guidée des canaux](/help/set-up-channels/guided-channel-setup.md)
+      + Canal WhatsApp {#whatsapp-channel}
+         + [Configurer le canal WhatsApp](/help/set-up-channels/set-up-whatsapp-channel.md)
    + Configurer des parcours {#journey-configuration}
       + [Configurer les sources de données](/help/set-up-journeys/configure-data-sources.md)
       + [Créer des événements](/help/set-up-journeys/create-events.md)
