@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Découvrez comment tirer parti de l’optimisation des messages dans les campagnes déclenchées par une action ou une API. Vous découvrirez comment cibler des sous-audiences, créer des variations de message par emplacement, activer le contenu de secours et exécuter plusieurs expériences au sein d’une seule campagne. Ce tutoriel explique également comment gérer des campagnes multicanal tout en préservant la cohérence des messages.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470370/?learn=on&enablevpops&captions=fre_fr)
