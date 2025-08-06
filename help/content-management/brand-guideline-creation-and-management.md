@@ -24,4 +24,4 @@ Découvrez comment créer et personnaliser vos propres marques pour définir cla
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470544/?learn=on&enablevpops)
 
-Pour plus d’informations sur cette fonctionnalité, consultez la [documentation du produit](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands).
+Pour plus d’informations sur cette fonctionnalité, consultez la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands).
