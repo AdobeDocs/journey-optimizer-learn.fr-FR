@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 202cc6731ee1a587b62125b2916131521b6f3343
+source-git-commit: 313784a49c81d0aef3e256f5a02c233fd47d9ab6
 workflow-type: tm+mt
-source-wordcount: '905'
-ht-degree: 95%
+source-wordcount: '910'
+ht-degree: 94%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 95%
 + Cas d’utilisation {#use-cases}
    + [Intégration des clientes et clients](/help/use-cases/customer-onboarding.md)
    + [Panier abandonné](/help/use-cases/abandoned-cart.md)
-   + [Réengagement intelligent - Navigation abandonnée](https://experienceleague.adobe.com/fr/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [Réengagement intelligent - Navigation abandonnée](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Personnalisation des offres avec des données météorologiques en temps réel dans Adobe Journey Optimizer à l’aide du SDK Web](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [Génération de rapports sur les impressions et les clics des offres](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Utiliser une formule de classement pour diffuser des offres personnalisées dans Journey Optimizer](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -138,6 +138,7 @@ ht-degree: 95%
    + Assistant IA pour la génération de contenu {#ai-assistant}
       + [Assistant IA pour la génération de contenu : vue d’ensemble](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [Créer du contenu avec l’Assistant IA pour la génération de contenu](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
+      + [Création et gestion des directives relatives à la marque](/help/content-management/brand-guideline-creation-and-management.md)
    + [Expérimentation : vue d’ensemble](/help/content-management/experimentation-overview.md)
    + [Créer un e-mail à l’aide de GenStudio](/help/content-management/create-an-email-using-genstudio.md)
 + Personnaliser le contenu {#personalize-content}
