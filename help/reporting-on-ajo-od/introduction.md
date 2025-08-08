@@ -8,14 +8,14 @@ doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
 exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
-source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
+source-git-commit: 39376d745d851bf2c3ed3826b9f550efafd9e8f4
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
 
-# Suivre et générer des rapports sur les offres Adobe Journey Optimizer (AJO) diffusées via AJO Decisioning
+# Suivre et générer des rapports sur les offres Journey Optimizer diffusées via AJO Decisioning
 
 Ce cas pratique se concentre sur l’activation des rapports et de l’analyse des performances pour les offres diffusées via Adobe Journey Optimizer (AJO). Lorsque les offres sont personnalisées et diffusées en fonction de signaux contextuels (tels que la météo ou la localisation), il est essentiel de suivre les impressions et les interactions des utilisateurs pour évaluer leur efficacité.
 
