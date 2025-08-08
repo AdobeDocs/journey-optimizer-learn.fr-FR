@@ -20,4 +20,4 @@ ht-degree: 100%
 
 La vidéo donne une vue d’ensemble détaillée de l’intérêt qui existe à intégrer WhatsApp à Adobe Journey Optimizer. Elle souligne la portée globale de WhatsApp et ses avantages en termes d’engagement, et décrit les conditions préalables essentielles telles que la création d’un compte WhatsApp Business, la génération de jetons d’accès et la création de modèles de messages.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470296/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470298/?learn=on&enablevpops&captions=fre_fr)
