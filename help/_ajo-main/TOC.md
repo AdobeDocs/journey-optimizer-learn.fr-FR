@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 313784a49c81d0aef3e256f5a02c233fd47d9ab6
 workflow-type: tm+mt
 source-wordcount: '910'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 94%
 + Cas d’utilisation {#use-cases}
    + [Intégration des clientes et clients](/help/use-cases/customer-onboarding.md)
    + [Panier abandonné](/help/use-cases/abandoned-cart.md)
-   + [Réengagement intelligent - Navigation abandonnée](https://experienceleague.adobe.com/fr/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [Réengagement intelligent - Abandon de la navigation](https://experienceleague.adobe.com/fr/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Personnalisation des offres avec des données météorologiques en temps réel dans Adobe Journey Optimizer à l’aide du SDK Web](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [Génération de rapports sur les impressions et les clics des offres](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Utiliser une formule de classement pour diffuser des offres personnalisées dans Journey Optimizer](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -43,8 +43,8 @@ ht-degree: 94%
       + [Créer une campagne web](/help/create-campaigns/web-campaign.md)
       + [Créer une expérience de campagne basée sur le code](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [Créer des expériences de contenu pour les campagnes par e-mail](/help/create-campaigns/content-experiments.md)
-      + [Tirer parti de l’optimisation des messages dans une campagne](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
-   + Campagnes déclenchées par l’API {#api-triggered-campaigns}
+      + [Optimiser les messages dans une campagne](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
+   + Campagnes déclenchées par API {#api-triggered-campaigns}
       + [Déclencher des campagnes à l’aide d’API](/help/create-campaigns/api-triggered-campaigns.md)
    + Campagnes orchestrées {#orchestrated-campaigns}
 + Parcours {#create-journeys}
@@ -113,10 +113,10 @@ ht-degree: 94%
       + [Créer une campagne web](/help/channels/author-a-web-campaign.md)
       + [Prise en charge des applications à une seule page (SPA) dans l’éditeur web](/help/channels/singel-page-application-support.md)
    + WhatsApp {#whatsapp}
-      + [Prise en main de WhatsApp (de bout en bout)](/help/channels/get-started-with-whatsapp-in-ajo.md)
+      + [Commencer avec WhatsApp (de bout en bout)](/help/channels/get-started-with-whatsapp-in-ajo.md)
       + [Présentation du canal WhatsApp](/help/channels/whatsapp-introduction.md)
       + [Configurer le canal WhatsApp](/help/channels/set-up-whatsapp.md)
-      + [Création d&#39;un parcours WhatsApp](/help/channels/create-a-whatsapp-journey.md)
+      + [Créer un parcours WhatsApp](/help/channels/create-a-whatsapp-journey.md)
 + Gestion de contenu{#content-management}
    + [Création de messages : vue d’ensemble](/help/content-management/message-authoring-overview.md)
    + Gérer les ressources {#assets}
