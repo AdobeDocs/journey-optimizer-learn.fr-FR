@@ -1,6 +1,6 @@
 ---
-title: Prise en main de WhatsApp dans Adobe Journey Optimizer
-description: Découvrez comment intégrer WhatsApp en tant que canal natif dans Adobe Journey Optimizer pour diffuser des messages sécurisés, personnalisés et en temps réel à grande échelle.
+title: Commencer avec WhatsApp dans Adobe Journey Optimizer
+description: Découvrez comment intégrer WhatsApp en tant que canal natif dans Adobe Journey Optimizer pour diffuser des messages sécurisés, personnalisés et en temps réel à grande échelle.
 feature: Whatsapp
 role: Admin, User
 level: Beginner, Intermediate, Experienced
@@ -9,25 +9,25 @@ duration: 598
 last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-18657
 hidefromtoc: true
-source-git-commit: e21d18dea5e34d8647fdc7028a5ab5d47420fa33
-workflow-type: tm+mt
+exl-id: 0edd792a-14e5-4fb4-94e0-f032be89d267
+source-git-commit: e0aee000736f2e1d2ac290c4e24b2e0de95753a0
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Commencer avec WhatsApp dans Adobe Journey Optimizer
 
-# Prise en main de WhatsApp dans Adobe Journey Optimizer
+Découvrez comment intégrer WhatsApp en tant que canal natif dans Adobe Journey Optimizer pour diffuser des messages sécurisés, personnalisés et en temps réel à grande échelle.
 
-Découvrez comment intégrer WhatsApp en tant que canal natif dans Adobe Journey Optimizer pour diffuser des messages sécurisés, personnalisés et en temps réel à grande échelle.
+Dans ce tutoriel, vous découvrirez comment réaliser les opérations suivantes :
 
-Dans ce tutoriel, vous découvrirez comment :
+* Configurer votre compte WhatsApp Business et le connecter à Journey Optimizer.
+* Configurer les informations d’identification d’API, les webhooks et les paramètres des canaux.
+* Créer et personnaliser les parcours WhatsApp à l’aide de modèles de messages approuvés.
+* Tester, prévisualiser et publier des campagnes avec des rapports et des analyses intégrés.
 
-* Configurez votre compte professionnel WhatsApp et connectez-le à Journey Optimizer.
-* Configurez les informations d’identification d’API, les Webhooks et les paramètres de canal.
-* Créez et personnalisez des parcours WhatsApp en utilisant des modèles de messages approuvés.
-* Testez, prévisualisez et publiez des campagnes à l’aide de rapports et d’analyses intégrés.
+Idéal pour les responsables marketing qui cherchent à étendre leur portée et leur engagement en utilisant l’une des plateformes de messagerie les plus populaires au monde.
 
-Parfait pour les professionnels du marketing qui cherchent à étendre leur portée et leur engagement via l’une des plateformes de messagerie les plus populaires au monde.
-
->[!VIDEO](https://video.tv.adobe.com/v/3470246/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3470244/?learn=on&enablevpops)
