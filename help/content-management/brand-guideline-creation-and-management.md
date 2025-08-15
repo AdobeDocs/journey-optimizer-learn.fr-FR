@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Découvrez comment créer et personnaliser vos propres marques pour définir clairement votre identité visuelle et verbales dans les communications. Vous saurez comment recevoir des commentaires en temps réel sur l’adéquation entre votre contenu et le ton, le style et les directives de votre marque, grâce au score d’alignement sur la marque.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470544/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470548/?learn=on&enablevpops&captions=fre_fr)
 
 Pour plus d’informations sur cette fonctionnalité, consultez la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands).
