@@ -30,7 +30,7 @@ Configurez les canaux mobiles dans Journey Optimizer et Experience Platform, int
 
 ## Fonctionnalités mobiles dans Adobe Journey Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/342103?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344615?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 ## SDK mobile et configuration de l’application
 
@@ -89,7 +89,7 @@ Découvrez comment le canal configure vos **canaux mobiles** à l’aide de la f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="Configurer le canal WhatsApp" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470268/?format=jpeg&nocache=1755888511569" alt="Configurer le canal WhatsApp"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470270/?format=jpeg&nocache=1755888511569&captions=fre_fr" alt="Configurer le canal WhatsApp"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -126,7 +126,7 @@ Découvrez comment configurer les **canaux SMS/MMS/RCS** avec les fournisseurs s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="Configurer des informations d’identification de l’API SMS et des surfaces de canal" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413355?format=jpeg&nocache=1755888512031" alt="Configurer des informations d’identification de l’API SMS et des surfaces de canal"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418545?format=jpeg&nocache=1755888512031&captions=fre_fr" alt="Configurer des informations d’identification de l’API SMS et des surfaces de canal"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -172,7 +172,7 @@ Découvrez comment configurer les **canaux SMS/MMS/RCS** avec les fournisseurs s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="Configurer les informations d’identification de l’API MMS et des surfaces de canal" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428872/?format=jpeg&nocache=1755888512061" alt="Configurer les informations d’identification de l’API MMS et des surfaces de canal"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438048/?format=jpeg&nocache=1755888512061&captions=fre_fr" alt="Configurer les informations d’identification de l’API MMS et des surfaces de canal"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -195,7 +195,7 @@ Découvrez comment configurer les **canaux SMS/MMS/RCS** avec les fournisseurs s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Configurer des messages RCS dans Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1755888512073" alt="Configurer des messages RCS dans Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464757/?format=jpeg&nocache=1755888512073&captions=fre_fr" alt="Configurer des messages RCS dans Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -259,7 +259,7 @@ Découvrez comment configurer les **canaux SMS/MMS/RCS** avec les fournisseurs s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" title="Vue d’ensemble des cadres de gouvernance des données" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29708/?format=jpeg&nocache=1755888512557" alt="Vue d’ensemble des cadres de gouvernance des données"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/33154/?format=jpeg&nocache=1755888512557&captions=fre_fr" alt="Vue d’ensemble des cadres de gouvernance des données"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -282,7 +282,7 @@ Découvrez comment configurer les **canaux SMS/MMS/RCS** avec les fournisseurs s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" title="Classer les données à l’aide de libellés" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29709?format=jpeg&nocache=1755888512540" alt="Classer les données à l’aide de libellés"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422795?format=jpeg&nocache=1755888512540&captions=fre_fr" alt="Classer les données à l’aide de libellés"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -305,7 +305,7 @@ Découvrez comment configurer les **canaux SMS/MMS/RCS** avec les fournisseurs s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" title="Créer des politiques d’utilisation des données" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32977/?format=jpeg&nocache=1755888512550" alt="Créer des politiques d’utilisation des données"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/37130/?format=jpeg&nocache=1755888512550&captions=fre_fr" alt="Créer des politiques d’utilisation des données"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
