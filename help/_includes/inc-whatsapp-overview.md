@@ -1,5 +1,5 @@
 ---
-source-git-commit: 0ce6d5013bbcf55e49ae920670919f6929a142ec
+source-git-commit: 6aa7b4c72ce5bd72002ad88ba88a20f32d54c360
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 4%
@@ -32,7 +32,7 @@ Choisissez WhatsApp comme votre canal préféré lorsque vous devez :
 | 4 | Maintenir la conformité et la confiance | Les messages sont diffusés via une API officielle avec des exigences d’opt-in strictes | <ul><li>Confirmations d’abonnement</li><li>Notifications réglementaires</li></ul> |
 | 5 | Intégration à d’autres canaux | Combinaison avec les e-mails, notifications push ou SMS pour des parcours multicanaux transparents | <ul><li>Réengagement cross-canal</li><li>Suivi des paniers abandonnés</li></ul> |
 
-## Quand ne pas utiliser WhatsApp
+## Quand *pas* utiliser WhatsApp
 
 * Si votre audience n&#39;utilise pas activement WhatsApp.
 * Lorsque les utilisateurs n&#39;ont pas explicitement choisi de recevoir des messages WhatsApp.

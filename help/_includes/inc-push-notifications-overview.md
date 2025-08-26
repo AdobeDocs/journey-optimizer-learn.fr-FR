@@ -1,5 +1,5 @@
 ---
-source-git-commit: b4262722d7ebffb936a95425baab219bb40775fa
+source-git-commit: 6aa7b4c72ce5bd72002ad88ba88a20f32d54c360
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 2%
@@ -33,7 +33,7 @@ Choisissez les notifications push comme canal de messagerie préféré lorsque v
 | 5 | Utilisation des fonctionnalités natives de l’appareil | Les notifications push s’intègrent aux fonctionnalités du système d’exploitation iOS/Android telles que les vibrations, les sons, les badges et les déclencheurs de géorepérage. | <ul><li> Offres basées sur la localisation à proximité d’un magasin</li><li> Rappels déclenchés à des moments spécifiques.</li></ul> |
 | 6 | Quand l’opt-in est probable | La notification push ne fonctionne que pour les utilisateurs ayant explicitement accepté l’extension. Si l&#39;application offre une valeur élevée ou si la marque a déjà confiance, les taux d&#39;opt-in peuvent être élevés. | <ul><li> Applications avec bases d’utilisateurs fidèles</li><li> Flux d’intégration qui expliquent la valeur des notifications.</li></ul> |
 
-## Quand NE PAS utiliser la notification push comme canal principal
+## Si ce n’est *le cas* utiliser la notification push comme canal principal.
 
 * Faibles taux d’opt-in ou résistance des utilisateurs aux notifications.
 * Nécessité d’un contenu de forme longue (l’e-mail peut être préférable).
