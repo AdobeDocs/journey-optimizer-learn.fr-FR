@@ -28,4 +28,4 @@ Ce tutoriel explique comment modifier des images directement dans AJO, ajouter d
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457695/?learn=on&enablevpops)
 
-Pour plus d’informations sur cette fonctionnalité, consultez la [documentation du produit](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem-dynamic).
+Pour plus d’informations sur cette fonctionnalité, consultez la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/combine/aem-dynamic).
