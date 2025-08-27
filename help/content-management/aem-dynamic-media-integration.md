@@ -13,10 +13,10 @@ hidefromtoc: false
 hide: false
 index: true
 exl-id: bb544d0d-4c11-412c-afa9-377d784c33e2
-source-git-commit: dbe14c7a6a4a2197a6954a9920508a152dc65fc5
-workflow-type: ht
-source-wordcount: '101'
-ht-degree: 100%
+source-git-commit: acae9aa0518d4bae7e028a8480f111eb291a9172
+workflow-type: tm+mt
+source-wordcount: '113'
+ht-degree: 89%
 
 ---
 
@@ -26,4 +26,6 @@ Découvrez comment intégrer Adobe Experience Manager Dynamic Media à Adobe
 
 Ce tutoriel explique comment modifier des images directement dans AJO, ajouter des superpositions de texte à l’aide du mode HTML, créer des modèles Dynamic Media dans AEM à des fins d’hyper-personnalisation et personnaliser des campagnes en adaptant le contenu à différents segments d’audience. Cette intégration permet aux spécialistes du marketing de créer efficacement des campagnes attrayantes et personnalisées sans passer d’une application à l’autre.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463784/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3457695/?learn=on&enablevpops)
+
+Pour plus d’informations sur cette fonctionnalité, consultez la [documentation du produit](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem-dynamic).
