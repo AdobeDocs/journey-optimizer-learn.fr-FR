@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment effectuer le suivi des performances d’un parcours individuel et comment les utilisateurs et utilisatrices interagissent avec les différentes étapes d’un parcours, y compris les statistiques d’entrée et de sortie, les erreurs et les actions exécutées.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470710/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471465/?learn=on&enablevpops&captions=fre_fr)
