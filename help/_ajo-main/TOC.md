@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: b46e2f77012fd1032f4d434132ee3263489b39a8
+source-git-commit: 7749164744a667433d93ea8f33d2278863ab275e
 workflow-type: tm+mt
-source-wordcount: '926'
-ht-degree: 97%
+source-wordcount: '951'
+ht-degree: 95%
 
 ---
 
@@ -14,16 +14,6 @@ ht-degree: 97%
 # Tutoriels de Journey Optimizer {#tutorials}
 
 + [Tutoriels de Journey Optimizer](/help/_ajo-main/overview.md)
-+ Cas d’utilisation {#use-cases}
-   + [Intégration des clientes et clients](/help/use-cases/customer-onboarding.md)
-   + [Panier abandonné](/help/use-cases/abandoned-cart.md)
-   + [Réengagement intelligent - Abandon de la navigation](https://experienceleague.adobe.com/fr/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
-   + [Personnalisation des offres avec des données météorologiques en temps réel dans Adobe Journey Optimizer à l’aide du SDK Web](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Génération de rapports sur les impressions et les clics des offres](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
-   + [Utiliser une formule de classement pour diffuser des offres personnalisées dans Journey Optimizer](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
-   + [Améliorer l’engagement de la clientèle](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
-   + [Évolution de l’orchestration à l’engagement omnicanal](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-+ Playbooks de cas d’utilisation {#use-case-playbooks}
    + [Vue d’ensemble](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
    + [Configurer un sandbox de playbook](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
    + [Créer et publier des instances de playbook](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
@@ -37,16 +27,17 @@ ht-degree: 97%
    + [Obtenir de l’aide avec l’assistant IA](/help/ai-agents/ai-assistant.md)
 + Campagnes {#create-campaigns}
    + Campagnes d’action {#action-campaigns}
-      + [Créer une campagne](/help/create-campaigns/create-a-campaign.md)
-      + [Créer une campagne in-app](/help/create-campaigns/in-app.md)
-      + [Configurer et envoyer une campagne de notifications push](/help/create-campaigns/push-campaign.md)
-      + [Créer une campagne web](/help/create-campaigns/web-campaign.md)
+      + [Créer une campagne](/help/campaigns/action-campaigns/create-a-campaign.md)
+      + [Créer une campagne in-app](/help/campaigns/action-campaigns/in-app.md)
+      + [Configurer et envoyer une campagne de notifications push](/help/campaigns/action-campaigns/push-campaign.md)
+      + [Créer une campagne web](/help/campaigns/action-campaigns/web-campaign.md)
       + [Créer une expérience de campagne basée sur le code](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
-      + [Créer des expériences de contenu pour les campagnes par e-mail](/help/create-campaigns/content-experiments.md)
       + [Optimiser les messages dans une campagne](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
    + Campagnes déclenchées par API {#api-triggered-campaigns}
       + [Déclencher des campagnes à l’aide d’API](/help/create-campaigns/api-triggered-campaigns.md)
    + Campagnes orchestrées {#orchestrated-campaigns}
+      + [Présentation des campagnes orchestrées](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
+      + [Présentation des schémas relationnels](/help/orchestrated-campaigns/understand-relational-schemas.md)
 + Parcours {#create-journeys}
    + [Concepteur de parcours : vue d’ensemble](/help/create-journeys/journey-designer-overview.md)
    + [Découvrir le nouveau concepteur de parcours](/help/create-journeys/new-journey-designer.md)
@@ -64,7 +55,7 @@ ht-degree: 97%
    + [Copier un parcours dans un autre sandbox](/help/create-journeys/copy-a-journey.md)
    + [Le parcours Déclencher quotidiennement s’exécute après la segmentation par lots.](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
    + [Résolution des problèmes liés aux actions entrantes dans les parcours](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
-+ Gestion des conflits {#conflict-management}
++ Gestion des conflits et hiérarchisation {#conflict-management}
    + [Identifier les conflits potentiels](/help/conflict-management/identify-potential-conflicts.md)
    + [Attribuer des scores de priorité](/help/conflict-management/assign-priority-score.md)
    + [Capping de la fréquence et hiérarchisation des parcours](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
@@ -139,7 +130,6 @@ ht-degree: 97%
       + [Assistant IA pour la génération de contenu : vue d’ensemble](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [Créer du contenu avec l’Assistant IA pour la génération de contenu](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
       + [Création et gestion des directives relatives à la marque](/help/content-management/brand-guideline-creation-and-management.md)
-   + [Expérimentation : vue d’ensemble](/help/content-management/experimentation-overview.md)
    + [Créer un e-mail à l’aide de GenStudio](/help/content-management/create-an-email-using-genstudio.md)
 + Personnaliser le contenu {#personalize-content}
    + [Éditeur de personnalisation : vue d’ensemble](/help/personalize-content/personalization-editor-overview.md)
@@ -150,6 +140,9 @@ ht-degree: 97%
    + [Utilisation et gestion des expressions enregistrées dans la bibliothèque de personnalisation](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Créer du contenu dynamique à l’aide du créateur de règles de condition](/help/personalize-content/create-dynamic-content.md)
    + [Terrain de jeu de l’éditeur de personnalisation](/help/personalize-content/personalization-editor-playground.md)
++ Expérimentation {#experimentation}
+   + [Présentation de l’expérimentation](/help/experimentation/introduction-to-experimentation.md)
+   + [Créer des expériences de contenu pour les campagnes par e-mail](/help/experimentation/content-experiments-for-emails.md)
 + Fonctionnalités de décision{#decision-capabilities}
    + Prise de décisions {#decisioning}
       + [Présentation de la prise de décisions](/help/decisioning/introduction-to-decisioning.md)
@@ -224,12 +217,24 @@ ht-degree: 97%
    + [Créer des politiques d’utilisation des données](/help/privacy/create-data-usage-policies.md)
    + [Appliquer les politiques d’utilisation des données aux canaux Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Masquer les données dans les messages](/help/privacy/mask-data-in-messages.md)
-+ Exercices et défis {#exercises-and-challenges}
++ Cas d’utilisation et bonnes pratiques{#use-cases}
+   + [Intégration des clientes et clients](/help/use-cases/customer-onboarding.md)
+   + [Panier abandonné](/help/use-cases/abandoned-cart.md)
+   + [Réengagement intelligent - Abandon de la navigation](https://experienceleague.adobe.com/fr/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [Personnalisation des offres avec des données météorologiques en temps réel dans Adobe Journey Optimizer à l’aide du SDK Web](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [Génération de rapports sur les impressions et les clics des offres](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [Utiliser une formule de classement pour diffuser des offres personnalisées dans Journey Optimizer](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [Améliorer l’engagement de la clientèle](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
+   + [Évolution de l’orchestration à l’engagement omnicanal](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + Playbooks de cas d’utilisation {#use-case-playbooks}
+      + [Vue d’ensemble](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+      + [Configurer un sandbox de playbook](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+      + [Créer et publier des instances de playbook](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
++ Exercices, laboratoires et défis {#exercises-and-challenges}
    + [Configuration d’une sandbox de formation](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [Défis](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
-+ [Enregistrements en direct Experience League](/help/_ajo-main/experience-league-live-show-recordings.md)
-+ Summit Labs {#summit-labs}
-   + [Aide-mémoire du Summit lab 2025](/help/summit-lab-assets/l535-assets.md)
-   + [Créer des instants mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-
+   + Summit Labs {#summit-labs}
+      + [Créer des instants mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+      + [Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
++ Sessions en direct et plongées approfondies {#live-sessions-and-deep-dives}
+   + [Enregistrements en direct Experience League](/help/_ajo-main/experience-league-live-show-recordings.md)
