@@ -61,7 +61,7 @@ Que vous soyez un spécialiste du marketing débutant ou chevronné, ces outils 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports" title="Surveiller et analyser votre parcours à l’aide de rapports dynamiques" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470709/?format=jpeg&nocache=1756406406388" alt="Surveiller et analyser votre parcours à l’aide de rapports dynamiques"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470837/?format=jpeg&nocache=1756406406388&captions=fre_fr" alt="Surveiller et analyser votre parcours à l’aide de rapports dynamiques"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -84,7 +84,7 @@ Que vous soyez un spécialiste du marketing débutant ou chevronné, ces outils 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="Rapports au niveau des canaux" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1756406406387" alt="Rapports au niveau des canaux"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448039/?format=jpeg&nocache=1756406406387&captions=fre_fr" alt="Rapports au niveau des canaux"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -107,7 +107,7 @@ Que vous soyez un spécialiste du marketing débutant ou chevronné, ces outils 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format" title="Exporter des rapports au format CSV" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424603/?format=jpeg&nocache=1756406406384" alt="Exporter des rapports au format CSV"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439608/?format=jpeg&nocache=1756406406384&captions=fre_fr" alt="Exporter des rapports au format CSV"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -130,7 +130,7 @@ Que vous soyez un spécialiste du marketing débutant ou chevronné, ces outils 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts" title="Utiliser des alertes" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/336218?format=jpeg&nocache=1756406406387" alt="Utiliser des alertes"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3423919?format=jpeg&nocache=1756406406387&captions=fre_fr" alt="Utiliser des alertes"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -153,7 +153,7 @@ Que vous soyez un spécialiste du marketing débutant ou chevronné, ces outils 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="Amélioration de la création de rapports avec Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1756406406386" alt="Amélioration de la création de rapports avec Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443153/?format=jpeg&nocache=1756406406386&captions=fre_fr" alt="Amélioration de la création de rapports avec Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
