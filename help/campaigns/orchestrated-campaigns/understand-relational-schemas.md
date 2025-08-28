@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Ce tutoriel vous permet de mieux comprendre comment les schémas relationnels (spécifiques aux campagnes orchestrées dans Journey Optimizer) fonctionnent avec les profils clients en temps réel. Découvrez les concepts de base derrière l’ingestion de données, la modélisation de schéma, la segmentation et l’exécution de campagnes, ce qui vous donne les bases de la conception de parcours clients structurés, évolutifs et personnalisés.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470216/?learn=on&enablevpops&captions=fre_fr)
