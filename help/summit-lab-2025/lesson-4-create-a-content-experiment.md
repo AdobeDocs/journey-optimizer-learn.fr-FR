@@ -10,7 +10,7 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17876
 index: false
 exl-id: 2e756b8a-4fd8-47d5-99ea-4a18cdd6d974
-source-git-commit: 7dd827b24c709149201139d180e5bec4c1c6d5dd
+source-git-commit: 422197c3a44b0cbf8ae70f23d68343d0a538ed45
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -28,4 +28,4 @@ Dans cette leçon, vous allez appliquer de l’expérimentation de contenu au me
 >[!VIDEO](https://video.tv.adobe.com/v/3457924/?learn=on&enablevpops)
 
 
-Voir [Expérimentation - Présentation](/help/content-management/experimentation-overview.md), [Configurer des expériences de contenu pour des campagnes par e-mail](/help/create-campaigns/content-experiments.md) et [Notifications push - Présentation](/help/channels/push-notifications-overview.md) pour plus d’informations sur cette rubrique.
+Voir [Expérimentation - Présentation](/help/experimentation/introduction-to-experimentation.md), [Configurer des expériences de contenu pour des campagnes par e-mail](/help/experimentation/content-experiments-for-emails.md) et [Notifications push - Présentation](/help/channels/push-notifications-overview.md) pour plus d’informations sur cette rubrique.
