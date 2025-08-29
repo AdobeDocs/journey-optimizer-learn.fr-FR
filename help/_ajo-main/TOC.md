@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 64b0ee761c45d5db11941ac7d994a7f2c798f250
 workflow-type: tm+mt
 source-wordcount: '938'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -125,7 +125,7 @@ ht-degree: 95%
       + [Créer un message multilingue](/help/content-management/create-multilingual-messages.md)
    + Assistant IA pour la génération de contenu {#ai-assistant}
       + [Assistant IA pour la génération de contenu : vue d’ensemble](/help/content-management/ai-assistant-for-content-generation-overview.md)
-      + [Créer du contenu avec l’Assistant IA pour la génération de contenu](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
+      + [Créer du contenu avec l’assistant IA pour la génération de contenu](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
       + [Création et gestion des directives relatives à la marque](/help/content-management/brand-guideline-creation-and-management.md)
    + [Créer un e-mail à l’aide de GenStudio](/help/content-management/create-an-email-using-genstudio.md)
 + Personnaliser le contenu {#personalize-content}
@@ -142,7 +142,7 @@ ht-degree: 95%
    + [Créer des expériences de contenu pour les campagnes par e-mail](/help/experimentation/content-experiments-for-emails.md)
 + Fonctionnalités de décision{#decision-capabilities}
    + Prise de décisions {#decisioning}
-      + [Présentation de la prise de décisions](/help/decisioning/introduction-to-decisioning.md)
+      + [Introduction à la prise de décisions](/help/decisioning/introduction-to-decisioning.md)
       + [Présentation complète de la prise de décisions](/help/decisioning/decisioning-end-to-end.md)
       + [Naviguer dans l’interface du créateur de formules](/help/decisioning/formula-builder-ui.md)
       + [Personnalisation des offres avec des données météorologiques en temps réel](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
@@ -234,4 +234,4 @@ ht-degree: 95%
       + [Créer des instants mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
       + [Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Sessions en direct et plongées approfondies {#live-sessions-and-deep-dives}
-   + [Enregistrements en direct Experience League](/help/_ajo-main/experience-league-live-show-recordings.md)
+   + [Enregistrments Experience League LIVE](/help/_ajo-main/experience-league-live-show-recordings.md)
