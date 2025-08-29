@@ -1,6 +1,6 @@
 ---
-title: 'Cas d’utilisation : améliorer l’engagement client'
-description: Ces tutoriels se concentrent sur l’amélioration de l’engagement et de la personnalisation des clients en utilisant la création d’audiences en temps réel et la prise de décision personnalisée par le biais de formulaires web et de pages web.
+title: 'Cas d’utilisation : améliorer l’engagement de la clientèle'
+description: Ces tutoriels mettent l’accent sur l’optimisation de l’engagement de la clientèle et sur la personnalisation, grâce à la création d’audiences en temps réel et à la prise de décision personnalisée via des formulaires web et des pages web.
 feature: Use Cases, Audiences, Decisioning
 role: Developer
 level: Beginner
@@ -8,26 +8,26 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-9
 exl-id: 586b6d20-7849-4d20-a9e5-d3ff4daef253
 source-git-commit: 1ec1bea306dc918211be8583fe282bd153936f81
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Cas d’utilisation : améliorer l’engagement client
+# Cas d’utilisation : améliorer l’engagement de la clientèle
 
-Ces tutoriels se concentrent sur l’amélioration de l’engagement et de la personnalisation des clients en utilisant la création d’audiences en temps réel et la prise de décision personnalisée par le biais de formulaires web et de pages web. En intégrant ces puissantes techniques, les entreprises peuvent s’assurer que le bon message atteint la bonne audience au bon moment, ce qui améliore l’engagement des clients et stimule les efforts de marketing personnalisés.
+Ces tutoriels mettent l’accent sur l’optimisation de l’engagement de la clientèle et sur la personnalisation, grâce à la création d’audiences en temps réel et à la prise de décision personnalisée via des formulaires web et des pages web. En intégrant ces techniques puissantes, les entreprises s’assurent que le bon message parvienne à la bonne audience au bon moment, ce qui renforce l’engagement de la clientèle et stimule les actions marketing personnalisées.
 
-1. [Création d’audiences à l’aide de Web SDK (tutoriel)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
+1. [Créer des audiences à l’aide du SDK web (tutoriel)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
 
-   Découvrez comment :
+   Découvrez comment faire ce qui suit :
 
-   * Capturez les préférences utilisateur via des formulaires web.
-   * Envoyez instantanément des données à Adobe Experience Platform.
-   * Trier automatiquement les utilisateurs en audiences spécifiques en fonction de leurs choix.
+   * Capturer les préférences des utilisateurs et utilisatrices via des formulaires web.
+   * Envoyer instantanément des données à Adobe Experience Platform.
+   * Classer automatiquement les utilisateurs et utilisatrices dans des audiences spécifiques en fonction de leurs choix.
 
 
-2. [Utilisation de la prise de décision pour personnaliser les offres web (tutoriel)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+2. [Utiliser la prise de décision pour personnaliser les offres web (tutoriel)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 
-En vous basant sur le premier tutoriel, apprenez à utiliser un catalogue centralisé d’offres marketing et un moteur de décision intelligent pour afficher à chaque personne les offres les plus pertinentes.
+En vous basant sur le premier tutoriel, découvrez comment utiliser un catalogue centralisé d’offres marketing et un moteur de décision intelligent afin de présenter à chaque personne les offres les plus pertinentes.
 
