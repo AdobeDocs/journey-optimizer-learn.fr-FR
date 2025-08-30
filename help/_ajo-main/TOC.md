@@ -3,9 +3,9 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: f2354e6ebd8c033de11556493321f09a209d4817
+source-git-commit: 442dc6a8daa84173e0db176edc757d7164c2b2e1
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '933'
 ht-degree: 96%
 
 ---
@@ -29,7 +29,8 @@ ht-degree: 96%
       + [Configurer et envoyer une campagne de notifications push](/help/campaigns/action-campaigns/push-campaign.md)
       + [Créer une campagne web](/help/campaigns/action-campaigns/web-campaign.md)
       + [Créer une expérience de campagne basée sur le code](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
-      + [Utiliser l’optimisation des messages dans une campagne](/help/campaigns/action-campaigns/leverage-message-optimization-in-a-campaign.md)
+      + [Optimiser les messages dans une campagne](/help/campaigns/action-campaigns/leverage-message-optimization-in-a-campaign.md)
+   + Campagnes déclenchées par API {#api-triggered-campaigns}
       + [Déclencher des campagnes à l’aide d’API](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + Campagnes orchestrées {#orchestrated-campaigns}
       + [Présentation des campagnes orchestrées](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
