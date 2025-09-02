@@ -24,6 +24,6 @@ ht-degree: 100%
 
 Découvrez comment diffuser du contenu unique à une audience spécifique en exécutant immédiatement des actions ou selon un planning spécifié.
 
->[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412403?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 Reportez-vous à la [documentation du produit](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=fr) pour plus d’informations sur cette fonctionnalité.
