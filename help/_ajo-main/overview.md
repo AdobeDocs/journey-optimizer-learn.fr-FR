@@ -133,7 +133,7 @@ Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionn
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="Fonctionnalités clés et interface d’utilisation" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424995?format=jpeg&nocache=1754352424467" alt="Fonctionnalités clés et interface d’utilisation"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430314?format=jpeg&nocache=1754352424467&captions=fre_fr" alt="Fonctionnalités clés et interface d’utilisation"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +156,7 @@ Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionn
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey" title="Présentation de la création d’un parcours" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424996?format=jpeg&nocache=1754352424452" alt="Présentation de la création d’un parcours"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430351?format=jpeg&nocache=1754352424452&captions=fre_fr" alt="Présentation de la création d’un parcours"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +179,7 @@ Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionn
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="Créer une audience à l’aide du créateur de règles" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425020?format=jpeg&nocache=1754352424460" alt="Créer une audience à l’aide du créateur de règles"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430324?format=jpeg&nocache=1754352424460&captions=fre_fr" alt="Créer une audience à l’aide du créateur de règles"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -212,7 +212,7 @@ Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionn
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="Créer du contenu avec l’assistant IA pour la génération de contenu" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434635/?format=jpeg&nocache=1750720619194" alt="Créer du contenu avec l’assistant IA pour la génération de contenu"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434637/?format=jpeg&nocache=1750720619194&captions=fre_fr" alt="Créer du contenu avec l’assistant IA pour la génération de contenu"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

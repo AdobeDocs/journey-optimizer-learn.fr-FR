@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment mettre en œuvre un parcours d’intégration des clientes et clients dans Journey Optimizer. Le processus cible les nouvelles personnes membres du programme de fidélité et diffuse des e-mails et SMS personnalisés afin d’encourager le téléchargement de l’application. Cela inclut l’envoi d’un e-mail de bienvenue, la vérification de l’installation de l’application et le suivi par rappels.Ce tutoriel montre également comment utiliser l’assistant de contenu IA pour créer et personnaliser du contenu.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440650/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440652/?learn=on&enablevpops&captions=fre_fr)

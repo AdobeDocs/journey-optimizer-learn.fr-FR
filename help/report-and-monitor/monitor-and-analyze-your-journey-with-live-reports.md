@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment utiliser efficacement la fonctionnalité Rapport dynamique d’Adobe Journey Optimizer pour surveiller et analyser les performances de vos parcours et messages en temps réel. Découvrez comment personnaliser les tableaux de bord, exporter les rapports et interpréter les mesures spécifiques au parcours afin d’optimiser vos stratégies marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470709/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470837/?learn=on&enablevpops&captions=fre_fr)
