@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
 workflow-type: tm+mt
 source-wordcount: '933'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 96%
    + Campagnes déclenchées par API {#api-triggered-campaigns}
       + [Déclencher des campagnes à l’aide d’API](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + Campagnes orchestrées {#orchestrated-campaigns}
-      + [Présentation des campagnes orchestrées](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
+      + [Présentation des campagnes orchestrées](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [Principes de base du magasin relationnel](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + Parcours {#create-journeys}
    + [Concepteur de parcours : vue d’ensemble](/help/create-journeys/journey-designer-overview.md)
@@ -168,12 +168,12 @@ ht-degree: 96%
    + [Configuration des connecteurs source](/help/data-management/configure-source-connectors.md)
    + [Configurer une destination d’export de jeux de données](/help/data-management/configure-dataset-export-destination.md)
    + [Exporter des jeux de données vers des emplacements d’espace de stockage](/help/data-management/export-datasets.md)
-+ Rapport et surveillance {#report-and-monitor}
-   + [Rapport et surveillance](/help/report-and-monitor/report-and-monitor.md)
-   + [Présentation du reporting avec Journey Optimizer](/help/report-and-monitor/introduction-to-reporting.md)
++ Créer des rapports et surveiller {#report-and-monitor}
+   + [Créer des rapports et surveiller](/help/report-and-monitor/report-and-monitor.md)
+   + [Présentation du reporting avec Journey Optimizer](/help/report-and-monitor/introduction-to-reporting.md)
    + [Surveiller et analyser votre parcours à l’aide de rapports dynamiques](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
-   + [Surveiller et analyser votre parcours avec des rapports de Parcours](/help/report-and-monitor/journey-reports.md)
-   + [Rapports au niveau des canaux](/help/report-and-monitor/channel-level-reports.md)
+   + [Surveiller et analyser votre parcours à l’aide des Rapports de parcours](/help/report-and-monitor/journey-reports.md)
+   + [Rapports au niveau du canal](/help/report-and-monitor/channel-level-reports.md)
    + [Exporter des rapports au format CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Utiliser des alertes](/help/administration/alerts.md)
    + [Amélioration de la création de rapports avec Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
@@ -213,7 +213,7 @@ ht-degree: 96%
    + [Créer des politiques d’utilisation des données](/help/privacy/create-data-usage-policies.md)
    + [Appliquer les politiques d’utilisation des données aux canaux Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Masquer les données dans les messages](/help/privacy/mask-data-in-messages.md)
-+ Cas d’utilisation et bonnes pratiques{#use-cases}
++ Cas d’utilisation et meilleures pratiques{#use-cases}
    + [Intégration des clientes et clients](/help/use-cases/customer-onboarding.md)
    + [Panier abandonné](/help/use-cases/abandoned-cart.md)
    + [Réengagement intelligent - Abandon de la navigation](https://experienceleague.adobe.com/fr/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
@@ -226,11 +226,11 @@ ht-degree: 96%
       + [Vue d’ensemble](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
       + [Configurer un sandbox de playbook](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
       + [Créer et publier des instances de playbook](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
-+ Exercices, laboratoires et défis {#exercises-and-challenges}
++ Exercices, labos et défis {#exercises-and-challenges}
    + [Configuration d’une sandbox de formation](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [Défis](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
    + Summit Labs {#summit-labs}
       + [Créer des instants mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
       + [Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
-+ Sessions en direct et plongées approfondies {#live-sessions-and-deep-dives}
-   + [Enregistrments Experience League LIVE](/help/_ajo-main/experience-league-live-show-recordings.md)
++ Sessions en direct et immersions totales {#live-sessions-and-deep-dives}
+   + [Enregistrements Experience League LIVE](/help/_ajo-main/experience-league-live-show-recordings.md)
