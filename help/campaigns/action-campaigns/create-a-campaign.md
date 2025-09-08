@@ -10,7 +10,7 @@ role: User
 level: Beginner
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
 source-git-commit: 62c4ee2d5a3e6c71646ae4f92eeee0491846832b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
 
@@ -24,6 +24,6 @@ ht-degree: 100%
 
 Découvrez comment diffuser du contenu unique à une audience spécifique en exécutant immédiatement des actions ou selon un planning spécifié.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412403?quality=12&learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12&learn=on){transcript=true}
 
 Reportez-vous à la [documentation du produit](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=fr) pour plus d’informations sur cette fonctionnalité.
