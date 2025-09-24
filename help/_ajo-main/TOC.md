@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '933'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 99%
       + [Déclencher des campagnes à l’aide d’API](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + Campagnes orchestrées {#orchestrated-campaigns}
       + [Présentation des campagnes orchestrées](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
-      + [Principes de base du magasin relationnel](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
+      + [Principes de base du stockage relationnel](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + Parcours {#create-journeys}
    + [Concepteur de parcours : vue d’ensemble](/help/create-journeys/journey-designer-overview.md)
    + [Découvrir le nouveau concepteur de parcours](/help/create-journeys/new-journey-designer.md)
@@ -46,7 +46,7 @@ ht-degree: 99%
    + [Cas d’utilisation : lecture d’audience](/help/create-journeys/use-case-read-audience.md)
    + [Cas d’utilisation : qualification de l’audience](/help/create-journeys/use-case-audience-qualification.md)
    + [Maîtriser le filtrage multi-attribut](/help/create-journeys/mastering-multi-attribute-filtering.md)
-   + [Valider la logique du parcours en effectuant son test à blanc](/help/create-journeys/journey-dry-run.md)
+   + [Valider la logique du parcours en effectuant un test à blanc](/help/create-journeys/journey-dry-run.md)
    + [Déverrouiller la réintégration du parcours avec des ID supplémentaires](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [Mettre à jour du contenu dans un parcours dynamique](/help/create-journeys/update-content-in-live-journey.md)
    + [Copier un parcours dans un autre sandbox](/help/create-journeys/copy-a-journey.md)
