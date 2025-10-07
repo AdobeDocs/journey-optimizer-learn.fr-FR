@@ -30,7 +30,7 @@ Pour commencer la combinaison d’identités, importez des exemples de données 
 
 Créez un schéma de profil individuel appelé **_FinWiseProfileSchema_**. Incluez des champs tels que annualIncome, email, firstName, lastName et loyaltyStatus.
 Ajoutez un champ d&#39;identité **_crmid_** comme illustré. Marquez le champ crmid comme identité et principal.
-Ajoutez le groupe de champs _**Détails des consentements et des préférences**_ au schéma. [Consentements et préférences](https://experienceleague.adobe.com/fr/docs/experience-platform/xdm/field-groups/profile/consents) est un groupe de champs standard pour la classe XDM Individual Profile qui recueille les informations de consentement et de préférence pour un client individuel. Les préférences stockées ici déterminent les préférences de communication au niveau du canal.
+Ajoutez le groupe de champs _&#x200B;**Détails des consentements et des préférences**&#x200B;_ au schéma. [Consentements et préférences](https://experienceleague.adobe.com/fr/docs/experience-platform/xdm/field-groups/profile/consents) est un groupe de champs standard pour la classe XDM Individual Profile qui recueille les informations de consentement et de préférence pour un client individuel. Les préférences stockées ici déterminent les préférences de communication au niveau du canal.
 
 
 ![profile-schema](assets/finwise-profile-schema.png)
@@ -52,7 +52,7 @@ Mettez à jour les adresses e-mail factices vers des adresses réelles. Ils sero
 * Créez un jeu de données appelé **_FinWiseCustomerDataSetWithAnnualIncome_** basé sur le **_FinWiseProfileSchema_** créé à l’étape précédente
 
 * Accédez à Connexions -> Sources -> Système local
-* Sélectionnez l’option **_Ajouter des données_** sous Chargement de fichier local. Veillez à sélectionner le _**FinWiseCustomerDataSetWithAnnualIncome**_ comme jeu de données cible.
+* Sélectionnez l’option **_Ajouter des données_** sous Chargement de fichier local. Veillez à sélectionner le _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ comme jeu de données cible.
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * Accédez à l’écran suivant. Chargez le [fichier csv](assets/finwise_profiles.csv) et vérifiez les mappages
   ![mappings](assets/mappings.png)
