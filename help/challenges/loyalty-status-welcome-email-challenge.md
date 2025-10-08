@@ -7,10 +7,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '403'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 | Défi | Créer un e-mail de bienvenue relatif à la fidélité |
 |---|---|
 | Utilisateurs | Gestionnaire de parcours |
-| Compétences requises | <ul><li>[Créer des segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=fr)</li> <li>[Qualification du segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=fr)</li><li>[Importer du contenu HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=fr)</li></ul> |
+| Compétences requises | <ul><li>[Créer des segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=fr)</li> <li>[Qualification de segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html)</li><li>[Importer du contenu HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=fr)</li></ul> |
 | Ressources à télécharger | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 {style="table-layout:auto"}
@@ -38,7 +38,7 @@ On vous a demandé de configurer un parcours qui envoie automatiquement un e-mai
 
 >[!TAB Tâche]
 
-Lorsqu’une personne cliente fidèle est éligible au niveau platine, un e-mail lui est envoyé pour la féliciter et l’ informer de ses nouveaux avantages. L’équipe créative a fourni un fichier HTML **[Luma - Mise à niveau de statut - E-mail de bienvenue](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** avec le corps de l’e-mail.
+Lorsqu’un membre fidèle est éligible au niveau platine, un e-mail lui est envoyé pour la féliciter et l’informer de ses nouveaux avantages. L’équipe créative a fourni un fichier HTML **[Luma - Mise à niveau de statut - E-mail de bienvenue](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** avec le corps de l’e-mail.
 
 1. Créez un [!UICONTROL segment] dans Journey Optimizer appelé `Luma - platinum status`.
 

@@ -7,10 +7,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '1108'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 | Défi | Créer une annonce de collection d’été |
 |---|---|
 | Utilisateurs | Gestionnaire de parcours |
-| Compétences requises | <ul><li>[Créer des segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=fr)</li><li> [Importer et créer du contenu d’e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=fr)</li><li>[Cas d’utilisation : lecture de segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=fr)</li> |
+| Compétences requises | <ul><li>[Créer des segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=fr)</li><li> [Importer et créer du contenu d’e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=fr)</li><li>[Cas d’utilisation : lecture de segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
 | Ressources à télécharger | [Fichiers d’e-mail de collection saisonnière](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
 {style="table-layout:auto"}
@@ -201,7 +201,7 @@ Testez le parcours et envoyez les e-mails à votre compte :
 1. Ouvrez le deuxième e-mail afin que le parcours se termine.
 1. Vous pouvez répéter l’étape 4. - 7. pour les trois profils afin de vérifier si vos branches fonctionnent correctement.
 1. Pour tester les expirations de délai, définissez le temps d’attente sur 30 secondes et déclenchez à nouveau l’entrée.
-1. N’ouvrez pas les e-mails que vous recevez (ne prévisualisez pas l’e-mail (!)) et laissez le temps d’attente s’écouler.
+1. N’ouvrez pas les e-mails que vous recevez (ne prévisualisez pas l’e-mail (!)) et attendez que le temps d’attente soit écoulé.
 
 Vous devriez recevoir les e-mails suivants :
 

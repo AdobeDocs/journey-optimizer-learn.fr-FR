@@ -6,10 +6,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 1542a429d393d9d803976d1490a3bc09654b706b
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '411'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -68,7 +68,7 @@ Luma cherche à promouvoir ses vêtements et sa collection d’articles les plus
       <p>
       <b>Compétences requises :</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=fr"> Créer des segments</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=fr">Lire le segment</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html">Lire le segment</li>
        <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=fr">Importer le contenu HTML d’un e-mail</li>
   </td>
   </tr>
@@ -86,11 +86,11 @@ Luma cherche à promouvoir ses vêtements et sa collection d’articles les plus
     </a>
     </div>
     <p>
-    <em>Envoyer un e-mail lorsqu’une personne cliente fidèle passe à un nouveau niveau pour la féliciter et l’informer de ses nouveaux avantages.</em>
+    <em>Envoyer un e-mail lorsqu’un membre fidèle passe à un nouveau niveau pour le féliciter et l’informer de ses nouveaux avantages.</em>
     <p>
     <b>Compétences requises :</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=fr"> Créer des segments</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=fr">Qualification du segment</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html">Qualification de segment</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=fr">Importer et créer du contenu d’e-mail HTML</li>
   </td>
   </tr>
