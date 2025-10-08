@@ -17,4 +17,4 @@ Ce que vous apprendrez :
 
 Idéal pour les responsables marketing et les développeurs et développeuses qui cherchent à activer la messagerie WhatsApp dans leurs parcours clientèle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470268/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470270/?learn=on&enablevpops&captions=fre_fr)

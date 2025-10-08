@@ -7,7 +7,7 @@ ht-degree: 2%
 ---
 # Cartes de contenu - Aperçu
 
->[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3460084/?learn=on&enablevpops&captions=fre_fr){transcript=true}
 
 ## Qu&#39;est-ce que c&#39;est ?
 

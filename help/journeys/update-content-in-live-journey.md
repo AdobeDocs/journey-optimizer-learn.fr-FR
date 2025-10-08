@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment mettre à jour le contenu dans un parcours dynamique.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429844/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439605/?learn=on&captions=fre_fr)
