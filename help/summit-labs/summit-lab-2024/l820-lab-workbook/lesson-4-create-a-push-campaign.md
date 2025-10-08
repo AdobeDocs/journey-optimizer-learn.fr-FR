@@ -50,7 +50,7 @@ Dans cet exercice, vous allez créer la campagne push, concevoir et personnalise
 >[!SUCCESS]
 >
 >Vous devriez maintenant être sur la page Propriétés de la campagne :
->> ![Propriétés de la campagne](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
+>&#x200B;> ![Propriétés de la campagne](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
 ## Exercice 4.2 - Configurer votre campagne
 
@@ -98,7 +98,7 @@ Dans cet exercice, vous allez concevoir et personnaliser la notification push.
 
 >[!ENDTABS]
 
-#### 4.2.3.1 section [!UICONTROL  Composer le message ]
+#### 4.2.3.1 section [!UICONTROL &#x200B; Composer le message &#x200B;]
 
 1. **Composez votre message :** n’hésitez pas à ajouter le texte de votre choix. Voici des exemples d’utilisation :
 
@@ -199,7 +199,7 @@ Si le contenu de votre message vous convient, vous pouvez activer le message :
 > ![statut de la campagne](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-completed.png)
 > 
 > Le statut passe de En cours de traitement à Actif, à Terminé - cela peut prendre quelques minutes.
-> > Une fois le statut modifié en terminé :
+> &#x200B;> Une fois le statut modifié en terminé :
 >
 > ![résultats push](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
 

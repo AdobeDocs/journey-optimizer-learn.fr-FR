@@ -29,14 +29,14 @@ Dans ce Lab pratique, vous explorez divers scénarios mobiles et apprenez à met
 >[!IMPORTANT]
 >
 >Veuillez vous abstenir de publier des photos ou des captures d&#39;écran de la session sur les médias sociaux.
->><br>
->>**Confidentialité d’Adobe**
->>Les informations et les produits divulgués aujourd’hui dans ce Lab sont des informations confidentielles d’Adobe.
->>Les participants ne peuvent reproduire, utiliser, diffuser ou divulguer des informations confidentielles à aucune personne ou entité.
->>Les divulgations de produits sont fournies à titre d’information uniquement, ne garantissent aucune fonctionnalité ou fonctionnalité future et peuvent faire l’objet de modifications à tout moment. Par conséquent, ces fonctionnalités de produit ne font en aucun cas partie de votre accord avec Adobe ou ne vous sont d&#39;aucune autre manière engagées.
->><br>
->>**Clause de non-responsabilité**
->>Adobe vous permet d’accéder rapidement aux fonctionnalités qui exploitent la technologie d’IA générative. Veuillez noter que ces fonctionnalités sont toujours en cours de développement et peuvent produire des réponses inattendues ou inexactes. Vos commentaires sont les bienvenus lorsque nous commercialiserons cette fonctionnalité.
+>&#x200B;><br>
+>&#x200B;>**Confidentialité d’Adobe**
+>&#x200B;>Les informations et les produits divulgués aujourd’hui dans ce Lab sont des informations confidentielles d’Adobe.
+>&#x200B;>Les participants ne peuvent reproduire, utiliser, diffuser ou divulguer des informations confidentielles à aucune personne ou entité.
+>&#x200B;>Les divulgations de produits sont fournies à titre d’information uniquement, ne garantissent aucune fonctionnalité ou fonctionnalité future et peuvent faire l’objet de modifications à tout moment. Par conséquent, ces fonctionnalités de produit ne font en aucun cas partie de votre accord avec Adobe ou ne vous sont d&#39;aucune autre manière engagées.
+>&#x200B;><br>
+>&#x200B;>**Clause de non-responsabilité**
+>&#x200B;>Adobe vous permet d’accéder rapidement aux fonctionnalités qui exploitent la technologie d’IA générative. Veuillez noter que ces fonctionnalités sont toujours en cours de développement et peuvent produire des réponses inattendues ou inexactes. Vos commentaires sont les bienvenus lorsque nous commercialiserons cette fonctionnalité.
 
 
 ### Principaux points à retenir
