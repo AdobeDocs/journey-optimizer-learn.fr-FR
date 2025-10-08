@@ -1,7 +1,7 @@
 ---
-source-git-commit: 28234822f1a5f813688e39e904a93cf565c832f6
+source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
-source-wordcount: '20'
+source-wordcount: '18'
 ht-degree: 100%
 
 ---
@@ -9,4 +9,4 @@ ht-degree: 100%
 
 Découvrez comment configurer et envoyer une notification push avec une campagne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452703/?learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422017/?learn=on){transcript=true}

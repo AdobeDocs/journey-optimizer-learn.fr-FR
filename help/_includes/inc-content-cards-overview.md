@@ -1,5 +1,5 @@
 ---
-source-git-commit: 0ce6d5013bbcf55e49ae920670919f6929a142ec
+source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 2%
@@ -7,7 +7,7 @@ ht-degree: 2%
 ---
 # Cartes de contenu - Aperçu
 
->[!VIDEO](https://video.tv.adobe.com/v/3460084/?learn=on&enablevpops&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
 
 ## Qu&#39;est-ce que c&#39;est ?
 

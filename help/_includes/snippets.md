@@ -1,6 +1,6 @@
 ---
-source-git-commit: f6e9e2b286c220bf90eab7632f2110176b0c7ba2
-workflow-type: ht
+source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 100%
 
@@ -33,11 +33,11 @@ Experience League LIVE :
 >
 >Ces fonctionnalités ne sont actuellement disponibles que pour un ensemble d’organisations (disponibilité limitée). Pour en bénéficier, contactez votre représentant ou représentante Adobe.
 
-## Version bêta {#beta}
+## Beta {#beta}
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est actuellement en version bêta et disponible uniquement pour les clientes et clients bêta. Pour rejoindre le programme de version bêta, contactez l’assistance clientèle d’Adobe.
+>Cette fonctionnalité est actuellement en version Beta et disponible uniquement pour les clientes et clients Beta. Pour rejoindre le programme Beta, contactez l’assistance clientèle d’Adobe.
 
 ## Vidéo Platform : politiques (#platform-video)
 
