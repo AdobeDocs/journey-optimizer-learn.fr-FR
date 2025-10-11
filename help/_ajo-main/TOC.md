@@ -218,8 +218,8 @@ ht-degree: 98%
 + Assistant IA {#ai-assistant}
    + [Assistant IA](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [Assistant IA pour la génération de contenu](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent - Aperçu](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
-   + [Agent d’expérimentation - Présentation](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [Journey Agent - Aperçu](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [Agent d’expérimentation - Présentation](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Cas d’utilisation et meilleures pratiques{#use-cases}
    + [Intégration des clientes et clients](/help/use-cases/customer-onboarding.md)
    + [Panier abandonné](/help/use-cases/abandoned-cart.md)
