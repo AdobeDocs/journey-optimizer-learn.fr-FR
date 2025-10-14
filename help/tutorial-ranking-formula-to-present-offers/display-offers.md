@@ -32,7 +32,7 @@ Cette configuration offre une expérience réactive et personnalisée, en veilla
 
 * Créez un dossier nommé ranking-form dans votre projet Node.js existant.
 
-* Décompressez les fichiers [ fournis dans ce dossier de formule de classement.](assets/ranking-formula.zip)
+* Décompressez les fichiers [&#x200B; fournis dans ce dossier de formule de classement.](assets/ranking-formula.zip)
 
 * Exécutez l’application en accédant au dossier et en démarrant le serveur :
    * `cd ranking-formula`

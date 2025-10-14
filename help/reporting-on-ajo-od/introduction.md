@@ -30,7 +30,7 @@ L’objectif est de fournir des informations claires et basées sur les données
 
 ## Conditions préalables pour ce tutoriel
 
-Avant de commencer, suivez le tutoriel [ Personnaliser les offres avec les données météorologiques en temps réel .](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) Il établit tous les composants fondamentaux, notamment :
+Avant de commencer, suivez le tutoriel [&#x200B; Personnaliser les offres avec les données météorologiques en temps réel .](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) Il établit tous les composants fondamentaux, notamment :
 
 - Intégration de Web SDK
 - Configuration des offres dans Adobe Journey Optimizer (AJO)

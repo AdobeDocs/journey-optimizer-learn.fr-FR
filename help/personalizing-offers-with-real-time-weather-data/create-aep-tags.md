@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Les balises Adobe Experience Platform (anciennement Adobe Launch) permettent de gérer et de déployer* des technologies de marketing et d’analyse sur votre site web sans avoir à modifier le code du site.
 
-Cette [ vidéo décrit le processus de création d’Adobe Experience Tags](https://experienceleague.adobe.com/fr/playlists/experience-platform-get-started-with-tags)
+Cette [&#x200B; vidéo décrit le processus de création d’Adobe Experience Tags](https://experienceleague.adobe.com/fr/playlists/experience-platform-get-started-with-tags)
 
 - Connexion à la collecte de données
 - Cliquez sur _&#x200B;**Balises -> Nouvelle propriété**&#x200B;_

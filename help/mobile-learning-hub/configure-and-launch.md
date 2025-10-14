@@ -23,8 +23,8 @@ Configurez les canaux mobiles dans Journey Optimizer et Experience Platform, int
 >
 >Si vous découvrez Journey Optimizer et Experience Platform, familiarisez-vous avec les concepts de base en regardant ces listes de lecture :
 >
->* [Prise en main de Journey Optimizer pour les administrateurs et responsables de Parcours ](https://experienceleague.adobe.com/fr/playlists/journey-optimizer-getting-started-for-journey-administrators-and-managers)
->* [Configuration de Journey Optimizer pour les administrateurs de Parcours ](https://experienceleague.adobe.com/fr/playlists/journey-optimizer-configure-journey-optimizer-for-administrators)
+>* [Prise en main de Journey Optimizer pour les administrateurs et responsables de Parcours &#x200B;](https://experienceleague.adobe.com/fr/playlists/journey-optimizer-getting-started-for-journey-administrators-and-managers)
+>* [Configuration de Journey Optimizer pour les administrateurs de Parcours &#x200B;](https://experienceleague.adobe.com/fr/playlists/journey-optimizer-configure-journey-optimizer-for-administrators)
 >* [Configuration et gestion des données dans Journey Optimizer pour les ingénieurs de données](https://experienceleague.adobe.com/fr/playlists/journey-optimizer-configure-and-manage-data-for-data-engineers)
 
 
