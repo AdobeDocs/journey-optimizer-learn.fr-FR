@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: b7bad65d-c978-4981-a914-6cb039433c8b
-source-git-commit: 71b42350370d12ce677bf075d8b48edcbe541ab4
+source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -64,7 +64,7 @@ app.listen(PORT, () => {
 
 ## Ajouter HTML/Assets
 
-Copiez tous les fichiers HTML et CSS fournis [&#128279;](assets/login-app-files.zip) dans ce dossier. Copiez et collez le script AEP Tags dans la section `<head>` du fichier index.html.
+Copiez tous les fichiers HTML et CSS fournis [](assets/login-app-files.zip) dans ce dossier. Copiez et collez le script AEP Tags dans la section `<head>` du fichier index.html.
 
 ## Exécution du serveur
 
@@ -89,7 +89,5 @@ La capture d’écran suivante montre la transmission correcte de l’identifian
 * Accédez à Client -> Profils ->Parcourir
 * Recherchez FinWise CRM ID = FIN001
 * Ouvrez le profil et consultez la section Identités . Vous devriez voir les CRMID et ECID répertoriés.   Cela confirme que les deux identités ont été regroupées en un seul profil.
-* Le parcours doit également être déclenché. Pour le vérifier, consultez le rapport de parcours
-* ![parcours-rapport](assets/journey-triggered-report.png)
 
 
