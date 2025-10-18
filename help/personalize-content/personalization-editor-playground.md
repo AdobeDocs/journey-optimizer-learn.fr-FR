@@ -25,4 +25,4 @@ Le [terrain de jeu de l’éditeur de personnalisation](https://experienceleague
 
 Découvrez comment tirer parti des exemples de code prédéfinis, modifier les payloads de profils factices et prévisualiser la sortie de votre code de personnalisation en temps réel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457868/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475954/?captions=fre_fr&learn=on&enablevpops)
