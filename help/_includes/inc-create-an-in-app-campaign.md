@@ -9,7 +9,7 @@ ht-degree: 100%
 
 Comprendre ce qu’est un message in-app. Découvrez comment créer, configurer et publier des messages in-app dans les campagnes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410430?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451884?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 ## Ressources supplémentaires
 

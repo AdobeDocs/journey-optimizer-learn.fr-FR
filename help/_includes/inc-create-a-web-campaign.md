@@ -9,4 +9,4 @@ ht-degree: 100%
 
 Comprenez ce qu’est une campagne. Découvrez comment configurer les propriétés d’une campagne web, revoir votre campagne et la publier.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418800/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449983/?captions=fre_fr&quality=12&learn=on){transcript=true}
