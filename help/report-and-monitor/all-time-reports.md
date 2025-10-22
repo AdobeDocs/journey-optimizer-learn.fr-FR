@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Dans cette vidéo, vous apprendrez à utiliser efficacement le rapport en tout temps dans Adobe Journey Optimizer pour découvrir des informations sur les performances à long terme sur les parcours, campagnes et canaux des clients. Il explique comment parcourir les tableaux de bord clés, interpréter les indicateurs clés de performance, appliquer des filtres et des périodes et exploiter des outils tels que les rapports de Parcours, les rapports de campagne et Insight Builder pour une analyse plus approfondie et des rapports personnalisés, ce qui permet aux spécialistes du marketing et aux responsables de transformer les données en action.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475653/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475789/?captions=fre_fr&learn=on&enablevpops)
