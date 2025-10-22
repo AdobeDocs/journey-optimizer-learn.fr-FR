@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: ce7c2d27c03f648960fa287120a6c552913c1568
+source-git-commit: 6366425e14dcadfad7ccf3522ac746ba752e432c
 workflow-type: tm+mt
-source-wordcount: '960'
-ht-degree: 98%
+source-wordcount: '971'
+ht-degree: 97%
 
 ---
 
@@ -147,6 +147,7 @@ ht-degree: 98%
       + [Introduction à la prise de décisions](/help/decisioning/introduction-to-decisioning.md)
       + [Présentation complète de la prise de décisions](/help/decisioning/decisioning-end-to-end.md)
       + [Naviguer dans l’interface du créateur de formules](/help/decisioning/formula-builder-ui.md)
+      + [Règles réutilisables](/help/decisioning/reusable-targeting-rules.md)
       + [Personnalisation des offres avec des données météorologiques en temps réel](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [Utiliser une formule de classement pour diffuser des offres personnalisées](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
    + Gestion des décisions {#decision-management}
@@ -177,6 +178,7 @@ ht-degree: 98%
    + [Surveiller et analyser votre parcours à l’aide de rapports dynamiques](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [Surveiller et analyser votre parcours à l’aide des Rapports de parcours](/help/report-and-monitor/journey-reports.md)
    + [Rapports au niveau du canal](/help/report-and-monitor/channel-level-reports.md)
+   + [Analysez les performances globales de votre parcours avec des rapports à tout moment.](/help/report-and-monitor/all-time-reports.md)
    + [Exporter des rapports au format CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Utiliser des alertes](/help/administration/alerts.md)
    + [Amélioration de la création de rapports avec Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
@@ -217,10 +219,10 @@ ht-degree: 98%
    + [Appliquer les politiques d’utilisation des données aux canaux Journey Optimizer](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Masquer les données dans les messages](/help/privacy/mask-data-in-messages.md)
 + Assistant IA {#ai-assistant}
-   + [Assistant IA](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
-   + [Assistant IA pour la génération de contenu](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent - Aperçu](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
-   + [Agent d’expérimentation - Présentation](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [Assistant IA](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
+   + [Assistant IA pour la génération de contenu](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+   + [Journey Agent - Aperçu](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [Agent d’expérimentation - Présentation](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Cas d’utilisation et meilleures pratiques{#use-cases}
    + [Intégration des clientes et clients](/help/use-cases/customer-onboarding.md)
    + [Panier abandonné](/help/use-cases/abandoned-cart.md)
