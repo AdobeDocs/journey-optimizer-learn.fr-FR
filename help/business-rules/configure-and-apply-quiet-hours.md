@@ -1,6 +1,6 @@
 ---
-title: Configuration et application d’heures creuses
-description: Découvrez comment utiliser la fonction Heures calmes dans Adobe Journey Optimizer pour empêcher l’envoi de messages (SMS, e-mail, push, WhatsApp) aux clients pendant les fenêtres d’heure spécifiées, ce qui permet aux spécialistes marketing d’éviter d’envoyer des communications à des moments inappropriés et d’améliorer l’engagement des clients.
+title: Configurer et appliquer des heures creuses
+description: Découvrez comment utiliser la fonction Heures creuses dans Adobe Journey Optimizer pour empêcher l’envoi de messages (SMS, e-mail, push, WhatsApp) pendant les fenêtres d’heure spécifiées. Les spécialistes marketing évitent ainsi d’envoyer des communications à des moments inappropriés et améliorent l’engagement de la clientèle.
 feature: Business Rules
 role: Admin, User
 level: Beginner
@@ -14,13 +14,13 @@ index: true
 source-git-commit: c7ff1ad8ff2069295d65553022306cccaf8cbac6
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Configuration et application d’heures creuses
+# Configurer et appliquer des heures creuses
 
-Découvrez comment utiliser la fonctionnalité Heures creuses de Adobe Journey Optimizer pour empêcher l’envoi de messages aux clients pendant les fenêtres temporelles spécifiées, ce qui permet aux spécialistes marketing d’éviter d’envoyer des communications à des moments inappropriés et d’améliorer l’engagement des clients.
+Découvrez comment utiliser la fonction Heures creuses dans Adobe Journey Optimizer pour empêcher l’envoi de messages pendant les fenêtres d’heure spécifiées. Les spécialistes marketing évitent ainsi d’envoyer des communications à des moments inappropriés et améliorent l’engagement de la clientèle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475854/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)

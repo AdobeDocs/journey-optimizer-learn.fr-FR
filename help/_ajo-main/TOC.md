@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 6366425e14dcadfad7ccf3522ac746ba752e432c
 workflow-type: tm+mt
 source-wordcount: '971'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 97%
       + [Principes de base du stockage relationnel](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + Parcours {#journeys}
    + [Concepteur de parcours : vue d’ensemble](/help/journeys/journey-designer-overview.md)
-   + [Journey Agent - Présentation](/help/ai-agents/journey-agent-overview.md)
+   + [Agent Journey : vue d’ensemble](/help/ai-agents/journey-agent-overview.md)
    + [Découvrir le nouveau concepteur de parcours](/help/journeys/new-journey-designer.md)
    + [Présentation de la création d’un parcours](/help/journeys/introduction-to-building-a-journey.md)
    + [Créer un profil de test](/help/journeys/test-a-journey.md)
@@ -57,7 +57,7 @@ ht-degree: 97%
    + [Identifier les conflits potentiels](/help/conflict-management/identify-potential-conflicts.md)
    + [Attribuer des scores de priorité](/help/conflict-management/assign-priority-score.md)
    + [Capping de la fréquence et hiérarchisation des parcours](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
-   + [Heures calmes](/help/business-rules/configure-and-apply-quiet-hours.md)
+   + [Heures creuses](/help/business-rules/configure-and-apply-quiet-hours.md)
 + Profils, audiences et abonnements {#profiles-audiences-subscriptions}
    + [Profils et audiences : vue d’ensemble](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [Profil unifié et segmentation - Vue d’ensemble](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
@@ -141,7 +141,7 @@ ht-degree: 97%
 + Expérimentation {#experimentation}
    + [Présentation de l’expérimentation](/help/experimentation/introduction-to-experimentation.md)
    + [Créer des expériences de contenu pour les campagnes par e-mail](/help/experimentation/content-experiments-for-emails.md)
-   + [Agent d’expérimentation - Présentation](/help/ai-agents/experimentation-agent-overview.md)
+   + [Agent d’expérimentation : vue d’ensemble](/help/ai-agents/experimentation-agent-overview.md)
 + Fonctionnalités de décision{#decision-capabilities}
    + Prise de décisions {#decisioning}
       + [Introduction à la prise de décisions](/help/decisioning/introduction-to-decisioning.md)
@@ -221,8 +221,8 @@ ht-degree: 97%
 + Assistant IA {#ai-assistant}
    + [Assistant IA](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [Assistant IA pour la génération de contenu](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent - Aperçu](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
-   + [Agent d’expérimentation - Présentation](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [Agent Journey : vue d’ensemble](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [Agent d’expérimentation : vue d’ensemble](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Cas d’utilisation et meilleures pratiques{#use-cases}
    + [Intégration des clientes et clients](/help/use-cases/customer-onboarding.md)
    + [Panier abandonné](/help/use-cases/abandoned-cart.md)
