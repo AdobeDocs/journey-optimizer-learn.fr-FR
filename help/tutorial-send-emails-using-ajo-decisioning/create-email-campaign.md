@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Dans cette vidéo, découvrez comment créer une campagne par e-mail à l’aide d’AJO Decisioning
 
->[!VIDEO](https://video.tv.adobe.com/v/3476158/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476166/?captions=fre_fr&learn=on)
