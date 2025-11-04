@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 8d6fce4d2605d44e9abb1c9003edbf759cf89316
 workflow-type: tm+mt
 source-wordcount: '965'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -177,7 +177,7 @@ ht-degree: 98%
    + [Surveiller et analyser votre parcours à l’aide de rapports dynamiques](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [Surveiller et analyser votre parcours à l’aide des Rapports de parcours](/help/report-and-monitor/journey-reports.md)
    + [Rapports au niveau du canal](/help/report-and-monitor/channel-level-reports.md)
-   + [Analysez les performances globales de votre parcours avec des rapports à tout moment.](/help/report-and-monitor/all-time-reports.md)
+   + [Analysez les performances globales de votre parcours avec les rapports complets.](/help/report-and-monitor/all-time-reports.md)
    + [Exporter des rapports au format CSV](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Utiliser des alertes](/help/administration/alerts.md)
    + [Amélioration de la création de rapports avec Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
