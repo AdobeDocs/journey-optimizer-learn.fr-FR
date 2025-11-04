@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment créer, dupliquer et appliquer des règles de ciblage réutilisables dans Adobe Journey Optimizer afin de personnaliser efficacement les campagnes en fonction des attributs de la clientèle, tels que la zone géographique, la langue et le comportement. Gagnez du temps tout en améliorant la précision de l’audience.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476127/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476129/?captions=fre_fr&learn=on&enablevpops)
