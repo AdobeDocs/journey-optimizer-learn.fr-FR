@@ -20,4 +20,4 @@ Dans cette vidéo, découvrez comment créer un schéma de profil, ingérer des 
 
 Vous apprendrez à définir des champs clés tels que le prénom, l’e-mail, le statut de fidélité et le revenu annuel, à charger des données client réelles et à utiliser ces données pour créer une audience de clients à forte valeur ajoutée.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476421/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476440/?captions=fre_fr&learn=on)

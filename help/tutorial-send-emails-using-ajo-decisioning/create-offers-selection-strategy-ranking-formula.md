@@ -17,4 +17,4 @@ ht-degree: 0%
 # Création d&#39;offres, stratégie de sélection, formule de classement
 
 Dans cette vidéo, vous apprendrez à créer des offres, une stratégie de sélection pour choisir les offres et une formule de classement pour classer les offres par priorité
->[!VIDEO](https://video.tv.adobe.com/v/3476427/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476451/?captions=fre_fr&learn=on)
