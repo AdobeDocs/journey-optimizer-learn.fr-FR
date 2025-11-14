@@ -23,4 +23,4 @@ Découvrez comment créer et optimiser des campagnes d’action dans Adobe Journ
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680/?learn=on&enablevpops)
 
-Reportez-vous à la [documentation du produit](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/get-started-with-campaigns) pour plus d’informations sur cette fonctionnalité.
+Reportez-vous à la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/campaigns/get-started-with-campaigns) pour plus d’informations sur cette fonctionnalité.
