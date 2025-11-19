@@ -10,15 +10,15 @@ duration: 69
 last-substantial-update: 2024-10-07T00:00:00Z
 jira: KT-16293
 exl-id: c00fc7fa-f72d-4cca-bd5d-0754e89de290
-source-git-commit: bb6dc1a70df284f58645336e139d1b78c5cfe590
-workflow-type: ht
-source-wordcount: '28'
-ht-degree: 100%
+source-git-commit: cf255c1611b7a5ed6ff42d55e455e3a5140c19d7
+workflow-type: tm+mt
+source-wordcount: '69'
+ht-degree: 26%
 
 ---
 
 # Gestion des ressource numérique : vue d’ensemble
 
-Découvrez comment gérer vos ressources numériques dans Journey Optimizer.
+Découvrez comment Adobe Journey Optimizer rationalise la gestion des ressources numériques avec son Adobe Experience Manager incorporé, ce qui vous permet de rechercher, de parcourir et de générer des ressources directement à partir du référentiel. Découvrez comment créer des campagnes, concevoir des e-mails avec des modèles existants et charger ou modifier des ressources en toute facilité, en créant du contenu puissant et percutant au bout des doigts.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432674/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477010/?learn=on)
