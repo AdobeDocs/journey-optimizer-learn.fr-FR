@@ -20,7 +20,7 @@ ht-degree: 17%
 
 Configurez les canaux mobiles dans Adobe Journey Optimizer et Adobe Experience Platform, intégrez-les aux applications mobiles et assurez-vous d’être prêt pour l’exécution de campagnes marketing.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 > Si vous découvrez Journey Optimizer et Experience Platform, familiarisez-vous avec les concepts de base en suivant ces cours :
 > - [Configuration et administration de Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-configure-and-administrate-ajo-environment)
 >*Dans ce cours, vous apprendrez à configurer et à gérer l’environnement Journey Optimizer, y compris les rôles utilisateur, les autorisations, les sandbox et les canaux de messagerie, afin d’assurer des opérations efficaces et sécurisées.*
@@ -589,7 +589,7 @@ Voir : [Flux de notification push dans Adobe Journey Optimizer](https://experien
 - Implémentez le **consentement pour Edge Network** et connectez-le à l’interface utilisateur de consentement de votre application.
 - Testez à nouveau dans Assurance jusqu’à ce que l’identité et le consentement apparaissent sur tous les événements pertinents.
 
-Voir : [ Implémentation du consentement pour les implémentations de Platform Mobile SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent)
+Voir : [&#x200B; Implémentation du consentement pour les implémentations de Platform Mobile SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent)
 
 </details>
 
