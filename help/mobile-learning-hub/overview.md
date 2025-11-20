@@ -7,7 +7,7 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 1d79a2f916017e5f40f1629f0d1f534a37607a23
+source-git-commit: 37ef25f7652c59378c2387cdb1763c8e52e4a681
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Commencez ou utilisez les canaux mobiles dans Adobe Journey Optimizer (AJO). Il 
 
 Explorez les bonnes pratiques, apprenez à stimuler l’adoption et maîtrisez le reporting, le tout à un seul endroit, afin que les équipes puissent proposer des expériences mobiles percutantes et axées sur les données qui connectent les utilisateurs à tout moment et n’importe où.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477000?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Présentation du canal mobile
@@ -63,12 +63,6 @@ En combinant ces canaux, vous pouvez créer une expérience client transparente 
 
 6. Tirez parti des [expériences basées sur du code](/help/mobile-learning-hub/channels/code-based-experience-overview.md) pour personnaliser chaque message en fonction du comportement et des préférences de l’utilisateur, créant ainsi un parcours réellement personnalisé sur l’ensemble des canaux.
 
-
-## Cas d’utilisation client
-
-* [Prendre l’avion avec la personnalisation : Comment les compagnies aériennes peuvent-elles augmenter les offres avec Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=fr)
-
-
 ## Création de votre base
 
 Découvrez les concepts et comment
@@ -101,3 +95,7 @@ Découvrez les concepts et comment
 | **Campagnes de montée en gamme et de ventes croisées** | Promeut des produits supplémentaires ou des mises à niveau pour les clients existants en fonction de leur comportement, de leurs préférences ou de leur historique d’achat. | - Les notifications push mettent en évidence les opportunités de montée en gamme pertinentes.<br>- Les messages in-app et les cartes de contenu présentent des éléments complémentaires.<br>- Les campagnes SMS ciblent des audiences segmentées avec des offres exclusives. |
 | **Prévention de l’attrition** | Identifie les utilisateurs risquant de quitter l’entreprise et les engage dans des stratégies de fidélisation personnalisées. | - L’analyse prédictive déclenche une sensibilisation mobile pour les utilisateurs à risque.<br>- Les notifications push et les SMS offrent des récompenses de fidélité ou du contenu personnalisé.<br>- Les enquêtes in-app recueillent des commentaires pour améliorer les stratégies de fidélisation. |
 | **Messagerie Multicanal** | Orchestre des messages cohérents sur plusieurs canaux mobiles afin de s&#39;assurer que les utilisateurs reçoivent des communications opportunes et pertinentes. | - Les notifications push, in-app, SMS et les e-mails sont coordonnés pour une messagerie unifiée.<br>- Les SDK permettent la personnalisation en temps réel sur plusieurs canaux.<br>- Les cartes de contenu persistent entre les sessions pour renforcer les messages clés. |
+
+## Cas d’utilisation client
+
+* [Prendre l’avion avec la personnalisation : Comment les compagnies aériennes peuvent-elles augmenter les offres avec Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
