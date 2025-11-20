@@ -24,4 +24,4 @@ La prise de décision simplifie la personnalisation en offrant un catalogue cent
 
 Cette vidéo présente brièvement les fonctionnalités de prise de décision d’Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451101?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3475865?captions=fre_fr&quality=12&learn=on){transcript=true}

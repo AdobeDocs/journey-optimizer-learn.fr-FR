@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Découvrez les principes de base de création d’un parcours dans la zone de travail du parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424996?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430351?captions=fre_fr&quality=12&learn=on){transcript=true}

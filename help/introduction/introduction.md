@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Découvrez la solution Adobe Journey Optimizer, les défis commerciaux qu’elle relève et les principaux cas d’utilisation.
 
->[!VIDEO](https://video.tv.adobe.com/v/333745?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416290?captions=fre_fr&quality=12&learn=on){transcript=true}
 
   <br>
