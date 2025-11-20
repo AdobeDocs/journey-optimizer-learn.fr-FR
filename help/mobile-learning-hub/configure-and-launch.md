@@ -107,7 +107,7 @@ Cette propriété contrôle :
 
 Vous pouvez [créer et configurer cette propriété mobile manuellement](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/create-a-property) ou, pour Mobile In-App et les notifications push, utiliser la **[Configuration guidée de canal](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** pour créer automatiquement la propriété de balise, le flux de données et la configuration de canal requis pour iOS et Android.
 
-> [!TIP]
+&#x200B;> [!TIP]
 >  
 > Pour les nouvelles mises en œuvre, **[Configuration guidée de canal](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** est le point de départ recommandé. Il réduit le risque de flux de données mal configurés ou d’extensions manquantes et vous guide tout au long de la validation de SDK avec Assurance.
 
@@ -704,7 +704,7 @@ Voir : [Flux de notification push dans Adobe Journey Optimizer](https://experien
 - Implémentez le **consentement pour Edge Network** et connectez-le à l’interface utilisateur de consentement de votre application.
 - Testez à nouveau dans Assurance jusqu’à ce que l’identité et le consentement apparaissent sur tous les événements pertinents.
 
-Voir : [ Implémentation du consentement pour les implémentations de Platform Mobile SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent)
+Voir : [&#x200B; Implémentation du consentement pour les implémentations de Platform Mobile SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent)
 
 </details>
 
