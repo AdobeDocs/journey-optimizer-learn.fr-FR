@@ -12,7 +12,7 @@ jira: KT-17486
 thumbnail: KT-17486.jpeg
 exl-id: d5219ce1-ea44-4c41-b557-b094978e37cc
 source-git-commit: b9a223a583a2ceb7c6c55a144ab78c7963ae2969
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
 
@@ -24,4 +24,4 @@ La prise de décision simplifie la personnalisation en offrant un catalogue cent
 
 Cette vidéo présente brièvement les fonctionnalités de prise de décision d’Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475865?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451101?quality=12&learn=on){transcript=true}
