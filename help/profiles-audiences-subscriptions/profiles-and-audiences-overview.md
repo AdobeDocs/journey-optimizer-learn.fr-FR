@@ -20,4 +20,4 @@ ht-degree: 31%
 
 Découvrez comment Adobe Journey Optimizer unifie les données client et simplifie la création d’audiences avec une interface glisser-déposer, enrichit les profils pour un engagement personnalisé, classe les audiences pour un ciblage précis et assure la confidentialité avec des outils de gouvernance robustes, ce qui vous permet de créer des campagnes plus efficaces sur l’ensemble des canaux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476986/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476988/?captions=fre_fr&learn=on)

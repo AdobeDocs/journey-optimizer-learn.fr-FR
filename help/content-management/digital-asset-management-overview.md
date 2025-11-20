@@ -21,4 +21,4 @@ ht-degree: 26%
 
 Découvrez comment Adobe Journey Optimizer rationalise la gestion des ressources numériques avec son Adobe Experience Manager incorporé, ce qui vous permet de rechercher, de parcourir et de générer des ressources directement à partir du référentiel. Découvrez comment créer des campagnes, concevoir des e-mails avec des modèles existants et charger ou modifier des ressources en toute facilité, en créant du contenu puissant et percutant au bout des doigts.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477010/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477013/?captions=fre_fr&learn=on)
