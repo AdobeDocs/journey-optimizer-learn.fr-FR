@@ -175,7 +175,7 @@ Vous pouvez [créer et configurer cette propriété mobile manuellement](https:/
 
 #### Documentation du produit et références du développeur
 
-| ![Configuration guidée de canal ](./assets/configuration.svg)[**Configuration guidée de canal**](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"} | ![Obtenir le SDK mobile Adobe Experience Platform ](./assets/configuration.svg){width="50"}[**Obtenir le SDK mobile Adobe Experience Platform**](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk){target="_blank"} | ![Présentation d’Adobe Experience Platform Assurance ](./assets/experience.svg)[**Présentation d’Adobe Experience Platform Assurance**](https://developer.adobe.com/client-sdks/home/base/assurance){target="_blank"} |
+| ![Configuration guidée de canal &#x200B;](./assets/configuration.svg) [**Configuration guidée de canal**](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"} | ![Obtenir le SDK mobile Adobe Experience Platform &#x200B;](./assets/configuration.svg){width="50"}[**Obtenir le SDK mobile Adobe Experience Platform**](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk){target="_blank"} | ![Présentation d’Adobe Experience Platform Assurance &#x200B;](./assets/experience.svg) [**Présentation d’Adobe Experience Platform Assurance**](https://developer.adobe.com/client-sdks/home/base/assurance){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
@@ -550,7 +550,7 @@ Voir : [Flux de notification push dans Adobe Journey Optimizer](https://experien
 - Implémentez le **consentement pour Edge Network** et connectez-le à l’interface utilisateur de consentement de votre application.
 - Testez à nouveau dans Assurance jusqu’à ce que l’identité et le consentement apparaissent sur tous les événements pertinents.
 
-Voir : [ Implémentation du consentement pour les implémentations de Platform Mobile SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent){target="_blank"}
+Voir : [&#x200B; Implémentation du consentement pour les implémentations de Platform Mobile SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent){target="_blank"}
 
 </details>
 
