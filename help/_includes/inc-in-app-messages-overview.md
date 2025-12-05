@@ -1,7 +1,7 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '446'
 ht-degree: 1%
 
 ---
@@ -9,16 +9,16 @@ ht-degree: 1%
 
 ## Que sont les messages in-app ?
 
-Les messages in-app sont des messages qui apparaissent dans une application lorsque l’utilisateur l’utilise activement. Il s’agit de messages de type recouvrement qui se trouvent sur le dessus de votre application. Elles ne s&#39;affichent pas sur l&#39;écran de verrouillage ou à l&#39;extérieur de l&#39;application, mais sous forme de bannières, de fenêtres contextuelles ou de petites cartes lorsque l&#39;utilisateur explore l&#39;application.
+Les messages in-app apparaissent dans votre application mobile lorsqu’un utilisateur ou une utilisatrice est activement engagé(e). Ces messages de style recouvrement s’affichent sous la forme de bannières, de pop-ups ou de cartes directement sur le dessus de l’interface de l’application. Elles n’apparaissent pas sur l’écran de verrouillage ni en dehors de l’environnement de l’application.
 
-Les messages in-app sont déclenchés par des actions ou des conditions spécifiques de l’utilisateur ou utilisatrice, telles que l’affichage d’une certaine page, l’exécution d’un achat ou l’appartenance à un segment ciblé.
+Les messages in-app sont déclenchés par des actions ou des conditions spécifiques de l’utilisateur ou utilisatrice, telles que l’affichage d’un écran particulier, l’exécution d’un achat ou la qualification pour un segment ciblé.
 
 
 Par exemple :
 
-* Un jeu peut afficher un pop-up expliquant une nouvelle fonctionnalité au moment où l’utilisateur la déverrouille.
-* Une application d’achat peut afficher une bannière avec un code de coupon lorsque l’utilisateur parcourt les articles.
-* Une application de réseau social peut afficher un message suggérant à l’utilisateur de suivre de nouveaux comptes.
+* Un jeu présentant un pop-up présentant une nouvelle fonctionnalité au moment où l’utilisateur ou l’utilisatrice la déverrouille.
+* Application d’achat affichant une bannière avec un code de coupon lorsque l’utilisateur ou l’utilisatrice parcourt les produits.
+* Application de réseau social suggérant de nouveaux comptes à suivre en fonction de l’activité actuelle
 
 ## Cas d’utilisation
 

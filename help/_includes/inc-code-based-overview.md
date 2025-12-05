@@ -1,7 +1,7 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '301'
 ht-degree: 4%
 
 ---
@@ -9,8 +9,9 @@ ht-degree: 4%
 
 ## Qu&#39;est-ce que c&#39;est ?
 
-**Expériences basées sur du code** faites référence à un contenu personnalisé et dynamique ou à des messages créés à l’aide de code personnalisé (JavaScript, API ou langages de modèle) dans des plateformes telles que Adobe Journey Optimizer.\
-Vous pouvez ainsi créer des parcours et des messages clients hautement personnalisés et axés sur les données, au-delà des outils standard de glisser-déposer.
+Les expériences basées sur du code vous permettent de diffuser du contenu et des messages dynamiques personnalisés à l’aide de code personnalisé (JavaScript, API ou langages de modèle, par exemple) dans Adobe Journey Optimizer.
+
+Ce canal est idéal pour créer des interactions orientées données hautement personnalisées qui vont au-delà des outils de création visuels standard (éditeurs WYSIWYG), offrant ainsi aux développeurs et aux responsables d’optimisation toute la flexibilité nécessaire pour concevoir une logique de personnalisation personnalisée et des mises en page de contenu.
 
 Exemples :
 

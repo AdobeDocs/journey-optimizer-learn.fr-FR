@@ -1,20 +1,19 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '296'
 ht-degree: 2%
 
 ---
 # Cartes de contenu - Aperçu
 
->[!VIDEO](https://video.tv.adobe.com/v/3460084/?learn=on&enablevpops&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
 
 ## Qu&#39;est-ce que c&#39;est ?
 
-Les **cartes de contenu** sont des messages in-app persistants qui résident dans une boîte de réception ou un flux dédié de votre application. Contrairement aux notifications push, elles n’interrompent pas l’utilisateur et peuvent être consultées à sa convenance.\
-Ils sont idéaux pour diffuser du contenu **non urgent**, **informatif** ou **promotionnel** qui bénéficie d’une visibilité au fil du temps.
+Les **cartes de contenu** sont des messages in-app persistants affichés dans une boîte de réception ou un flux dédié de votre application. Contrairement aux notifications push, elles n’interrompent pas l’utilisateur et peuvent être consultées dès que celui-ci le souhaite.
 
-Considérez les cartes de contenu comme un « message center » in-app ou un fil d’actualités personnalisé.
+Ils sont idéaux pour les **non urgents**, **informatifs** ou **contenus promotionnels** qui bénéficient d’une visibilité plus longue et d’une exposition répétée. Considérez les cartes de contenu comme un « centre de messages » in-app ou un flux de contenu personnalisé où les utilisateurs peuvent parcourir les mises à jour à leur propre rythme. »
 
 ### Exemples :
 
