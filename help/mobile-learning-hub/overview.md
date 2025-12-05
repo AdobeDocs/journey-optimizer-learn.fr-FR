@@ -20,7 +20,7 @@ Commencez ou améliorez votre stratégie d’engagement mobile avec Adobe Journe
 
 Explorez les bonnes pratiques, apprenez à stimuler l’adoption et configurez des workflows de création de rapports centralisés, le tout en un seul endroit, afin de fournir des expériences mobiles percutantes et axées sur les données qui atteignent les clients à tout moment et n’importe où.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3477000?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 
 ## Présentation du canal mobile
