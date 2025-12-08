@@ -24,7 +24,7 @@ La configuration guidée des canaux vous permet de configurer et de valider rapi
 
 Découvrez comment configurer et valider une notification de canal push sur un exemple d’application de marketing mobile iOS.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449624/?captions=fre_fr&learn=on)
 
 Pour plus d&#39;informations, consultez la documentation du produit :
 
