@@ -2,10 +2,10 @@
 title: Fidélité émotionnelle et construction communautaire
 description: Comment les marques créent de l’identité, une appartenance et un plaidoyer grâce à la fidélité basée sur l’expérience
 feature: Overview
-role: User, Admin, Developer
+role: User
 hide: true
 index: false
-source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
+source-git-commit: ea0030d0742adf0058c8bb9ad3950ae9d96f8892
 workflow-type: tm+mt
 source-wordcount: '2156'
 ht-degree: 0%
