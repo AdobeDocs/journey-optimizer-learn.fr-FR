@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 1cdf8be6fc76e3e67f0180fad6a0979ab2e6b07b
+source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
 workflow-type: tm+mt
 source-wordcount: '2128'
 ht-degree: 0%
@@ -38,8 +38,6 @@ Le troisième point d’échec est la **synchronisation des données par lots**.
 Le quatrième point d’échec est **les expériences de fidélité qui ne sont pas intégrées à tous les points de contact client**. De nombreux programmes affichent la fidélité uniquement dans l’application ou dans les communications par e-mail. Mais les clients s’engagent partout. La valeur de fidélité doit être visible sur la page d’accueil, les pages de détails du produit, le panier, les notifications push, les threads SMS, les reçus numériques, les interfaces de centre d’appels et la signalétique du magasin physique. Lorsque la fidélité est invisible ou apparaît de manière incohérente, les clients perçoivent moins de valeur et s’engagent moins fréquemment.
 
 La combinaison de ces échecs conduit à ce que l&#39;on peut appeler **la dissonance de fidélité** : le fossé psychologique entre ce que le client attend et ce que la marque offre. La fidélité omnicanal résout ce problème en alignant l’identité, les données, la prise de décision, l’orchestration des parcours et l’expérience utilisateur autour d’un récit continu unique.
-
-&#x200B;---
 
 ## &#x200B;2. Ce que signifie réellement la fidélité omnicanal
 
