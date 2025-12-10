@@ -39,7 +39,7 @@ Le quatrième point d’échec est **les expériences de fidélité qui ne sont 
 
 La combinaison de ces échecs conduit à ce que l&#39;on peut appeler **la dissonance de fidélité** : le fossé psychologique entre ce que le client attend et ce que la marque offre. La fidélité omnicanal résout ce problème en alignant l’identité, les données, la prise de décision, l’orchestration des parcours et l’expérience utilisateur autour d’un récit continu unique.
 
----
+&#x200B;---
 
 ## &#x200B;2. Ce que signifie réellement la fidélité omnicanal
 
