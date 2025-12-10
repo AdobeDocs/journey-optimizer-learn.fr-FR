@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
+source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
 workflow-type: tm+mt
 source-wordcount: '2128'
 ht-degree: 0%
@@ -13,10 +13,11 @@ ht-degree: 0%
 ---
 
 
+# La fidélité dans un monde omnicanal
 
-# La fidélité dans un monde omnicanal : créer une expérience de fidélité unifiée, prédictive et en temps réel à tous les points de contact du client
+## Créer une expérience de fidélité unifiée, prédictive et en temps réel à tous les points de contact du client
 
-## Synthèse
+### Synthèse
 
 Le parcours client moderne est fracturé, non linéaire et intensément cross-canal. Les consommateurs effectuent une transition en toute facilité entre les applications mobiles, les navigateurs de bureau, les expériences en magasin, les centres d’appels, les e-mails, les SMS, les notifications push, les canaux sociaux, les appareils connectés et le reciblage des médias achetés. Pourtant, la plupart des programmes de fidélité fonctionnent toujours avec des systèmes compartimentés, des incitations axées sur les canaux et un traitement par lots qui ne peuvent pas répondre aux attentes des clients en matière d’immédiateté, de continuité et de personnalisation. Il en résulte une expérience de fidélité incohérente : un e-mail indique qu’une récompense est disponible, tandis que l’application affiche des informations obsolètes ; le personnel en magasin ne peut pas voir l’éligibilité du niveau ou des avantages ; les notifications push se déclenchent de manière non synchronisée avec les parcours par e-mail ; les clients reçoivent des offres en conflit ; les incohérences d’identité entraînent une perte de progression ; et la valeur de fidélité est incohérente sur toutes les surfaces de la marque.
 

@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
+source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
 workflow-type: tm+mt
 source-wordcount: '2156'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # Fidélité émotionnelle et construction communautaire
 
-Comment les marques créent de l’identité, une appartenance et un plaidoyer grâce à la fidélité basée sur l’expérience
+## Comment les marques créent de l’identité, une appartenance et un plaidoyer grâce à la fidélité basée sur l’expérience
 
-## Synthèse
+### Synthèse
 
 La fidélité émotionnelle, c&#39;est-à-dire le degré auquel les clients se sentent liés à l&#39;identité, aux valeurs et à la communauté d&#39;une marque, devient le principal facteur de différenciation concurrentiel dans la stratégie de fidélité moderne. Les programmes de fidélité transactionnels traditionnels, basés sur des points, des remises et des mécanismes basiques de rémunération/combustion, restent importants mais ne créent plus de différenciation significative sur les marchés saturés. À mesure que la transparence des prix augmente, que les frictions de changement diminuent et que les consommateurs deviennent plus autonomes, les programmes transactionnels seuls ne peuvent pas soutenir la loyauté ou la défense à long terme. Au lieu de cela, les marques qui obtiennent des résultats démesurés en matière de fidélité sont celles qui créent des **communautés** et non des programmes, des marques qui aident les clients à exprimer leur identité, à poursuivre des objectifs ambitieux, à interagir avec d&#39;autres membres et à participer à des rituels partagés qui créent un attachement émotionnel.
 
