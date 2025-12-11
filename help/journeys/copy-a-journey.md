@@ -11,7 +11,7 @@ level: Beginner
 last-substantial-update: 2022-09-23T00:00:00Z
 exl-id: ae6dcd75-582c-47fd-9971-50a198df1fe9
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment copier un parcours et ses objets dépendants d’un sandbox à un autre.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413053?quality=12&learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409593?quality=12&learn=on){transcript=true}
