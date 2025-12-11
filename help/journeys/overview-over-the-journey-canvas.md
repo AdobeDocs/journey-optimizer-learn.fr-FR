@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez les fonctionnalités de la zone de travail du parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/342099?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344632?captions=fre_fr&quality=12&learn=on){transcript=true}

@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Dans ce tutoriel, vous apprendrez à activer et à appliquer un identifiant supplémentaire dans Adobe Journey Optimizer. Vous découvrirez comment l’utilisation d’identifiants supplémentaires permet aux profils de réintégrer des parcours, d’effectuer une itération sur des tableaux d’objets et de personnaliser des messages à l’aide de données contextuelles telles que l’identifiant du produit, les informations d’expédition, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464794/?captions=fre_fr&learn=on&enablevpops)
 
 Pour plus d’informations sur les ID supplémentaires, consultez la [documentation relative au produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment utiliser les événements métier dans Journey Optimizer. Les événements métier permettent aux marques de déclencher des parcours en fonction d’événements non liés à des personnes, tels que la notification aux personnes abonnées lorsqu’une publication d’actualités comporte un nouveau contenu ou l’envoi de communications lors d’un événement sportif. Comprenez comment les données des événements métier peuvent être utilisées pour la création de messages personnalisés dans les parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/334234/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416325/?captions=fre_fr&learn=on)
