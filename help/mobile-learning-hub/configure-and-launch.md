@@ -707,4 +707,4 @@ Voir :
 ## Ressources supplémentaires
 
 - [Utilisation de la personnalisation côté client (ODD) basée sur le réseau CDN sur mobile pour des personnalisations plus rapides (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626?profile.language=fr){target="_blank"}
-- [Le secret de l’engagement et de la croissance des applications mobiles de niveau supérieur (session Summit)](https://business.adobe.com/summit/2025/sessions/the-secret-to-nextlevel-mobile-app-engagement-s603.html)
+- [Le secret de l’engagement et de la croissance des applications mobiles de niveau supérieur (session Summit)](https://business.adobe.com/fr/summit/2025/sessions/the-secret-to-nextlevel-mobile-app-engagement-s603.html)
