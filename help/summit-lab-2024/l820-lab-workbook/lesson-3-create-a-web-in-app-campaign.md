@@ -42,7 +42,7 @@ Dans cet exercice, vous allez créer la campagne et définir la page web sur laq
 
 1. Saisissez l’URL suivante : **https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *Il s’agit de la page web sur laquelle votre message apparaîtra.*
 
-   ![ URL in-app ](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
+   ![&#x200B; URL in-app &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
 
 1. Cliquez sur **[!UICONTROL Créer]**.
 
@@ -60,7 +60,7 @@ Sur cette page, vous définissez les propriétés de la campagne et l’événem
    > 
    > Par exemple, si votre numéro de poste est 99 : 
    >
-   > ![ Nom des propriétés ](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
+   > ![&#x200B; Nom des propriétés &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
 
 
 ### 3.2.2 Configurer votre règle de déclenchement personnalisée
@@ -83,7 +83,7 @@ Dans cette section, vous définissez les éléments qui déclenchent l’afficha
    ![Type d’événement XDM](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 
-1. Dans le champ de texte suivant, ajoutez une *`<custom string value>`* dont vous vous souviendrez, puis appuyez sur la **** Ajouter`<custom string value>` pour enregistrer la valeur.
+1. Dans le champ de texte suivant, ajoutez une *`<custom string value>`* dont vous vous souviendrez, puis appuyez sur la **&#x200B;**&#x200B;Ajouter`<custom string value>` pour enregistrer la valeur.
 
    Cette valeur de chaîne personnalisée est utilisée ultérieurement pour déclencher votre message.
 

@@ -143,7 +143,7 @@ Sélectionnez la disposition à appliquer à votre message.
 
 Par exemple, cliquez sur **[!UICONTROL Modal]** pour faire de votre message in-app une disposition modale.
 
-![ bouton modal ](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-modal-button.png)
+![&#x200B; bouton modal &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-modal-button.png)
 
 #### 2.3.3.2 Création de votre message et publication de votre campagne
 
@@ -155,7 +155,7 @@ Lorsque vous cliquez en dehors du champ de valeur, votre image doit apparaître.
 
 2. Dans la section **[!UICONTROL Contenu]** suivante, ajoutez votre propre texte personnalisé que vous souhaitez afficher dans votre message pour les éléments **[!UICONTROL En-tête]** et **[!UICONTROL Corps]**.
 
-   ![ En-tête et corps ](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-content.png)
+   ![&#x200B; En-tête et corps &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-content.png)
 
 3. Options supplémentaires :
    1. **Boutons:**
@@ -252,7 +252,7 @@ Pour actualiser la payload et télécharger la campagne que vous venez de publie
 >
 >En cliquant sur Envoyer, vous avez déclenché manuellement un déclencheur et la notification in-app que vous avez créée s’affiche :
 >
->![ Message in-app ](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-3-in-app-message.png)
+>![&#x200B; Message in-app &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-3-in-app-message.png)
 >
 > *Si vous rencontrez des problèmes lors du déclenchement de votre message, vérifiez les éléments suivants :*
 > 
@@ -300,7 +300,7 @@ Les fonctionnalités **Dupliquer la campagne** et **Prévisualiser sur l’appar
    <br>
 1. Ce pop-up s’affiche sur l’écran de votre ordinateur
 
-   ![ pop-up ](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-pop-up.png)
+   ![&#x200B; pop-up &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-pop-up.png)
 
 1. Cliquez sur le bouton Terminé . La boîte de dialogue se ferme et votre téléphone est désormais connecté à l’aperçu sur l’appareil.
 
