@@ -10,7 +10,7 @@ jira: KT-14977
 thumbnail: KT-14977.jpeg
 last-substantial-update: 2024-03-26T00:00:00Z
 exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # CLASSEUR LAB
 
-![Adobe Summit - texte secondaire](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
+![Adobe Summit - texte secondaire](/help/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
 
 ## L820 - Création d’instants mobiles personnalisés avec Adobe Journey Optimizer
 
@@ -51,7 +51,7 @@ Dans ce Lab pratique, vous explorez divers scénarios mobiles et apprenez à met
 
 * Connaître votre numéro de poste : Vous pouvez trouver votre numéro de poste sur le bureau de la machine du laboratoire :
 
-![Numéro de poste](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
+![Numéro de poste](/help/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
 Vous devez avoir accès à :
 
 * [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - les informations de connexion sont fournies pendant les exercices.
