@@ -63,7 +63,7 @@ ht-degree: 99%
    + [Créer des audiences à l’aide du créateur de règles](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Créer une audience en chargeant un fichier CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Créer des audiences à l’aide du SDK web (tutoriel)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [Évaluer des audiences à la demande](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
+   + [Évaluer des audiences à la demande](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
    + [Abonnements et landing pages](/help/subscriptions-and-landing-pages.md)
 + Canaux {#channels}
    + [Optimisation des applications mobiles : vue d’ensemble](/help/channels/mobile-app-optimization-overview.md)
