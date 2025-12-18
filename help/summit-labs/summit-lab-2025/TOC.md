@@ -4,9 +4,9 @@ user-guide-description: Dans cet atelier, vous apprendrez à transformer les com
 role: User
 level: Beginner,Intermediate
 breadcrumb-title: scaling-orchestration-to-omnicanal-engagement
-breadcrumb-url: /docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
+breadcrumb-url: /docs/journey-optimizer-learn/summit-labs/scaling-orchestration-to-omnichannel-engagement/introduction
 auto-video-transcripts: true
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
+source-git-commit: 654d7a7f66a75bf76f679eb18a441510eff7b56d
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 ---
 
 
-# Évolution de l’orchestration à l’engagement omnicanal{#scaling-orchestration-to-omnichannel-engagement}
+# Évolution de l’orchestration à l’engagement omnicanal {#scaling-orchestration-to-omnichannel-engagement}
 
 + [Introduction](/help/summit-labs/summit-lab-2025/introduction.md)
 + [Leçon 1 - Découvrir le parcours](/help/summit-labs/summit-lab-2025/lesson-1-experience-the-journey.md)
