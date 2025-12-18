@@ -139,7 +139,7 @@ Commencez ou améliorez votre stratégie d’engagement mobile avec Adobe Journe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="Fonctionnalités clés et interface d’utilisation" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424995?format=jpeg&nocache=1766091307034" alt="Fonctionnalités clés et interface d’utilisation"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430314?captions=fre_fr&format=jpeg&nocache=1766091307034" alt="Fonctionnalités clés et interface d’utilisation"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -162,7 +162,7 @@ Commencez ou améliorez votre stratégie d’engagement mobile avec Adobe Journe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey" title="Présentation de la création d’un parcours" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424996?format=jpeg&nocache=1766091307020" alt="Présentation de la création d’un parcours"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430351?captions=fre_fr&format=jpeg&nocache=1766091307020" alt="Présentation de la création d’un parcours"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -185,7 +185,7 @@ Commencez ou améliorez votre stratégie d’engagement mobile avec Adobe Journe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="Créer une audience à l’aide du créateur de règles" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425020?format=jpeg&nocache=1766091307031" alt="Créer une audience à l’aide du créateur de règles"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430324?captions=fre_fr&format=jpeg&nocache=1766091307031" alt="Créer une audience à l’aide du créateur de règles"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -218,7 +218,7 @@ Commencez ou améliorez votre stratégie d’engagement mobile avec Adobe Journe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="Créer du contenu avec l’Assistant IA pour la génération de contenu" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434635/?format=jpeg&nocache=1766091307809" alt="Créer du contenu avec l’Assistant IA pour la génération de contenu"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434637/?captions=fre_fr&format=jpeg&nocache=1766091307809" alt="Créer du contenu avec l’Assistant IA pour la génération de contenu"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -264,7 +264,7 @@ Commencez ou améliorez votre stratégie d’engagement mobile avec Adobe Journe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="Configurer des expériences de contenu pour les messages in-app" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419898/?format=jpeg&nocache=1766091307812" alt="Configurer des expériences de contenu pour les messages in-app"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445290/?captions=fre_fr&format=jpeg&nocache=1766091307812" alt="Configurer des expériences de contenu pour les messages in-app"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
