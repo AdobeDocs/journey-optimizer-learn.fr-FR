@@ -231,7 +231,7 @@ ht-degree: 99%
    + [Génération de rapports sur les impressions et les clics des offres](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Utiliser une formule de classement pour diffuser des offres personnalisées dans Journey Optimizer](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Améliorer l’engagement de la clientèle](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
-   + [Évolution de l’orchestration à l’engagement omnicanal](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
+   + [Évolution de l’orchestration à l’engagement omnicanal](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
    + Playbooks de cas d’utilisation {#use-case-playbooks}
       + [Vue d’ensemble](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
       + [Configurer un sandbox de playbook](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
@@ -241,6 +241,6 @@ ht-degree: 99%
    + [Défis](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
    + Summit Labs {#summit-labs}
       + [Créer des instants mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-      + [Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
+      + [Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
 + Sessions en direct et immersions totales {#live-sessions-and-deep-dives}
    + [Enregistrements Experience League LIVE](/help/_ajo-main/experience-league-live-show-recordings.md)
