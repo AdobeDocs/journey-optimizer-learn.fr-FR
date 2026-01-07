@@ -19,7 +19,7 @@ ht-degree: 0%
 Configurez le formulaire pour envoyer des données d’envoi à Adobe Experience Platform en temps réel à l’aide d’une intégration basée sur HTTP, en veillant à ce que la payload de l’événement s’aligne sur le schéma.
 
 Définir le point d’entrée de flux continu HTTP
->[!VIDEO](https://video.tv.adobe.com/v/3478496)
+>[!VIDEO](https://video.tv.adobe.com/v/3478498?captions=fre_fr)
 
 
 
