@@ -3,7 +3,7 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: f557bb5542f413be99ae0f578a18f4dec60f0e06
+source-git-commit: 4bf52614bd3fff34a3ec09eafc7f65a2bee74387
 workflow-type: tm+mt
 source-wordcount: '971'
 ht-degree: 99%
@@ -22,7 +22,7 @@ ht-degree: 99%
    + [Fonctionnalités mobiles pour les spécialistes du marketing](/help/channels/mobile-capabilities.md)
    + [Fonctionnalités mobiles pour les développeurs](/help/channels/mobile-capabilities-for-developers.md)
    + [Obtenir de l’aide avec l’assistant IA](/help/ai-agents/ai-assistant.md)
-+ [Journey Optimizer - Mobile Learning Hub](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
++ [Journey Optimizer - Mobile Learning Hub](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
 + Campagnes {#create-campaigns}
    + Campagnes d’action {#action-campaigns}
       + [Créer une campagne](/help/campaigns/action-campaigns/create-a-campaign.md)
@@ -64,7 +64,7 @@ ht-degree: 99%
    + [Créer des audiences à l’aide du créateur de règles](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Créer une audience en chargeant un fichier CSV](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Créer des audiences à l’aide du SDK web (tutoriel)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [Évaluer des audiences à la demande](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
+   + [Évaluer des audiences à la demande](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
    + [Abonnements et landing pages](/help/subscriptions-and-landing-pages.md)
 + Canaux {#channels}
    + [Optimisation des applications mobiles : vue d’ensemble](/help/channels/mobile-app-optimization-overview.md)
@@ -124,7 +124,7 @@ ht-degree: 99%
    + Messages multilingues {#multilingual-messaging}
       + [Configurer des messages multilingues](/help/content-management/set-up-multilingual-messages.md)
       + [Créer un message multilingue](/help/content-management/create-multilingual-messages.md)
-   + Assistant IA pour la génération de contenu {#ai-assistant}
+   + Assistant IA pour la génération de contenu {#ai-assistant}
       + [Assistant IA pour la génération de contenu : vue d’ensemble](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [Créer du contenu avec l’assistant IA pour la génération de contenu](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
       + [Création et gestion des directives relatives à la marque](/help/content-management/brand-guideline-creation-and-management.md)
@@ -143,7 +143,7 @@ ht-degree: 99%
    + [Créer des expériences de contenu pour les campagnes par e-mail](/help/experimentation/content-experiments-for-emails.md)
    + [Agent d’expérimentation : vue d’ensemble](/help/ai-agents/experimentation-agent-overview.md)
 + Fonctionnalités de décision{#decision-capabilities}
-   + Prise de décisions {#decisioning}
+   + Prise de décision {#decisioning}
       + [Introduction à la prise de décisions](/help/decisioning/introduction-to-decisioning.md)
       + [Présentation complète de la prise de décisions](/help/decisioning/decisioning-end-to-end.md)
       + [Naviguer dans l’interface du créateur de formules](/help/decisioning/formula-builder-ui.md)
@@ -156,11 +156,11 @@ ht-degree: 99%
       + [Créer des emplacements](/help/decision-management/create-placements.md)
       + [Créer des règles](/help/decision-management/create-rules.md)
       + [Créer des balises](/help/decision-management/create-tags.md)
-      + [Création d&#39;offres personnalisées](/help/decision-management/create-personalized-offers.md)
+      + [Créer des offres personnalisées](/help/decision-management/create-personalized-offers.md)
       + [Créer des modèles d’IA](/help/decision-management/create-ai-models.md)
       + [Créer des offres de secours](/help/decision-management/create-fallback-offers.md)
       + [Créer des collections](/help/decision-management/create-collections.md)
-      + [Créer des décisions](/help/decision-management/create-decisions.md)
+      + [Création de décisions](/help/decision-management/create-decisions.md)
       + [Diffuser des offres à l’aide de l’API Decisions](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [Capping de la fréquence](/help/decision-management/frequency-capping.md)
    + [Utiliser la prise de décision pour personnaliser les offres web (tutoriel)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
@@ -231,7 +231,7 @@ ht-degree: 99%
    + [Génération de rapports sur les impressions et les clics des offres](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Utiliser une formule de classement pour diffuser des offres personnalisées dans Journey Optimizer](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Améliorer l’engagement de la clientèle](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
-   + [Évolution de l’orchestration à l’engagement omnicanal](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
+   + [Évolution de l’orchestration à l’engagement omnicanal](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
    + Playbooks de cas d’utilisation {#use-case-playbooks}
       + [Vue d’ensemble](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
       + [Configurer un sandbox de playbook](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
@@ -241,6 +241,6 @@ ht-degree: 99%
    + [Défis](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
    + Summit Labs {#summit-labs}
       + [Créer des instants mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-      + [Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
+      + [Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Sessions en direct et immersions totales {#live-sessions-and-deep-dives}
    + [Enregistrements Experience League LIVE](/help/_ajo-main/experience-league-live-show-recordings.md)
