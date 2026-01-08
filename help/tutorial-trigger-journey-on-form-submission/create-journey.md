@@ -21,7 +21,7 @@ Créez un parcours dans Adobe Journey Optimizer qui démarre à la réception de
 La création d’un parcours implique la création des configurations suivantes :
 
 Créer une configuration de canal e-mail
->[!VIDEO](https://video.tv.adobe.com/v/3478510)
+>[!VIDEO](https://video.tv.adobe.com/v/3478512?captions=fre_fr)
 
 
 
