@@ -5,9 +5,10 @@ feature: Overview
 role: User, Admin, Developer
 hide: false
 index: true
+jira: KT-19860
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: c2f3040358442ac2bb78d02b2a210d93b327c3ee
+source-git-commit: 8a6ae2fa80db47751a864cc983446b306b6d8e7a
 workflow-type: tm+mt
 source-wordcount: '892'
 ht-degree: 1%
@@ -20,7 +21,7 @@ Commencez ou améliorez votre stratégie d’engagement mobile avec Adobe Journe
 
 Explorez les bonnes pratiques, apprenez à stimuler l’adoption et configurez des workflows de création de rapports centralisés, le tout en un seul endroit, afin de fournir des expériences mobiles percutantes et axées sur les données qui atteignent les clients à tout moment et n’importe où.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477000?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Présentation du canal mobile
@@ -98,4 +99,4 @@ Découvrez les concepts et comment
 
 ## Cas d’utilisation client
 
-* [Prendre l’avion avec la personnalisation : Comment les compagnies aériennes peuvent-elles augmenter les offres avec Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=fr)
+* [Prendre l’avion avec la personnalisation : Comment les compagnies aériennes peuvent-elles augmenter les offres avec Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
