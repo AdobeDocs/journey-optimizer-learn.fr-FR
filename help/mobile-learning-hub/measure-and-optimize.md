@@ -60,7 +60,7 @@ Accédez aux rapports , analysez les performances et affinez les stratégies pou
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="Rapports au niveau du canal" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1755729019635" alt="Rapports au niveau du canal"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448039/?captions=fre_fr&format=jpeg&nocache=1755729019635" alt="Rapports au niveau du canal"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -83,7 +83,7 @@ Accédez aux rapports , analysez les performances et affinez les stratégies pou
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="Amélioration de la création de rapports avec Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1755729019655" alt="Amélioration de la création de rapports avec Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443153/?captions=fre_fr&format=jpeg&nocache=1755729019655" alt="Amélioration de la création de rapports avec Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
