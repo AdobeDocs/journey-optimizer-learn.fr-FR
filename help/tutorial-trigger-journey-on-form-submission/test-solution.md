@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 
 Tester la solution
->[!VIDEO](https://video.tv.adobe.com/v/3478548?captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3478546)
 
 ## Déploiement des exemples de ressources
 
@@ -51,8 +51,8 @@ Créez un répertoire pour l’exemple d’application à l’aide des commandes
 * Décompressez et placez le contenu de [project-root.zip](assets/project-root.zip) dans le dossier `trigger-journey`.
 
 * Créez un dossier appelé `public` dans le dossier `trigger-journey` .
-* Décompressez le contenu de [index.zip] dans le dossier public
-* mettez à jour le fichier `.env` avec les valeurs appropriées. Ces valeurs sont disponibles à partir de la commande cURL téléchargée lors de la création de la connexion HTTP Source
+* mettez à jour le fichier `.env` avec les valeurs appropriées. Ces valeurs sont disponibles à partir de la commande cURL téléchargée lors de la création de la connexion HTTP Source.
+* Décompressez le contenu de [index.zip](assets/index.zip) dans le dossier `public` .
 
 ## Exécution du serveur
 
