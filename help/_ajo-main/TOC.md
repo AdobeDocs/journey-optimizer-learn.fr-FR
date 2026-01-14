@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 4bf52614bd3fff34a3ec09eafc7f65a2bee74387
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '971'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 99%
    + [Fonctionnalités mobiles pour les spécialistes du marketing](/help/channels/mobile-capabilities.md)
    + [Fonctionnalités mobiles pour les développeurs](/help/channels/mobile-capabilities-for-developers.md)
    + [Obtenir de l’aide avec l’assistant IA](/help/ai-agents/ai-assistant.md)
-+ [Journey Optimizer - Mobile Learning Hub](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
++ [Journey Optimizer - Centre d’apprentissage mobile](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
 + Campagnes {#create-campaigns}
    + Campagnes d’action {#action-campaigns}
       + [Créer une campagne](/help/campaigns/action-campaigns/create-a-campaign.md)
@@ -74,7 +74,7 @@ ht-degree: 99%
       + [Utiliser la prise de décision dans le canal basé sur du code](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canal courrier{#direct-mail-channel}
       + [Créer un courrier](/help/channels/direct-mail.md)
-   + Canal e-mail{#email-channel}
+   + Canal E-mail{#email-channel}
       + [Canal e-mail : vue d’ensemble](/help/channels/email-channel-overview.md)
       + [Conception et personnalisation des e-mails : vue d’ensemble](/help/channels/email-design-and-personalization-overview.md)
       + [Créer du contenu avec le Concepteur d&#39;e-mail](/help/channels/create-content-with-the-email-designer.md)
@@ -160,12 +160,12 @@ ht-degree: 99%
       + [Créer des modèles d’IA](/help/decision-management/create-ai-models.md)
       + [Créer des offres de secours](/help/decision-management/create-fallback-offers.md)
       + [Créer des collections](/help/decision-management/create-collections.md)
-      + [Création de décisions](/help/decision-management/create-decisions.md)
+      + [Créer des décisions](/help/decision-management/create-decisions.md)
       + [Diffuser des offres à l’aide de l’API Decisions](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [Capping de la fréquence](/help/decision-management/frequency-capping.md)
    + [Utiliser la prise de décision pour personnaliser les offres web (tutoriel)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 + Data Management {#data-management}
-   + [Présentation](/help/data-management/set-up-data-overview.md)
+   + [Vue d’ensemble](/help/data-management/set-up-data-overview.md)
    + [Création d’un schéma](/help/data-management/create-schema.md)
    + [Mapping d’identités](/help/data-management/map-identities.md)
    + [Création de jeux de données et ingestion de données](/help/data-management/create-datasets-and-ingest-data.md)
@@ -185,7 +185,7 @@ ht-degree: 99%
 + Configuration {#configuration}
    + Configurer des canaux {#channel-configuration}
       + [Configurer des canaux](/help/set-up-channels/configure-channels.md)
-      + Canal e-mail {#email-channel}
+      + Canal E-mail {#email-channel}
          + [Créer un groupe d’adresses IP](/help/set-up-channels/create-ip-pool.md)
          + [Configurer un sous-domaine](/help/set-up-channels/set-up-subdomain.md)
          + [Déléguer des sous-domaines CName](/help/set-up-channels/delegate-cname-subdomains.md)
@@ -212,7 +212,7 @@ ht-degree: 99%
    + [Gestion des accès](/help/set-up-access/access-management.md)
    + [Configurer le contrôle d’accès basé sur les attributs](/help/administration/attribute-based-access-control.md)
    + [Utiliser des sandbox](/help/set-up-access/create-and-manage-sandboxes.md)
-+ Gouvernance et confidentialité des données {#data-governance-and-privacy}
++ Gouvernance des données et confidentialité {#data-governance-and-privacy}
    + [Cadre de gouvernance des données](/help/privacy/data-governance-framework.md)
    + [Classer les données à l’aide de libellés](/help/privacy/classify-data-using-lables.md)
    + [Créer des politiques d’utilisation des données](/help/privacy/create-data-usage-policies.md)

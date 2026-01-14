@@ -12,7 +12,7 @@ hidefromtoc: false
 hide: false
 exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
 source-git-commit: ee24c9920e4374631c006f13fdd8d2950d680aec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '138'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ La configuration guidée des canaux vous permet de configurer et de valider rapi
 
 Découvrez comment configurer et valider une notification de canal push sur un exemple d’application de marketing mobile iOS.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449624/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 Pour plus d&#39;informations, consultez la documentation du produit :
 
