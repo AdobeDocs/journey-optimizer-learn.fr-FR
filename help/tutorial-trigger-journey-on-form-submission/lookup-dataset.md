@@ -20,7 +20,7 @@ Une recherche de jeu de données permet à Adobe Journey Optimizer de récupére
 
 Dans ce cas d’utilisation, lorsqu’un utilisateur envoie un formulaire de préférences d’investissement (actions, obligations ou CD), le parcours recherche dynamiquement les détails d’investissement correspondants à partir d’un jeu de données de référence et utilise ces informations pour personnaliser un e-mail.
 Création d’un jeu de données de recherche
->[!VIDEO](https://video.tv.adobe.com/v/3478760)
+>[!VIDEO](https://video.tv.adobe.com/v/3478762?captions=fre_fr)
 
 Testez les champs de recherche de jeu de données en envoyant la configuration de formulaire à l’étape précédente
 

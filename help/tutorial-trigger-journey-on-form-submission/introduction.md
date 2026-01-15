@@ -37,7 +37,7 @@ Ce cas pratique montre comment l’envoi d’un formulaire client déclenche un 
 * Configurer la recherche de jeu de données pour inclure des données de référence dans l’e-mail
 
 Présentation des cas d’utilisation et création de schémas d’événement
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478473?captions=fre_fr)
 
 
 
