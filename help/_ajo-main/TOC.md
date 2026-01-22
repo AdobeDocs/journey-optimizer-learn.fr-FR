@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: d5f7fe98ec18b55f82520f461106bb18860d49c1
+source-git-commit: 64b89b0766130778e5cd3e7702ab39f5dfaeda4e
 workflow-type: tm+mt
-source-wordcount: '980'
-ht-degree: 99%
+source-wordcount: '974'
+ht-degree: 100%
 
 ---
 
@@ -151,7 +151,6 @@ ht-degree: 99%
       + [Règles réutilisables](/help/decisioning/reusable-targeting-rules.md)
       + [Personnalisation des offres avec des données météorologiques en temps réel](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [Utiliser une formule de classement pour diffuser des offres personnalisées](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [&#x200B; Activité de décision de contenu dans les parcours &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/content-decision-activity.html?lang=fr)
    + Gestion des décisions {#decision-management}
       + [Présentation de la gestion des décisions](/help/decision-management/introduction-to-decision-management.md)
       + [Démonstration des fonctionnalités de gestion des décisions](/help/decision-management/demo-of-decision-management-capabilities.md)
