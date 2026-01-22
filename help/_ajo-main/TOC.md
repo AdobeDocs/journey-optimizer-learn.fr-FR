@@ -3,7 +3,7 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: bd884367bec867c93c04a924c2ac7c3b15b2bfac
+source-git-commit: 970590b0f40adb5d642c2d183d9c387dfe203251
 workflow-type: tm+mt
 source-wordcount: '980'
 ht-degree: 99%
@@ -151,7 +151,7 @@ ht-degree: 99%
       + [Règles réutilisables](/help/decisioning/reusable-targeting-rules.md)
       + [Personnalisation des offres avec des données météorologiques en temps réel](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [Utiliser une formule de classement pour diffuser des offres personnalisées](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [&#x200B; Activité de décision de contenu dans les parcours &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/content-decision-activity.html)
+      + [ Activité de décision de contenu dans les parcours ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/content-decision-activity.html)
    + Gestion des décisions {#decision-management}
       + [Présentation de la gestion des décisions](/help/decision-management/introduction-to-decision-management.md)
       + [Démonstration des fonctionnalités de gestion des décisions](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -246,3 +246,4 @@ ht-degree: 99%
       + [Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Sessions en direct et immersions totales {#live-sessions-and-deep-dives}
    + [Enregistrements Experience League LIVE](/help/_ajo-main/experience-league-live-show-recordings.md)
+
