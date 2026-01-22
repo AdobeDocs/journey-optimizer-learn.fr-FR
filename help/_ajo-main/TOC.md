@@ -3,9 +3,9 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 4bf52614bd3fff34a3ec09eafc7f65a2bee74387
-workflow-type: ht
-source-wordcount: '971'
+source-git-commit: 381e30632cbfd984dc5d8fb4d16f0291baeac04b
+workflow-type: tm+mt
+source-wordcount: '974'
 ht-degree: 100%
 
 ---
@@ -43,6 +43,7 @@ ht-degree: 100%
    + [Présentation de la création d’un parcours](/help/journeys/introduction-to-building-a-journey.md)
    + [Créer un profil de test](/help/journeys/test-a-journey.md)
    + [Publier un parcours](/help/journeys/publish-a-journey.md)
+   + [Activité Décision de contenu](/help/journeys/content-decision-activity.md)
    + [Cas d’utilisation : parcours transactionnel](/help/journeys/use-case-transactional-journey.md)
    + [Cas d’utilisation : événement métier](/help/journeys/use-case-business-event.md)
    + [Cas d’utilisation : lecture d’audience](/help/journeys/use-case-read-audience.md)
