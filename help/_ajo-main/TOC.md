@@ -3,9 +3,9 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 64b89b0766130778e5cd3e7702ab39f5dfaeda4e
+source-git-commit: dcc1eee548f7e71ee71260ba8a14e04640c3fe2a
 workflow-type: tm+mt
-source-wordcount: '974'
+source-wordcount: '980'
 ht-degree: 100%
 
 ---
@@ -75,6 +75,7 @@ ht-degree: 100%
       + [Utiliser la prise de décision dans le canal basé sur du code](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Canal courrier{#direct-mail-channel}
       + [Créer un courrier](/help/channels/direct-mail.md)
+      + [Envoyer des messages de publipostage direct avec les parcours](/help/channels/direct-mail-in-journeys.md)
    + Canal E-mail{#email-channel}
       + [Canal e-mail : vue d’ensemble](/help/channels/email-channel-overview.md)
       + [Conception et personnalisation des e-mails : vue d’ensemble](/help/channels/email-design-and-personalization-overview.md)
