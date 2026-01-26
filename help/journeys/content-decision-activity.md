@@ -1,6 +1,6 @@
 ---
-title: Activité de décision de contenu dans la zone de travail de Parcours
-description: Tirez parti d’AJO Decisioning pour les offres de contenu dans la zone de travail de Parcours.
+title: Activité de décision de contenu dans la zone de travail du parcours
+description: Tirez parti d’AJO Decisioning pour les offres de contenu dans la zone de travail du parcours.
 feature: Decisioning, Journeys
 role: User
 level: Beginner
@@ -12,15 +12,15 @@ hide: true
 hidefromtoc: true
 source-git-commit: d5f7fe98ec18b55f82520f461106bb18860d49c1
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Activité Décision de contenu
+# Activité de décision de contenu
 
-Découvrez comment l’activité de décision de contenu dans la zone de travail de Parcours permet aux utilisateurs d’exploiter AJO Decisioning pour les offres de contenu personnalisées. Utilisez cette fonctionnalité pour acheminer les profils en fonction des offres récupérées ou envoyer des offres à des systèmes externes, ce qui améliore l’efficacité et la personnalisation de votre parcours.
+Découvrez la façon dont l’activité de décision de contenu dans la zone de travail du parcours permet aux utilisateurs et utilisatrices d’exploiter AJO Decisioning pour des offres de contenu personnalisé. Utilisez cette fonctionnalité pour acheminer les profils en fonction des offres récupérées ou pour envoyer des offres à des systèmes externes, ce qui améliore l’efficacité et la personnalisation de votre parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479109/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
 
