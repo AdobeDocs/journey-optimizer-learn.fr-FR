@@ -24,4 +24,4 @@ Découvrez comment tirer parti du canal Publipostage direct dans Adobe Journey O
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
 
-Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys).
+Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys).
