@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: 040b444f8f3a612081615016def92999bf8fff53
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
@@ -18,8 +18,9 @@ ht-degree: 0%
 
 Configurez le formulaire pour envoyer des données d’envoi à Adobe Experience Platform en temps réel à l’aide d’une intégration basée sur HTTP, en veillant à ce que la payload de l’événement s’aligne sur le schéma.
 
-Définir le point d’entrée de flux continu HTTP
->[!VIDEO](https://video.tv.adobe.com/v/3478498?captions=fre_fr)
+**Définir le point d’entrée de flux continu HTTP**
+
+>[!VIDEO](https://video.tv.adobe.com/v/3478496)
 
 
 
