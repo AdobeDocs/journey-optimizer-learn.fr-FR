@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Découvrez comment utiliser AJO Decisioning pour personnaliser les notifications push pour votre audience. Créez des offres attrayantes basées sur les profils des destinataires afin de stimuler les ventes. Découvrez les stratégies de prise de décision, testez les campagnes et analysez les mesures pour une communication efficace. Améliorez l’engagement et diffusez les promotions les plus pertinentes à vos clients.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479199/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479212/?captions=fre_fr&learn=on&enablevpops)
