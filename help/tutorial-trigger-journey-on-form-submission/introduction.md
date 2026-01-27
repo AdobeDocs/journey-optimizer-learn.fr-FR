@@ -38,7 +38,7 @@ Ce cas pratique montre comment l’envoi d’un formulaire client déclenche un 
 
 **Présentation des cas d’utilisation et création d’un schéma d’événement**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478473?captions=fre_fr)
 
 
 

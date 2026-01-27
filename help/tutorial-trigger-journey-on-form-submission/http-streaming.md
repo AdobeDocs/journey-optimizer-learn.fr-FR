@@ -20,7 +20,7 @@ Configurez le formulaire pour envoyer des données d’envoi à Adobe Experience
 
 **Définir le point d’entrée de flux continu HTTP**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478496)
+>[!VIDEO](https://video.tv.adobe.com/v/3478498?captions=fre_fr)
 
 
 

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Définissez un événement personnalisé appelé **_InvestmentPreference_**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478483)
+>[!VIDEO](https://video.tv.adobe.com/v/3478485?captions=fre_fr)
 
 
 

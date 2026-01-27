@@ -22,7 +22,7 @@ La création d’un parcours implique la création des configurations suivantes 
 
 **Création d&#39;une configuration de canal email**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478510)
+>[!VIDEO](https://video.tv.adobe.com/v/3478512?captions=fre_fr)
 
 
 
