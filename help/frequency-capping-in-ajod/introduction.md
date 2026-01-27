@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2026-01-21T00:00:00Z
 jira: KT-18526
 exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
-source-git-commit: bef6d831c639d40514552dae3ff20132626a4a09
+source-git-commit: 441fdbc33486f027c22d1b94e03919c5666ca003
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,8 @@ ht-degree: 0%
 
 Ce tutoriel explique comment appliquer un capping de la fréquence aux offres dans Adobe Journey Optimizer afin de contrôler la fréquence à laquelle les utilisateurs voient la même offre au fil du temps.
 
+Ce tutoriel suppose que vous avez déjà configuré une campagne AJO en suivant le tutoriel [personnalisation des offres en fonction des conditions météorologiques](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+
 En capturant les événements decisioning.propositionDisplay et decisioning.propositionInteract par le biais d’Adobe Web SDK et en les mappant à des schémas XDM dans Adobe Experience Platform (AEP), Adobe Journey Optimizer peut effectuer le suivi précis des impressions et des interactions d’offre, ce qui permet le capping de la fréquence afin de limiter la fréquence d’affichage d’une offre à un utilisateur.
 
 ## Conditions préalables pour ce tutoriel
@@ -26,5 +28,7 @@ En capturant les événements decisioning.propositionDisplay et decisioning.prop
 Avant de poursuivre, assurez-vous de disposer d’une campagne Adobe Journey Optimizer valide à l’aide de Decisioning qui diffuse activement des offres vers une surface web.
 
 Ce tutoriel suppose que la diffusion d’offres fonctionne déjà et se concentre exclusivement sur la configuration et la validation du comportement de limitation de la fréquence.
+
+
 
 
