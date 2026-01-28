@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 040b444f8f3a612081615016def92999bf8fff53
+source-git-commit: 892d3dac70be68ddedb51b8326c63b53f544b897
 workflow-type: tm+mt
-source-wordcount: '998'
-ht-degree: 98%
+source-wordcount: '1001'
+ht-degree: 97%
 
 ---
 
@@ -93,7 +93,7 @@ ht-degree: 98%
    + Canal de notification push{#push-channel}
       + [Notifications push : vue d’ensemble](/help/channels/push-notifications-overview.md)
       + [Configurer et envoyer une campagne de notifications push](/help/channels/create-a-push-campaign.md)
-      + [Optimisation des notifications push avec AJO Decisioning](/help/decisioning/decisioning-in-push-notifications.md)
+      + [Créer des notifications push web](/help/channels/create-web-push-notifications.md)
    + Canal SMS/MMS{#sms-channel}
       + [Messages SMS/MMS : vue d’ensemble](/help/channels/sms-mms-messages-overview.md)
       + [Configurer, créer et diffuser des messages SMS](/help/channels/author-sms-messages.md)
@@ -151,10 +151,11 @@ ht-degree: 98%
       + [Présentation complète de la prise de décisions](/help/decisioning/decisioning-end-to-end.md)
       + [Naviguer dans l’interface du créateur de formules](/help/decisioning/formula-builder-ui.md)
       + [Règles réutilisables](/help/decisioning/reusable-targeting-rules.md)
-      + [Déclencher un parcours lors de l’envoi du formulaire](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [Déclencher un parcours lors de l’envoi du formulaire](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [Personnalisation des offres avec des données météorologiques en temps réel](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [Utiliser une formule de classement pour diffuser des offres personnalisées](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [Utiliser la prise de décision dans le canal e-mail](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [Utiliser la prise de décision dans le canal e-mail](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [Utilisation de la prise de décision dans les notifications push](/help/decisioning/decisioning-in-push-notifications.md)
    + Gestion des décisions {#decision-management}
       + [Présentation de la gestion des décisions](/help/decision-management/introduction-to-decision-management.md)
       + [Démonstration des fonctionnalités de gestion des décisions](/help/decision-management/demo-of-decision-management-capabilities.md)
