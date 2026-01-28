@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Les notifications push web permettent aux sites web d’envoyer des notifications directement à l’appareil d’un utilisateur, même lorsque le navigateur est en arrière-plan. Découvrez comment créer et envoyer des notifications push web dans Adobe Journey Optimizer. Ce tutoriel vous guide tout au long de la sélection des configurations de canal, de la création de messages, du choix des audiences et de la publication de campagnes afin d’étendre votre portée au-delà des appareils mobiles.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479341/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479343/?captions=fre_fr&learn=on&enablevpops)
