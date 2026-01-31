@@ -3,9 +3,9 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 90ee8c4fb752538b138ac1931041358ee336dd25
+source-git-commit: c0b8e392d176d48550d71edae1dbea0c4f2ce028
 workflow-type: tm+mt
-source-wordcount: '1001'
+source-wordcount: '1007'
 ht-degree: 97%
 
 ---
@@ -151,11 +151,12 @@ ht-degree: 97%
       + [Présentation complète de la prise de décisions](/help/decisioning/decisioning-end-to-end.md)
       + [Naviguer dans l’interface du créateur de formules](/help/decisioning/formula-builder-ui.md)
       + [Règles réutilisables](/help/decisioning/reusable-targeting-rules.md)
-      + [Déclencher un parcours lors de l’envoi du formulaire](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [Déclencher un parcours lors de l’envoi du formulaire](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [Personnalisation des offres avec des données météorologiques en temps réel](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [Utiliser une formule de classement pour diffuser des offres personnalisées](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [Utiliser la prise de décision dans le canal e-mail](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [Utiliser la prise de décision dans le canal e-mail](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
       + [Utilisation de la prise de décision dans les notifications push](/help/decisioning/decisioning-in-push-notifications.md)
+      + [Utiliser la prise de décision dans les messages et SMS](/help/decisioning/use-decisioning-in-an-SMS-message.md)
    + Gestion des décisions {#decision-management}
       + [Présentation de la gestion des décisions](/help/decision-management/introduction-to-decision-management.md)
       + [Démonstration des fonctionnalités de gestion des décisions](/help/decision-management/demo-of-decision-management-capabilities.md)
