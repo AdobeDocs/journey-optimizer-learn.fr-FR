@@ -11,9 +11,9 @@ jira: KT-20141
 hide: true
 hidefromtoc: true
 source-git-commit: d5f7fe98ec18b55f82520f461106bb18860d49c1
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '60'
+ht-degree: 100%
 
 ---
 
@@ -22,5 +22,5 @@ ht-degree: 0%
 
 Découvrez la façon dont l’activité de décision de contenu dans la zone de travail du parcours permet aux utilisateurs et utilisatrices d’exploiter AJO Decisioning pour des offres de contenu personnalisé. Utilisez cette fonctionnalité pour acheminer les profils en fonction des offres récupérées ou pour envoyer des offres à des systèmes externes, ce qui améliore l’efficacité et la personnalisation de votre parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479109/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
 

@@ -1,6 +1,6 @@
 ---
-title: Optimisation des notifications push avec AJO Decisioning
-description: Améliorez l’engagement avec des notifications push personnalisées à l’aide d’AJO Decisioning. Créez des offres personnalisées et analysez les performances des campagnes.
+title: Optimiser les notifications push avec la prise de décision d’AJO
+description: Améliorez l’engagement avec des notifications push personnalisées utilisant la prise de décision d’AJO. Créez des offres personnalisées et analysez les performances des campagnes.
 feature: Decisioning, Push
 role: User
 level: Intermediate
@@ -11,15 +11,15 @@ jira: KT-20180
 hidefromtoc: false
 hide: false
 source-git-commit: 31a43b91fe3281a7de2aacb04e7714106d43cf89
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Optimisation des notifications push avec AJO Decisioning
+# Optimiser les notifications push avec la prise de décision d’AJO
 
-Découvrez comment utiliser AJO Decisioning pour personnaliser les notifications push pour votre audience. Créez des offres attrayantes basées sur les profils des destinataires afin de stimuler les ventes. Découvrez les stratégies de prise de décision, testez les campagnes et analysez les mesures pour une communication efficace. Améliorez l’engagement et diffusez les promotions les plus pertinentes à vos clients.
+Découvrez comment utiliser la prise de décision d’AJO pour personnaliser les notifications push destinées à votre audience. Créez des offres attrayantes basées sur les profils des destinataires afin de stimuler les ventes. Découvrez les stratégies de prise de décision, testez les campagnes et analysez les mesures pour une communication efficace. Améliorez l’engagement et diffusez les promotions les plus pertinentes à votre clientèle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479212/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479199/?learn=on&enablevpops)
