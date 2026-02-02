@@ -5,8 +5,8 @@ user-guide-description: Voici les tutoriels pour Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: 35b3b53670af62bb4f52c6df06834038ae9f7eba
 workflow-type: tm+mt
-source-wordcount: '1007'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -155,7 +155,7 @@ ht-degree: 97%
       + [Personnalisation des offres avec des données météorologiques en temps réel](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [Utiliser une formule de classement pour diffuser des offres personnalisées](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
       + [Utiliser la prise de décision dans le canal e-mail](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
-      + [Utilisation de la prise de décision dans les notifications push](/help/decisioning/decisioning-in-push-notifications.md)
+      + [Utiliser la prise de décision dans les notifications push](/help/decisioning/decisioning-in-push-notifications.md)
       + [Utiliser la prise de décision dans un SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
    + Gestion des décisions {#decision-management}
       + [Présentation de la gestion des décisions](/help/decision-management/introduction-to-decision-management.md)
