@@ -24,4 +24,4 @@ Ce rapport permet d’identifier les problèmes, d’améliorer les performances
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
-Pour plus d’informations sur cette fonctionnalité, voir la [documentation du produit](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting).
+Pour plus d’informations sur cette fonctionnalité, voir la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting).
