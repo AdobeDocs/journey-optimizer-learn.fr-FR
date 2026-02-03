@@ -645,7 +645,7 @@ Voir : [Flux de notification push dans Adobe Journey Optimizer](https://experien
 * Implémentez le **consentement pour Edge Network** et connectez-le à l’interface utilisateur de consentement de votre application.
 * Testez à nouveau dans Assurance jusqu’à ce que l’identité et le consentement apparaissent sur tous les événements pertinents.
 
-Voir : [ Implémentation du consentement pour les implémentations de Platform Mobile SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent){target="_blank"}
+Voir : [&#x200B; Implémentation du consentement pour les implémentations de Platform Mobile SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent){target="_blank"}
 
 +++
 
