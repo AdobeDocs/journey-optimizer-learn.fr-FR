@@ -8,7 +8,7 @@ doc-type: Feature Video
 duration: 164
 last-substantial-update: 2026-02-03T00:00:00Z
 jira: KT-20238
-source-git-commit: 589260ba993073b9d5b0c02ffd26b5127f7a389e
+source-git-commit: 6b732078afdde597f35d764d27064640fc05f44e
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 16%
@@ -22,6 +22,7 @@ Découvrez comment surveiller efficacement l’intégrité opérationnelle et le
 
 Ce rapport permet d’identifier les problèmes, d’améliorer les performances du parcours et d’assurer le bon fonctionnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479543/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
-Pour plus d’informations sur cette fonctionnalité, voir la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting).
+Pour plus d’informations sur cette fonctionnalité, voir la [documentation du produit](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting).
+
