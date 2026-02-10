@@ -96,11 +96,11 @@ Le JavaScript récupère dynamiquement les informations météorologiques en fon
 
 6. **Récupère et effectue le rendu des offres**
 
-* reçoit les offres renvoyées par AJO Decisioning ;
+&#x200B;* reçoit les offres renvoyées par AJO Decisioning ;
 
-* Décode le contenu HTML.
+&#x200B;* Décode le contenu HTML.
 
-* Injecte dynamiquement les offres dans le <div id="offerContainer"> element.
+&#x200B;* Injecte dynamiquement les offres dans le <div id="offerContainer"> element.
 
 ## Étapes suivantes
 
