@@ -104,5 +104,5 @@ Le JavaScript récupère dynamiquement les informations météorologiques en fon
 
 ## Étapes suivantes
 
-[Mesurez et générez des rapports sur l’impact d’AJO Decisioning.](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
+[Mesurez et générez des rapports sur l’impact d’AJO Decisioning.](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
 
