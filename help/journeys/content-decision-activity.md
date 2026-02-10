@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Découvrez la façon dont l’activité de décision de contenu dans la zone de travail du parcours permet aux utilisateurs et utilisatrices d’exploiter AJO Decisioning pour des offres de contenu personnalisé. Utilisez cette fonctionnalité pour acheminer les profils en fonction des offres récupérées ou pour envoyer des offres à des systèmes externes, ce qui améliore l’efficacité et la personnalisation de votre parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479109/?captions=fre_fr&learn=on&enablevpops)
