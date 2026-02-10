@@ -28,6 +28,6 @@ Découvrez comment créer et gérer des politiques d’utilisation des données.
 >
 >Regardez ce [tutoriel](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md) pour comprendre comment les politiques sont appliquées dans les canaux Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37130/?captions=fre_fr&learn=on)
 
 Pour plus d’informations sur la façon de [travailler avec les politiques de consentement](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/privacy/consent/consent) dans Journey Optimizer, consultez la documentation du produit.
