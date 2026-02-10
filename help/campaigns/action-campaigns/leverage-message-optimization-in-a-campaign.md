@@ -1,6 +1,6 @@
 ---
 title: Optimiser les messages dans une campagne
-description: Apprenez à tirer parti de l’optimisation des messages dans les campagnes déclenchées par des actions ou des API. Vous découvrirez comment cibler des sous-audiences, créer des variations de messages en fonction de la localisation, activer un contenu de secours et mener plusieurs expériences au sein d’une même campagne. Ce tutoriel explique également comment gérer des campagnes à plusieurs canaux, tout en maintenant la cohérence du message.
+description: Découvrez comment tirer parti de l’optimisation des messages dans les campagnes déclenchées par des actions ou des API. Découvrez comment cibler des sous-audiences, créer des variations de message par emplacement, activer le contenu de secours et exécuter plusieurs expériences dans une seule campagne. Ce tutoriel explique également comment gérer des campagnes à plusieurs canaux, tout en maintenant la cohérence du message.
 feature: Campaigns
 role: User
 level: Beginner
@@ -11,17 +11,15 @@ jira: KT-18674
 hidefromtoc: false
 hide: false
 exl-id: 12a80ca8-2517-4bbc-950f-18e1dfb8dc72
-source-git-commit: 62c4ee2d5a3e6c71646ae4f92eeee0491846832b
-workflow-type: ht
-source-wordcount: '118'
-ht-degree: 100%
+source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
+workflow-type: tm+mt
+source-wordcount: '106'
+ht-degree: 58%
 
 ---
 
 # Optimiser les messages dans une campagne
 
-Apprenez à tirer parti de l’optimisation des messages dans les campagnes déclenchées par des actions ou des API. Vous découvrirez comment cibler des sous-audiences, créer des variations de messages en fonction de la localisation, activer un contenu de secours et mener plusieurs expériences au sein d’une même campagne. Ce tutoriel explique également comment gérer des campagnes à plusieurs canaux, tout en maintenant la cohérence du message.
+Découvrez comment tirer parti de l’optimisation des messages dans les campagnes déclenchées par des actions ou des API. Découvrez comment cibler des sous-audiences, créer des variations de message par emplacement, activer le contenu de secours et exécuter plusieurs expériences dans une seule campagne. Ce tutoriel explique également comment gérer des campagnes à plusieurs canaux, tout en maintenant la cohérence du message.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470370/?learn=on&enablevpops&captions=fre_fr)
-
-Pour plus d’informations sur cette fonctionnalité, consultez la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization).
+>[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)
