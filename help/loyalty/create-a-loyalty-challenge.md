@@ -1,6 +1,6 @@
 ---
 title: Créer un défi de fidélité
-description: Découvrez comment créer rapidement un défi de fidélité, de la définition de tâches, de récompenses et de plannings à la configuration de contenu, de messages et d’audiences, tout en générant automatiquement un parcours client complet en coulisses.
+description: Découvrez comment créer un défi de fidélité en configurant des tâches, des récompenses et des plannings. Découvrez comment configurer le contenu, la messagerie et les audiences pendant qu’un parcours client complet est généré automatiquement en arrière-plan.
 feature: Setup
 role: Leader, User
 level: Beginner
@@ -12,9 +12,9 @@ hide: true
 hidefromtoc: true
 index: false
 badgeBet: label="Beta" type="Informative"
-source-git-commit: 933c5698604703cfb22cec44719839a3f52dc462
+source-git-commit: 84f0f50b5ba68f3fa53d2ccedf9de3f84ca01e2f
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '75'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,6 @@ ht-degree: 1%
 
 # Créer un défi de fidélité
 
-Découvrez comment créer rapidement un défi de fidélité, de la définition de tâches, de récompenses et de plannings à la configuration de contenu, de messages et d’audiences, tout en générant automatiquement un parcours client complet en coulisses.
+Découvrez comment créer un défi de fidélité en configurant des tâches, des récompenses et des plannings. Découvrez comment configurer le contenu, la messagerie et les audiences pendant qu’un parcours client complet est généré automatiquement en arrière-plan.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)
