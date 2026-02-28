@@ -24,4 +24,4 @@ ht-degree: 1%
 
 Découvrez comment créer un défi de fidélité en configurant des tâches, des récompenses et des plannings. Découvrez comment configurer le contenu, la messagerie et les audiences pendant qu’un parcours client complet est généré automatiquement en arrière-plan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480328/?captions=fre_fr&learn=on&enablevpops)
