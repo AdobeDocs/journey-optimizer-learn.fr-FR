@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Découvrez les configurations de canal et leur utilisation dans Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433124/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480453/?captions=fre_fr&learn=on)
 
 Pour plus d’informations sur la configuration des canaux, [consultez la documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/configuration/channel-surfaces#set-up-channel-surfaces).
