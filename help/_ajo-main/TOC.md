@@ -1,11 +1,11 @@
 ---
 user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: Il s’agit de tutoriels Journey Optimizer.
+user-guide-description: Il s’agit des tutoriels de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 933c5698604703cfb22cec44719839a3f52dc462
+source-git-commit: c0f6193e71c14c947f0d884328e58dd8c7d75a0c
 workflow-type: tm+mt
-source-wordcount: '1014'
+source-wordcount: '1020'
 ht-degree: 97%
 
 ---
@@ -60,6 +60,7 @@ ht-degree: 97%
    + [Identifier les conflits potentiels](/help/conflict-management/identify-potential-conflicts.md)
    + [Attribuer des scores de priorité](/help/conflict-management/assign-priority-score.md)
    + [Capping de la fréquence et hiérarchisation des parcours](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
+   + [Utilisation de la recherche de jeux de données dans un parcours](/help/journeys/lookup-dataset.md)
    + [Heures creuses](/help/business-rules/configure-and-apply-quiet-hours.md)
 + Profils, audiences et abonnements {#profiles-audiences-subscriptions}
    + [Profils et audiences : vue d’ensemble](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
