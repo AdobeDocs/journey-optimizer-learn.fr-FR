@@ -1,5 +1,5 @@
 ---
-title: hub d’apprentissage mobile
+title: Centre d’apprentissage mobile
 description: Le hub de formation mobile fournit aux développeurs, administrateurs, spécialistes marketing et analystes tout ce dont ils ont besoin pour configurer les canaux mobiles entrants et sortants et les intégrer de manière transparente dans de puissantes campagnes et parcours cross-canal dans Journey Optimizer.
 feature: Overview
 role: User, Admin, Developer
@@ -8,20 +8,20 @@ index: true
 jira: KT-19860
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 8a6ae2fa80db47751a864cc983446b306b6d8e7a
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '892'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
 # Journey Optimizer - Mobile Learning Hub
 
-Commencez ou améliorez votre stratégie d’engagement mobile avec Adobe Journey Optimizer. Ce centre de formation mobile fournit aux développeurs, administrateurs, spécialistes du marketing et analystes tout ce dont ils ont besoin pour configurer les canaux mobiles entrants et sortants et les intégrer de manière transparente dans de puissantes campagnes et parcours cross-canal.
+Commencez ou améliorez votre stratégie d’engagement mobile avec Adobe Journey Optimizer. Le centre d’apprentissage mobile fournit aux développeurs, développeuses, administrateurs, administratrices et personnes spécialisées dans le marketing et l’analyse tout le nécessaire pour configurer des canaux mobiles entrants et sortants et les intégrer en toute simplicité dans des campagnes et parcours cross-canal performants.
 
 Explorez les bonnes pratiques, apprenez à stimuler l’adoption et configurez des workflows de création de rapports centralisés, le tout en un seul endroit, afin de fournir des expériences mobiles percutantes et axées sur les données qui atteignent les clients à tout moment et n’importe où.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477000?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Présentation du canal mobile
@@ -99,4 +99,4 @@ Découvrez les concepts et comment
 
 ## Cas d’utilisation client
 
-* [Prendre l’avion avec la personnalisation : Comment les compagnies aériennes peuvent-elles augmenter les offres avec Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=fr)
+* [Prendre l’avion avec la personnalisation : Comment les compagnies aériennes peuvent-elles augmenter les offres avec Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)

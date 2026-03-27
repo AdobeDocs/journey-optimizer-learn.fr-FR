@@ -5,13 +5,13 @@ feature: Overview
 role: User
 hide: true
 index: false
-source-git-commit: ea0030d0742adf0058c8bb9ad3950ae9d96f8892
+exl-id: 3706c5ad-9a80-4799-8880-c45eda082f22
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '2156'
 ht-degree: 0%
 
 ---
-
 
 # Fidélité émotionnelle et construction communautaire
 
@@ -94,7 +94,7 @@ Les exemples les plus convaincants de fidélité émotionnelle viennent de marqu
 
 - **Peloton** incarne la loyauté émotionnelle par sa culture axée sur l&#39;instructeur, ses rituels de classe quotidiens, ses jalons et sa communauté de soutien. Les membres célèbrent les jalons de chacun — 100, 500 et 1 000 manèges — en créant des boucles de renforcement social. Les coureurs du peloton s&#39;identifient souvent comme faisant partie d&#39;une tribu de fitness, avec une loyauté motivée davantage par la culture communautaire que par des rabais ou des promotions.
 - **Communauté Beauty Insider de Sephora** intègre le contenu, la communauté et la fidélité. Les membres partagent des regards, offrent des conseils sur les produits, participent à des défis et discutent avec des experts en beauté. La communauté renforce l&#39;identité de marque de Sephora : un endroit où les amateurs de beauté peuvent explorer, expérimenter et apprendre. La fidélité émotionnelle se traduit directement en valeur commerciale par des segments de LTV élevés, portés par l&#39;identité et la communauté.
-- **Les communautés de création d’Apple** mettent en avant la photographie, la musique et le design générés par les utilisateurs dans Aujourd’hui lors de sessions Apple, de concours créatifs et de galeries organisées. La fidélité n’est pas transactionnelle, elle consiste à appartenir à une communauté mondiale de créateurs et créatrices. La fidélité émotionnelle d’Apple est si forte que les écosystèmes de produits deviennent des engagements de seconde nature.
+- **Les communautés de création d’** mettent en avant la photographie, la musique et le design générés par les utilisateurs dans Aujourd’hui lors de sessions Apple, de concours créatifs et de galeries organisées. La fidélité n’est pas transactionnelle, elle consiste à appartenir à une communauté mondiale de créateurs et créatrices. La fidélité émotionnelle d’Apple est si forte que les écosystèmes de produits deviennent des engagements de seconde nature.
 - **L&#39;écosystème d&#39;adhésion de Nike** qui englobe le Nike Run Club, le Training Club et le SNKRS, place la communauté et la maîtrise au cœur de la fidélité. Les membres suivent les progrès, relèvent les défis de la condition physique, présentent les réalisations, suivent les entraîneurs et participent aux efforts communautaires. La fidélité émotionnelle de Nike se construit par la réussite, l&#39;amélioration de soi et l&#39;identité communautaire.
 - **Starbucks** favorise la fidélité émotionnelle par le rituel. Les clients construisent des routines matinales autour de Starbucks, et la marque renforce l&#39;appartenance à travers des boissons personnalisées, des conseils communautaires et les « parcours » narratifs du programme Odyssey. La loyauté émotionnelle émerge d&#39;un comportement ritualisé, d&#39;une personnalisation et de moments culturels partagés.
 
@@ -102,7 +102,7 @@ Ces marques illustrent comment la fidélité émotionnelle transcende les transa
 
 ## &#x200B;6. Permettre la fidélité émotionnelle avec la technologie moderne
 
-Les programmes de fidélité émotionnelle modernes reposent largement sur les fonctionnalités d’orchestration de plateformes telles que Adobe Journey Optimizer, Salesforce Loyalty Management, Braze et des plateformes communautaires telles que Khoros ou des écosystèmes d’applications personnalisées. Les infrastructures de données et d’identités jouent des rôles essentiels. Un profil client unifié doit suivre non seulement le comportement transactionnel, mais également les signaux émotionnels : participation à un défi, interactions de contenu, activité de la communauté, sentiment, préférences, envois créatifs ou longueur de série.
+Les programmes de fidélité émotionnelle modernes reposent largement sur les fonctionnalités d’orchestration de plateformes telles que Adobe Journey Optimizer, Salesforce Loyalty Management, Braze et des plateformes communautaires telles que Khoros ou des écosystèmes d’applications personnalisées. Les infrastructures de données et d’identités jouent des rôles essentiels. Un profil client unifié doit suivre non seulement le comportement transactionnel, mais également les signaux émotionnels : participation à un défi, interactions de contenu, activité de la communauté, sentiment, préférences, envois créatifs ou longueur de la série.
 
 Les plateformes d’orchestration doivent fournir une reconnaissance personnalisée au bon moment. Cela signifie déclencher des célébrations importantes dès qu’un utilisateur relève un défi, mettre à jour instantanément les badges de l’application ou afficher des modules de fidélité personnalisés sur l’application et le web. La visualisation du progrès en temps réel est essentielle pour maintenir l’engagement émotionnel. En exposant des indicateurs de progression partout où les clients interagissent, les marques renforcent le discours selon lequel le client est sur un parcours significatif.
 

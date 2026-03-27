@@ -3,7 +3,7 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Il s’agit des tutoriels de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: c0f6193e71c14c947f0d884328e58dd8c7d75a0c
+source-git-commit: 0b3170fdcc60de2efe10ae542caa8c139f51ac78
 workflow-type: tm+mt
 source-wordcount: '1020'
 ht-degree: 97%
@@ -55,7 +55,7 @@ ht-degree: 97%
    + [Copier un parcours dans un autre sandbox](/help/journeys/copy-a-journey.md)
    + [Le parcours Déclencher quotidiennement s’exécute après la segmentation par lots.](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
 + Fidélité {#loyalty}
-+[Créer un défi de fidélité](/help/loyalty/create-a-loyalty-challenge.md)
+   + [Créer un défi de fidélité](/help/loyalty/create-a-loyalty-challenge.md)
 + Gestion des conflits et hiérarchisation {#conflict-management}
    + [Identifier les conflits potentiels](/help/conflict-management/identify-potential-conflicts.md)
    + [Attribuer des scores de priorité](/help/conflict-management/assign-priority-score.md)

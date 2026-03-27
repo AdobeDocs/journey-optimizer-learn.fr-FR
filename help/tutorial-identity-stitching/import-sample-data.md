@@ -9,7 +9,7 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
-source-git-commit: 667f146639635515a5572e9ace41d83ab4452bb8
+source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 6%
@@ -38,7 +38,7 @@ Ajoutez un champ d&#39;identité **_crmid_** comme illustré. Marquez le champ c
 
 Mettez à jour les adresses e-mail factices vers des adresses réelles. Ils seront utilisés ultérieurement lors de l’envoi de messages avec Adobe Journey Optimizer.
 
-|   | crmId | Prénom | Nom | e-mail | loyaltyStatus | zipCode | annualIncome |
+|   | crmId | Prénom | Nom | E-mail | loyaltyStatus | zipCode | annualIncome |
 |---|--------|-----------|----------|-------------------------|---------------|---------|--------------|
 |   | FIN001 | Alice | Wong | alice.wong@example.com | Gold | 92128 | 120000 |
 |   | FIN002 | Bob | Smith | bob.smith@example.com | Argent | 92126 | 85000 |
@@ -51,7 +51,7 @@ Mettez à jour les adresses e-mail factices vers des adresses réelles. Ils sero
 * Créez un jeu de données appelé **_FinWiseCustomerDataSetWithAnnualIncome_** basé sur le **_FinWiseProfileSchema_** créé dans l’exemple précédent. Assurez-vous que le jeu de données est activé pour le profil.
 
 * Accédez à Connexions -> Sources -> Système local
-* Sélectionnez l’option **_Ajouter des données_** sous Chargement de fichier local. Veillez à sélectionner le _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ comme jeu de données cible.
+* Sélectionnez l’option **_Ajouter des données_** sous Chargement de fichier local. Veillez à sélectionner le _**FinWiseCustomerDataSetWithAnnualIncome**_ comme jeu de données cible.
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * Accédez à l’écran suivant. Chargez le [fichier csv](assets/finwise_profiles.csv) et vérifiez les mappages
   ![mappings](assets/mappings.png)

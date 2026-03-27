@@ -5,13 +5,13 @@ feature: Overview
 role: User
 hide: true
 index: false
-source-git-commit: ea0030d0742adf0058c8bb9ad3950ae9d96f8892
+exl-id: 73603f31-b60f-4062-8de2-636b20d2c039
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '2128'
 ht-degree: 0%
 
 ---
-
 
 # La fidélité dans un monde omnicanal
 
@@ -70,13 +70,13 @@ Ce système à cinq niveaux (identité, données, prise de décision, orchestrat
 
 Une fois les bases architecturales en place, les marques peuvent créer des parcours de fidélité omnicanaux qui orchestrent le comportement sur l’ensemble des canaux avec précision et continuité.
 
-Prenons un **parcours de bienvenue**. Dans un système omnicanal, un client qui rejoint le service via le web reçoit un e-mail lui présentant des avantages, tandis que l’application affiche un module d’intégration personnalisé lors de son ouverture initiale. Leur niveau et leur solde de points apparaissent de manière cohérente sur l’application et le web. Si le client visite un magasin, le point de vente le reconnaît comme un nouveau membre et incite le personnel de première ligne à lui offrir une aide à l&#39;orientation. Pendant ce temps, les notifications push guident le client vers son premier achat ou défi. L’ensemble du parcours (e-mail, notification push, application, web et boutique) est cohérent.
+Prenons un parcours de bienvenue **.** Dans un système omnicanal, un client qui rejoint le service via le web reçoit un e-mail lui présentant des avantages, tandis que l’application affiche un module d’intégration personnalisé lors de son ouverture initiale. Leur niveau et leur solde de points apparaissent de manière cohérente sur l’application et le web. Si le client visite un magasin, le point de vente le reconnaît comme un nouveau membre et incite le personnel de première ligne à lui offrir une aide à l&#39;orientation. Pendant ce temps, les notifications push guident le client vers son premier achat ou défi. L’ensemble du parcours (e-mail, notification push, application, web et boutique) est cohérent.
 
-Un **parcours d’achat avec possibilité d’achat en temps réel** doit mettre à jour le profil du membre immédiatement après l’achat, refléter les points mis à jour dans les notifications push, afficher la nouvelle récompense dans la vignette d’accueil de l’application, inclure la récompense sur le reçu numérique et mettre à jour le module de récompenses du site web au chargement de la page suivante. Une mise à jour différée ou incohérente rompt la confiance.
+Un parcours d’achat avec possibilité d’achat en temps réel **doit mettre à jour le profil du membre immédiatement après l’achat, refléter les points mis à jour dans les notifications push, afficher la nouvelle récompense dans la vignette d’accueil de l’application, inclure la récompense sur le reçu numérique et mettre à jour le module de récompenses du site web au chargement de la page suivante.** Une mise à jour différée ou incohérente rompt la confiance.
 
-Un **parcours de récupération de l’attrition** utilise un score prédictif pour identifier le risque, puis active le canal le plus approprié en fonction des autorisations et des préférences du canal. Si le client préfère envoyer une notification push, le système lui envoie un message personnalisé. Si la notification push échoue, elle est transmise par e-mail ou SMS. Si le client ouvre l’application, la page d’accueil affiche de manière dynamique un module « Vous nous manquez ». Si l’utilisateur clique sur un média payant, un message de réintégration spécifique à la fidélité s’affiche.
+Un parcours de récupération de l’attrition **utilise un score prédictif pour identifier le risque, puis active le canal le plus approprié en fonction des autorisations et des préférences du canal.** Si le client préfère envoyer une notification push, le système lui envoie un message personnalisé. Si la notification push échoue, elle est transmise par e-mail ou SMS. Si le client ouvre l’application, la page d’accueil affiche de manière dynamique un module « Vous nous manquez ». Si l’utilisateur clique sur un média payant, un message de réintégration spécifique à la fidélité s’affiche.
 
-Un **parcours de mise à niveau de niveau** doit susciter une célébration sur plusieurs surfaces : une animation de l’application, un e-mail expliquant les nouveaux avantages, une bannière web personnalisée, un laissez-passer de portefeuille numérique mis à jour et un indicateur de point de vente qui avertit le personnel du magasin pour signaler la mise à niveau. Les améliorations de niveau sont des moments émotionnels, et la continuité omnicanale amplifie l&#39;impact psychologique.
+Un parcours de mise à niveau de niveau **doit susciter une célébration sur plusieurs surfaces : une animation de l’application, un e-mail expliquant les nouveaux avantages, une bannière web personnalisée, un laissez-passer de portefeuille numérique mis à jour et un indicateur de point de vente qui avertit le personnel du magasin pour signaler la mise à niveau.** Les améliorations de niveau sont des moments émotionnels, et la continuité omnicanale amplifie l&#39;impact psychologique.
 
 Ces parcours montrent que la fidélité omnicanale n’a rien à voir avec les messages : il s’agit de synchroniser les statuts, d’assurer une reconnaissance cohérente et de s’adapter en temps réel à tous les environnements.
 

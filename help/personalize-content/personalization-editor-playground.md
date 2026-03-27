@@ -12,8 +12,8 @@ hidefromtoc: false
 hide: false
 index: true
 exl-id: 4d2ec542-e148-4ee3-ba7f-99296b581c37
-source-git-commit: d92b5fff7209b341204b3ff1549c7530d4e060e6
-workflow-type: ht
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ Le [terrain de jeu de l’éditeur de personnalisation](https://experienceleague
 
 Découvrez comment tirer parti des exemples de code prédéfinis, modifier les payloads de profils factices et prévisualiser la sortie de votre code de personnalisation en temps réel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475954/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457868/?learn=on&enablevpops)

@@ -2,7 +2,7 @@
 title: Classer les données à l’aide de libellés
 description: Découvrez comment étiqueter vos schémas et vos jeux de données.
 feature: Governance, Privacy, Data Management, Access Management
-role: Data Architect, Admin
+role: Developer, Admin
 level: Beginner
 jira: KT-16266
 thumbnail: 29709.jpg
@@ -10,8 +10,8 @@ last-substantial-update: 2024-10-01T00:00:00Z
 hide: false
 hidefromtoc: false
 exl-id: 52930777-3231-4156-b1fe-a2d82003629a
-source-git-commit: 5ed78b3a8effd376662f5218a660ce8627206ced
-workflow-type: ht
+source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ Découvrez comment étiqueter vos schémas et vos jeux de données. Les libellé
 >
 >La vidéo présente cette fonction dans l’interface d’utilisation d’Adobe Experience Platform. Cette même fonctionnalité est disponible dans l’interface d’utilisation de Journey Optimizer, à la section GESTION DES DONNÉES dans le volet de navigation de gauche.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422795?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/29709?learn=on)

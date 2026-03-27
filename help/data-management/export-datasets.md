@@ -1,18 +1,18 @@
 ---
-title: Exporter des jeux de données vers des emplacements d’espace de stockage (bêta)
+title: Exporter des jeux de données vers des emplacements d’espace de stockage (Beta)
 description: Découvrez comment exporter un jeu de données de Journey Optimizer vers une destination Amazon S3.
 feature: Datasets
-role: Data Engineer
+role: Developer
 level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-04-21T00:00:00Z
 jira: KT-13113
 thumbnail: 3418688.jpeg
-badge: label="Version Beta" type="Informative"
+badge: label="Beta" type="Informative"
 exl-id: 66a616da-d917-40f6-b315-76b061e9ddfd
-source-git-commit: 2493f6cad316173f5b33d664e3215ed71d13ff76
+source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 100%
 Découvrez comment exporter un jeu de données de Journey Optimizer vers une destination Amazon S3.
 
 >[!AVAILABILITY]
->La fonction d’exportation des jeux de données, actuellement en version bêta, est disponible pour tous les utilisateurs et utilisatrices d’Adobe Journey Optimizer. Pour accéder aux destinations, contactez votre représentant ou représentante Adobe.
+>La fonction d’exportation des jeux de données, actuellement en version Beta, est disponible pour l’ensemble des utilisateurs et utilisatrices d’Adobe Journey Optimizer. Pour accéder aux destinations, contactez votre représentant ou représentante Adobe.
 
 >[!NOTE]
->Pendant la phase bêta, tous les jeux de données sont visibles. Une fois cette fonctionnalité disponible, elle se limite aux jeux de données générés par le système.
+>Pendant la phase Beta, tous les jeux de données sont visibles. Une fois cette fonctionnalité disponible, elle se limite aux jeux de données générés par le système.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432014/?quality=12&learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on){transcript=true}
 
 Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=fr).

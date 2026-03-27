@@ -10,7 +10,7 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17874
 index: false
 exl-id: c4f9447b-e79f-45ea-bd93-ed299da7aef6
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -23,4 +23,4 @@ Dans cet exercice, vous commencez à créer le parcours de bienvenue, basé sur 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457896/?learn=on&enablevpops)
 
-Voir [Présentation de la création d’un parcours &#x200B;](/help/journeys/introduction-to-building-a-journey.md) et [Cas d’utilisation - Qualification de l’audience](/help/journeys/use-case-audience-qualification.md) pour plus d’informations sur cette rubrique.
+Voir [Présentation de la création d’un parcours ](/help/journeys/introduction-to-building-a-journey.md) et [Cas d’utilisation - Qualification de l’audience](/help/journeys/use-case-audience-qualification.md) pour plus d’informations sur cette rubrique.
