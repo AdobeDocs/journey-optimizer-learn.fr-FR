@@ -46,7 +46,7 @@ Le SDK mobile :
 * Collecte les événements d&#39;application (vues d&#39;écran, appuis, achats, événements de cycle de vie, etc.) et les envoie à **Adobe Experience Platform Edge Network**.
 * Gère l’**identité** et le **consentement** afin que Journey Optimizer puisse créer et utiliser en toute sécurité des profils client.
 * Enregistre et met à jour **jetons push** et envoie **événements de tracking push et in-app** vers Adobe Experience Platform.
-* S&#39;intègre à l&#39;extension mobile **[](https://developer.adobe.com/client-sdks/edge/adobe-journey-optimizer)** afin que les messages puissent être diffusés, rendus et mesurés de bout en bout.
+* S&#39;intègre à l&#39;extension mobile **[&#128279;](https://developer.adobe.com/client-sdks/edge/adobe-journey-optimizer)** afin que les messages puissent être diffusés, rendus et mesurés de bout en bout.
 
 Sans Mobile SDK intégré à votre application, Journey Optimizer ne peut pas effectuer les opérations suivantes de manière fiable :
 
@@ -62,7 +62,7 @@ Pour les nouvelles implémentations In-App et push mobiles, la Configuration gui
 >
 >Vérifiez que vous disposez des éléments suivants :
 >
-> * **** (AJO) configuré pour votre organisation.
+> * **&#x200B;**&#x200B;(AJO) configuré pour votre organisation.
 > * Accès à Adobe Experience Platform avec [autorisations de collecte de données et de Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config#:~:text=Required%20permissions).
 > * Droits d’administrateur dans AJO pour la configuration du canal et de la configuration.
 > * Accès au code source de votre application mobile (iOS, Android ou framework multi-plateformes).
@@ -230,7 +230,7 @@ CARDS
 
 #### Liste de contrôle de préparation pour Mobile SDK
 
-Avant de remettre l’application aux marketeurs, vérifiez dans **[](https://developer.adobe.com/client-sdks/home/base/assurance/){target="_blank"}** que :
+Avant de remettre l’application aux marketeurs, vérifiez dans **[&#128279;](https://developer.adobe.com/client-sdks/home/base/assurance/){target="_blank"}** que :
 
 >[!SUCCESS]
 > 
@@ -593,7 +593,7 @@ Ouvrez le piège correspondant à vos symptômes pour savoir ce qu’il faut vé
 **Que vérifier**
 
 * Utilisez-vous les versions d’extension minimales **Mobile Core** et **Journey Optimizer** requises par la configuration guidée de canal ?
-* Dans ****, sous extensions et événements :
+* Dans **&#x200B;**, sous extensions et événements :
    * Les extensions attendues sont-elles chargées ?
    * Les événements sont-ils envoyés à Edge Network et confirmés ?
 
@@ -641,7 +641,7 @@ Voir : [Flux de notification push dans Adobe Journey Optimizer](https://experien
 
 * Le paramètre **Identité pour Edge Network** est-il implémenté et envoie-t-il un identifiant principal stable (par exemple, un identifiant de connexion) ?
 * Le **consentement pour Edge Network** est-il implémenté et mis à jour lorsque les préférences changent ?
-* Dans **** :
+* Dans **&#x200B;**&#x200B;:
    * Les événements sortants incluent-ils des valeurs de consentement ?
    * Incluent-ils de manière cohérente l’ECID et vos identifiants principaux ?
 
@@ -651,7 +651,7 @@ Voir : [Flux de notification push dans Adobe Journey Optimizer](https://experien
 * Implémentez le **consentement pour Edge Network** et connectez-le à l’interface utilisateur de consentement de votre application.
 * Testez à nouveau dans Assurance jusqu’à ce que l’identité et le consentement apparaissent sur tous les événements pertinents.
 
-Voir : [ Implémentation du consentement pour les implémentations de Platform Mobile SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent){target="_blank"}
+Voir : [&#x200B; Implémentation du consentement pour les implémentations de Platform Mobile SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent){target="_blank"}
 
 +++
 
@@ -691,7 +691,7 @@ Voir : [Flux de notification push dans Adobe Journey Optimizer](https://experien
 * L’extension **Journey Optimizer mobile messaging/in-app** et **Messaging SDK** sont-elles installées et enregistrées dans l’application ?
 * Dans votre configuration **balises** :
    * Disposez-vous de règles qui déclenchent des requêtes sur les événements corrects (par exemple, les vues d’écran ou les événements personnalisés) ?
-* Dans **** :
+* Dans **&#x200B;**&#x200B;:
    * Lorsque ces événements se déclenchent, voyez-vous des demandes de décision in-app ou de carte de contenu sortir ?
    * Voyez-vous des réponses revenir d’Edge Network ?
 
