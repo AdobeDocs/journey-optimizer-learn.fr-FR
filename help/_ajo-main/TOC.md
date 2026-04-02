@@ -3,7 +3,7 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Il s’agit des tutoriels de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 0b3170fdcc60de2efe10ae542caa8c139f51ac78
+source-git-commit: 104f7ca9f80139719b42d49b96ea5c2ea34570bc
 workflow-type: tm+mt
 source-wordcount: '1020'
 ht-degree: 97%
@@ -41,6 +41,7 @@ ht-degree: 97%
    + [Agent Journey : vue d’ensemble](/help/ai-agents/journey-agent-overview.md)
    + [Découvrir le nouveau concepteur de parcours](/help/journeys/new-journey-designer.md)
    + [Présentation de la création d’un parcours](/help/journeys/introduction-to-building-a-journey.md)
+   + [Utilisation de la recherche de jeux de données dans un parcours](/help/journeys/lookup-dataset.md)
    + [Créer un profil de test](/help/journeys/test-a-journey.md)
    + [Publier un parcours](/help/journeys/publish-a-journey.md)
    + [Activité de décision de contenu](/help/journeys/content-decision-activity.md)
@@ -60,7 +61,7 @@ ht-degree: 97%
    + [Identifier les conflits potentiels](/help/conflict-management/identify-potential-conflicts.md)
    + [Attribuer des scores de priorité](/help/conflict-management/assign-priority-score.md)
    + [Capping de la fréquence et hiérarchisation des parcours](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
-   + [Utilisation de la recherche de jeux de données dans un parcours](/help/journeys/lookup-dataset.md)
+
    + [Heures creuses](/help/business-rules/configure-and-apply-quiet-hours.md)
 + Profils, audiences et abonnements {#profiles-audiences-subscriptions}
    + [Profils et audiences : vue d’ensemble](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
