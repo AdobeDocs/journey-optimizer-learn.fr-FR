@@ -23,7 +23,7 @@ Pour créer un parcours déclenché sur l’événement price.drop, procédez co
 * Connexion à Journey Optimizer
 * Accédez à Gestion des Parcours | Parcours | Créer un Parcours
 
-![create-parcours ](assets/create-journey.png)
+![create-parcours &#x200B;](assets/create-journey.png)
 
 ## Ajouter PriceDropEvent
 

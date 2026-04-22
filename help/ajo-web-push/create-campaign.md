@@ -56,7 +56,7 @@ Enfin, assurez-vous d’activer la campagne.
 
 ## Tester la campagne
 
-Pour tester la campagne, activez d’abord les notifications sur la page web [ optant pour l’inclusion](http://localhost:3000) lorsque vous y êtes invité. Une fois la souscription effectuée, attendez que la campagne s’exécute à l’heure planifiée. Lorsque la campagne s’exécute, vous devriez recevoir la notification push dans votre navigateur.
+Pour tester la campagne, activez d’abord les notifications sur la page web [&#x200B; optant pour l’inclusion](http://localhost:3000) lorsque vous y êtes invité. Une fois la souscription effectuée, attendez que la campagne s’exécute à l’heure planifiée. Lorsque la campagne s’exécute, vous devriez recevoir la notification push dans votre navigateur.
 
 
 
