@@ -7,7 +7,7 @@ solution: Journey Optimizer
 role: Developer
 level: Beginner
 breadcrumb-url: /docs/journey-optimizer-learn/ajo-web-push/introduction
-source-git-commit: cd96c5cce9682807d453159898ad94e9ca7575b8
+source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 7%
@@ -18,9 +18,9 @@ ht-degree: 7%
 # Notification push web dans Adobe Journey Optimizer{#ajo-web-push}
 
 + [Introduction](./introduction.md)
-+ [Configuration locale](./run-application-locally.md)
 + [Créer une configuration push](./create-push-configuration.md)
 + [Créer un train de données](./create-data-stream.md)
++ [Configuration locale](./run-application-locally.md)
 + [Autorisation Capturer l’utilisateur](./capture-user-persmission.md)
 + [Créer une audience](./create-audience.md)
 + [Créer une campagne](./create-campaign.md)

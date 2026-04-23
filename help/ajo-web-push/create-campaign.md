@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 45f86aeb8fca071436785cc55225d853bb21998f
+exl-id: 94fda23f-e26a-494b-8e5c-6c442bae61c4
+source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 1%
@@ -56,8 +57,4 @@ Enfin, assurez-vous d’activer la campagne.
 
 ## Tester la campagne
 
-Pour tester la campagne, activez d’abord les notifications sur la page web [&#x200B; optant pour l’inclusion](http://localhost:3000) lorsque vous y êtes invité. Une fois la souscription effectuée, attendez que la campagne s’exécute à l’heure planifiée. Lorsque la campagne s’exécute, vous devriez recevoir la notification push dans votre navigateur.
-
-
-
-
+Pour tester la campagne, activez d’abord les notifications sur la page web [en vous inscrivant](http://localhost:3000) lorsque vous y êtes invité. Une fois la souscription effectuée, attendez que la campagne s’exécute à l’heure planifiée. Lorsque la campagne s’exécute, vous devriez recevoir la notification push dans votre navigateur.

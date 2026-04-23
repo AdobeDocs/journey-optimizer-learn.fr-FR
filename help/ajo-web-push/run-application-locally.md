@@ -1,60 +1,62 @@
 ---
-title: Run the Application Locally
-description: Setting up the sample applicatoin locally to explore the web push notification flow using AJO.
+title: Exécuter l’application localement
+description: Configuration locale de l’exemple d’application pour explorer le flux de notifications push web à l’aide d’AJO.
 feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 45f86aeb8fca071436785cc55225d853bb21998f
+exl-id: 2635641b-5ae2-4303-bac7-02c3702950f0
+source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-# Run the Application Locally
+# Exécuter l’application localement
 
-This page guides you through setting up the sample application locally so you can test and explore the web push notification flow using Adobe Journey Optimizer. You will clone the repository, configure environment variables, and run the application on your local system.
+Cette page vous guide tout au long de la configuration locale de l’exemple d’application afin que vous puissiez tester et explorer le flux de notifications push web à l’aide de Adobe Journey Optimizer. Vous clonerez le référentiel, configurerez les variables d’environnement et exécuterez l’application sur votre système local.
 
 
-Follow these steps to run the sample application on your local system.
+Pour exécuter l’exemple d’application sur votre système local, procédez comme suit.
 
-## 1. Install Node.js
+## &#x200B;1. Installez Node.js.
 
-Make sure you have **Node.js (version 16 or higher)** installed on your system.
+Vérifiez que **Node.js (version 16 ou ultérieure)** est installé sur votre système.
 
-You can [download it here:](https://nodejs.org/)
+Vous pouvez le [télécharger ici :](https://nodejs.org/)
 
-Verify the installation
+Vérification de l’installation
 
 ```node -v```
 
 ```npm -v```
 
 
-## 2. Clone the Repository
+## &#x200B;2. Clonez le référentiel
 
 ```git clone https://github.com/gbedekar489/ajo-web-push.git```
 
 ```cd ajo-web-push```
 
-## 3. Install Dependencies
+## &#x200B;3. Installer les dépendances
 
 ```npm install```
 
-## 4. Configure Environment Variables
+## &#x200B;4. Configuration Des Variables D’Environnement
 
-Create a .env file in the root directory and add the following:
+Créez un fichier .env dans le répertoire racine et ajoutez les éléments suivants :
 
 ```
 DATASTREAM_ID=your_datastream_id
 ORG_ID=your_org_id
 VAPID_PUBLIC_KEY=your_vapid_public_key
 APP_ID=your_app_id
-DATASET_ID=your_profile_dataset_id
+DATASET_ID=your_event_dataset_id
 PORT=3000
 ```
 
-When running locally, these values are read from the .env file. In production (e.g., Render), they are configured as environment variables.
+
+Lors d’une exécution locale, ces valeurs sont lues à partir du fichier .env. En production (par exemple, Rendu), ils sont configurés en tant que variables d’environnement.
