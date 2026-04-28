@@ -22,4 +22,4 @@ Découvrez comment intégrer des données et du contenu externes dans Adobe Jour
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
 
-Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/vendor-integration) de Adobe Journey Optimizer .
+Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/combine/vendor-integration) de Adobe Journey Optimizer .
