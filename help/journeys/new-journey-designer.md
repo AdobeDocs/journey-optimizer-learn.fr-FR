@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Découvrez la nouvelle zone de travail de parcours repensée et comment exploiter les rapports dynamiques dans les parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428767/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443597/?captions=fre_fr&learn=on){transcript=true}

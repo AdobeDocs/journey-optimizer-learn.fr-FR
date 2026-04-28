@@ -20,4 +20,4 @@ ht-degree: 0%
 Learn how Adobe Journey Optimizer leverages AI and machine learning for next-best actions, journey optimization, and decisioning to deliver personalized customer experiences.
 
 <!-- 62_S520_3442520_184_aipowered-decisioning-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458219/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460266/?captions=fre_fr&learn=on&enablevpops=true)

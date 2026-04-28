@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Découvrez comment gérer les profils de produit et les autorisations, et comment ajouter et gérer des utilisateurs et des utilisatrices.
 
->[!VIDEO](https://video.tv.adobe.com/v/333998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416280?captions=fre_fr&quality=12&learn=on){transcript=true}
