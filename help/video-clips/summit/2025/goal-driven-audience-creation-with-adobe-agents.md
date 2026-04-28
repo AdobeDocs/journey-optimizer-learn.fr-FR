@@ -1,6 +1,6 @@
 ---
-title: Création d’audiences pilotées par des objectifs avec des agents Adobe
-description: Découvrez comment Adobe Audience Agent utilise l’IA pour créer des audiences précises et axées sur des objectifs grâce à l’utilisation de données en temps réel et de modèles de machine learning.
+title: Goal-Driven Audience Creation with Adobe Agents
+description: Watch how Adobe's Audience Agent uses AI to create precise, goal-driven audiences by leveraging real-time data and machine learning models.
 doc-type: Short Video
 duration: 282
 index: false
@@ -8,16 +8,16 @@ hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 58006d05-85de-49a1-a046-037cdfa62ca8
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# Création d’audiences pilotées par des objectifs avec des agents Adobe
+# Goal-Driven Audience Creation with Adobe Agents
 
-Découvrez comment Adobe Audience Agent utilise l’IA pour créer des audiences précises et axées sur des objectifs grâce à l’utilisation de données en temps réel et de modèles de machine learning.
+Watch how Adobe&#39;s Audience Agent uses AI to create precise, goal-driven audiences by leveraging real-time data and machine learning models.
 
 <!-- 62_S653_3442539_281_goaldriven-audience-creation-with-adobe-agents -->
->[!VIDEO](https://video.tv.adobe.com/v/3460299/?captions=fre_fr&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458193/?learn=on&enablevpops=true)

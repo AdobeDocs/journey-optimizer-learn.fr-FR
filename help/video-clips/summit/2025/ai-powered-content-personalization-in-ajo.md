@@ -1,6 +1,6 @@
 ---
-title: PERSONALIZATION de contenu optimisé par l’IA dans AJO
-description: Découvrez comment Adobe Journey Optimizer s’intègre à des outils tels que GenStudio et Experience Manager pour fournir du contenu personnalisé de marque piloté par l’IA.
+title: AI-Powered Content Personalization in AJO
+description: Learn how Adobe Journey Optimizer integrates with tools like GenStudio and Experience Manager to deliver AI-driven, on-brand personalized content.
 doc-type: Short Video
 duration: 98
 index: false
@@ -8,16 +8,16 @@ hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: f4424b3d-c32a-4329-980d-284fc9d0bc9e
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
-# PERSONALIZATION de contenu optimisé par l’IA dans AJO
+# AI-Powered Content Personalization in AJO
 
-Découvrez comment Adobe Journey Optimizer s’intègre à des outils tels que GenStudio et Experience Manager pour fournir du contenu personnalisé de marque piloté par l’IA.
+Learn how Adobe Journey Optimizer integrates with tools like GenStudio and Experience Manager to deliver AI-driven, on-brand personalized content.
 
 <!-- 62_S520_3442520_97_aipowered-content-personalization-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3460145/?captions=fre_fr&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458183/?learn=on&enablevpops=true)

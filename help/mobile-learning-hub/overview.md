@@ -8,10 +8,10 @@ index: true
 jira: KT-19860
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 5%
+source-wordcount: '944'
+ht-degree: 7%
 
 ---
 
@@ -21,7 +21,7 @@ Commencez ou améliorez votre stratégie d’engagement mobile avec Adobe Journ
 
 Explorez les bonnes pratiques, apprenez à stimuler l’adoption et configurez des workflows de création de rapports centralisés, le tout en un seul endroit, afin de fournir des expériences mobiles percutantes et axées sur les données qui atteignent les clients à tout moment et n’importe où.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477000?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Présentation du canal mobile
@@ -90,13 +90,13 @@ Découvrez les concepts et comment
 
 | Exemple d’utilisation | Description | Utilisation du canal mobile |
 |---------|-------------|----------------------|
-| **Intégration et adoption des applications** | Accompagne les nouveaux utilisateurs tout au long des premières étapes de l&#39;engagement de l&#39;application : installation de l&#39;application, achèvement de la configuration et découverte des fonctionnalités clés. L’objectif est d’optimiser la rétention et l’utilisation à long terme. | - Notifications push et SMS accueillent les utilisateurs et demandent la saisie du profil.<br>- Les messages in-app mettent en évidence les fonctionnalités et encouragent les premières actions.<br>- Les liens profonds dans les e-mails ou les publicités redirigent les utilisateurs vers des écrans d’application spécifiques pour une intégration transparente. |
-| **Engagement basé sur l’emplacement** | Envoie des messages personnalisés et opportuns aux utilisateurs en fonction de leur proximité physique des magasins, des événements ou d’autres emplacements pertinents. | - La géolocalisation et la technologie de balise déclenchent des notifications push lorsque les utilisateurs accèdent aux zones ciblées.<br>- Les SMS/MMS diffusent des offres et des mises à jour localisées.<br>- Les bannières et cartes in-app adaptent le contenu en fonction de l’emplacement en temps réel. |
-| **Abandon-Réengagement** | Cible les utilisateurs et utilisatrices qui abandonnent les paniers, les formulaires ou les sessions de navigation, dans le but de les ramener et d’effectuer l’action prévue. | - Les notifications push rappellent aux utilisateurs les paniers abandonnés ou les actions incomplètes.<br>- Les suivis par SMS comprennent des incentives ou des liens directs pour reprendre.<br> : des invites in-app s’affichent lorsque les utilisateurs et utilisatrices reviennent et proposent des recommandations personnalisées. |
+| **Intégration et adoption des applications** | Accompagne les nouveaux utilisateurs tout au long des premières étapes de l&#39;engagement de l&#39;application : installation de l&#39;application, achèvement de la configuration et découverte des fonctionnalités clés. L’objectif est d’optimiser la rétention et l’utilisation à long terme. | - Notifications push et SMS accueillent les utilisateurs et invitent à terminer leur profil.<br>- Les messages in-app mettent en évidence les fonctionnalités et encouragent les premières actions.<br>- Les liens profonds dans les e-mails ou les publicités dirigent les utilisateurs vers des écrans d’application spécifiques pour une intégration transparente. |
+| **Engagement basé sur l’emplacement** | Envoie des messages personnalisés et opportuns aux utilisateurs en fonction de leur proximité physique des magasins, des événements ou d’autres emplacements pertinents. | - La géolocalisation et la technologie de balise déclenchent des notifications push lorsque les utilisateurs entrent dans les zones ciblées.<br>- Les SMS/MMS diffusent des offres et des mises à jour localisées.<br>- Les bannières et cartes in-app adaptent le contenu en fonction de la localisation en temps réel. |
+| **Abandon-Réengagement** | Cible les utilisateurs et utilisatrices qui abandonnent les paniers, les formulaires ou les sessions de navigation, dans le but de les ramener et d’effectuer l’action prévue. | - Les notifications push rappellent aux utilisateurs les paniers abandonnés ou les actions incomplètes.<br>- Les suivis des SMS incluent des incentives ou des liens directs pour reprendre.<br>- Des invites in-app s’affichent lorsque les utilisateurs reviennent, offrant des recommandations personnalisées. |
 | **Campagnes de montée en gamme et de ventes croisées** | Promeut des produits supplémentaires ou des mises à niveau pour les clients existants en fonction de leur comportement, de leurs préférences ou de leur historique d’achat. | - Les notifications push mettent en évidence les opportunités de montée en gamme pertinentes.<br>- Les messages in-app et les cartes de contenu présentent des éléments complémentaires.<br>- Les campagnes SMS ciblent des audiences segmentées avec des offres exclusives. |
-| **Prévention de l’attrition** | Identifie les utilisateurs risquant de quitter l’entreprise et les engage dans des stratégies de fidélisation personnalisées. | - L’analyse prédictive déclenche une sensibilisation mobile pour les utilisateurs à risque.<br>- Les notifications push et les SMS offrent des récompenses de fidélité ou du contenu personnalisé.<br>- Les enquêtes in-app recueillent des commentaires pour améliorer les stratégies de fidélisation. |
-| **Messagerie Multicanal** | Orchestre des messages cohérents sur plusieurs canaux mobiles afin de s&#39;assurer que les utilisateurs reçoivent des communications opportunes et pertinentes. | - Les notifications push, in-app, SMS et les e-mails sont coordonnés pour une messagerie unifiée.<br>- Les SDK permettent la personnalisation en temps réel sur plusieurs canaux.<br>- Les cartes de contenu persistent entre les sessions pour renforcer les messages clés. |
+| **Prévention de l’attrition** | Identifie les utilisateurs risquant de quitter l’entreprise et les engage dans des stratégies de fidélisation personnalisées. | - L’analyse prédictive déclenche une sensibilisation mobile pour les utilisateurs et utilisatrices à risque.<br>- Les notifications push et les SMS offrent des récompenses de fidélité ou du contenu personnalisé.<br>- Les enquêtes in-app recueillent des commentaires pour améliorer les stratégies de rétention. |
+| **Messagerie Multicanal** | Orchestre des messages cohérents sur plusieurs canaux mobiles afin de s&#39;assurer que les utilisateurs reçoivent des communications opportunes et pertinentes. | - Les notifications push, in-app, SMS et e-mail sont coordonnées pour la messagerie unifiée.<br>- Les SDK permettent la personnalisation en temps réel sur plusieurs canaux.<br>- Les cartes de contenu persistent entre les sessions pour renforcer les messages clés. |
 
 ## Cas d’utilisation client
 
-* [Prendre l’avion avec la personnalisation : Comment les compagnies aériennes peuvent-elles augmenter les offres avec Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=fr)
+* [Prendre l&#39;avion avec la personnalisation : Comment les compagnies aériennes peuvent élever les offres avec Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)

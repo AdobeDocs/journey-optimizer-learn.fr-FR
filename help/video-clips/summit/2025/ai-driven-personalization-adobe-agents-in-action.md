@@ -1,6 +1,6 @@
 ---
-title: PERSONALIZATION piloté par l’IA - Agents Adobe en action
-description: Découvrez comment les agents intelligents Adobe orchestrent des expériences client hyper-personnalisées à grande échelle, en relevant des défis tels que les budgets serrés et les goulots d’étranglement de production de contenu.
+title: AI-Driven Personalization - Adobe Agents in Action
+description: Learn how Adobe's intelligent agents orchestrate hyper-personalized customer experiences at scale, addressing challenges like tight budgets and content production bottlenecks.
 doc-type: Short Video
 duration: 84
 index: false
@@ -8,16 +8,16 @@ hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 8e98961d-23d0-4700-8030-f2b3a2843228
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# PERSONALIZATION pilotée par l’IA : agents Adobe en action
+# AI-Driven Personalization: Adobe Agents in Action
 
-Découvrez comment les agents intelligents Adobe orchestrent des expériences client hyper-personnalisées à grande échelle, en relevant des défis tels que les budgets serrés et les goulots d’étranglement de production de contenu.
+Learn how Adobe&#39;s intelligent agents orchestrate hyper-personalized customer experiences at scale, addressing challenges like tight budgets and content production bottlenecks.
 
 <!-- 72_S653_3442539_83_aidriven-personalization-adobe-agents-in-action -->
->[!VIDEO](https://video.tv.adobe.com/v/3460110/?captions=fre_fr&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458198/?learn=on&enablevpops=true)

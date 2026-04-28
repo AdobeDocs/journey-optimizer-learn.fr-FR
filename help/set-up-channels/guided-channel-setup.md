@@ -11,10 +11,10 @@ jira: KT-16041
 hidefromtoc: false
 hide: false
 exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
-source-git-commit: ee24c9920e4374631c006f13fdd8d2950d680aec
-workflow-type: ht
-source-wordcount: '138'
-ht-degree: 100%
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+workflow-type: tm+mt
+source-wordcount: '161'
+ht-degree: 93%
 
 ---
 
@@ -24,9 +24,9 @@ La configuration guidée des canaux vous permet de configurer et de valider rapi
 
 Découvrez comment configurer et valider une notification de canal push sur un exemple d’application de marketing mobile iOS.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449624/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 Pour plus d&#39;informations, consultez la documentation du produit :
 
-* [Commencer avec la configuration guidée des canaux](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=fr){target="_blank"}
-* [Créer une configuration de canal](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=fr){target="_blank"}
+* [Prise en main de la configuration guidée des canaux](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=fr){target="_blank"}
+* [Création d’une configuration de canal](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=fr){target="_blank"}
