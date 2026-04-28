@@ -25,4 +25,4 @@ Découvrez comment les politiques d’utilisation des données sont appliquées 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
-Pour plus d’informations sur la [gouvernance des données](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/privacy/action-privacy-restricted) et sur l’[utilisation des politiques de consentement](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent) dans Journey Optimizer, consultez la documentation du produit.
+Pour plus d’informations sur la [gouvernance des données](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/privacy/action-privacy-restricted) et sur l’[utilisation des politiques de consentement](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/privacy/consent/consent) dans Journey Optimizer, consultez la documentation du produit.
