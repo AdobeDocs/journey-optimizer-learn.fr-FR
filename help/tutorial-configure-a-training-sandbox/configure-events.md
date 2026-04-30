@@ -9,8 +9,8 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: tm+mt
-source-wordcount: '162'
+workflow-type: ht
+source-wordcount: '158'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ Dans cette section, vous configurez les trois événements requis pour les exerc
 
 La vidéo suivante vous explique comment créer des événements :
 
->[!VIDEO](https://video.tv.adobe.com/v/3431514?quality=12&learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
 
 ## Créer un événement d’achat en ligne Luma
 
@@ -59,7 +59,7 @@ Lors de l’utilisation de cet événement, Journey Optimizer reçoit des infor
 | [!UICONTROL NOM] | `LumaProductRestock` |
 | [!UICONTROL TYPE] | [!UICONTROL Entreprise] |
 | [!UICONTROL Schéma] | [!DNL Luma Product Inventory Event Schema] |
-| [!UICONTROL Champs] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema._yourOrganizationID.product :</b> <br>Nom<br> Prix<br> ImageURL<br> Description |
+| [!UICONTROL Champs] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema._yourOrganizationID.product : </b> <br>Nom<br> Prix<br> ImageURL<br> Description |
 | [!UICONTROL Condition] | LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType est en réapprovisionnement |
 
 Félicitations ! Vous pouvez désormais utiliser votre sandbox.

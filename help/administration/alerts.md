@@ -11,9 +11,9 @@ level: Beginner
 last-substantial-update: 2022-09-28T00:00:00Z
 exl-id: f4979b56-ee11-45f6-b538-b93a94f6ac41
 source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
-workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 99%
+workflow-type: ht
+source-wordcount: '114'
+ht-degree: 100%
 
 ---
 
@@ -28,6 +28,6 @@ Découvrez comment vous abonner à des alertes prédéfinies pour les comporteme
 >
 >Lors de l’accès aux alertes à partir de Journey Optimizer, seules les alertes spécifiques à vos Parcours actifs s’affichent par défaut.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423919?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
 Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"}.

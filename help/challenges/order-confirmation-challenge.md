@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 98%
+workflow-type: ht
+source-wordcount: '688'
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 98%
 
 | Défi | Créer un e-mail transactionnel de confirmation de commande |
 |---|---|
-| Utilisateurs | Gestionnaire de parcours |
+| Personne | Gestionnaire de parcours |
 | Compétences requises | <ul><li>[Créer un contenu d’e-mail avec l’éditeur de messages](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=fr)</li> <li>[Utiliser des informations d’événement contextuelles pour la personnalisation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=fr)</li><li>[Utiliser des fonctions d’assistance pour la personnalisation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=fr)</li></ul> |
 | Ressources à télécharger | [Ressources de confirmation de commande](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
@@ -70,7 +70,7 @@ L’e-mail doit être structuré comme suit :
   <tr>
   <td>
   <div>
-    <strong>Section de confirmation de commande
+    <strong>Section de confirmation de commande    
     </strong>
   </td>
   <td>
@@ -90,13 +90,13 @@ L’e-mail doit être structuré comme suit :
       </div>
       <p>
       <li>Le prénom et le nom proviennent du profil.
-      <li>Remplacez l’adresse codée en dur dans le modèle par l’<b>adresse de livraison</b>.
+      <li>Remplacez l’adresse codée en dur dans le modèle par l’<b>adresse d’expédition</b>.
       <li>Les détails de l’adresse sont des attributs contextuels de l’événement (rue, ville, code postal, État).
       <li> Supprimez <i>la remise, le total et l’arrivée</i>.</p>
   </td>
   <td>
   <p> Adresse de livraison :</p>
-      <em>{lastName} {firstName}<br>
+      <em>{firstName} {lastName}<br>
      {Street 1}<br>
      {City}, {State} {postalCode}<br></em></p>
   </td>
@@ -124,7 +124,7 @@ L’e-mail doit être structuré comme suit :
   <p>La mise en page de chaque élément doit se présenter comme suit :
    <img alt="commande" src="./assets/c2-order.png"> 
 <p><b>Ajouter le lien vers le panier</b>.
-<p>Remplacez le numéro de commande (orderID) dans l’URL par le numéro de la commande :
+<p>Remplacez l’ID de commande dans l’URL par le numéro du bon de commande :
    <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
 </td>
   </tr>
@@ -132,7 +132,7 @@ L’e-mail doit être structuré comme suit :
 
 >[!TIP]
 >
->Pour vous permettre de résoudre les problèmes de vos parcours, il est recommandé d’ajouter un autre chemin d’accès à toutes les actions de message en cas d’expiration ou d’erreur.
+>Pour vous permettre de résoudre les problèmes de vos parcours, il est recommandé d’ajouter un autre chemin d’accès à toutes les actions de message en cas de temporisation ou d’erreur.
 
 >[!TAB Critères de réussite]
 
@@ -162,7 +162,7 @@ Vous devriez recevoir l’email personnalisé de confirmation d’achat.
 
 * Voici à quoi l’e-mail doit ressembler :
 
-![E-mail.](/help/challenges/assets/c2-email.png)
+![E-mail](/help/challenges/assets/c2-email.png)
 
 >[!TAB Vérifier votre travail]
 

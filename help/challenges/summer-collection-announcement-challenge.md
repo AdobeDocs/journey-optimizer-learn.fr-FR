@@ -9,7 +9,7 @@ last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: ht
-source-wordcount: '1108'
+source-wordcount: '1154'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 | Défi | Créer une annonce de collection d’été |
 |---|---|
-| Utilisateurs | Gestionnaire de parcours |
+| Personne | Gestionnaire de parcours |
 | Compétences requises | <ul><li>[Créer des segments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=fr)</li><li> [Importer et créer du contenu d’e-mail HTML](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=fr)</li><li>[Cas d’utilisation : lecture de segment](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=fr)</li> |
 | Ressources à télécharger | [Fichiers d’e-mail de collection saisonnière](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
@@ -151,7 +151,7 @@ Envoyez-vous un BAT :
 3. Envoyez-vous un BAT.
 
 Résultat :\
-Vous devriez recevoir un e-mail. L’objet doit être le suivant : *Stanleigh, découvrez les nouveaux équipements de sport masculins !* et le corps de l’e-mail doivent correspondre à ce que vous avez vu dans l’aperçu.
+Vous devriez recevoir un e-mail. L’objet doit être le suivant : *Stanleigh, découvrez les nouveaux équipements de sport masculins !* et le corps de l’e-mail doit correspondre à ce que vous avez vu dans l’aperçu.
 
 >[!NOTE]
 >Cela peut prendre quelques minutes pour que vous receviez le BAT.
@@ -200,8 +200,8 @@ Testez le parcours et envoyez les e-mails à votre compte :
 1. Le parcours doit continuer dans la branche correspondante et vous devriez recevoir l’e-mail associé (par exemple, si vous avez choisi *Jenna*, vous devriez recevoir l’e-mail *Collection pour femmes de Luma*).
 1. Ouvrez le deuxième e-mail afin que le parcours se termine.
 1. Vous pouvez répéter l’étape 4. - 7. pour les trois profils afin de vérifier si vos branches fonctionnent correctement.
-1. Pour tester les expirations de délai, définissez le temps d’attente sur 30 secondes et déclenchez à nouveau l’entrée.
-1. N’ouvrez pas les e-mails que vous recevez (ne prévisualisez pas l’e-mail !) et attendez que le temps d’attente soit écoulé.
+1. Pour tester les délais d’expiration, définissez le temps d’attente sur 30 secondes et déclenchez à nouveau l’entrée.
+1. N’ouvrez pas les e-mails que vous recevez (ne prévisualisez pas l’e-mail !)et laissez le temps d’attente s’écouler.
 
 Vous devriez recevoir les e-mails suivants :
 

@@ -8,8 +8,8 @@ role: Admin
 level: Beginner
 auto-video-transcripts: true
 source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
-workflow-type: tm+mt
-source-wordcount: '63'
+workflow-type: ht
+source-wordcount: '87'
 ht-degree: 100%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # Tutoriel - Configurer une sandbox de formation {#configure-a-training-sandbox}
 
-+ [Configurer une sandbox de formation](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md)
++ [Configurer un sandbox de formation](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md)
 + Étape 1 : configurer la structure des données et importer des données d’exemple {#set-up-data-structure-and-ingest-data}
    + [Configurer la structure des données et importer des données d’exemple à l’aide de Postman](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=fr)
    + [Configurer la structure de données (manuellement)](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md)
