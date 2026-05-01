@@ -3,7 +3,7 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Il s’agit des tutoriels de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: d394b0e73b0606d68c19bc97e40869a4e41c4dde
+source-git-commit: 1a5852226764c45bbcc4c7e2a9c698d3d6447e9b
 workflow-type: tm+mt
 source-wordcount: '1422'
 ht-degree: 96%
@@ -168,7 +168,7 @@ ht-degree: 96%
          + [Utiliser la prise de décision dans les notifications push](/help/decisioning/decisioning-in-push-notifications.md)
          + [Utiliser la prise de décision dans un SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [Utiliser la prise de décision pour personnaliser les offres web (tutoriel)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
-      + Déclenchement de décisions à partir de déclencheurs et d’interactions externes
+      + Décisions de déclenchement à partir de déclencheurs externes et d’interactions {#triggers}
          + [Déclencher un parcours lors de l’envoi du formulaire](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
          + [Personnaliser les offres avec des données météorologiques en temps réel](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
    + Gestion des décisions {#decision-management}
