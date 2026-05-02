@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Découvrez comment configurer les activités iOS en direct avec Adobe Journey Optimizer pour diffuser des mises à jour enrichies en temps réel sur l’écran de verrouillage d’iPhone et la Dynamic Island.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479864/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479866/?captions=fre_fr&learn=on&enablevpops)
