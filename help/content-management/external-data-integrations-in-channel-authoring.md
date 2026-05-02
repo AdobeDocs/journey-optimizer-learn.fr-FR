@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Découvrez comment intégrer des données et du contenu externes dans Adobe Journey Optimizer. Vous pouvez ainsi améliorer la personnalisation et l’engagement dans les canaux sortants. Regardez la vidéo ci-dessous pour en savoir plus.
 
->[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3484120/?captions=fre_fr&learn=on&enablevpops)
 
 Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/combine/vendor-integration) de Adobe Journey Optimizer .
