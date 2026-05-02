@@ -7,7 +7,7 @@ exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
 source-git-commit: b43289032bea25bb7c0247cbd77eec35c3f816b3
 workflow-type: tm+mt
 source-wordcount: '1910'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -20,10 +20,10 @@ Experience League LIVE est une émission produite par l’équipe d’habilita
 <!--
 CARDS
 
-* https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26
     {title = New Use Cases for Customer Engagement: iOS Live Activities, Web Push, and Persistent Messaging (April 8 12, 2026)}
     {description = In this Experience League Live session, we explore new surfaces and use cases for customer engagement as brands move beyond one-way, single-channel messaging. Discover how marketing and product teams can create more visible, contextual, and persistent experiences-driving continuous engagement and richer, real-time interactions across channels.}
-* https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26
     {title = Get to Know Campaign Orchestration in Adobe Journey Optimizer (March 12, 2026)}
     {description = In this Experience League Live session, see how campaign orchestration in Journey Optimizer manages your large, one‑to‑many multi-channel marketing programs—from audience creation to launch.}
 -->
@@ -33,8 +33,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" title="Nouveaux cas d’utilisation pour l’engagement des clients : activités iOS Live, notifications push web et messagerie persistante (8 avril 12, 2026)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483389/?format=jpeg&nocache=1775836544790" alt="Nouveaux cas d’utilisation pour l’engagement des clients : activités iOS Live, notifications push web et messagerie persistante (8 avril 12, 2026)"
+                    <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" title="Nouveaux cas d’utilisation pour l’engagement des clients : activités iOS Live, notifications push web et messagerie persistante (8-12 avril 2026)" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483389/?format=jpeg&nocache=1775836544790" alt="Nouveaux cas d’utilisation pour l’engagement des clients : activités iOS Live, notifications push web et messagerie persistante (8-12 avril 2026)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -42,12 +42,12 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" title="Nouveaux cas d’utilisation pour l’engagement des clients : activités iOS Live, notifications push web et messagerie persistante (8 avril 12, 2026)">Nouveaux cas d’utilisation pour l’engagement des clients : activités iOS Live, notifications push web et messagerie persistante (8 avril 12, 2026)</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" title="Nouveaux cas d’utilisation pour l’engagement des clients : activités iOS Live, notifications push web et messagerie persistante (8-12 avril 2026)">Nouveaux cas d’utilisation pour l’engagement client : activités iOS en direct, notifications push web et messagerie persistante (8-12 avril 2026)</a>
                     </p>
-                    <p class="is-size-6">Au cours de cette session Experience League Live, nous explorons de nouvelles surfaces et de nouveaux cas d’utilisation pour l’engagement des clients à mesure que les marques dépassent le cadre des messages unidirectionnels à canal unique. Découvrez comment les équipes marketing et produit peuvent créer des expériences plus visibles, contextuelles et persistantes, ce qui génère un engagement continu et des interactions plus riches en temps réel sur l’ensemble des canaux.</p>
+                    <p class="is-size-6">Au cours de cette session Experience League en direct, nous explorons de nouvelles surfaces et de nouveaux cas d’utilisation pour l’engagement des clients à mesure que les marques dépassent le cadre des messages unidirectionnels à canal unique. Découvrez comment les équipes marketing et produit peuvent créer des expériences plus visibles, contextuelles et persistantes, générant ainsi un engagement continu et des interactions plus riches en temps réel sur l’ensemble des canaux.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -56,8 +56,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" title="Découvrez l’orchestration de Campaign dans Adobe Journey Optimizer (12 mars 2026)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481409/?format=jpeg&nocache=1775836544792" alt="Découvrez l’orchestration de Campaign dans Adobe Journey Optimizer (12 mars 2026)"
+                    <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" title="Découvrez l’orchestration de campagne dans Adobe Journey Optimizer (12 mars 2026)" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481409/?format=jpeg&nocache=1775836544792" alt="Découvrez l’orchestration de campagne dans Adobe Journey Optimizer (12 mars 2026)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -65,12 +65,12 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" title="Découvrez l’orchestration de Campaign dans Adobe Journey Optimizer (12 mars 2026)">Découvrir l’orchestration de Campaign dans Adobe Journey Optimizer (12 mars 2026)</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" title="Découvrez l’orchestration de campagne dans Adobe Journey Optimizer (12 mars 2026)">Découvrir l’orchestration de campagne dans Adobe Journey Optimizer (12 mars 2026)</a>
                     </p>
-                    <p class="is-size-6">Dans cette session Experience League Live, découvrez comment l’orchestration des campagnes dans Journey Optimizer gère vos programmes marketing multicanaux volumineux et multiples, de la création d’audiences au lancement.</p>
+                    <p class="is-size-6">Dans cette session Experience League en direct, découvrez comment l’orchestration de campagne dans Journey Optimizer vous permet de piloter vos programmes marketing multicanaux à grande échelle (de type « un-à-plusieurs »), de la création de l’audience jusqu’au lancement.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -84,36 +84,36 @@ CARDS
 
 <!-- 
 CARDS
-* https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25
     {title = The Next Era of Experimentation: How Agentic AI is Fueling Smarter Testing and Growth (October 30th 2025)}
     {description = In this Experience League Live session, we unveil Adobe Journey Optimizer Experimentation Accelerator, a new AI-first application built to transform how experimentation, product and growth teams test, learn, and optimize campaigns and customer journeys.}
-* https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25
     {title = Expand your mobile reach with RCS and WhatsApp in Journey Optimizer (September 30th 2025)}
     {description = In this show Travis Jordan and Nikhil Sharma demonstrate how Adobe Journey Optimizer has recently expanded mobile engagement with powerful new channel additions and functionality, including WhatsApp, RCS, and Custom SMS Provider.}
-* https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
     {title = Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media (July 31 2025)}
     {description = In this session, Jyothitha Chandran, Chris Ivory, and Kaitlin White showcase how Adobe Journey Optimizer (AJO) integrates seamlessly with Adobe Experience Manager (AEM) Sites Content Fragments and AEM Assets Dynamic Media to deliver scalable, real-time personalization across every channel.}
-* https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
   {title = Master Frequency Capping & Conflict Prioritization (June 18, 2025)}
   {description = In this session, Adobe experts Ariel Sultan and Aaron Forrest dive into new features in Adobe Journey Optimizer to help you govern and prioritize customer messages with precision. They show how to reduce messaging fatigue, resolve conflicts, and deliver impactful experiences that resonate.}
-* https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05
      {title = Agile Workflows for Personalized Content at Scale (June 05, 2025)}
      {description = In this session, Adobe experts Chris Ivory, Amarnath Vannarath, and Rohan Bhatt showcase how Adobe Journey Optimizer (AJO) seamlessly integrates with Adobe Express and GenStudio for Performance Marketing. Learn how these tools bring unparalleled flexibility, collaboration, and AI-powered creativity to your marketing workflows.}
-* https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25
      {title = Unlocking operational insights with AI Assistant in Adobe Experience Platform (February 27, 2025)}
      {description = ur experts discussed how AI Assistant can unlock valuable operational insights, boosting productivity and redefining work in Adobe Experience Platform and its platform-based applications.}
-* https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24
   {title = Unveiling Content Cards for Adobe Journey Optimizer (November 6, 2024)}
   {description = Learn how Content Cards deliver key updates, promotions, and messages seamlessly within your app or website, ensuring a non-intrusive user experience. }
-* https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
      {title = Harmonize Audiences in Experience Ecosystems - Federated Audience Composition in Experience Platform (October 24, 2024)}
      {description = Learn about Federated Audience Composition provides a comprehensive approach to audience curation and activation with Real-Time CDP and Journey Optimizer.}
-* https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24
     {title = AI Bash - Unlocking the Power of AI Assistant in Adobe Experience Platform Applications and Campaign (September 26, 2024)}
     {description = AI-driven tools are transforming the way we engage customers and streamline workflows. Learn how Adobe's AI capabilities will accelerate your productivity.}
-* https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24 
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=fr 
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=fr
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24 
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=en 
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en
     {description = Learn about the common use cases for push notification with Adobe Journey Optimizer and dive into the technical details on how to configure an app for Push powered by Adobe Experience Platform.}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -136,7 +136,7 @@ CARDS
                     <p class="is-size-6">Au cours de cette session d’Experience League Live, nous dévoilons Adobe Journey Optimizer Experimentation Accelerator, une nouvelle application IA conçue pour transformer la manière dont les équipes d’expérimentation, de produit et de croissance testent, apprennent et optimisent les campagnes et les parcours clients.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -156,10 +156,10 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" title="Étendre votre portée mobile avec RCS et WhatsApp dans Journey Optimizer (30 septembre 2025)">Étendre votre portée mobile avec RCS et WhatsApp dans Journey Optimizer (30 septembre 2025)</a>
                     </p>
-                    <p class="is-size-6">Dans cette émission, Travis Jordan et Nikhil Sharma montrent comment Adobe Journey Optimizer a récemment étendu l'engagement mobile avec de puissants ajouts et fonctionnalités de nouveaux canaux, y compris WhatsApp, RCS et le fournisseur de SMS personnalisé.</p>
+                    <p class="is-size-6">Dans cette présentation, Travis Jordan et Nikhil Sharma expliquent en quoi Adobe Journey Optimizer a récemment développé l’engagement mobile avec de puissants ajouts et fonctionnalités de canaux, y compris WhatsApp, RCS et le fournisseur de SMS personnalisé.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -182,7 +182,7 @@ CARDS
                     <p class="is-size-6">Au cours de cette session, Jyothitha Chandran, Chris Ivory et Kaitlin White démontrent comment Adobe Journey Optimizer (AJO) s’intègre de manière fluide aux fragments de contenu Adobe Experience Manager (AEM) Sites et à AEM Assets Dynamic Media afin de proposer une personnalisation évolutive et en temps réel sur tous les canaux.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -205,7 +205,7 @@ CARDS
                     <p class="is-size-6">Au cours de cette session, Ariel Sultan et Aaron Forrest, experts d’Adobe, explorent les nouvelles fonctionnalités d’Adobe Journey Optimizer pour vous permettre de gouverner et de hiérarchiser avec précision les messages à la clientèle. Ils montrent comment réduire la lassitude face aux messages marketing, résoudre les conflits et offrir des expériences percutantes qui trouvent un écho.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -228,7 +228,7 @@ CARDS
                     <p class="is-size-6">Au cours de cette session, les experts Adobe Chris Ivory, Amarnath Vannarath et Rohan Bhatt montrent comment Adobe Journey Optimizer (AJO) s’intègre de manière transparente à Adobe Express et GenStudio for Performance Marketing. Découvrez comment ces outils offrent une flexibilité, une collaboration et une créativité inégalées optimisées par l’IA à vos workflows marketing.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -251,7 +251,7 @@ CARDS
                     <p class="is-size-6">Nos spécialistes ont discuté de la manière dont l’Assistant IA peut exploiter de précieuses informations opérationnelles, stimuler la productivité et redéfinir le travail dans Adobe Experience Platform et ses applications basées sur la plateforme.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -274,7 +274,7 @@ CARDS
                     <p class="is-size-6">Découvrez comment les cartes de contenu proposent des mises à jour, des promotions et des messages clés de manière transparente au sein de votre application ou de votre site web, assurant ainsi une expérience d’utilisation non intrusive.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -297,7 +297,7 @@ CARDS
                     <p class="is-size-6">En savoir plus sur la manière dont la composition d’audiences fédérées offre une approche complète du traitement et de l’activation de l’audience avec Real-Time CDP et Journey Optimizer.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -320,7 +320,7 @@ CARDS
                     <p class="is-size-6">Les outils pilotés par l’IA transforment notre manière d’impliquer les clientes et clients et de rationaliser les workflows. Découvrez comment les fonctionnalités de l’IA d’Adobe vont accélérer votre productivité.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -343,7 +343,7 @@ CARDS
                     <p class="is-size-6">Propulsez l’engagement de votre clientèle cet été avec les trois fonctionnalités d’Adobe Journey Optimizer : expérimentation par parcours, capping de la fréquence et messagerie multilingue.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -366,7 +366,7 @@ CARDS
                     <p class="is-size-6">Découvrez comment utiliser les API REST pour les communications transactionnelles et marketing contextuelles, personnalisées et en temps réel.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=fr" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -375,8 +375,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=fr" title="Événements Experience League LIVE" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=fr./media_162a4f3c7f00f727975830a7b28481d0c762fa319.jpg?width=400&format=jpg&optimize=medium" alt="Événements Experience League LIVE"
+                    <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=fr" title="Événements Experience League EN DIRECT" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en./media_162a4f3c7f00f727975830a7b28481d0c762fa319.jpg?width=400&format=jpg&optimize=medium" alt="Événements Experience League EN DIRECT"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -384,12 +384,12 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=fr" target="_blank" rel="referrer" title="Événements Experience League LIVE">Experience League LIVE Events</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=fr" target="_blank" rel="referrer" title="Événements Experience League EN DIRECT">Événements Experience League EN DIRECT</a>
                     </p>
                     <p class="is-size-6">Découvrez les cas d’utilisation courants des notifications push avec Adobe Journey Optimizer et explorez les détails techniques de la configuration d’une application pour les notifications push optimisée par Adobe Experience Platform.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=fr" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
