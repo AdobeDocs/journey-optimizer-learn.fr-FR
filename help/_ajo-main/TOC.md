@@ -3,7 +3,7 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Il s’agit des tutoriels de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 0105cb737db3f7ca87302a114806fff251c11c49
+source-git-commit: 5952c9421ea5138783bc6493a7b79c0494936b45
 workflow-type: tm+mt
 source-wordcount: '1434'
 ht-degree: 96%
@@ -164,7 +164,7 @@ ht-degree: 96%
          + [Règles réutilisables](/help/decisioning/reusable-targeting-rules.md)
          + [Utiliser une formule de classement pour diffuser des offres personnalisées](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
          + [Informations sur les modèles d’IA](/help/decisioning/ai-model-insights.md)
-      + Appliquer la prise de décision pour personnaliser les messages {#content-and-offers}
+      + Utilisation de la prise de décision pour personnaliser les messages {#use-decisioning}
          + [Présentation de la prise de décision dans les e-mails](/help/decisioning/introduction-to-decisioning-in-emails.md)
          + [Utilisation de la prise de décision pour personnaliser les e-mails (tutoriel)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
          + [Utiliser la prise de décision dans les notifications push](/help/decisioning/decisioning-in-push-notifications.md)
