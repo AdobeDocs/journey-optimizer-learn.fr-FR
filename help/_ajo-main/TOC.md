@@ -3,7 +3,7 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Il s’agit des tutoriels de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 5952c9421ea5138783bc6493a7b79c0494936b45
+source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
 workflow-type: tm+mt
 source-wordcount: '1434'
 ht-degree: 96%
@@ -162,17 +162,17 @@ ht-degree: 96%
          + [Présentation complète de la prise de décisions](/help/decisioning/decisioning-end-to-end.md)
          + [Naviguer dans l’interface du créateur de formules](/help/decisioning/formula-builder-ui.md)
          + [Règles réutilisables](/help/decisioning/reusable-targeting-rules.md)
-         + [Utiliser une formule de classement pour diffuser des offres personnalisées](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+         + [Utiliser une formule de classement pour diffuser des offres personnalisées](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
          + [Informations sur les modèles d’IA](/help/decisioning/ai-model-insights.md)
       + Utilisation de la prise de décision pour personnaliser les messages {#use-decisioning}
          + [Présentation de la prise de décision dans les e-mails](/help/decisioning/introduction-to-decisioning-in-emails.md)
-         + [Utilisation de la prise de décision pour personnaliser les e-mails (tutoriel)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+         + [Utilisation de la prise de décision pour personnaliser les e-mails (tutoriel)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
          + [Utiliser la prise de décision dans les notifications push](/help/decisioning/decisioning-in-push-notifications.md)
          + [Utiliser la prise de décision dans un SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [Utiliser la prise de décision pour personnaliser les offres web (tutoriel)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + Décisions de déclenchement à partir de déclencheurs externes et d’interactions {#trigger}
-         + [Déclencher un parcours lors de l’envoi du formulaire](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-         + [Personnaliser les offres avec des données météorologiques en temps réel](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+         + [Déclencher un parcours lors de l’envoi du formulaire](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction){target="_blank"}
+         + [Personnaliser les offres avec des données météorologiques en temps réel](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + Gestion des décisions {#decision-management}
       + [Présentation de la gestion des décisions](/help/decision-management/introduction-to-decision-management.md)
       + [Démonstration des fonctionnalités de gestion des décisions](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -260,7 +260,7 @@ ht-degree: 96%
       + [Créer et publier des instances de playbook](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Exercices, labos et défis {#exercises-and-challenges}
    + [Configurer un sandbox de formation](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-   + [Défis](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
+   + [Défis](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
    + Summit Labs {#summit-labs}
       + [Créer des instants mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
       + [Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}

@@ -7,8 +7,8 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
+source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
+workflow-type: tm+mt
 source-wordcount: '1154'
 ht-degree: 100%
 
@@ -117,9 +117,9 @@ Une agence vous a fourni quatre fichiers HTML avec la conception des emails :
          * Objet : *(prénom de la destinataire), explorez la collection pour femmes de Luma !*
          * Corps de l’e-mail : `WomensCollectionEmail.html`.
       * Les autres client(e)s doivent recevoir l’e-mail **20 % de réduction sur la collection de Luma**.
-      * Titre du message : *20 % de réduction sur la collection de Luma*.
-      * Objet : *(prénom du ou de la destinataire), profitez de 20 % de réduction !*
-      * Corps de l’e-mail : `20OOffCollectionEmail.html`.
+         * Titre du message : *20 % de réduction sur la collection de Luma*.
+         * Objet : *(prénom du ou de la destinataire), profitez de 20 % de réduction !*
+         * Corps de l’e-mail : `20OOffCollectionEmail.html`.
    1. Après avoir envoyé les e-mails ciblés ci-dessus, patientez deux jours pour l’ouverture l’e-mail.
    1. Si l’e-mail ciblé n’est pas ouvert dans les 2 jours, envoyez l’e-mail **20 % de réduction sur la collection de Luma** comme tentative de reciblage finale.
 
@@ -201,7 +201,7 @@ Testez le parcours et envoyez les e-mails à votre compte :
 1. Ouvrez le deuxième e-mail afin que le parcours se termine.
 1. Vous pouvez répéter l’étape 4. - 7. pour les trois profils afin de vérifier si vos branches fonctionnent correctement.
 1. Pour tester les délais d’expiration, définissez le temps d’attente sur 30 secondes et déclenchez à nouveau l’entrée.
-1. N’ouvrez pas les e-mails que vous recevez (ne prévisualisez pas l’e-mail !)et laissez le temps d’attente s’écouler.
+1. N’ouvrez pas les e-mails que vous recevez (ne prévisualisez pas l’e-mail !) et laissez le temps d’attente s’écouler.
 
 Vous devriez recevoir les e-mails suivants :
 
