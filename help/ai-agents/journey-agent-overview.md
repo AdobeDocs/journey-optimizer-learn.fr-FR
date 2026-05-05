@@ -1,24 +1,23 @@
 ---
-title: Vue d’ensemble d’Agent Journey
-description: Agent Journey utilise l’IA pour créer, analyser et optimiser les parcours B2B/B2C par le biais d’une interface de conversation.
-feature: AI Assistant, Journeys
-feature-set: Journey Optimizer, Experience Platform
-role: User, Developer, Leader, Admin
+title: Analyse des Parcours avec Journey Agent optimisé par l’IA
+description: Découvrez comment Journey Agent dans Adobe Journey Optimizer analyse les parcours en direct, identifie les problèmes et crée des parcours à plusieurs étapes avec des informations exploitables.
+feature: null
+role: User
 level: Beginner
-last-substantial-update: 2025-10-08T00:00:00Z
-jira: KT-19109
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
-source-wordcount: '76'
-ht-degree: 100%
+doc-type: Feature Video
+duration: 308
+last-substantial-update: 2026-05-05T00:00:00Z
+jira: KT-21114
+source-git-commit: 0a4f552baab06a7d8269692269ba23010bb71fda
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
-# Vue d’ensemble d’Agent Journey
 
-Découvrez toute la puissance de l’assistant IA dans les applications Adobe Experience Platform telles que Real-Time Customer Data Platform, Journey Optimizer et Customer Journey Analytics.
+# Analyse et création de Parcours avec Journey Agent
 
->[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
+Découvrez comment utiliser Journey Agent, un assistant optimisé par l’IA intégré à Adobe Journey Optimizer, pour analyser les parcours en direct, identifier les conflits d’audience et les abandons de profil, et créer des parcours complets en plusieurs étapes à l’aide du langage naturel. Dans cette vidéo, vous découvrirez comment Journey Agent fournit des informations transparentes, des recommandations exploitables et des approbations guidées, ce qui vous permet de résoudre les problèmes liés aux parcours existants et d’en créer de nouveaux plus rapidement, sans quitter l’assistant d’IA
 
-Consultez la section [Utilisation de l’assistant IA](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/get-started/ai-assistant) pour plus d’informations sur les cas d’utilisation pris en charge dans Journey Optimizer. Pour consulter la documentation détaillée, accédez à[Assistant IA dans Adobe Experience Platform](https://experienceleague.adobe.com/fr/docs/experience-platform/ai-assistant/home).
-
+>[!VIDEO](https://video.tv.adobe.com/v/3486294/?learn=on&enablevpops)
