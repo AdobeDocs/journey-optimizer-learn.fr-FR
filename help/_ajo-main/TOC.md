@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Il s’agit des tutoriels de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: c5adf39e71b3f7cfa7d15a8fe2e77aef5d9a4cd1
+source-git-commit: 1ac487c9207703fb89cbc0bd1f1b7113f2ee18e8
 workflow-type: tm+mt
-source-wordcount: '1429'
-ht-degree: 95%
+source-wordcount: '1448'
+ht-degree: 93%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 95%
       + [Création d’une campagne orchestrée](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
 + Parcours {#journeys}
    + [Concepteur de parcours : vue d’ensemble](/help/journeys/journey-designer-overview.md)
-   + [Agent Journey : vue d’ensemble](/help/ai-agents/journey-agent-overview.md)
+   + [Analyse et création de Parcours avec Journey Agent](/help/ai-agents/journey-agent-overview.md)
    + [Découvrir le nouveau concepteur de parcours](/help/journeys/new-journey-designer.md)
    + [Présentation de la création d’un parcours](/help/journeys/introduction-to-building-a-journey.md)
    + [Utilisation de la recherche de jeux de données dans un parcours](/help/journeys/lookup-dataset.md)
@@ -244,7 +244,7 @@ ht-degree: 95%
 + Assistants et agents IA {#ai-assistant}
    + [Assistant IA](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [Assistant IA pour la génération de contenu](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Analyse et création de Parcours avec Journey Agent](/help/ai-agents/journey-agent-overview.md)
+   + [Analyse et création de Parcours avec Journey Agent](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Agent Experimentation : vue d’ensemble](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Cas d’utilisation et meilleures pratiques{#use-cases}
    + [Intégration des clientes et clients](/help/use-cases/customer-onboarding.md)
