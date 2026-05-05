@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Découvrez comment utiliser Journey Agent, un assistant optimisé par l’IA intégré à Adobe Journey Optimizer, pour analyser les parcours en direct, identifier les conflits d’audience et les abandons de profil, et créer des parcours complets en plusieurs étapes à l’aide du langage naturel. Dans cette vidéo, vous découvrirez comment Journey Agent fournit des informations transparentes, des recommandations exploitables et des approbations guidées, ce qui vous permet de résoudre les problèmes liés aux parcours existants et d’en créer de nouveaux plus rapidement, sans quitter l’assistant d’IA
 
->[!VIDEO](https://video.tv.adobe.com/v/3486294/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486296/?captions=fre_fr&learn=on&enablevpops)
