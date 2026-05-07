@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment accéder aux rapports, les parcourir et les exporter au niveau des canaux. Pour plus d’informations, consultez la [documentation sur les rapports de canaux](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/channel-report/channel-report.html?lang=fr).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424537/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448039/?captions=fre_fr&learn=on)

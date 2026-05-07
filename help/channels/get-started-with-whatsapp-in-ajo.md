@@ -29,4 +29,4 @@ Dans ce tutoriel, vous découvrirez comment réaliser les opérations suivantes�
 
 Idéal pour les responsables marketing qui cherchent à étendre leur portée et leur engagement en utilisant l’une des plateformes de messagerie les plus populaires au monde.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470244/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470246/?captions=fre_fr&learn=on&enablevpops)

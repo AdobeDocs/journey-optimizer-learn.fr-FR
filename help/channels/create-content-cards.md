@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment créer des cartes de contenu pour votre application.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434783/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434785/?captions=fre_fr&learn=on)

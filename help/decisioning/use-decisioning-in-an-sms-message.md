@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment utiliser AJO Decisioning pour personnaliser et optimiser le contenu des SMS. Améliorez vos SMS pour accroître l’engagement et atteindre vos objectifs commerciaux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479531/?captions=fre_fr&learn=on&enablevpops)
