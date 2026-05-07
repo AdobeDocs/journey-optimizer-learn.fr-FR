@@ -1,23 +1,22 @@
 ---
-title: Streamlining Journey Segments in AJO
-description: Discover how to optimize streaming segments and use Journey Canvas for decision-making without overloading your system.
+title: Rationalisation des segments de Parcours dans AJO
+description: Découvrez comment optimiser les segments en flux continu et utiliser la zone de travail du Parcours pour la prise de décision sans surcharger votre système.
 doc-type: Short Video
 duration: 53
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 96764ad3-2cc9-40bc-aa18-303915068b8b
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-# Streamlining Journey Segments in AJO
+# Rationalisation des segments de Parcours dans AJO
 
-Discover how to optimize streaming segments and use Journey Canvas for decision-making without overloading your system.
+Découvrez comment optimiser les segments en flux continu et utiliser la zone de travail du Parcours pour la prise de décision sans surcharger votre système.
 
 <!-- 62_S522_3442522_52_streamlining-journey-segments-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3460455/?captions=fre_fr&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458244/?learn=on&enablevpops=true)

@@ -9,9 +9,8 @@ duration: 188
 last-substantial-update: 2026-01-24T00:00:00Z
 jira: KT-20176
 hide: false
-hidefromtoc: false
 exl-id: 7c5f624a-46aa-4604-beb5-0023834b2a98
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
@@ -22,6 +21,6 @@ ht-degree: 100%
 
 Découvrez comment utiliser le canal de publipostage direct dans Adobe Journey Optimizer pour automatiser et planifier les diffusions de publipostage direct dans vos parcours. Découvrez la configuration du routage des fichiers, configurez la fréquence de création et utilisez les actions de publipostage direct sur la zone de travail du parcours. Cette vidéo montre comment AJO met les participantes et participants en file d’attente, génère des fichiers horodatés à intervalles réguliers et les envoie automatiquement une fois activés.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479164/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
 
 Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/channels/direct-mail/create-direct-mail).

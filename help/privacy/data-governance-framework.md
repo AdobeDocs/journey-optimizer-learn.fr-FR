@@ -9,9 +9,8 @@ duration: 474
 last-substantial-update: 2024-10-01T00:00:00Z
 jira: KT-16263
 hide: false
-hidefromtoc: false
 exl-id: e78350c0-543e-4a68-9551-df0c7d9a7be0
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 100%
@@ -22,7 +21,7 @@ ht-degree: 100%
 
 Comprendre le cadre de gouvernance des données dans Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/33154/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
 
 Pour plus d’informations sur la [gouvernance des données](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/privacy/action-privacy-restricted) dans Journey Optimizer, consultez la documentation du produit.
 

@@ -5,10 +5,9 @@ doc-type: Short Video
 duration: 187
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 0e3ffb0f-024a-44c2-a24a-efc78dec0a79
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -20,4 +19,4 @@ ht-degree: 0%
 Découvrez comment Adobe Journey Optimizer prend en charge la messagerie RCS, en offrant des expériences de marque, interactives et de type application directement dans les boîtes de réception des messages des utilisateurs.
 
 <!-- 72_S520_3442520_186_rcs-messaging-the-future-of-rich-communication -->
->[!VIDEO](https://video.tv.adobe.com/v/3460366/?captions=fre_fr&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458209/?learn=on&enablevpops=true)
