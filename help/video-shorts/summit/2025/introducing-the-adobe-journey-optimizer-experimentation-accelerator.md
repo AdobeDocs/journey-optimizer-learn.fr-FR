@@ -1,21 +1,20 @@
 ---
-title: Présentation du Adobe Journey Optimizer Experimentation Accelerator
+title: Présentation de Adobe Journey Optimizer Experimentation Accelerator
 description: Explorez la nouvelle Experimentation Accelerator optimisée par GenAI, conçue pour optimiser les tests, faire apparaître des informations et stimuler l’impact commercial.
 doc-type: Short Video
 duration: 101
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 733b2ab9-6fc1-41ce-8773-d41539cf07c2
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# Présentation du Adobe Journey Optimizer Experimentation Accelerator
+# Présentation de Adobe Journey Optimizer Experimentation Accelerator
 
 Explorez la nouvelle Experimentation Accelerator optimisée par GenAI, conçue pour optimiser les tests, faire apparaître des informations et stimuler l’impact commercial.
 

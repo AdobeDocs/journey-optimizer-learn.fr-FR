@@ -8,11 +8,10 @@ doc-type: Feature Video
 duration: 598
 last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-18657
-hidefromtoc: true
 exl-id: 0edd792a-14e5-4fb4-94e0-f032be89d267
-source-git-commit: e0aee000736f2e1d2ac290c4e24b2e0de95753a0
-workflow-type: ht
-source-wordcount: '122'
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+workflow-type: tm+mt
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
@@ -30,4 +29,4 @@ Dans ce tutoriel, vous découvrirez comment réaliser les opérations suivantes�
 
 Idéal pour les responsables marketing qui cherchent à étendre leur portée et leur engagement en utilisant l’une des plateformes de messagerie les plus populaires au monde.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470246/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3470246/?captions=fre_fr&learn=on&enablevpops)
