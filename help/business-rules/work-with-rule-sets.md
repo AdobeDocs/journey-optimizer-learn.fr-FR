@@ -32,6 +32,6 @@ ht-degree: 100%
 
 Découvrez comment créer un jeu de règles de limitation de la fréquence des clientes et clients pour limiter le nombre de communications envoyées aux clientes et clients en fonction du type de communication.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444728/?captions=fre_fr&learn=on&enablevpops)
 
 Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/configuration/rule-sets).
