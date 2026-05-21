@@ -30,5 +30,5 @@ ht-degree: 0%
 
 Découvrez comment créer des fragments de parcours réutilisables dans Adobe Journey Optimizer. Cette fonctionnalité permet aux utilisateurs d’enregistrer un ensemble de nœuds de parcours en tant que fragments, ce qui permet de les réutiliser rapidement dans d’autres parcours. L’utilisation de fragments vous permet de gagner du temps, de rationaliser les workflows et d’assurer la cohérence sur plusieurs parcours. Regardez la vidéo intégrée pour une présentation détaillée et des exemples pratiques.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491387/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491389/?captions=fre_fr&learn=on&enablevpops)
 
