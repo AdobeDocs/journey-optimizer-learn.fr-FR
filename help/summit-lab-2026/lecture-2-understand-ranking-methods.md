@@ -24,7 +24,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: cb02fd66d9e499a6c7031684c946a19492cf0788
+source-git-commit: 72df947889d1727ae571c9fb82d68060744ca360
 workflow-type: tm+mt
 source-wordcount: 52
 ht-degree: 0%
@@ -34,6 +34,6 @@ ht-degree: 0%
 
 # Conférence 2 - Comprendre les méthodes de classement
 
-Découvrez les différentes méthodes de classement disponibles dans Adobe Journey Optimizer Decisioning, notamment les modèles d&#39;optimisation de l&#39;IA et les formules de classement basées sur des règles.
+Découvrez les différentes méthodes de classement disponibles dans Adobe Journey Optimizer Decisioning, y compris les formules de classement basées sur des règles et les modèles d’optimisation de l’IA.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491465/?learn=on&enablevpops)
