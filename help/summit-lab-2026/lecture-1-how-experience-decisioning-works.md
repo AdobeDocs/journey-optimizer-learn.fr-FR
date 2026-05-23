@@ -32,4 +32,4 @@ ht-degree: 0%
 
 Découvrez comment Adobe Journey Optimizer Decisioning sélectionne et diffuse l’offre la plus pertinente pour chaque client, depuis les pools d’offres et les collections, en passant par le filtrage d’éligibilité et le classement, jusqu’aux stratégies de sélection et aux politiques de décision.
 
->[!VIDEO](https://video.tv.adobe.com/v/3490205/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3490212/?captions=fre_fr&learn=on&enablevpops)
