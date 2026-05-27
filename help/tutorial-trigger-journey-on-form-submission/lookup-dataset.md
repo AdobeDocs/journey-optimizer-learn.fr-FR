@@ -23,6 +23,6 @@ Dans ce cas d’utilisation, lorsqu’un utilisateur ou une utilisatrice envoie 
 
 **Créer un jeu de données de recherche**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478760)
+>[!VIDEO](https://video.tv.adobe.com/v/3478762?captions=fre_fr)
 
 Testez les champs de recherche de jeu de données en envoyant la configuration de formulaire à l’étape précédente

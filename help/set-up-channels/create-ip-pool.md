@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment créer un groupe d’adresses IP pour protéger la réputation de vos expéditeurs et expéditrices, tout en améliorant la délivrabilité des e-mails.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463145/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463251/?captions=fre_fr&learn=on&enablevpops)
