@@ -20,11 +20,11 @@ ht-degree: 0%
 
 Les balises Adobe Experience Platform (anciennement Adobe Launch) permettent de gérer et de déployer* des technologies de marketing et d’analyse sur votre site web sans avoir à modifier le code du site.
 
-Cette [ vidéo décrit le processus de création d’Adobe Experience Tags](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
+Cette [&#x200B; vidéo décrit le processus de création d’Adobe Experience Tags](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 * Connexion à la collecte de données
-* Cliquez sur _**Tags -> Nouvelle propriété**
-* Créez une balise Adobe Experience Platform appelée _**personalization-on-weather**_.
+* Cliquez sur _&#x200B;**Tags -> Nouvelle propriété**
+* Créez une balise Adobe Experience Platform appelée _&#x200B;**personalization-on-weather**&#x200B;_.
 * Ajoutez les extensions suivantes à la balise .
 
 ![tags-extensions](assets/tags-extensions1.png)
