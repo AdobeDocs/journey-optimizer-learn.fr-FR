@@ -10,14 +10,14 @@ recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
 source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
-source-wordcount: '1011'
+source-wordcount: '1033'
 ht-degree: 100%
 
 ---
 
 # Configurer les données manuellement
 
-Dans cette section, vous créez les espaces de noms d’identité requis et définissez les exemple de structure de données [!DNL Luma] en créant les [[!UICONTROL schémas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=fr).
+Dans cette section, vous créez les espaces de noms d’identité requis et définissez la structure des données d’exemple [!DNL Luma] en créant les [[!UICONTROL schémas]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=fr).
 
 >[!TIP]
 >Regardez le tutoriel vidéo [Mapper les identités](/help/data-management/map-identities.md) avant de commencer.
@@ -149,7 +149,7 @@ Le nouveau groupe de champs vide est ajouté à votre schéma. Les boutons + vou
 
    Ajoutez deux champs sous l’objet `systemIdentifier` :
 
-   | [!UICONTROL FieldName] | [!UICONTROL Nom d’affichage] | [!UICONTROL Type] |
+   | [!UICONTROL Fieldname] | [!UICONTROL Nom d’affichage] | [!UICONTROL Type] |
    |-------------|-----------|----------|
    | `loyaltyId` | `Loyalty Id` | [!UICONTROL Chaîne] |
    | `crmId` | `CRM Id` | [!UICONTROL Chaîne] |

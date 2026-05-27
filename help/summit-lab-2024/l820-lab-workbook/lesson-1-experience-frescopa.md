@@ -12,7 +12,7 @@ thumbnail: KT-14978.jpeg
 exl-id: 1bbb978b-0401-4383-b507-48b46d84d19f
 source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '581'
 ht-degree: 1%
 
 ---
@@ -107,9 +107,9 @@ Après l’installation de l’application, vous devez faire confiance au dével
 
 Sur Android, téléchargez et installez l’APK en suivant les instructions d’alerte présentées ici :
 
-![écran de téléchargement d’Android](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-5-android-download.jpg "écran de téléchargement d’Android"){width="250" align="center" zoomable="yes"}
+![Écran de téléchargement Android](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-5-android-download.jpg "Écran de téléchargement Android"){width="250" align="center" zoomable="yes"}
 <br>
-Écran d’installation d’Android ![](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
+![Écran d’installation d’](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
 * Vous devriez maintenant pouvoir lancer l’application **Fréscopa** sur votre appareil Android : ![Icône de l’application Fréscopa](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 

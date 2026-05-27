@@ -16,7 +16,7 @@ ht-degree: 98%
 
 ---
 
-# Summit Lab L731 - Cheat Sheet
+# Summit Lab L731 - Aide-mémoire
 
 Cette page comporte du texte et des liens utilisés dans le L731 Summit Lab. Cela vous permet de copier et coller le contenu dans vos messages Journey Optimizer.
 
@@ -160,7 +160,7 @@ Cliquez sur **Installer quand même**.
 | **Modifier le contenu :** contenu | Titre | Bénéficiez du tarif préférentiel ! |  |
 | **Modifier le contenu :** contenu | Corps | Adobe Max revient à Las Vegas. Préparez-vous à des interventions passionnantes, à des sessions pour accroître vos compétences et à de nouvelles rencontres. Réservez dès maintenant votre suite et profitez d’une remise de 10 %. |  |
 | **Modifier le contenu :** boutons | Bouton | Bénéficiez d’une remise de 10 % ! | lab://booking?suite=presidential&amp;discount=10 |
-| **Modifier le contenu: &#x200B;** boutons | Événement d’interaction | Appel à l’action in-app |  |
+| **Modifier le contenu: ** boutons | Événement d’interaction | Appel à l’action in-app |  |
 | **Prévisualisation sur l’appareil** | URL de base à utiliser pour la prévisualisation sur l’appareil |  | **iOS :** lab:// <br>**Android** : https://lab |
 
 ## Exercice 3 : créer une notification push

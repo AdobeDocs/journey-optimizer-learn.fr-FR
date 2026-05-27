@@ -10,8 +10,8 @@ jira: KT-20014
 exl-id: 52a506d0-cc1b-4d8d-a634-b66c7c7673ed
 source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 3%
+source-wordcount: '128'
+ht-degree: 11%
 
 ---
 
@@ -37,4 +37,4 @@ Ce cas pratique montre comment l’envoi d’un formulaire client déclenche un 
 
 **Présentation des cas d’utilisation et création d’un schéma d’événement**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478473?captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)

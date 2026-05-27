@@ -8,8 +8,8 @@ breadcrumb-url: /docs/journey-optimizer-learn/use-decisioning-in-email-channel/i
 auto-video-transcripts: true
 source-git-commit: c7690ad3a805d5b149b9e068b68a7a34d72f45d6
 workflow-type: tm+mt
-source-wordcount: '30'
-ht-degree: 36%
+source-wordcount: '34'
+ht-degree: 32%
 
 ---
 

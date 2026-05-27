@@ -33,9 +33,9 @@ Cette page contient du texte et des liens utilisés dans le L535 Summit Lab. Cel
 
 Connectez-vous à l’aide des informations suivantes :
 
-Adresse e-mail :    L535+*votre numéro de poste*@adobeeventlab.com
+Adresse e-mail : L535+*votre numéro de poste*@adobeeventlab.com
 
-Mot de passe :       Adobe4Summit !
+Mot de passe : Adobe4Summit !
 
 
 ### Exercice 2.3 : composer l’e-mail

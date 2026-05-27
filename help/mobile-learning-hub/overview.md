@@ -21,7 +21,7 @@ Commencez ou améliorez votre stratégie d’engagement mobile avec Adobe Journ
 
 Explorez les bonnes pratiques, apprenez à stimuler l’adoption et configurez des workflows de création de rapports centralisés, le tout en un seul endroit, afin de fournir des expériences mobiles percutantes et axées sur les données qui atteignent les clients à tout moment et n’importe où.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477000?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Présentation du canal mobile
@@ -99,4 +99,4 @@ Découvrez les concepts et comment
 
 ## Cas d’utilisation client
 
-* [Prendre l&#39;avion avec la personnalisation : Comment les compagnies aériennes peuvent élever les offres avec Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=fr)
+* [Prendre l&#39;avion avec la personnalisation : Comment les compagnies aériennes peuvent élever les offres avec Adobe Journey Optimizer (blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
