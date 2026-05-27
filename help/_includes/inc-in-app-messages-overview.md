@@ -1,11 +1,11 @@
 ---
 source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '474'
 ht-degree: 1%
 
 ---
-# Messages in-app
+# Messages in-app
 
 ## Que sont les messages in-app ?
 

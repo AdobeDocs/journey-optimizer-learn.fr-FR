@@ -11,8 +11,8 @@ last-substantial-update: 2025-03-28T00:00:00Z
 jira: KT-17531
 exl-id: 6503a468-b089-4bd1-b8a5-310077cbc43b
 source-git-commit: 6d09250d40f71ec8e64894e8283b22a91e8cd133
-workflow-type: ht
-source-wordcount: '119'
+workflow-type: tm+mt
+source-wordcount: '142'
 ht-degree: 100%
 
 ---
@@ -27,6 +27,6 @@ ht-degree: 100%
 
 Découvrez le processus d’export d’un modèle d’e-mail de [!DNL Journey Optimizer] vers [!DNL GenStudio for Performance Marketing], de création d’e-mails conformes à la marque à l’aide du modèle dans [!DNL GenStudio] et de réimport transparent dans [!DNL Journey Optimizer].
 
->[!VIDEO](https://video.tv.adobe.com/v/3456051/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3456038/?learn=on&enablevpops)
 
 Pour en savoir plus sur [!DNL GenStudio for Performance Marketing], consultez le guide d’utilisation d’[[!DNL Adobe GenStudio for Performance Marketing] ](https://experienceleague.adobe.com/fr/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"} ou les [tutoriels Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/fr/docs/genstudio-for-performance-marketing-learn/tutorials/overview).

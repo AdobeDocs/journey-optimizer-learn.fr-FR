@@ -11,7 +11,7 @@ level: Beginner
 exl-id: 6b8b5c30-5b12-486e-8787-352670e0b164
 source-git-commit: 1474580f7869752788451d43aa9734662719abf1
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '64'
 ht-degree: 100%
 
 ---
@@ -20,5 +20,4 @@ ht-degree: 100%
 
 Découvrez comment importer du contenu HTML existant, améliorer la conception et ajouter une page miroir et des liens de désabonnement. Apprenez également comment coder le contenu.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430267?quality=12&learn=on&captions=fre_fr){transcript=true}
-
+>[!VIDEO](https://video.tv.adobe.com/v/3427083?quality=12&learn=on){transcript=true}
