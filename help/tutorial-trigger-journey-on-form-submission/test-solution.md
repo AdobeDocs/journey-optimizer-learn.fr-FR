@@ -19,7 +19,7 @@ ht-degree: 1%
 
 
 Tester la solution
->[!VIDEO](https://video.tv.adobe.com/v/3478546)
+>[!VIDEO](https://video.tv.adobe.com/v/3478548?captions=fre_fr)
 
 ## Déploiement des exemples de ressources
 
