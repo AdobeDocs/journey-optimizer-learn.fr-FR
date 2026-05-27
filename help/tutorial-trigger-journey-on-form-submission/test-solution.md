@@ -7,10 +7,11 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
+exl-id: 9b4a3e0c-d153-4a6b-a7de-b926bd669f6a
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 1%
 
 ---
 
@@ -18,7 +19,7 @@ ht-degree: 0%
 
 
 Tester la solution
->[!VIDEO](https://video.tv.adobe.com/v/3478548?captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3478546)
 
 ## Déploiement des exemples de ressources
 
@@ -60,5 +61,3 @@ Vérifiez que vous vous trouvez dans le répertoire `trigger-journey`.
 Exécuter la commande `node server.js`
 Pointez votre navigateur sur [page web](http://localhost:3000/)
 Remplissez et envoyez le formulaire. Le parcours est déclenché et un e-mail est envoyé à l’ID d’e-mail saisi dans le formulaire.
-
-
