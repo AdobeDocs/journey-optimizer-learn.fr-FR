@@ -1,6 +1,6 @@
 ---
 title: Déclenchement du Parcours Adobe Journey Optimizer à l’aide d’Adobe Web SDK
-description: Découvrez comment démarrer un parcours Adobe Journey Optimizer à partir d’événements de site tels que les connexions des utilisateurs et utilisatrices en utilisant l’AEP Web SDK configuré via les balises Adobe Experience Platform
+description: Découvrez comment démarrer un parcours Adobe Journey Optimizer à partir d’événements de site tels que les connexions des utilisateurs et utilisatrices en utilisant le SDK web AEP configuré via des balises Adobe Experience Platform.
 feature: Profiles
 role: User
 level: Beginner
@@ -8,10 +8,11 @@ doc-type: Tutorial
 last-substantial-update: 2025-09-24T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-19287
-source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
+exl-id: c6d4f720-3780-4012-a2bd-8eae23599144
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 0%
+source-wordcount: '290'
+ht-degree: 10%
 
 ---
 
@@ -21,7 +22,7 @@ Dans cette extension du tutoriel Combinaison d’identités, le parcours Adobe J
 
 ## Créer une configuration de canal e-mail
 
-* Se connecter à _&#x200B;**Journey Optimizer**&#x200B;_
+* Se connecter à _&#x200B;**&#x200B;**&#x200B;_
 * Accédez à _&#x200B;**Administration -> Canaux -> Créer une configuration de canal**&#x200B;_
 * Sélectionnez **E-mail** dans la liste des canaux. Fournissez un nom et une description significatifs.
 * Renseignez les paramètres d’e-mail.
@@ -31,7 +32,7 @@ Dans cette extension du tutoriel Combinaison d’identités, le parcours Adobe J
 
 ## Créer un événement
 
-* Se connecter à _&#x200B;**Journey Optimizer**&#x200B;_
+* Se connecter à _&#x200B;**&#x200B;**&#x200B;_
 * Accédez à _&#x200B;**Administration -> Configurations**&#x200B;_
 * Cliquez sur le bouton Gérer de la carte Événements et cliquez sur Créer un événement. Spécifiez les valeurs comme illustré ci-dessous
 * ![parcours-event](assets/journey-event1.png)
@@ -39,9 +40,9 @@ Dans cette extension du tutoriel Combinaison d’identités, le parcours Adobe J
 * Vérifiez que eventType de l’événement est égal à LoginEvent. Le type de `LoginEvent` est défini dans la balise Adobe Experience Platform.
 * Enregistrer l’événement
 
-## Créer un parcours
+## Créer un Parcours
 
-* Se connecter à _&#x200B;**Journey Optimizer**&#x200B;_
+* Se connecter à _&#x200B;**&#x200B;**&#x200B;_
 * Accédez à _&#x200B;**Gestion des Parcours -> Parcours -> Créer un Parcours**&#x200B;_
 * Faites glisser et déposez l’événement _&#x200B;**UserLoggedIn**&#x200B;_ sur la zone de travail
 * Glissez-déposez E-mail à partir du menu d’actions. Configurez l’action e-mail pour utiliser la configuration du canal e-mail créée précédemment.
@@ -53,7 +54,3 @@ Le parcours est déclenché lorsque la payload de l&#39;événement envoyée via
 
 * Vérifiez-le en consultant le rapport de parcours
 * ![parcours-rapport](assets/journey-triggered-report.png)
-
-
-
-

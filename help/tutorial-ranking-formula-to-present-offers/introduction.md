@@ -1,6 +1,6 @@
 ---
-title: Personnaliser les offres avec des formules de classement basées sur le code postal et le revenu
-description: Utilisez les formules de classement Adobe Journey Optimizer pour diffuser dynamiquement les offres financières les plus pertinentes, personnalisées en fonction du code postal et du niveau de revenu de chaque utilisateur, afin d’augmenter l’engagement et d’optimiser la personnalisation.
+title: Personnaliser les offres avec des formules de classement selon le code postal et le revenu
+description: Utilisez les formules de classement d’Adobe Journey Optimizer pour diffuser dynamiquement les offres financières les plus pertinentes, adaptées au code postal et au niveau de revenu de l’utilisateur ou de l’utilisatrice, afin de favoriser un engagement accru et une personnalisation plus intelligente.
 feature: Decisioning
 role: User
 level: Beginner
@@ -10,8 +10,8 @@ jira: KT-18188
 exl-id: 11685f7c-8048-4318-9c28-71bd7da8f7ff
 source-git-commit: 85d3def3afb1d073b133df40e4cbf32d00a3a5c9
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 0%
+source-wordcount: '338'
+ht-degree: 21%
 
 ---
 

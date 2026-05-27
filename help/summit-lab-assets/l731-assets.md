@@ -16,7 +16,7 @@ ht-degree: 98%
 
 ---
 
-# Summit Lab L731 - Cheat Sheet
+# Summit Lab L731 - Aide-mémoire
 
 Cette page comporte du texte et des liens utilisés dans le L731 Summit Lab. Cela vous permet de copier et coller le contenu dans vos messages Journey Optimizer.
 

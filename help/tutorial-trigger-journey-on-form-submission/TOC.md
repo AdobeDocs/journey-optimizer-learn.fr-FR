@@ -8,8 +8,8 @@ breadcrumb-url: /docs/journey-optimizer-learn/trigger-journey-on-form-submission
 auto-video-transcripts: true
 source-git-commit: d742353780dbbdbf2dede31b50a779399a7de75d
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 2%
+source-wordcount: '40'
+ht-degree: 27%
 
 ---
 

@@ -7,7 +7,7 @@ level: Beginner, Intermediate, Experienced
 doc-type: Overview
 last-substantial-update: 2025-08-28T00:00:00Z
 source-git-commit: 1c8bcba7b46b6fc88ba93b2bad7ca3ed5f621e86
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 100%
 
@@ -45,7 +45,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" target="_blank" rel="referrer" title="Cas d’utilisation : intégration des clientes et clients (tutoriel)">Cas d’utilisation : intégration des clientes et clients (tutoriel)</a>
                     </p>
-                    <p class="is-size-6">Découvrez comment mettre en œuvre un parcours d’intégration des clientes et clients dans Adobe Journey Optimizer (AJO). Le processus cible les nouvelles personnes membres du programme de fidélité et diffuse des e-mails et SMS personnalisés afin d’encourager le téléchargement de l’application. Cela inclut l’envoi d’un e-mail de bienvenue, la vérification de l’installation de l’application et le suivi à l’aide de rappels.Ce tutoriel montre également comment utiliser l’assistant de contenu IA pour créer et personnaliser du contenu.</p>
+                    <p class="is-size-6">Découvrez comment mettre en œuvre un parcours d’intégration des clientes et clients dans Adobe Journey Optimizer (AJO). Le processus cible les nouvelles personnes membres du programme de fidélité et diffuse des e-mails et SMS personnalisés afin d’encourager le téléchargement de l’application. Cela inclut l’envoi d’un e-mail de bienvenue, la vérification de l’installation de l’application et le suivi à l’aide de rappels. Ce tutoriel montre également comment utiliser l’assistant de contenu IA pour créer et personnaliser du contenu.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>

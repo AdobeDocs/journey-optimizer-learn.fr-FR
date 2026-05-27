@@ -10,7 +10,7 @@ last-substantial-update: 2025-06-03T00:00:00Z
 jira: KT-17709
 exl-id: 248c6cd8-ae73-46d7-902a-a4398d431267
 source-git-commit: b73589447a96b63d60434850000b5dd7abd176c2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 100%
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment créer un groupe d’adresses IP pour protéger la réputation de vos expéditeurs et expéditrices, tout en améliorant la délivrabilité des e-mails.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463251/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3463251/?captions=fre_fr&learn=on&enablevpops)

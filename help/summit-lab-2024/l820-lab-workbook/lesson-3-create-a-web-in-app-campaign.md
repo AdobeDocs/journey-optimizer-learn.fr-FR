@@ -12,8 +12,8 @@ thumbnail: KT-13983.jpeg
 exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
 source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
-source-wordcount: '699'
-ht-degree: 2%
+source-wordcount: '778'
+ht-degree: 5%
 
 ---
 
@@ -40,7 +40,7 @@ Dans cet exercice, vous allez créer la campagne et définir la page web sur laq
 
 1. Dans la liste déroulante **Envoyer à**, sélectionnez **Web.**
 
-1. Saisissez l’URL suivante : **https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *Il s’agit de la page web sur laquelle votre message apparaîtra.*
+1. Saisissez l’URL suivante : **&#x200B;**&#x200B;- *Il s’agit de la page web sur laquelle votre message apparaîtra.*
 
    ![&#x200B; URL in-app &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
 
@@ -83,7 +83,7 @@ Dans cette section, vous définissez les éléments qui déclenchent l’afficha
    ![Type d’événement XDM](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 
-1. Dans le champ de texte suivant, ajoutez une *`<custom string value>`* dont vous vous souviendrez, puis appuyez sur la **&#x200B;**&#x200B;Ajouter`<custom string value>` pour enregistrer la valeur.
+1. Dans le champ de texte suivant, ajoutez une *`<custom string value>`* dont vous vous souviendrez, puis appuyez sur la `<custom string value>` **[!UICONTROL Ajouter]** pour enregistrer la valeur.
 
    Cette valeur de chaîne personnalisée est utilisée ultérieurement pour déclencher votre message.
 
@@ -114,7 +114,7 @@ Dans cette section, vous définissez le contenu, la conception et la mise en pag
 
 1. Le processus de création est le même que celui que vous avez effectué dans les exercices in-app mobiles ci-dessus. Prenez le temps de modifier librement votre message avec votre propre titre, corps et contenu multimédia.
 
-   Si vous utilisez la disposition modale ou plein écran, vous pouvez ajouter un bouton. Vous pouvez utiliser cette URL pour ouvrir la page produit : **https://dsn.adobe.com/web/adobe-summit-2024/P2WsaDPf_**
+   Si vous utilisez la disposition modale ou plein écran, vous pouvez ajouter un bouton. Vous pouvez utiliser cette URL pour ouvrir la page produit : **&#x200B;**
 
 1. Une fois la modification du message terminée, cliquez sur **[!UICONTROL Examiner pour activer]**.
 
@@ -155,6 +155,6 @@ Dans cette section, vous définissez le contenu, la conception et la mise en pag
 **Documentation du produit :**
 
 * [Prise en main du canal in-app](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Créer un message in-app web](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [Créer un message web in-app](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/create-in-app-web)
 * [Concevoir votre contenu in-app](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/design-in-app)
 * [Vérifier et envoyer votre notification in-app](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/send-in-app)

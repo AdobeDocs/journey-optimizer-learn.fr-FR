@@ -1,6 +1,6 @@
 ---
 title: Configurer une sandbox de formation - Introduction
-description: Découvrez comment configurer une sandbox à des fins de formation. Suivez les étapes requises pour configurer les schémas, ingérer des données d’exemple et créer des événements.
+description: Découvrez comment configurer une sandbox à des fins de formation. Apprenez à configurer les schémas, ingérer des données d’exemple et créer des événements en suivant les étapes ci-après.
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
 jira: KT-9382
@@ -10,7 +10,7 @@ last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
 source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '353'
 ht-degree: 100%
 
 ---

@@ -11,8 +11,8 @@ jira: KT-18526
 exl-id: 7e6014b5-c5a6-467b-8e31-58c5d966464c
 source-git-commit: bef6d831c639d40514552dae3ff20132626a4a09
 workflow-type: tm+mt
-source-wordcount: '451'
-ht-degree: 0%
+source-wordcount: '472'
+ht-degree: 12%
 
 ---
 
@@ -122,4 +122,4 @@ alloy("sendEvent", {
 
 L’inclusion de propositions dans les événements de clics et d’impressions est essentielle pour un reporting précis des offres dans Adobe Journey Optimizer. Ces propositions représentent les offres exactes qui ont été présentées à l’utilisateur ou l’utilisatrice, ce qui permet à Adobe d’attribuer les interactions utilisateur (par exemple, les impressions ou les clics) aux décisions spécifiques prises par le système.
 
-Chaque offre dans une proposition comprend un jeton de suivi, qui est un identifiant unique généré par Adobe. Ce jeton doit être transmis exactement tel qu’il est reçu, sans modification, dans l’événement de clic ou d’impression correspondant. Les jetons de suivi correspondants permettent à Adobe d’associer précisément l’action de l’utilisateur à la décision d’offre correcte, ce qui active la création de rapports en aval et l’optimisation basée sur l’IA.
+Chaque offre dans une proposition comprend un jeton de suivi, qui est un identifiant unique généré par Adobe. Ce jeton doit être transmis exactement tel qu’il est reçu, sans modification, dans l’événement de clic ou d’impression correspondant. Les jetons de suivi correspondants permettent à Adobe d’associer précisément l’action de l’utilisateur ou utilisatrice à la décision d’offres correcte, ce qui active la création de rapports en aval et l’optimisation basée sur l’IA.
