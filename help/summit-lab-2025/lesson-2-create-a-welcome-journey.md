@@ -23,4 +23,4 @@ Dans cet exercice, vous commencez à créer le parcours de bienvenue, basé sur 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457896/?learn=on&enablevpops)
 
-Voir [Présentation de la création d’un parcours ](/help/journeys/introduction-to-building-a-journey.md) et [Cas d’utilisation - Qualification de l’audience](/help/journeys/use-case-audience-qualification.md) pour plus d’informations sur cette rubrique.
+Voir [Présentation de la création d’un parcours &#x200B;](/help/journeys/introduction-to-building-a-journey.md) et [Cas d’utilisation - Qualification de l’audience](/help/journeys/use-case-audience-qualification.md) pour plus d’informations sur cette rubrique.

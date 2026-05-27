@@ -68,4 +68,4 @@ La réponse d’AJO contient des éléments de décision personnalisés au forma
 Pour vous aider à commencer, téléchargez l’exemple de fichier HTML et de fichier JavaScript qui montrent comment utiliser des offres basées sur JSON et les générer dynamiquement sur votre page web.
 
 [Code JavaScript](assets/weather-related-offers-script-multiple-json.js)
-[Fichier ](assets/multiple-json.html)
+[Fichier &#x200B;](assets/multiple-json.html)

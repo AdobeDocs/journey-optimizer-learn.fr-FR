@@ -51,7 +51,7 @@ Mettez à jour les adresses e-mail factices vers des adresses réelles. Ils sero
 * Créez un jeu de données appelé **_FinWiseCustomerDataSetWithAnnualIncome_** basé sur le **_FinWiseProfileSchema_** créé dans l’exemple précédent. Assurez-vous que le jeu de données est activé pour le profil.
 
 * Accédez à Connexions -> Sources -> Système local
-* Sélectionnez l’option **_Ajouter des données_** sous Chargement de fichier local. Veillez à sélectionner le _**FinWiseCustomerDataSetWithAnnualIncome**_ comme jeu de données cible.
+* Sélectionnez l’option **_Ajouter des données_** sous Chargement de fichier local. Veillez à sélectionner le _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ comme jeu de données cible.
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * Accédez à l’écran suivant. Chargez le [fichier csv](assets/finwise_profiles.csv) et vérifiez les mappages
   ![mappings](assets/mappings.png)
