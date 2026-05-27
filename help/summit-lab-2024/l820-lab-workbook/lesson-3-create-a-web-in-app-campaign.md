@@ -40,9 +40,9 @@ Dans cet exercice, vous allez créer la campagne et définir la page web sur laq
 
 1. Dans la liste déroulante **Envoyer à**, sélectionnez **Web.**
 
-1. Saisissez l’URL suivante : **** - *Il s’agit de la page web sur laquelle votre message apparaîtra.*
+1. Saisissez l’URL suivante : **&#x200B;**&#x200B;- *Il s’agit de la page web sur laquelle votre message apparaîtra.*
 
-   ![ URL in-app ](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
+   ![&#x200B; URL in-app &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
 
 1. Cliquez sur **[!UICONTROL Créer]**.
 
@@ -60,7 +60,7 @@ Sur cette page, vous définissez les propriétés de la campagne et l’événem
    > 
    > Par exemple, si votre numéro de poste est 99 : 
    >
-   > ![ Nom des propriétés ](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
+   > ![&#x200B; Nom des propriétés &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
 
 
 ### 3.2.2 Configurer votre règle de déclenchement personnalisée
@@ -114,7 +114,7 @@ Dans cette section, vous définissez le contenu, la conception et la mise en pag
 
 1. Le processus de création est le même que celui que vous avez effectué dans les exercices in-app mobiles ci-dessus. Prenez le temps de modifier librement votre message avec votre propre titre, corps et contenu multimédia.
 
-   Si vous utilisez la disposition modale ou plein écran, vous pouvez ajouter un bouton. Vous pouvez utiliser cette URL pour ouvrir la page produit : ****
+   Si vous utilisez la disposition modale ou plein écran, vous pouvez ajouter un bouton. Vous pouvez utiliser cette URL pour ouvrir la page produit : **&#x200B;**
 
 1. Une fois la modification du message terminée, cliquez sur **[!UICONTROL Examiner pour activer]**.
 
