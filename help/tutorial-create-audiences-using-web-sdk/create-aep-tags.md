@@ -9,10 +9,10 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 244fcb09-3b16-4e3b-b335-4e84bc93095e
-source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
+source-git-commit: 9f82d07711a4f29eda7dcf0e887ca31ccbb6099f
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 3%
+source-wordcount: '514'
+ht-degree: 2%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 Les balises Adobe Experience Platform (anciennement Adobe Launch) permettent de gérer et de déployer* des technologies de marketing et d’analyse sur votre site web sans avoir à modifier le code du site.
 
-Cette [&#x200B; vidéo décrit le processus de création d’Adobe Experience Tags](https://experienceleague.adobe.com/fr/playlists/experience-platform-get-started-with-tags)
+Cette [ vidéo décrit le processus de création d’Adobe Experience Tags](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 * Connexion à la collecte de données
 * Cliquez sur Balises -> Nouvelle propriété .
@@ -43,7 +43,7 @@ Créez les éléments de données suivants
 | Nom de l’élément | Extension | Type d’élément de données | Commentaires supplémentaires |
 |------------------------------|-----------------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Instrument Financier Préféré | Base | Custom code | Voir la note ci-dessous |
-| Objet XDM | SDK Web Adobe Experience Platform | Objet XDM | Sélectionnez votre environnement et votre schéma de conseillers financiers |
+| Objet XDM | SDK web Adobe Experience Platform | Objet XDM | Sélectionnez votre environnement et votre schéma de conseillers financiers |
 
 
 Pour le code personnalisé, ouvrez l’éditeur de code, puis copiez et collez le code suivant
@@ -80,14 +80,17 @@ Le Créateur de règles dans Adobe Experience Platform Tags vous permet de défi
 
 
 * Créez une configuration d’événement nommée Classe de ressources préférée sélectionnée comme illustré ci-dessous. Cet événement écoute les événements assetClassSelection.
-  ![rule-event](assets/rule-event.png)
+
+![rule-event](assets/rule-event.png)
 
 
 * Création d’une action pour envoyer le schéma XDM mis à jour à AEP
-  ![send-event](assets/rule-send-event.png)
+
+![send-event](assets/rule-send-event.png)
 
 * Votre règle finale doit se présenter comme suit :
-  ![règle-finale](assets/final-rule.png)
+
+![règle-finale](assets/final-rule.png)
 
 ## Création et déploiement d’AEP Tags
 
@@ -108,7 +111,7 @@ Cliquez ensuite sur le bouton Enregistrer et créer dans le développement pour 
 
 ## Inclure les balises AEP dans la page HTML
 
-Lorsque vous publiez une propriété AEP Tags, Adobe vous fournit une balise de script que vous devez placer dans votre ``` <head>``` HTML ou au bas des balises ``` <body>```.
+Lorsque vous publiez une propriété AEP Tags, Adobe vous fournit une balise de script que vous devez placer dans votre ` <head>` HTML ou au bas des balises `<body>`.
 
 * Accédez à la propriété Balises (conseillers financiers).
 

@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-05T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 6823ce13-bc77-4e2b-89e0-606e403c15f2
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 9f82d07711a4f29eda7dcf0e887ca31ccbb6099f
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ L’élément de données ECID dans les balises Experience Platform est créé u
 
 Créez et publiez les balises Adobe Experience Platform.
 
-Lorsqu’une propriété AEP Tags est publiée, Adobe vous fournit une balise de script que vous devez placer dans votre ``` <head>``` HTML ou au bas des balises ``` <body>```.
+Lorsqu’une propriété AEP Tags est publiée, Adobe vous fournit une balise de script que vous devez placer dans votre `<head>` HTML ou au bas des balises `<body>`.
 
 1. Accédez à la propriété Balises (service ECID) .
 
@@ -52,4 +52,4 @@ Lorsqu’une propriété AEP Tags est publiée, Adobe vous fournit une balise de
 
 1. Notez le code incorporé.
 
-   Ce code doit être placé juste avant la balise ```</body>``` de fermeture dans la page HTML.
+   Ce code doit être placé juste avant la balise `</body>` de fermeture dans la page HTML.

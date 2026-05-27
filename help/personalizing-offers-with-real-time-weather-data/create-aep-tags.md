@@ -9,9 +9,9 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 04fad076-e897-4831-9147-768721858a80
-source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
+source-git-commit: 9f82d07711a4f29eda7dcf0e887ca31ccbb6099f
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -20,20 +20,22 @@ ht-degree: 0%
 
 Les balises Adobe Experience Platform (anciennement Adobe Launch) permettent de gérer et de déployer* des technologies de marketing et d’analyse sur votre site web sans avoir à modifier le code du site.
 
-Cette [&#x200B; vidéo décrit le processus de création d’Adobe Experience Tags](https://experienceleague.adobe.com/fr/playlists/experience-platform-get-started-with-tags)
+Cette [ vidéo décrit le processus de création d’Adobe Experience Tags](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
-- Connexion à la collecte de données
-- Cliquez sur _&#x200B;**Balises -> Nouvelle propriété**&#x200B;_
+* Connexion à la collecte de données
+* Cliquez sur _**Tags -> Nouvelle propriété**
+* Créez une balise Adobe Experience Platform appelée _**personalization-on-weather**_.
+* Ajoutez les extensions suivantes à la balise .
 
-- Créez une balise Adobe Experience Platform appelée _&#x200B;**personalization-on-weather**&#x200B;_.
+![tags-extensions](assets/tags-extensions1.png)
 
-- Ajoutez les extensions suivantes à la balise .
-  ![tags-extensions](assets/tags-extensions1.png)
-- Ajoutez un élément de données appelé « ECID », comme illustré ci-dessous. Cet élément de données est utilisé ultérieurement dans les rapports
-  ![ecid-data-element](assets/ecid-data-element.png)
+* Ajoutez un élément de données appelé « ECID », comme illustré ci-dessous. Cet élément de données est utilisé ultérieurement dans les rapports
 
-- Veillez à configurer le SDK Web Adobe Experience Platform pour utiliser l’environnement approprié et le **flux de données lié à la météo** créé à l’étape précédente.
-  ![configuration-sdk-web](assets/tags-extensions.png)
+![ecid-data-element](assets/ecid-data-element.png)
+
+* Veillez à configurer le SDK Web Adobe Experience Platform pour utiliser l’environnement approprié et le **flux de données lié à la météo** créé à l’étape précédente.
+
+![configuration-sdk-web](assets/tags-extensions.png)
 
 
 
@@ -57,10 +59,8 @@ Cliquez ensuite sur le bouton Enregistrer et créer dans le développement pour 
 
 ## Inclure les balises AEP dans la page HTML
 
-Lorsque vous publiez une propriété AEP Tags, Adobe vous fournit une balise de script que vous devez placer dans votre ``` <head>``` HTML ou au bas des balises ``` <body>```.
+Lorsque vous publiez une propriété AEP Tags, Adobe vous fournit une balise de script que vous devez placer dans votre ` <head>` HTML ou au bas des balises ` <body>`.
 
-- Accédez à la propriété Balises (personnalisation selon la météo) .
-
-- Cliquez sur Environnements et cliquez sur l’icône d’installation de l’environnement souhaité (par exemple, Développement, Évaluation, Production).
-
-- Notez le code incorporé. Vous en aurez besoin à un stade ultérieur de ce tutoriel.
+1. Accédez à la propriété Balises (personnalisation selon la météo) .
+2. Cliquez sur Environnements et cliquez sur l’icône d’installation de l’environnement souhaité (par exemple, Développement, Évaluation, Production).
+3. Notez le code incorporé. Vous en aurez besoin à un stade ultérieur de ce tutoriel.
