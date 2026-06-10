@@ -3,9 +3,9 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Il s’agit des tutoriels de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: a69447a58313dc109ea82d6af2746341aff90b8b
+source-git-commit: 8d3931426cb20a64fabf3f4cb61b1ee9e3d2eba7
 workflow-type: tm+mt
-source-wordcount: '1468'
+source-wordcount: '1475'
 ht-degree: 90%
 
 ---
@@ -172,6 +172,7 @@ ht-degree: 90%
          + [Utiliser la prise de décision dans les notifications push](/help/decisioning/decisioning-in-push-notifications.md)
          + [Utiliser la prise de décision dans un SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [Utiliser la prise de décision pour personnaliser les offres web (tutoriel)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+         + [Utilisation de fragments de contenu Experience Manager avec la prise de décision](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
       + Décisions de déclenchement à partir de déclencheurs externes et d’interactions {#trigger}
          + [Déclencher un parcours lors de l’envoi du formulaire](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction){target="_blank"}
          + [Personnaliser les offres avec des données météorologiques en temps réel](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
@@ -246,7 +247,7 @@ ht-degree: 90%
 + Assistants et agents IA {#ai-assistant}
    + [Assistant IA](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [Assistant IA pour la génération de contenu](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Analyse et création de Parcours avec Journey Agent](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Analyse et création de Parcours avec Journey Agent](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Agent Experimentation : vue d’ensemble](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
    + [Planification des audiences à l’aide de Adobe Marketing Agent](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + Cas d’utilisation et meilleures pratiques{#use-cases}
