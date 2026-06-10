@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 3d342c5c4de4dda221ce4427b1e4aef7ef8c22cc
+exl-id: 14342b47-5485-4f7f-9312-cff1ee0f8972
+source-git-commit: fe5ce1bd62e4cf628d0adf67389e4301660a223a
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
@@ -23,11 +24,11 @@ Pour créer un parcours déclenché sur l’événement price.drop, procédez co
 * Connexion à Journey Optimizer
 * Accédez à Gestion des Parcours | Parcours | Créer un Parcours
 
-![create-parcours &#x200B;](assets/create-journey.png)
+![create-parcours ](assets/create-journey.png)
 
 ## Ajouter PriceDropEvent
 
-Faites glisser le `PriceDropEvent` de la section Événements vers la zone de travail
+Faites glisser le `PriceDropEvent` de la section Événements vers la zone de travail.
 ![price-drop-event](assets/add-price-drop-event.png)
 
 ## Ajouter une action Push
@@ -54,7 +55,7 @@ Ajoutez une combinaison de contenu statique et dynamique à la notification push
 Pour commencer à composer le message, cliquez sur `Content` pour ouvrir l’onglet Contenu , où vous pouvez définir le texte fixe et les champs dynamiques dérivés des données d’événement.
 ![content-push](assets/compose-message.png)
 
-Indiquez le titre du message push, puis ouvrez l’éditeur de personnalisation pour composer le corps du message. Le contenu inclut dynamiquement les noms du ou des produits dont les prix ont chuté. Pour ce faire, utilisez la fonction each [helper](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
+Indiquez le titre du message push, puis ouvrez l’éditeur de personnalisation pour composer le corps du message. Le contenu inclut dynamiquement les noms du ou des produits dont les prix ont chuté. Pour ce faire, utilisez la fonction each [helper](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
 pour effectuer une itération sur la liste des produits et effectuer le rendu de leurs noms dans le message.
 
 ## Composer le corps du message
@@ -73,6 +74,3 @@ Enfin, enregistrez toutes vos modifications et publiez le parcours. Une fois pub
 ## Tester la solution
 
 Pour déclencher l’événement price.drop, ouvrez la page [déclencheur de chute des prix](http://localhost:3000/price-drop-trigger.html) sélectionnez un ou plusieurs produits, puis cliquez sur Déclencher la chute des prix. L’événement est alors envoyé à travers la couche de données Adobe à l’aide des balises AEP, qui initie ensuite le parcours et diffuse la notification push en temps réel.
-
-
-

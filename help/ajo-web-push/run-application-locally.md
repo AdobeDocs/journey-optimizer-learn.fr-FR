@@ -8,10 +8,10 @@ doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
 exl-id: 2635641b-5ae2-4303-bac7-02c3702950f0
-source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
+source-git-commit: 108686aa75358f940b5d7d83e7f04bf55f72978f
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 0%
+source-wordcount: '147'
+ht-degree: 4%
 
 ---
 
@@ -22,7 +22,7 @@ Cette page vous guide tout au long de la configuration locale de l’exemple d�
 
 Pour exécuter l’exemple d’application sur votre système local, procédez comme suit.
 
-## &#x200B;1. Installez Node.js.
+## &#x200B;1. Installation de Node.js
 
 Vérifiez que **Node.js (version 16 ou ultérieure)** est installé sur votre système.
 
@@ -30,22 +30,22 @@ Vous pouvez le [télécharger ici :](https://nodejs.org/)
 
 Vérification de l’installation
 
-```node -v```
+`node -v`
 
-```npm -v```
+`npm -v`
 
 
-## &#x200B;2. Clonez le référentiel
+## &#x200B;2. Clonage du référentiel
 
-```git clone https://github.com/gbedekar489/ajo-web-push.git```
+`git clone https://github.com/gbedekar489/ajo-web-push.git`
 
-```cd ajo-web-push```
+`cd ajo-web-push`
 
 ## &#x200B;3. Installer les dépendances
 
-```npm install```
+`npm install`
 
-## &#x200B;4. Configuration Des Variables D’Environnement
+## &#x200B;4. Configurer les variables d’environnement
 
 Créez un fichier .env dans le répertoire racine et ajoutez les éléments suivants :
 
