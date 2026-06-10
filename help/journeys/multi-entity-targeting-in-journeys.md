@@ -31,5 +31,5 @@ Cette vidéo explique comment cibler des parcours par ID d’abonnement, ID de c
 
 Pour plus d’informations sur cette fonctionnalité, consultez [documentation](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491835/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491837/?captions=fre_fr&learn=on)
 
