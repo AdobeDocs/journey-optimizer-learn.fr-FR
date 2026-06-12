@@ -1,6 +1,6 @@
 ---
 title: Optimisation des canaux en fonction des scores de préférence ou de propension des profils
-description: Découvrez comment la fonctionnalité d’optimisation du canal de Adobe Journey Optimizer vous permet d’atteindre les clients et clientes dans le canal le plus efficace, que ce soit par le biais d’une priorité manuelle, d’attributs de profil ou d’un modèle d’IA d’Adobe, en vous assurant que votre message est diffusé là où chaque client ou cliente est le plus susceptible d’interagir.
+description: Découvrez comment la fonctionnalité d’optimisation des canaux de Adobe Journey Optimizer vous permet d’atteindre les clients sur le canal le plus efficace à l’aide d’une priorité manuelle, d’attributs de profil ou d’un modèle d’IA Adobe, afin que votre message arrive là où chaque client est le plus susceptible d’interagir.
 feature: Channels
 role: Developer
 level: Beginner, Intermediate, Experienced
@@ -25,9 +25,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: df7a7efd87137cd9bca0e3efca39f12a18b7990c
+source-git-commit: 19b32f3289b422a3fa778b0af07319be1b032287
 workflow-type: tm+mt
-source-wordcount: 100
+source-wordcount: 96
 ht-degree: 2%
 
 ---
@@ -37,6 +37,6 @@ ht-degree: 2%
 
 {{limited-availability}}
 
-Découvrez comment la fonctionnalité d’optimisation du canal de Adobe Journey Optimizer vous permet d’atteindre les clients et clientes dans le canal le plus efficace, que ce soit par le biais d’une priorité manuelle, d’attributs de profil ou d’un modèle d’IA d’Adobe, en vous assurant que votre message est diffusé là où chaque client ou cliente est le plus susceptible d’interagir.
+Découvrez comment la fonctionnalité d’optimisation des canaux de Adobe Journey Optimizer vous permet d’atteindre les clients sur le canal le plus efficace à l’aide d’une priorité manuelle, d’attributs de profil ou d’un modèle d’IA Adobe, afin que votre message arrive là où chaque client est le plus susceptible d’interagir.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492134/?captions=fre_fr&learn=on&enablevpops)
