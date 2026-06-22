@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez les différents états d’un parcours et l’impact de la publication.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3427934?captions=fre_fr&quality=12&learn=on){transcript=true}
