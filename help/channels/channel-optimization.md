@@ -1,6 +1,6 @@
 ---
-title: Optimisation des canaux en fonction des scores de préférence ou de propension des profils
-description: Découvrez comment la fonctionnalité d’optimisation des canaux de Adobe Journey Optimizer vous permet d’atteindre les clients sur le canal le plus efficace à l’aide d’une priorité manuelle, d’attributs de profil ou d’un modèle d’IA Adobe, afin que votre message arrive là où chaque client est le plus susceptible d’interagir.
+title: Optimiser les canaux en fonction des préférences du profil ou des scores de propension
+description: Découvrez comment la fonctionnalité d’optimisation des canaux d’Adobe Journey Optimizer vous permet d’atteindre les clientes et clients sur le canal le plus efficace à l’aide d’une priorité manuelle, d’attributs de profil ou d’un modèle d’IA Adobe, afin que votre message arrive là où chaque cliente ou client est le plus susceptible d’interagir.
 feature: Channels
 role: Developer
 level: Beginner, Intermediate, Experienced
@@ -26,17 +26,17 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: 19b32f3289b422a3fa778b0af07319be1b032287
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 96
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Optimisation des canaux en fonction des scores de préférence ou de propension des profils
+# Optimiser les canaux en fonction des préférences du profil ou des scores de propension
 
 {{limited-availability}}
 
-Découvrez comment la fonctionnalité d’optimisation des canaux de Adobe Journey Optimizer vous permet d’atteindre les clients sur le canal le plus efficace à l’aide d’une priorité manuelle, d’attributs de profil ou d’un modèle d’IA Adobe, afin que votre message arrive là où chaque client est le plus susceptible d’interagir.
+Découvrez comment la fonctionnalité d’optimisation des canaux d’Adobe Journey Optimizer vous permet d’atteindre les clientes et clients sur le canal le plus efficace à l’aide d’une priorité manuelle, d’attributs de profil ou d’un modèle d’IA Adobe, afin que votre message arrive là où chaque cliente ou client est le plus susceptible d’interagir.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492134/?captions=fre_fr&learn=on&enablevpops)

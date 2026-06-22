@@ -1,6 +1,6 @@
 ---
-title: Analyse et création de Parcours avec Journey Agent
-description: Découvrez comment Journey Agent dans Adobe Journey Optimizer analyse les parcours en direct, identifie les problèmes et crée des parcours à plusieurs étapes avec des informations exploitables.
+title: Analyser et créer des parcours avec l’agent Journey
+description: Découvrez comment l’agent Journey d’Adobe Journey Optimizer analyse les parcours actifs, identifie les problèmes et crée des parcours à plusieurs étapes avec des informations exploitables.
 feature: Journeys
 role: User
 level: Beginner
@@ -18,15 +18,15 @@ feature_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 71a7ad7aac7d9fc317a6f2e002723bdd48442902
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 103
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Analyse et création de Parcours avec Journey Agent
+# Analyser et créer des parcours avec l’agent Journey
 
-Découvrez comment utiliser Journey Agent, un assistant optimisé par l’IA intégré à Adobe Journey Optimizer, pour analyser les parcours en direct, identifier les conflits d’audience et les abandons de profil, et créer des parcours complets en plusieurs étapes à l’aide du langage naturel. Dans cette vidéo, vous découvrirez comment Journey Agent fournit des informations transparentes, des recommandations exploitables et des approbations guidées, ce qui vous permet de résoudre les problèmes liés aux parcours existants et d’en créer de nouveaux plus rapidement, sans quitter l’assistant d’IA
+Découvrez comment utiliser l’agent Journey, un assistant basé sur l’IA intégré à Adobe Journey Optimizer, pour analyser les parcours actifs, identifier les conflits d’audience et les abandons de profil, et créer des parcours complets en plusieurs étapes à l’aide du langage naturel.Dans cette vidéo, vous découvrirez comment l’agent Journey fournit des informations transparentes, des recommandations exploitables et des approbations guidées, afin de vous permettre de résoudre les problèmes liés aux parcours existants et de créer de nouveaux parcours plus rapidement, sans quitter l’assistant IA.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3486296/?captions=fre_fr&learn=on&enablevpops)

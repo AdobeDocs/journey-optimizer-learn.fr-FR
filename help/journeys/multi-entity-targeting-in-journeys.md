@@ -1,6 +1,6 @@
 ---
 title: Ciblage d’entités multiples avec des audiences fédérées dans AJO
-description: Découvrez comment utiliser le ciblage d’entités multiples dans Adobe Journey Optimizer avec des audiences fédérées pour cibler les parcours par ID d’abonnement, ID de compte ou ID de commande.
+description: Découvrez comment utiliser le ciblage d’entités multiples dans Adobe Journey Optimizer avec des audiences fédérées pour cibler les parcours par ID d’abonnement, de compte ou de commande.
 feature: Audiences
 role: User
 level: Beginner
@@ -17,19 +17,19 @@ feature_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
 source-git-commit: 324d5fdbb23e15e2977ed8f4625248b9972ff583
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 120
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
-# Utilisation du ciblage d’entités multiples avec des audiences fédérées dans parcours
+# Utiliser le ciblage d’entités multiples avec des audiences fédérées dans les parcours
 
 Découvrez comment utiliser le ciblage d’entités multiples pour aller au-delà des audiences basées sur les profils et offrir des expériences client plus pertinentes à l’aide d’audiences fédérées.
 
-Cette vidéo explique comment cibler des parcours par ID d’abonnement, ID de compte ou ID de commande, ce qui permet une activation d’audience plus précise et un engagement personnalisé lorsqu’un seul client est associé à plusieurs entités commerciales.
+Cette vidéo explique comment cibler des parcours par ID d’abonnement, de compte ou de commande, ce qui permet une activation d’audience plus précise et un engagement personnalisé lorsque plusieurs entités commerciales sont associées à un seul client ou une seule cliente.
 
-Pour plus d’informations sur cette fonctionnalité, consultez [documentation](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier){target="_blank"}.
+Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491837/?captions=fre_fr&learn=on)
 
