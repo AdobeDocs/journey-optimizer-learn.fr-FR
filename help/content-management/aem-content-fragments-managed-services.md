@@ -34,4 +34,4 @@ Découvrez comment configurer et utiliser les intégrations de Adobe Experience 
 
 Ce tutoriel vous guide tout au long de la configuration des connexions au référentiel, de la validation des configurations avec le gestionnaire de contenu et de la sélection des fragments de contenu directement dans l’éditeur de personnalisation, ce qui permet aux spécialistes marketing de réutiliser et de prévisualiser efficacement le contenu AEM dans leurs campagnes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492531/?captions=fre_fr&learn=on&enablevpops)
