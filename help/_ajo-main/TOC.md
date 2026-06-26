@@ -3,7 +3,7 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Il s’agit des tutoriels de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 776a68854ccfb6b0f170d1f984e89809493a9fef
+source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
 workflow-type: tm+mt
 source-wordcount: '1507'
 ht-degree: 98%
@@ -106,7 +106,7 @@ ht-degree: 98%
       + [Notifications push : vue d’ensemble](/help/channels/push-notifications-overview.md)
       + [Configurer et envoyer une campagne de notifications push](/help/channels/create-a-push-campaign.md)
       + [Créer des notifications push web](/help/channels/create-web-push-notifications.md)
-      + [Tutoriel de bout en bout sur les notifications push Web](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/ajo-web-push/introduction)
+      + [Tutoriel de bout en bout sur les notifications push Web](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/ajo-web-push/introduction)
    + Canal SMS/MMS{#sms-channel}
       + [Messages SMS/MMS : vue d’ensemble](/help/channels/sms-mms-messages-overview.md)
       + [Configurer, créer et diffuser des messages SMS](/help/channels/author-sms-messages.md)
@@ -272,4 +272,4 @@ ht-degree: 98%
       + [Créer des instants mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
       + [Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Sessions en direct et immersions totales {#live-sessions-and-deep-dives}
-   + [Enregistrements Experience League LIVE](/help/_ajo-main/experience-league-live-show-recordings.md)
+   + [Enregistrements Experience League LIVE](/help/_ajo-main/experience-league-live-show-recordings.md)
