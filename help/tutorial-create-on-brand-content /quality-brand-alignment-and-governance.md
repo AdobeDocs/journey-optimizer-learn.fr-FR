@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Découvrez comment évaluer et améliorer la qualité du contenu tout en maintenant un alignement fort de la marque à l’aide d’outils optimisés par l’IA.Cet aperçu montre comment appliquer les directives de la marque au contenu généré et créé manuellement. Vous découvrirez également comment automatiser les vérifications de qualité et identifier les possibilités d’amélioration du style d’écriture et des éléments visuels. Enfin, découvrez comment utiliser la notation en temps réel et les recommandations exploitables pour que chaque ressource reste conforme, cohérente et prête à être diffusée.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494647/?captions=fre_fr&learn=on&enablevpops)

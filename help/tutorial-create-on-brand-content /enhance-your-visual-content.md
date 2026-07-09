@@ -23,4 +23,4 @@ Découvrez comment améliorer et personnaliser le contenu visuel à l’aide d�
 
 Cette vidéo montre comment générer des infographies, ajouter des superpositions et affiner les images directement dans votre workflow. Vous découvrirez également comment tirer parti des intégrations pour étendre vos fonctionnalités d’édition. Ensuite, apprenez à appliquer des éléments de marque tels que des logos, des couleurs et des polices, et à passer facilement d’un outil à l’autre pour maintenir la cohérence et le contrôle. Cela permet de s’assurer que chaque ressource visuelle correspond à l’identité de votre marque, de la création à la conception finale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494537/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494638/?captions=fre_fr&learn=on&enablevpops)

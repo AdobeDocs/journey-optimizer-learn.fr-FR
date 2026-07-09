@@ -20,5 +20,5 @@ ht-degree: 2%
 
 Cette introduction explique comment les outils optimisés par l’IA vous aident à générer du contenu d’e-mail et à appliquer les directives de la marque. Vous découvrirez comment mettre à l’échelle la personnalisation à l’aide de modèles, d’invites et de contenu de référence. Vous découvrirez également comment l’assistant AI prend en charge à la fois la génération de contenu et l’assurance qualité, en veillant à ce que vos messages restent cohérents, conformes et alignés sur votre marque dès le départ.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494360/?captions=fre_fr&learn=on&enablevpops)
 

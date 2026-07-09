@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Découvrez comment traduire et adapter votre contenu dans plusieurs langues tout en préservant la cohérence de la marque. Cette présentation montre comment créer des versions multilingues de vos campagnes et utiliser la traduction assistée par IA pour générer rapidement du contenu localisé. Vous découvrirez également comment affiner le ton et les messages pour les faire correspondre aux directives de votre marque et comment combiner des workflows automatisés avec des traductions à la volée pour adapter efficacement les communications globales sur l’ensemble des canaux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494538/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494628/?captions=fre_fr&learn=on&enablevpops)

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Cette vidéo explique comment commencer à partir d’un modèle, appliquer les directives de la marque et utiliser des invites simples pour créer des e-mails, des notifications push et des messages in-app à partir de zéro. Vous découvrirez également comment affiner le ton, l’imagerie et la messagerie à l’aide de variations et de scores pilotés par l’IA. Vous pouvez ainsi produire rapidement du contenu cohérent et de haute qualité dans l’ensemble de vos expériences omnicanal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434637/?captions=fre_fr&learn=on&enablevpops)

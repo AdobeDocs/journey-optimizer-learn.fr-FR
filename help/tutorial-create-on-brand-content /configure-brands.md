@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Découvrez comment configurer les directives relatives à la marque dans Adobe Journey Optimizer afin d’assurer une communication cohérente et sur la marque sur tous les canaux. Ce guide couvre le chargement de documents de marque et la structuration des éléments clés de la marque, y compris l’écriture de styles, de visuels et de détails d’identité. Vous découvrirez également comment affiner ces directives pour améliorer la génération de contenu et automatiser les contrôles de qualité, ce qui permettra à votre identité de marque de rester forte et efficace. Regardez la vidéo ci-dessous pour une présentation détaillée.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494369/?captions=fre_fr&learn=on&enablevpops)
