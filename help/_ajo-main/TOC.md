@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Il s’agit des tutoriels de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
-workflow-type: ht
-source-wordcount: '1507'
-ht-degree: 100%
+source-git-commit: 0069f593c0a73f0d7b25421cfd5fb72c99032110
+workflow-type: tm+mt
+source-wordcount: '1527'
+ht-degree: 98%
 
 ---
 
@@ -147,6 +147,7 @@ ht-degree: 100%
    + [Optimiser les canaux en fonction des préférences du profil ou des scores de propension](/help/channels/channel-optimization.md)
    + [Créer un e-mail à l’aide de GenStudio](/help/content-management/create-an-email-using-genstudio.md)
    + [Activer des intégrations de données externes dans la création de canaux](/help/content-management/external-data-integrations-in-channel-authoring.md)
+   + [Création de contenu sous marque dans Journey Optimizer - Tutoriel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personnaliser le contenu {#personalize-content}
    + [Éditeur de personnalisation : vue d’ensemble](/help/personalize-content/personalization-editor-overview.md)
    + [Personnalisation basée sur un profil et l’appartenance à une audience](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
