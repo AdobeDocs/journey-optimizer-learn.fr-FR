@@ -11,12 +11,12 @@ jira: KT-17728
 exl-id: 186e4a7d-6077-401f-9958-2f955214bc35
 source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 6%
+source-wordcount: '246'
+ht-degree: 8%
 
 ---
 
-# Création d’une politique de décision
+# Créer une politique de décision
 
 Les politiques de décision sont des conteneurs pour vos offres qui s’appuient sur le moteur [!UICONTROL Decisioning] afin de sélectionner le meilleur contenu à diffuser en fonction de l’audience.
 
