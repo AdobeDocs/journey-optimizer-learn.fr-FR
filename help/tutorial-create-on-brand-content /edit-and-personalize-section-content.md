@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Découvrez comment affiner et personnaliser des sections individuelles de votre contenu à l’aide de compétences en IA. Cette vidéo montre comment modifier les objets, les pré-titres, les blocs de texte et les images dans un modèle existant tout en préservant la cohérence de la marque. Vous découvrirez comment appliquer des invites, exploiter le contenu de référence, ajuster le ton et le message, et générer de nouveaux visuels, tout en utilisant les directives de la marque pour garantir des résultats de haute qualité et conformes à chaque composant de votre communication.
 
->[!VIDEO](https://video.tv.adobe.com/v/3495868/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495880/?captions=fre_fr&learn=on&enablevpops)
