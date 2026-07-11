@@ -11,12 +11,12 @@ jira: KT-18188
 exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
 source-git-commit: 640faaf9a316b2ab3e2e7774b2c30612cf1b1dbe
 workflow-type: tm+mt
-source-wordcount: '710'
-ht-degree: 0%
+source-wordcount: '741'
+ht-degree: 1%
 
 ---
 
-# Créer une campagne
+# Création d’une campagne
 
 Pour diffuser des offres personnalisées aux utilisateurs sur la page web, une campagne a été créée dans Adobe Journey Optimizer et configurée avec le canal correct : canal web. Cette configuration garantit que les offres sont diffusées aux utilisateurs interagissant avec le site web par le biais de la prise de décision en temps réel.
 
@@ -83,13 +83,11 @@ Ce paramètre utilise l’ECID comme identité principale pour reconnaître les 
 
    Pour insérer la politique de décision, cliquez sur **_Modifier le contenu_** dans l’onglet _&#x200B;**Actions**&#x200B;_, puis cliquez sur **_Modifier le code_** pour ouvrir l’éditeur de personnalisation.
 
-   Sélectionnez l’icône _&#x200B;**Politique de décision**&#x200B;_ à gauche et cliquez sur le bouton **Ajouter une politique de décision** pour ouvrir l’écran **Créer une politique de décision**. Attribuez un nom significatif à la politique de décision et sélectionnez le nombre d’éléments que la politique de décision doit renvoyer. La valeur par défaut est 1.
-Cliquez sur **_suivant_**, ajoutez la stratégie de sélection créée à l’étape précédente à la politique de décision et cliquez sur **suivant** pour terminer le processus de création de la politique de décision. Veillez à sélectionner l’offre de secours appropriée.
+   Sélectionnez l’icône _&#x200B;**Politique de décision**&#x200B;_ à gauche et cliquez sur le bouton **Ajouter une politique de décision** pour ouvrir l’écran **Créer une politique de décision**. Attribuez un nom significatif à la politique de décision et sélectionnez le nombre d’éléments que la politique de décision doit renvoyer. La valeur par défaut est 1.Cliquez sur **_suivant_**, ajoutez la stratégie de sélection créée à l’étape précédente à la politique de décision et cliquez sur **suivant** pour terminer le processus de création de la politique de décision. Veillez à sélectionner l’offre de secours appropriée.
 
 6. **Insérer une politique de décision**
 
-   Insérez la nouvelle politique de décision en cliquant sur le bouton _&#x200B;**Insérer une politique**&#x200B;_. Vous insérez ainsi une boucle for dans l’éditeur de personnalisation sur le côté droit.
-Placez votre curseur entre les boucles de la ligne 2 et insérez le texte de l&#39;offre en accédant à l&#39;offre en descendant la `tenant name`
+   Insérez la nouvelle politique de décision en cliquant sur le bouton _&#x200B;**Insérer une politique**&#x200B;_. Vous insérez ainsi une boucle for dans l’éditeur de personnalisation sur le côté droit.Placez votre curseur entre les boucles de la ligne 2 et insérez le texte de l&#39;offre en accédant à l&#39;offre en descendant la `tenant name`
 
    Politique de décision insérée dans l’éditeur de personnalisation
 
