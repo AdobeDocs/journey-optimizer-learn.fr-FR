@@ -1,23 +1,23 @@
 ---
-title: Introduction
-description: Cette introduction explique comment les outils optimisés par l’IA vous permettent de générer du contenu d’e-mail, d’appliquer les directives de la marque et d’adapter la personnalisation.
+title: Créer du contenu d’e-mail On-brand avec l’IA
+description: Découvrez comment les fonctionnalités d’IA de Adobe Journey Optimizer vous permettent de créer du contenu d’e-mail sur la marque à grande échelle.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 362
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-21951
-source-git-commit: 275d51229bde149e2ce617be47685c6ac3d65ad1
+source-git-commit: 79297344b8a35e642f619ef123a676caf58e3bf7
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 2%
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
-# Introduction
+# Créer du contenu d’e-mail On-brand avec l’IA
 
-Cette introduction explique comment les outils optimisés par l’IA vous permettent de générer du contenu d’e-mail, d’appliquer les directives de la marque et de mettre à l’échelle la personnalisation à l’aide de modèles, d’invites et de contenu de référence. Vous découvrirez également comment les fonctionnalités d’IA prennent en charge à la fois la génération de contenu et l’assurance qualité, garantissant ainsi la cohérence, la conformité et l’alignement de vos messages avec votre marque dès le départ.
+Découvrez comment les fonctionnalités d’IA de Adobe Journey Optimizer vous permettent de créer du contenu d’e-mail sur la marque à grande échelle. Cette présentation montre un e-mail complet généré à partir d’une seule invite, à l’aide des directives de la marque et du contenu de référence pour guider la génération, la sélection d’un modèle de génération et l’insertion de texte et d’images générés par l’IA directement dans le modèle. Les mêmes ressources de marque alimentent également les contrôles qualité automatisés, en notant chaque variante pour la conformité, le ton et l’alignement de la marque.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494360/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494282/?learn=on)
