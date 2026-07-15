@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment les fonctionnalités d’IA de Adobe Journey Optimizer vous permettent de créer du contenu d’e-mail sur la marque à grande échelle. Cette présentation montre un e-mail complet généré à partir d’une seule invite, à l’aide des directives de la marque et du contenu de référence pour guider la génération, la sélection d’un modèle de génération et l’insertion de texte et d’images générés par l’IA directement dans le modèle. Les mêmes ressources de marque alimentent également les contrôles qualité automatisés, en notant chaque variante pour la conformité, le ton et l’alignement de la marque.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494282/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494360/?captions=fre_fr&learn=on)
