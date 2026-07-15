@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Au cours de cette étape, vous traduisez et adaptez des messages dans d’autres langues à l’aide de Adobe Journey Optimizer, en utilisant l’espagnol et le français comme exemples de paramètres régionaux. Vous copiez un point de contact existant dans des modèles de paramètres régionaux et utilisez les fonctionnalités de l’IA pour générer des traductions sur marque, ainsi que vos autres workflows de traduction manuels ou automatisés. Vous passez en revue la notation, affinez le ton et le message, et veillez à ce que le contenu traduit soit conforme aux directives de votre marque.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494538/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494628/?captions=fre_fr&learn=on)
