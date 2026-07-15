@@ -1,17 +1,17 @@
 ---
-title: Conseils D’Utilisation Des Marques Pour Les Outils Adobe
-description: Découvrez des conseils pour étendre les directives de marque à Adobe Journey Optimizer, GenStudio et Adobe Express afin d’améliorer la cohérence de marque et la collaboration entre les équipes.
+title: Conseils sur les marques pour les outils Adobe
+description: Découvrez des conseils pratiques pour étendre les directives de la marque au-delà de Journey Optimizer dans des outils tels que GenStudio et Adobe Express.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 216
-last-substantial-update: 2026-07-09T00:00:00Z
+last-substantial-update: 2026-07-14T00:00:00Z
 jira: KT-20382
-source-git-commit: 935e14c72ee3c912fb0071c9eaee03f3cfb2e597
+source-git-commit: 4d2ce3bb5093deefdf317200a60628949d53eeb0
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Conseils sur les marques pour les outils Adobe
 
-Découvrez des conseils pratiques pour étendre les directives de la marque au-delà de Adobe Journey Optimizer dans des outils tels que GenStudio et Adobe Express. Découvrez comment affiner les styles d’écriture, les éléments visuels et les sorties assistées par l’IA pour maintenir la cohérence de la marque. Cette page couvre également la création de spécifications de marque détaillées et l’utilisation d’exemples pour la génération de contenu. Vous découvrirez également comment gérer plusieurs marques pour prendre en charge diverses équipes et stratégies de communication.
+Découvrez des conseils pratiques pour étendre les directives de la marque au-delà de Journey Optimizer dans des outils tels que GenStudio et Adobe Express, tout en affinant les styles d’écriture, les éléments visuels et les sorties assistées par l’IA. Cette vidéo montre également comment créer des spécifications de marque détaillées, utiliser des exemples pour guider la génération de contenu et gérer plusieurs marques pour prendre en charge différentes équipes et stratégies de communication.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494284/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494284/?captions=fre_fr&learn=on)
