@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Au cours de cette étape, vous commencez à partir d’un modèle de contenu existant et vous générez une ressource complète, telle qu’un e-mail, une notification push ou un message in-app, à l’aide des fonctionnalités d’IA. Vous appliquez les directives de la marque et configurez les paramètres de langue, de ton et d’image pour conserver le contenu sur la marque. Vous générez plusieurs variations pilotées par l’IA, passez en revue le score de la marque et modifiez le contenu manuellement ou à l’aide d’une seconde passe d’IA pour affiner les messages et les visuels.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434637/?captions=fre_fr&learn=on)
