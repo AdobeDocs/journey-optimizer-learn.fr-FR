@@ -6,10 +6,10 @@ level: Intermediate
 breadcrumb-title: create-on-brand-content
 breadcrumb-url: /docs/journey-optimizer-learn/create-on-brand-content/overview
 auto-video-transcripts: true
-source-git-commit: 5c1f080220f2571ec8cfb5330dc761a065c7d843
+source-git-commit: a3d5313e85480df4d027143d6e3285ac239f9692
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 2%
+source-wordcount: '107'
+ht-degree: 1%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 + [Création de contenu sur la marque optimisée par l’IA dans Adobe Journey Optimizer pour les marketeurs](./overview.md)
 + Présentation et configuration de la marque {#introduction-and-brand-setup}
-   + [Introduction](./introduction.md)
+   + [Créer du contenu d’e-mail On-brand avec l’IA](./introduction.md)
    + [Configurer des marques](./configure-brands.md)
    + [Conseils sur les directives de marque](./brands-tips-and-tricks.md)
 + Utiliser l’IA pour générer du contenu {#generate-content}
