@@ -28,4 +28,4 @@ Ce que vous apprendrez :
 
 Idéal pour les responsables marketing qui cherchent à automatiser l’engagement clientèle personnalisé par le biais de WhatsApp.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470284/?captions=fre_fr&learn=on&enablevpops)
