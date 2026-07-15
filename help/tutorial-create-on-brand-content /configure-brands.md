@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Cette vidéo explique comment télécharger des documents de directives de marque, structurer les éléments clés de la marque et définir le style d’écriture, le contenu visuel et les détails d’identité. Vous découvrirez également comment affiner et personnaliser ces directives pour alimenter le contenu généré par l’IA et les contrôles qualité automatisés, tout en assurant une communication cohérente sur la marque sur chaque canal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494369/?captions=fre_fr&learn=on)
