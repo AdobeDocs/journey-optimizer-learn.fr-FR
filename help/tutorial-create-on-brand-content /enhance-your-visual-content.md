@@ -1,17 +1,17 @@
 ---
-title: Améliorer votre contenu visuel
-description: Découvrez comment améliorer et personnaliser le contenu visuel à l’aide d’outils optimisés par l’IA pour créer des conceptions de marque plus attrayantes.
+title: Améliorez votre contenu visuel avec l’IA
+description: Au cours de cette étape, vous allez améliorer et personnaliser les images et les graphiques à l’aide des outils d’IA de Adobe Journey Optimizer.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 418
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-20386
-source-git-commit: e1229050841f7552371b380142f645c36b11e957
+source-git-commit: e42f67b96ec1230e5b918a4acc6b2ef5078cef09
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Améliorez votre contenu visuel avec l’IA
 
-Découvrez comment améliorer et personnaliser le contenu visuel à l’aide d’outils optimisés par l’IA pour créer des conceptions de marque plus attrayantes. Cette vidéo montre comment générer des infographies, ajouter des superpositions et affiner les images directement dans votre workflow, tout en tirant parti des intégrations pour étendre les fonctionnalités de modification. Vous découvrirez comment appliquer des éléments de marque tels que des logos, des couleurs et des polices, et passer facilement d’un outil à l’autre pour maintenir l’homogénéité et le contrôle, en veillant à ce que chaque ressource visuelle corresponde à l’identité de votre marque, de la création à la conception finale.
+Au cours de cette étape, vous allez améliorer et personnaliser les images et les graphiques à l’aide des outils d’IA de Adobe Journey Optimizer. Vous générez des infographies, ajoutez des superpositions et affinez les images tout en conservant les logos, couleurs et polices alignés sur votre marque. Vous déplacez des ressources entre Adobe Journey Optimizer et Adobe Express afin d’étendre les modifications et de maintenir la cohérence. À la fin de cette étape, vous enregistrez les visuels sur la marque dans votre référentiel en vue de les réutiliser dans plusieurs campagnes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494638/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494537/?learn=on)
