@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Découvrez comment évaluer et améliorer la qualité du contenu tout en le comparant aux directives de votre marque, tant pour les ressources écrites que visuelles. Vous évaluez l’alignement de la marque pour le contenu généré par l’IA et le contenu créé manuellement, à l’aide de contrôles qualité automatisés, ainsi que de scores en temps réel et de recommandations exploitables. Vous pouvez identifier et résoudre les problèmes de copie, d’imagerie, d’iconographie et de conformité à l’aide de l’assurance qualité automatisée qui sert d’assistant dans le processus de gouvernance et de révision de votre équipe avant que le contenu ne soit mis en ligne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494636/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494647/?captions=fre_fr&learn=on)
