@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Modifiez et personnalisez les sections individuelles d’un modèle d’e-mail avec les fonctionnalités d’IA de Adobe Journey Optimizer. Modifiez les objets, les pré-titres, les blocs de texte et les images tout en préservant les couleurs, la voix et les règles de conformité de la marque. Utilisez des invites et du contenu de référence pour ajuster la tonalité, reformuler le texte, traduire la langue et générer des visuels sur la marque pour chaque composant.
 
->[!VIDEO](https://video.tv.adobe.com/v/3495868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495880/?captions=fre_fr&learn=on)
