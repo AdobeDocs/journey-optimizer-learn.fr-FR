@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Au cours de cette étape, vous apprendrez à appliquer une marque configurée dans Adobe Journey Optimizer à d’autres outils Adobe tels que GenStudio et Adobe Express. Vous affinez les paramètres de style d’écriture et les spécifications visuelles, et ajoutez des exemples de texte et d’image directement dans Adobe Journey Optimizer afin d’améliorer le contenu généré par l’IA et les contrôles qualité automatisés. Vous gérez également plusieurs marques pour prendre en charge différents services et stratégies de communication.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494272/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494284/?captions=fre_fr&learn=on)
