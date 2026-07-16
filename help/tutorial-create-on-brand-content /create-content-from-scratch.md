@@ -1,24 +1,24 @@
 ---
-title: Créer du contenu à partir de zéro
-description: Découvrez comment créer entièrement des e-mails, des notifications push et des messages in-app à l’aide de modèles, de directives de marque et de variations pilotées par l’IA.
+title: Créer entièrement du contenu omnicanal
+description: Au cours de cette étape, vous commencez à partir d’un modèle de contenu existant et générez une ressource complète à l’aide des fonctionnalités d’IA.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 182
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-16226
-source-git-commit: d80b00583c47ed90a73d0058aad46472b04df681
+source-git-commit: ab64a156f9bbd1496ebfa4d06dbfea37a8bc1e71
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
 
-# Créer du contenu à partir de zéro
+# Créer entièrement du contenu omnicanal
 
-Cette vidéo explique comment commencer à partir d’un modèle, appliquer les directives de la marque et utiliser des invites simples pour créer des e-mails, des notifications push et des messages in-app à partir de zéro. Vous découvrirez également comment affiner le ton, les images et les messages tout en tirant parti des variations et de la notation pilotées par l’IA pour produire rapidement du contenu cohérent et de haute qualité dans l’ensemble de vos expériences omnicanales.
+Au cours de cette étape, vous commencez à partir d’un modèle de contenu existant et vous générez une ressource complète, telle qu’un e-mail, une notification push ou un message in-app, à l’aide des fonctionnalités d’IA. Vous appliquez les directives de la marque et configurez les paramètres de langue, de ton et d’image pour conserver le contenu sur la marque. Vous générez plusieurs variations pilotées par l’IA, passez en revue le score de la marque et modifiez le contenu manuellement ou à l’aide d’une seconde passe d’IA pour affiner les messages et les visuels.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434637/?captions=fre_fr&learn=on)

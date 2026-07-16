@@ -1,24 +1,24 @@
 ---
-title: Configuration de marques dans Adobe Journey Optimizer
-description: Cette vidéo explique comment télécharger des documents de directives de marque, structurer les éléments clés de la marque et définir le style d’écriture et le contenu visuel.
+title: Configurer une marque pour du contenu optimisé par l’IA dans Adobe Journey Optimizer
+description: Vous apprendrez à créer et configurer une marque que les fonctionnalités d’IA utilisent pour générer et valider du contenu dans Adobe Journey Optimizer.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 227
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-21952
-source-git-commit: 02e7231661fcd254f89ffcbbfd6ee6039ededffa
+source-git-commit: 7c1f5db3b2e5c628dcf233cb112bfca49bc28aad
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 
-# Configuration de marques dans Adobe Journey Optimizer
+# Configurer une marque pour du contenu optimisé par l’IA dans Adobe Journey Optimizer
 
-Cette vidéo explique comment télécharger des documents de directives de marque, structurer les éléments clés de la marque et définir le style d’écriture, le contenu visuel et les détails d’identité. Vous découvrirez également comment affiner et personnaliser ces directives pour alimenter le contenu généré par l’IA et les contrôles qualité automatisés, tout en assurant une communication cohérente sur la marque sur chaque canal.
+Vous apprendrez à créer et configurer une marque que les fonctionnalités d’IA utilisent pour générer et valider du contenu dans Adobe Journey Optimizer. Vous téléchargez des documents d’orientation de marque et mappez des éléments clés tels que le ton de la voix, les slogans, les contraintes légales, les règles d’imagerie et la mise en forme de CTA. Vous modifiez les conseils au niveau du canal et des éléments pour améliorer la précision de la génération et les contrôles qualité automatisés.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3494369/?captions=fre_fr&learn=on)
