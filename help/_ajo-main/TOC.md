@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Il s’agit des tutoriels de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: c2595614a6d78b3877b12f3d2d0b5040364bd1ee
+source-git-commit: 57c9805e1a1f9f7392c90955902009df56751058
 workflow-type: tm+mt
-source-wordcount: '1552'
-ht-degree: 97%
+source-wordcount: '1555'
+ht-degree: 95%
 
 ---
 
@@ -41,14 +41,14 @@ ht-degree: 97%
 + Parcours {#journeys}
   + [Concepteur de parcours : vue d’ensemble](/help/journeys/journey-designer-overview.md)
   + [Présentation de la nouvelle zone de travail de parcours](/help/journeys/introduction-to-the-new-journey-canvas.md)
-  + [Analyser et créer des parcours avec l’agent Journey](/help/ai-agents/journey-agent-overview.md)
-  + {hide-from-toc}[Découvrir le nouveau concepteur de parcours](/help/journeys/new-journey-designer.md)
   + [Présentation de la création d’un parcours](/help/journeys/introduction-to-building-a-journey.md)
-  + [Utilisation de la recherche de jeux de données dans un parcours](/help/journeys/lookup-dataset.md)
+  + [Analyse et création de parcours à l’aide de l’IA](/help/ai-agents/journey-agent-overview.md)
   + [Créer un profil de test](/help/journeys/test-a-journey.md)
+  + {hide-from-toc}[Simuler des parcours avec des audiences externes](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [Publier un parcours](/help/journeys/publish-a-journey.md)
   + [Activité de décision de contenu](/help/journeys/content-decision-activity.md)
-  + [Maîtriser le filtrage multi-attribut](/help/journeys/mastering-multi-attribute-filtering.md)
+  + [Utilisation de la recherche de jeux de données dans un parcours](/help/journeys/lookup-dataset.md)
+  + [Filtrage multi-attributs par Principal](/help/journeys/mastering-multi-attribute-filtering.md)
   + [Utiliser le ciblage d’entités multiples avec des audiences fédérées dans les parcours](/help/journeys/multi-entity-targeting-in-journeys.md)
   + [Valider la logique du parcours en effectuant un test à blanc](/help/journeys/journey-dry-run.md)
   + [Déverrouiller la réintégration du parcours avec des ID supplémentaires](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
@@ -124,6 +124,7 @@ ht-degree: 97%
     + [Présentation du canal WhatsApp](/help/channels/whatsapp-introduction.md)
     + [Configurer le canal WhatsApp](/help/channels/set-up-whatsapp.md)
     + [Créer un parcours WhatsApp](/help/channels/create-a-whatsapp-journey.md)
+  + {hide-from-toc}[Configuration et utilisation de canaux personnalisés](/help/channels/configure-and-use-custom-channels.md)
 + Gestion de contenu{#content-management}
   + [Création de messages : vue d’ensemble](/help/content-management/message-authoring-overview.md)
   + Gérer les ressources {#assets}
