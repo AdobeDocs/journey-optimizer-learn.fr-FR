@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Il s’agit des tutoriels de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: c2595614a6d78b3877b12f3d2d0b5040364bd1ee
+source-git-commit: 40ceb7f4414af6b2d311491f03be4daff1c72c19
 workflow-type: tm+mt
-source-wordcount: '1552'
-ht-degree: 97%
+source-wordcount: '1550'
+ht-degree: 95%
 
 ---
 
@@ -41,14 +41,14 @@ ht-degree: 97%
 + Parcours {#journeys}
   + [Concepteur de parcours : vue d’ensemble](/help/journeys/journey-designer-overview.md)
   + [Présentation de la nouvelle zone de travail de parcours](/help/journeys/introduction-to-the-new-journey-canvas.md)
-  + [Analyser et créer des parcours avec l’agent Journey](/help/ai-agents/journey-agent-overview.md)
-  + {hide-from-toc}[Découvrir le nouveau concepteur de parcours](/help/journeys/new-journey-designer.md)
   + [Présentation de la création d’un parcours](/help/journeys/introduction-to-building-a-journey.md)
-  + [Utilisation de la recherche de jeux de données dans un parcours](/help/journeys/lookup-dataset.md)
+  + [Analyse et création de parcours à l’aide de l’IA](/help/ai-agents/journey-agent-overview.md)
   + [Créer un profil de test](/help/journeys/test-a-journey.md)
+  + [Simuler des parcours avec des audiences externes](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [Publier un parcours](/help/journeys/publish-a-journey.md)
   + [Activité de décision de contenu](/help/journeys/content-decision-activity.md)
-  + [Maîtriser le filtrage multi-attribut](/help/journeys/mastering-multi-attribute-filtering.md)
+  + [Utilisation de la recherche de jeux de données dans un parcours](/help/journeys/lookup-dataset.md)
+  + [Filtrage multi-attributs par Principal](/help/journeys/mastering-multi-attribute-filtering.md)
   + [Utiliser le ciblage d’entités multiples avec des audiences fédérées dans les parcours](/help/journeys/multi-entity-targeting-in-journeys.md)
   + [Valider la logique du parcours en effectuant un test à blanc](/help/journeys/journey-dry-run.md)
   + [Déverrouiller la réintégration du parcours avec des ID supplémentaires](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
@@ -93,7 +93,7 @@ ht-degree: 97%
     + [Créer du contenu avec le Concepteur d&#39;e-mail](/help/channels/create-content-with-the-email-designer.md)
     + [Importation et création de contenu d’e-mail HTML](/help/channels/import-and-author-html-email-content.md)
     + [Aperçu, BAT et publication](/help/channels/preview-proof-and-publish.md)
-    + [Création de contenu sur la marque, optimisé par l’IA - Tutoriel](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [Création de contenu sur la marque, optimisé par l’IA - Tutoriel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + Cartes de contenu{#content-cards}
     + [Créer des cartes de contenu](/help/channels/create-content-cards.md)
   + Canal in-app{#in-app-channel}
@@ -149,7 +149,7 @@ ht-degree: 97%
   + [Optimiser les canaux en fonction des préférences du profil ou des scores de propension](/help/channels/channel-optimization.md)
   + [Créer un e-mail à l’aide de GenStudio](/help/content-management/create-an-email-using-genstudio.md)
   + [Activer des intégrations de données externes dans la création de canaux](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [Création de contenu sous marque dans Journey Optimizer - Tutoriel](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [Création de contenu sous marque dans Journey Optimizer - Tutoriel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personnaliser le contenu {#personalize-content}
   + [Éditeur de personnalisation : vue d’ensemble](/help/personalize-content/personalization-editor-overview.md)
   + [Personnalisation basée sur un profil et l’appartenance à une audience](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
