@@ -26,4 +26,4 @@ ht-degree: 0%
 
 Découvrez la nouvelle expérience de parcours de la zone de travail dans Adobe Journey Optimizer. Cette mise à jour introduit un moteur de rendu moderne qui alimente la zone de travail du Parcours, en l’alignant avec l’expérience déjà utilisée dans les campagnes orchestrées et la composition de l’audience.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496193/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496195/?captions=fre_fr&learn=on&enablevpops)
