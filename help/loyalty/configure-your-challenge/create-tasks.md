@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Découvrez comment créer et configurer des tâches de défi de fidélité à l’aide d’activités d’achat, de dépense et d’événement personnalisé, y compris les règles d’éligibilité, les exclusions et les modèles de tâche réutilisables.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496442/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496444/?captions=fre_fr&learn=on&enablevpops)
