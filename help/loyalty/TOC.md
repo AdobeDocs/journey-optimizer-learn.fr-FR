@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: loyauté
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 579c0852d1157519780768270521029879d52d30
+source-git-commit: b173f9353a11fa2b5b3b5316a2601ac2be695891
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 + Présentation de la fidélité {#introduction-to-loyalty}
   + [Découvrez ce qu’est la fidélité à Journey Optimizer](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 + Configurer votre défi {#configure-your-challenge}
-  + [Créer et publier votre premier défi de fidélité](./configure-your-challenge/create-and-publish-your-first-loyalty-challenge.md)
+  + [Configurer un défi de fidélité](./configure-your-challenge/set-up-a-loyalty-challenge.md)
   + [Créer des tâches pour votre défi de fidélité](./configure-your-challenge/create-tasks.md)
   + [Configurer des récompenses pour votre défi de fidélité](./configure-your-challenge/configure-rewards-for-your-loyalty-challenge.md)
   + [Créez des défis et obtenez des informations avec l’agent Loyalty AI](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)

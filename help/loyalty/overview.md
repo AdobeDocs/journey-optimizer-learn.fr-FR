@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 35dcb7e021fa57e88131d1ea1fd47112a22674f5
+source-git-commit: b173f9353a11fa2b5b3b5316a2601ac2be695891
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -37,8 +37,8 @@ Découvrez ce qu’est la fidélité à Journey Optimizer, où elle se situe sou
 
 Ce module vous guide tout au long de la création et de la configuration d’un défi de fidélité de bout en bout : type, structure et planning, tâches et récompenses.
 
-* [Créer et publier votre premier défi de fidélité](./configure-your-challenge/create-and-publish-your-first-loyalty-challenge.md)
-Découvrez comment créer un défi : types (Standard / Streak / Séquentiel), structure et planification, enregistrer et publier un défi (sans parcours).
+* [Configurer un défi de fidélité](./configure-your-challenge/set-up-a-loyalty-challenge.md)
+Découvrez comment configurer un défi de fidélité en sélectionnant le type de défi approprié, en configurant des audiences et des plannings, en définissant des règles de participation et en contrôlant le suivi et la récompense de la progression.
 * [Configurer des tâches pour votre défi de fidélité](./configure-your-challenge/create-tasks.md)
 Découvrez comment configurer des tâches : achat et dépenses, quantités, articles et exclusions éligibles et réutilisation.
 * [Configurer des récompenses pour votre défi de fidélité](./configure-your-challenge/configure-rewards-for-your-loyalty-challenge.md)
