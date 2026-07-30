@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 283c626c96cd675549425af430b7db463b2fa0ad
+source-git-commit: 22b92b46ddf2d970ddb37bccd4de9ec289cd5ed8
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 11%
@@ -36,7 +36,7 @@ Découvrez comment configurer un défi de fidélité en sélectionnant le type d
 Découvrez comment configurer des tâches : achat et dépenses, quantités, articles et exclusions éligibles et réutilisation.
 * [Configurer des récompenses pour votre défi de fidélité](./configure-your-challenge/configure-rewards.md)
 Découvrez comment configurer des récompenses : fournisseur, jalon par rapport à la diffusion de fin, types de récompense et coupons.
-* [Créez des défis et obtenez des informations avec l’agent Loyalty AI](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)
+* [Créez des défis et obtenez des informations avec l’agent Loyalty AI](./configure-your-challenge/create-a-challenge-and-get-insights-with-with-cx-enterprise-coworker.md)
 Découvrez comment utiliser l’agent Loyalty AI pour créer des défis et obtenir des informations.
 
 ## Déposez votre candidature et présentez votre défi
