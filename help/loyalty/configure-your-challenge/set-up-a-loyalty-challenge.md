@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Découvrez comment configurer un défi de fidélité en sélectionnant le type de défi approprié, en configurant des audiences et des plannings, en définissant des règles de participation et en contrôlant le suivi et la récompense de la progression.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496471/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496473/?captions=fre_fr&learn=on&enablevpops)

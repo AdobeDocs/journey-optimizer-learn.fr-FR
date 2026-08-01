@@ -19,4 +19,4 @@ ht-degree: 8%
 
 Découvrez comment configurer les récompenses du défi en sélectionnant les types de récompense, en définissant les méthodes de diffusion et en récompensant les participants aux jalons clés ou à l’issue du défi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496481/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496483/?captions=fre_fr&learn=on&enablevpops)
