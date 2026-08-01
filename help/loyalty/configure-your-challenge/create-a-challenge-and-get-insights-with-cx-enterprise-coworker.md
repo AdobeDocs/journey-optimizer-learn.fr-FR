@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Découvrez comment utiliser CX Enterprise Coworker pour créer, configurer et lancer des défis de fidélité en utilisant le langage naturel, y compris les audiences, les récompenses, les plannings et la configuration de parcours automatisée.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496540/?captions=fre_fr&learn=on&enablevpops)

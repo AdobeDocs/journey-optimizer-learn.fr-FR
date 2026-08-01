@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Découvrez comment créer une carte de contenu de défi à l’aide de modèles, d’images, de boutons et de configurations d’application prédéfinis afin de promouvoir les défis de fidélité et d’afficher la progression des participants dans votre application.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496531/?captions=fre_fr&learn=on&enablevpops)
