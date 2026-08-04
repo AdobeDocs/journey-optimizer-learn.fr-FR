@@ -30,6 +30,6 @@ ht-degree: 100%
 
 Découvrez comment identifier et gérer les conflits potentiels, par exemple les audiences qui se chevauchent, les chronologies simultanées, les canaux de communication partagés ou les limites de fréquence, pour garantir une expérience de communication fluide et cohérente à travers les parcours et campagnes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445646/?captions=fre_fr&learn=on&enablevpops)
 
 Consultez la documentation du produit pour plus d’informations sur la [détection des conflits potentiels dans les parcours et les campagnes](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/conflict-prioritization/conflicts).
