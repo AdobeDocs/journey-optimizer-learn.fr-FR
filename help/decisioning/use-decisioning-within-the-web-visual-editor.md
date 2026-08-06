@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Découvrez comment utiliser la prise de décision pour personnaliser votre page web dans l’éditeur visuel web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496300/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496305/?captions=fre_fr&learn=on&enablevpops)

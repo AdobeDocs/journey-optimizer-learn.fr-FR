@@ -31,4 +31,4 @@ Découvrez comment connecter des canaux de messagerie non pris en charge nativem
 
 Cette vidéo présente toutes les étapes de la création d’un canal sortant personnalisé et montre comment l’utiliser dans un parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496286/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496288/?captions=fre_fr&learn=on&enablevpops)
