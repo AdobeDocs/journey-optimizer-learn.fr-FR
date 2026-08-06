@@ -1,5 +1,5 @@
 ---
-title: Utilisez la prise de décision pour personnaliser votre page web dans l’éditeur visuel web.
+title: Utiliser la prise de décision pour personnaliser votre page web dans l’éditeur visuel web
 description: Découvrez comment utiliser la prise de décision pour personnaliser votre page web dans l’éditeur visuel web.
 feature: Decisioning, Web Channel
 role: User
@@ -19,14 +19,14 @@ feature_v2:
 subfeature_v2:
   - id: c618a0dc-1818-4c6d-9916-0d92e6796f24
 source-git-commit: 0e0dc8b1e62c73e3597c8f62cffc71e3be35aa14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 54
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Utilisez la prise de décision pour personnaliser votre page web dans l’éditeur visuel web.
+# Utiliser la prise de décision pour personnaliser votre page web dans l’éditeur visuel web
 
 Découvrez comment utiliser la prise de décision pour personnaliser votre page web dans l’éditeur visuel web.
 

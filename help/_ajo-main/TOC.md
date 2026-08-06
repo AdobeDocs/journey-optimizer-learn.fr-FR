@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Il s’agit des tutoriels de Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: f48d568f64c413c5fc1ae9b4de48735d207af7e3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1567'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -40,15 +40,15 @@ ht-degree: 94%
     + [Créer une campagne orchestrée](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
 + Parcours {#journeys}
   + [Concepteur de parcours : vue d’ensemble](/help/journeys/journey-designer-overview.md)
-  + [Présentation de la nouvelle zone de travail de parcours](/help/journeys/introduction-to-the-new-journey-canvas.md)
+  + [Présentation du nouveau canevas de parcours](/help/journeys/introduction-to-the-new-journey-canvas.md)
   + [Présentation de la création d’un parcours](/help/journeys/introduction-to-building-a-journey.md)
-  + [Analyse et création de parcours à l’aide de l’IA](/help/ai-agents/journey-agent-overview.md)
+  + [Analyser et créer des parcours à l’aide de l’IA](/help/ai-agents/journey-agent-overview.md)
   + [Créer un profil de test](/help/journeys/test-a-journey.md)
   + [Simuler des parcours avec des audiences externes](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [Publier un parcours](/help/journeys/publish-a-journey.md)
   + [Activité de décision de contenu](/help/journeys/content-decision-activity.md)
-  + [Utilisation de la recherche de jeux de données dans un parcours](/help/journeys/lookup-dataset.md)
-  + [Filtrage multi-attributs par Principal](/help/journeys/mastering-multi-attribute-filtering.md)
+  + [Utiliser la recherche de jeux de données dans un parcours](/help/journeys/lookup-dataset.md)
+  + [Maîtriser le filtrage multi-attribut](/help/journeys/mastering-multi-attribute-filtering.md)
   + [Utiliser le ciblage d’entités multiples avec des audiences fédérées dans les parcours](/help/journeys/multi-entity-targeting-in-journeys.md)
   + [Valider la logique du parcours en effectuant un test à blanc](/help/journeys/journey-dry-run.md)
   + [Déverrouiller la réintégration du parcours avec des ID supplémentaires](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
@@ -92,7 +92,7 @@ ht-degree: 94%
     + [Créer du contenu avec le Concepteur d&#39;e-mail](/help/channels/create-content-with-the-email-designer.md)
     + [Importation et création de contenu d’e-mail HTML](/help/channels/import-and-author-html-email-content.md)
     + [Aperçu, BAT et publication](/help/channels/preview-proof-and-publish.md)
-    + [Création de contenu sur la marque, optimisé par l’IA - Tutoriel](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [Création de contenu conforme à la marque, optimisée par l’IA : tutoriel](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + Cartes de contenu{#content-cards}
     + [Créer des cartes de contenu](/help/channels/create-content-cards.md)
   + Canal in-app{#in-app-channel}
@@ -123,7 +123,7 @@ ht-degree: 94%
     + [Présentation du canal WhatsApp](/help/channels/whatsapp-introduction.md)
     + [Configurer le canal WhatsApp](/help/channels/set-up-whatsapp.md)
     + [Créer un parcours WhatsApp](/help/channels/create-a-whatsapp-journey.md)
-  + [Configuration et utilisation de canaux personnalisés](/help/channels/configure-and-use-custom-channels.md)
+  + [Configurer et utiliser des canaux personnalisés](/help/channels/configure-and-use-custom-channels.md)
 + Gestion de contenu{#content-management}
   + [Création de messages : vue d’ensemble](/help/content-management/message-authoring-overview.md)
   + Gérer les ressources {#assets}
@@ -149,7 +149,7 @@ ht-degree: 94%
   + [Optimiser les canaux en fonction des préférences du profil ou des scores de propension](/help/channels/channel-optimization.md)
   + [Créer un e-mail à l’aide de GenStudio](/help/content-management/create-an-email-using-genstudio.md)
   + [Activer des intégrations de données externes dans la création de canaux](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [Création de contenu sous marque dans Journey Optimizer - Tutoriel](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [Créer du contenu conforme à la marque dans Journey Optimizer : tutoriel](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personnaliser le contenu {#personalize-content}
   + [Éditeur de personnalisation : vue d’ensemble](/help/personalize-content/personalization-editor-overview.md)
   + [Personnalisation basée sur un profil et l’appartenance à une audience](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -177,7 +177,7 @@ ht-degree: 94%
       + [Utiliser la prise de décision pour personnaliser les e-mails (tutoriel)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [Utiliser la prise de décision dans les notifications push](/help/decisioning/decisioning-in-push-notifications.md)
       + [Utiliser la prise de décision dans un SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
-      + {hide-from-toc}[Utilisation de la prise de décision dans l’éditeur visuel web](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
+      + {hide-from-toc}[Utiliser la prise de décision dans l’éditeur visuel web](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [Utiliser la prise de décision pour personnaliser les offres web (tutoriel)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [Utiliser les fragments de contenu Experience Manager avec la prise de décision](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + Déclencher des décisions à partir de déclencheurs externes et d’interactions {#trigger}

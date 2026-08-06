@@ -1,6 +1,6 @@
 ---
-title: Configuration et utilisation de canaux personnalisés
-description: Découvrez comment connecter des canaux de messagerie non pris en charge nativement dans Adobe Journey Optimizer, tels que Slack, WeChat, Telegram ou votre propre plateforme propriétaire, à l’aide de canaux personnalisés.
+title: Configurer et utiliser des canaux personnalisés
+description: Découvrez comment connecter des canaux de messagerie non pris en charge nativement dans Adobe Journey Optimizer, tels que Slack, WeChat, Telegram ou votre propre plateforme propriétaire, à l’aide de canaux personnalisés.
 feature: Channels
 role: Admin, User
 level: Beginner, Intermediate
@@ -16,19 +16,19 @@ product_v2:
 feature_v2:
   - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
 source-git-commit: 507316431c32151c0b07499c60a261fed57f391e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 80
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Configuration et utilisation de canaux personnalisés
+# Configurer et utiliser des canaux personnalisés
 
 {{limited-availability}}
 
-Découvrez comment connecter des canaux de messagerie non pris en charge nativement dans Adobe Journey Optimizer, tels que Slack, WeChat, Telegram ou votre propre plateforme propriétaire, à l’aide de canaux personnalisés.
+Découvrez comment connecter des canaux de messagerie non pris en charge nativement dans Adobe Journey Optimizer, tels que Slack, WeChat, Telegram ou votre propre plateforme propriétaire, à l’aide de canaux personnalisés.
 
-Cette vidéo décrit comment créer un canal sortant personnalisé de bout en bout et l’utiliser dans un parcours.
+Cette vidéo présente toutes les étapes de la création d’un canal sortant personnalisé et montre comment l’utiliser dans un parcours.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496288/?captions=fre_fr&learn=on&enablevpops)

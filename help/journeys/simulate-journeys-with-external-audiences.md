@@ -15,15 +15,15 @@ product_v2:
 feature_v2:
   - id: d998adac-2f81-400b-a669-d07bb196e4eb
 source-git-commit: ff9724176cd6b581b987d282f9fa8b26d9322c55
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 96
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # Simuler des parcours avec des audiences externes
 
-Découvrez comment simuler des parcours qui utilisent des profils d’audiences externes à partir d’un fichier CSV ou d’une composition d’audiences fédérées, y compris des attributs non stockés dans le profil, tels que l’ID de ticket ou la date de voyage. Cette vidéo décrit le filtrage d’une audience, la personnalisation des messages avec des attributs externes, la création d’un utilisateur simulé et la simulation des données d’audience pour valider le chemin d’accès approprié avant la mise en ligne de votre parcours.
+Découvrez comment simuler des parcours qui utilisent des profils d’audiences externes à partir d’un fichier CSV ou d’une composition d’audiences fédérées, y compris des attributs non stockés dans le profil, tels que l’ID de ticket ou la date de voyage. Cette vidéo présente le filtrage d’une audience, la personnalisation des messages avec des attributs externes, la création d’une personne simulée et la simulation des données d’audience pour valider le chemin d’accès approprié avant la mise en ligne de votre parcours.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496271/?captions=fre_fr&learn=on&enablevpops)
