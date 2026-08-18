@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: loyauté
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: fce0679771726c36f758ae8c244d6691be71a573
+source-git-commit: 9cf282f2c9f448648852931bfe0f3f7bb789205d
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
   + [Configurer des récompenses pour votre défi de fidélité](./configure-your-challenge/configure-rewards.md)
   + [Créez des défis et obtenez des informations avec l’agent Loyalty AI](./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md)
 + Déposez votre candidature et présentez votre défi {#apply-and-display-your-challenge}
-  + [Créer une carte de contenu de défi avec une expérience basée sur du code](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
+  + [Créer une carte de contenu de défi](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
   + [Configurer la messagerie de cycle de vie pour votre défi](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 + Analyse et rapport {#analyze-and-report}
   + {hide-from-toc}[Suivre les performances avec le rapport de défi](./analyze-and-report/track-performance-with-the-challenge-report.md)
