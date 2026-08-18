@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 6313b2380e7b9a1cdd7b3ad1ba4b877fcc304000
+source-git-commit: 3612bdc9c50be6999eba47f3c6e68c82c2120d20
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '393'
 ht-degree: 10%
 
 ---
@@ -51,6 +51,6 @@ Découvrez comment utiliser CX Enterprise Coworker pour créer, configurer et la
 Cette section vous explique comment apporter un défi à vos clients à l’aide de cartes de contenu et d’expériences basées sur du code.
 
 * [Créer une carte de contenu de défi](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
-Découvrez comment créer une expérience basée sur une carte de contenu ou un code de défi, couvrant l’opt-in et la progression dynamique à travers l’opt-in, la progression et les étapes terminées, ainsi que les récompenses et la configuration des canaux.
+Découvrez comment créer une carte de contenu de défi couvrant l’opt-in et la progression dynamique à travers les étapes d’opt-in, de progression et terminées, ainsi que des récompenses et la configuration des canaux.
 * [Configurer la messagerie de cycle de vie pour votre défi](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 Découvrez comment configurer la messagerie multicanal pour chaque étape d’un défi de fidélité, des invitations et des messages d’engagement aux notifications d’achèvement et de récompense.
