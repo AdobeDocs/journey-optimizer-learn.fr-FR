@@ -6,7 +6,7 @@ level: Beginner
 breadcrumb-title: loyauté
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 3612bdc9c50be6999eba47f3c6e68c82c2120d20
+source-git-commit: 96600e2e66fc410a7f265824f3e05c7511b94d25
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -30,4 +30,4 @@ ht-degree: 0%
   + [Afficher le contenu complexe à l’aide du canal d’expérience basé sur le code](./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md)
   + [Configurer la messagerie de cycle de vie pour votre défi](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 + Analyse et rapport {#analyze-and-report}
-  + {hide-from-toc}[Suivre les performances avec le rapport de défi](./analyze-and-report/track-performance-with-the-challenge-report.md)
+  + [Mesurer les performances des défis à l’aide de rapports de défis](./analyze-and-report/measure-performance-with-challenge-reports.md)
