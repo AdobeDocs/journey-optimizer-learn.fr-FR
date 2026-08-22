@@ -19,4 +19,4 @@ ht-degree: 0%
 
 La simulation rapide simplifie le test des parcours client en automatisant les processus clés. Il génère des profils de test, orchestre les événements, accélère les temps d’attente et valide les scénarios. Cet outil permet de s’assurer que les parcours complexes fonctionnent comme prévu avant la publication, ce qui permet de gagner du temps et d’améliorer la précision.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497475/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497477/?captions=fre_fr&learn=on&enablevpops)

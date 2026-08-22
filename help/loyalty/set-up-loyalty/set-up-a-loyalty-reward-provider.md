@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Découvrez comment configurer un fournisseur de récompenses, créer des définitions de récompense et configurer des payloads de récompense afin que Adobe Journey Optimizer puisse émettre des récompenses de fidélité par le biais de votre système de récompenses externe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497346/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497411/?captions=fre_fr&learn=on&enablevpops)

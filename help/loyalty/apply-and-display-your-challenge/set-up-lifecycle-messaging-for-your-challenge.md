@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Découvrez comment configurer la messagerie multicanal pour chaque étape d’un défi de fidélité, des invitations et des messages d’engagement aux notifications d’achèvement et de récompense.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497455/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497457/?captions=fre_fr&learn=on&enablevpops)

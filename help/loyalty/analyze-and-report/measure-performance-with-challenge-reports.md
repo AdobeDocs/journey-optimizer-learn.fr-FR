@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Découvrez comment utiliser les rapports de défi et les tableaux de bord de performances pour mesurer la participation, les taux d’achèvement, l’attribution des revenus et les performances globales du programme de fidélité.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497561/?captions=fre_fr&learn=on&enablevpops)

@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Découvrez comment utiliser des expériences basées sur du code pour promouvoir les défis de fidélité, afficher la progression du défi et diffuser du contenu personnalisé dans votre application à l’aide d’HTML ou de JSON.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497465/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497467/?captions=fre_fr&learn=on&enablevpops)
