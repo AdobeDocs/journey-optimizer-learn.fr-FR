@@ -30,4 +30,4 @@ ht-degree: 0%
 
 Découvrez comment publier un défi et générer automatiquement un parcours. Découvrez comment les communications de défi sont traduites en orchestration de parcours, examinez la structure de parcours générée et personnalisez-la avec des conditions supplémentaires, une logique de prise de décision ou d’optimisation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498577/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3498579/?captions=fre_fr&learn=on&enablevpops)
