@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Explorez le tableau de bord des informations sur la fidélité et découvrez comment les informations générées par l’IA vous aident à identifier les changements importants dans les performances du programme de fidélité, à classer les résultats par priorité en fonction des KPI de l’entreprise et à agir sur les mesures les plus importantes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497561/?captions=fre_fr&learn=on&enablevpops)
