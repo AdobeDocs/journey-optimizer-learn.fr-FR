@@ -9,22 +9,13 @@ jira: KT-21773
 last-substantial-update: '2026-07-28T00:00:00.000Z'
 autotag-review: '2026-08-25T19:43:05.657Z'
 TQID: 'https://experienceleague.adobe.com/k0YmuHe8wolVlL-fbnh0lPOyPiF5avG4ewbZm-b-cDM'
-product_v2:
-  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
-feature_v2:
-  - id: df64005d-8f9a-422e-ba4d-c6f6dc3454b4
-subfeature_v2:
-  - id: d48edf2f-7bae-4df0-a9d4-7cabfb867d23
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 87eb262cf409e11959c177a54e43b3be4e16395b
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2: id: df64005d-8f9a-422e-ba4d-c6f6dc3454b4
+subfeature_v2: id: d48edf2f-7bae-4df0-a9d4-7cabfb867d23
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 356f2f8512bc4be640f00d5e9cbdd45d2ddb007c
 workflow-type: tm+mt
 source-wordcount: 1405
 ht-degree: 43%
@@ -43,7 +34,7 @@ Cette section présente Journey Optimizer Loyalty, sa nature, sa place dans Adob
 <!--
 CARDS
 
-* https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty
   {description = Understand what Journey Optimizer Loyalty is, where it sits under AJO, and the challenge lifecycle.}
 
 -->
@@ -53,8 +44,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" title="Découvrir la fidélité à Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496453/?captions=fre_fr&format=jpeg&nocache=1787860712097" alt="Découvrir la fidélité à Journey Optimizer"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" title="Découvrir la fidélité à Journey Optimizer" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496441/?format=jpeg&nocache=1787869052840" alt="Découvrir la fidélité à Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -62,11 +53,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="Découvrir la fidélité à Journey Optimizer">Découvrir la fidélité à Journey Optimizer</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="Découvrir la fidélité à Journey Optimizer">Découvrir la fidélité à Journey Optimizer</a>
                     </p>
                     <p class="is-size-6">Découvrez ce qu’est la fidélité à Journey Optimizer, où elle se situe sous AJO et le cycle de vie des défis.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
@@ -94,7 +85,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./set-up-loyalty/set-up-a-loyalty-reward-provider.md" title="Configurer un fournisseur de récompenses de fidélité" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497411/?captions=fre_fr&format=jpeg&nocache=1787860712440" alt="Configurer un fournisseur de récompenses de fidélité"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497346/?format=jpeg&nocache=1787869053174" alt="Configurer un fournisseur de récompenses de fidélité"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,7 +131,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/set-up-a-loyalty-challenge.md" title="Configurer un défi de fidélité" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496473/?captions=fre_fr&format=jpeg&nocache=1787860712673" alt="Configurer un défi de fidélité"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496471/?format=jpeg&nocache=1787869053564" alt="Configurer un défi de fidélité"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,7 +154,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/create-tasks.md" title="Créer des tâches pour votre défi de fidélité" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496444/?captions=fre_fr&format=jpeg&nocache=1787860712654" alt="Créer des tâches pour votre défi de fidélité"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496442/?format=jpeg&nocache=1787869053552" alt="Créer des tâches pour votre défi de fidélité"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +177,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/configure-rewards.md" title="Configurer les récompenses" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496483/?captions=fre_fr&format=jpeg&nocache=1787860712667" alt="Configurer les récompenses"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496481/?format=jpeg&nocache=1787869053558" alt="Configurer les récompenses"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +200,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md" title="Créez un défi de fidélité et obtenez des informations grâce à CX Enterprise Coworker" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496540/?captions=fre_fr&format=jpeg&nocache=1787860712659" alt="Créez un défi de fidélité et obtenez des informations grâce à CX Enterprise Coworker"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496528/?format=jpeg&nocache=1787869053547" alt="Créez un défi de fidélité et obtenez des informations grâce à CX Enterprise Coworker"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -253,7 +244,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/build-a-challenge-content-card.md" title="Créer une carte de contenu de défi" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496531/?captions=fre_fr&format=jpeg&nocache=1787860713038" alt="Créer une carte de contenu de défi"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496529/?format=jpeg&nocache=1787869053793" alt="Créer une carte de contenu de défi"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -276,7 +267,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md" title="Afficher le contenu complexe à l’aide du canal d’expérience basé sur le code" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497467/?captions=fre_fr&format=jpeg&nocache=1787860713023" alt="Afficher le contenu complexe à l’aide du canal d’expérience basé sur le code"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497465/?format=jpeg&nocache=1787869053789" alt="Afficher le contenu complexe à l’aide du canal d’expérience basé sur le code"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -299,7 +290,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md" title="Configurer la messagerie de cycle de vie pour votre défi" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497457/?captions=fre_fr&format=jpeg&nocache=1787860713043" alt="Configurer la messagerie de cycle de vie pour votre défi"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497455/?format=jpeg&nocache=1787869053804" alt="Configurer la messagerie de cycle de vie pour votre défi"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -322,7 +313,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md" title="Publier un défi et générer un parcours" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498579/?captions=fre_fr&format=jpeg&nocache=1787860713032" alt="Publier un défi et générer un parcours"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498577/?format=jpeg&nocache=1787869053798" alt="Publier un défi et générer un parcours"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -363,7 +354,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./analyze-and-report/measure-performance-with-challenge-reports.md" title="Mesurer les performances des défis à l’aide de rapports de défis" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497561/?captions=fre_fr&format=jpeg&nocache=1787860713299" alt="Mesurer les performances des défis à l’aide de rapports de défis"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497534/?format=jpeg&nocache=1787869054075" alt="Mesurer les performances des défis à l’aide de rapports de défis"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -386,7 +377,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./analyze-and-report/analyze-loyalty-performance-using-loyalty-insights-dashboard.md" title="Analysez les performances de la fidélité à l’aide du tableau de bord des informations de fidélité." target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497561/?captions=fre_fr&format=jpeg&nocache=1787860713290" alt="Analysez les performances de la fidélité à l’aide du tableau de bord des informations de fidélité."
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502413/?format=jpeg&nocache=1787869054083" alt="Analysez les performances de la fidélité à l’aide du tableau de bord des informations de fidélité."
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
