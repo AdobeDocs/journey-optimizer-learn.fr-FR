@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: loyauté
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: e168e56efe575659b5f48e97af77b899f8b6c962
+source-git-commit: 87eb262cf409e11959c177a54e43b3be4e16395b
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -32,3 +32,4 @@ ht-degree: 0%
   + [Publier un défi et générer un parcours](./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md)
 + Analyse et rapport {#analyze-and-report}
   + [Mesurer les performances des défis à l’aide de rapports de défis](./analyze-and-report/measure-performance-with-challenge-reports.md)
+  + [Analysez les performances de la fidélité à l’aide du tableau de bord des informations de fidélité.](./analyze-and-report/analyze-loyalty-performance-using-loyalty-insights-dashboard.md)
