@@ -1,24 +1,24 @@
 ---
-user-guide-title: Prise en main de la fidélité à Journey Optimizer
+user-guide-title: Prise en main de Journey Optimizer Loyalty
 user-guide-description: Découvrez comment intégrer Adobe Journey Optimizer Loyalty, configurer un défi, l’appliquer et l’afficher, et analyser ses performances.
 role: User
 level: Beginner
 breadcrumb-title: loyauté
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: ec6a72a4743d05e19d86970f54d15ef3a7eff842
+source-git-commit: 3062d3cfc74a3e6c578d9c5282ec2ac07185033a
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
 
-# Prise en main de la fidélité à Journey Optimizer {#loyalty}
+# Prise en main de Journey Optimizer Loyalty {#loyalty}
 
-+ [Prise en main de la fidélité Journey Optimizer pour les professionnels du marketing](./overview.md)
-+ [Découvrir la fidélité à Journey Optimizer](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
-+ {hide-from-toc}[Comprendre les concepts du défi de fidélité](./introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
++ [Prise en main de Journey Optimizer Loyalty pour les professionnels du marketing](./overview.md)
++ Présentation de la fidélité {#introduction}
+  + [Découvrir Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 + Configurer la fidélité {#set-up-loyality}
   + [Configurer un fournisseur de récompenses de fidélité](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + Configurer votre défi {#configure-your-challenge}
