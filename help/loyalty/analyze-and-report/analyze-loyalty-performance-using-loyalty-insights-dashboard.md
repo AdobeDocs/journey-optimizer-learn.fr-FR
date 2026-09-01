@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Explorez le tableau de bord des informations de fidélité, où les informations générées par l’IA font apparaître des modifications importantes et classent les résultats par ordre de priorité selon les KPI.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502413/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502424/?captions=fre_fr&learn=on&enablevpops)

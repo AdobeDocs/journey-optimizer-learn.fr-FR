@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Utilisez des rapports de défis et des tableaux de bord pour mesurer la participation, les taux d’achèvement et le chiffre d’affaires de votre programme de fidélité.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497561/?captions=fre_fr&learn=on&enablevpops)
