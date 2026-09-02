@@ -1,6 +1,6 @@
 ---
 title: Mesurer les performances des défis à l’aide de rapports de défis
-description: Découvrez comment utiliser les rapports de défi et les tableaux de bord de performances pour mesurer la participation, les taux d’achèvement, l’attribution des revenus et les performances globales du programme de fidélité.
+description: Utilisez des rapports de défis et des tableaux de bord pour mesurer la participation, les taux d’achèvement et le chiffre d’affaires de votre programme de fidélité.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -19,9 +19,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b37854eacf05b80bcb24c94fe9248cfe18c7ac02
+source-git-commit: 6494b51da77e23e184d33e235fd612700b2a801d
 workflow-type: tm+mt
-source-wordcount: 54
+source-wordcount: 44
 ht-degree: 0%
 
 ---
@@ -29,6 +29,6 @@ ht-degree: 0%
 
 # Mesurer les performances des défis à l’aide de rapports de défis
 
-Découvrez comment utiliser les rapports de défi et les tableaux de bord de performances pour mesurer la participation, les taux d’achèvement, l’attribution des revenus et les performances globales du programme de fidélité.
+Utilisez des rapports de défis et des tableaux de bord pour mesurer la participation, les taux d’achèvement et le chiffre d’affaires de votre programme de fidélité.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497561/?captions=fre_fr&learn=on&enablevpops)
