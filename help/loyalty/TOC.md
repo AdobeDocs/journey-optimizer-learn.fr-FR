@@ -1,24 +1,24 @@
 ---
-user-guide-title: Prise en main de Journey Optimizer Loyalty
+user-guide-title: Prise en main de la fidélité à Journey Optimizer
 user-guide-description: Découvrez comment intégrer Adobe Journey Optimizer Loyalty, configurer un défi, l’appliquer et l’afficher, et analyser ses performances.
 role: User
 level: Beginner
 breadcrumb-title: loyauté
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 3062d3cfc74a3e6c578d9c5282ec2ac07185033a
+source-git-commit: b812dd2c5228314771c572a184ae396aa400d524
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
 
-# Prise en main de Journey Optimizer Loyalty {#loyalty}
+# Prise en main de la fidélité à Journey Optimizer {#loyalty}
 
-+ [Prise en main de Journey Optimizer Loyalty pour les professionnels du marketing](./overview.md)
++ [Prise en main de la fidélité Journey Optimizer pour les professionnels du marketing](./overview.md)
 + Présentation de la fidélité {#introduction}
-  + [Découvrir Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
+  + [Découvrir la fidélité à Journey Optimizer](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 + Configurer la fidélité {#set-up-loyality}
   + [Configurer un fournisseur de récompenses de fidélité](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + Configurer votre défi {#configure-your-challenge}
@@ -29,6 +29,7 @@ ht-degree: 0%
 + Déposez votre candidature et présentez votre défi {#apply-and-display-your-challenge}
   + [Créer une carte de contenu de défi](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
   + [Afficher le contenu complexe à l’aide du canal d’expérience basé sur le code](./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md)
+  + [Personnaliser du contenu avec des attributs de défi à l’aide d’actions personnalisées](./apply-and-display-your-challenge/personalize-content-with-challenge-attributes-using-custom-actions.md)
   + [Configurer la messagerie de cycle de vie pour votre défi](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
   + [Publier un défi et générer un parcours](./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md)
 + Analyse et rapport {#analyze-and-report}
