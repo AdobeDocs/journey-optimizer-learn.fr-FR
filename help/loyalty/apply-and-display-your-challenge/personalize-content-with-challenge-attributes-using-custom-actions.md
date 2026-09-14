@@ -35,4 +35,4 @@ ht-degree: 0%
 
 Découvrez comment récupérer les données de défi avec une action personnalisée et les utiliser pour personnaliser de manière dynamique les cartes de contenu et les expériences basées sur du code en fonction de la progression du défi et des récompenses de chaque membre.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503375/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503386/?captions=fre_fr&learn=on&enablevpops)
