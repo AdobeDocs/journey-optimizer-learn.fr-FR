@@ -5,25 +5,24 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
+exl-id: 23a9d36f-ac2c-42a5-b08d-79c7118920c9
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
-
 ---
-
 # Créer une formule de classement
 
 Une formule de classement dans Adobe Journey Optimizer est utilisée lors de la prise de décisions sur les offres, en particulier dans le cadre d’une stratégie de sélection visant à déterminer l’ordre de priorité des offres éligibles. La formule de classement entre en jeu après le filtrage de l’éligibilité, lorsque plusieurs offres remplissent les critères d’un profil donné, mais que seule la première (ou quelques-unes) doit être présentée en fonction de la logique commerciale ou du contexte du profil.
 
 * Connexion à Journey Optimizer
 
-* Accédez à _&#x200B;**Prise de décision ->Configuration de la stratégie ->Formules de classement ->Créer une formule**&#x200B;_
+* Accédez à _**Prise de décision ->Configuration de la stratégie ->Formules de classement ->Créer une formule**_
 
-Nommez la formule _&#x200B;**Météo - En rapport - Offres**&#x200B;_
+Nommez la formule _**Météo - En rapport - Offres**_
 
 
 

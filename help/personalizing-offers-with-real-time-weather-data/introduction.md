@@ -1,19 +1,18 @@
 ---
-title: Personnalisation des offres avec des données météorologiques en temps réel dans Adobe Journey Optimizer à l’aide de Web SDK
-description: Ce tutoriel vous explique comment diffuser des offres dynamiques et adaptées à la météo dans Adobe Journey Optimizer à l’aide de données contextuelles en temps réel et de l’API Adobe Web SDK Personalization. Vous apprendrez à transmettre des attributs météorologiques (tels que la température et les conditions) de votre site web à Adobe Experience Platform, à les mapper à votre schéma d’événement et à les utiliser dans les règles de décision et les formules de classement afin de personnaliser les offres au moment du chargement de la page. Idéal pour les professionnels du marketing et les développeurs qui cherchent à améliorer les expériences digitales avec un contexte environnemental en temps réel.
+title: Personnalisation des offres avec des données météorologiques en temps réel dans Adobe Journey Optimizer à l’aide du SDK web
+description: Ce tutoriel démontre comment proposer des offres dynamiques adaptées à la météo dans Adobe Journey Optimizer, à l’aide de données contextuelles en temps réel et de l’API de personnalisation du SDK web d’Adobe. Vous apprendrez à transmettre des attributs météorologiques (tels que la température et les conditions) de votre site web à Adobe Experience Platform, à les mapper à votre schéma d’événement et à les utiliser dans les règles de décision et les formules de classement afin de personnaliser les offres au moment du chargement de la page. Idéal pour les personnes spécialisées dans le marketing et membres des équipes de développement qui souhaitent enrichir les expériences numériques grâce à un contexte environnemental en temps réel.
 feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10
 jira: KT-18258
-source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
+exl-id: f40dd541-470c-4f42-8181-eb1c277ebaa3
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 1%
-
+source-wordcount: '230'
+ht-degree: 43%
 ---
-
 # Description du cas d’utilisation
 
 L’utilisation de données météorologiques dans Adobe Journey Optimizer (AJO) pour diffuser des offres permet aux entreprises de personnaliser les expériences client en fonction des conditions environnementales en temps réel. La météo est un puissant signal contextuel. Les besoins et les comportements des gens changent selon la météo. En utilisant les données météorologiques :

@@ -5,16 +5,15 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10
 jira: KT-18258
 recommendations: noDisplay, noCatalog
-source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
+exl-id: 0a249214-b6a1-4e71-99d9-8a9da0322b15
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '120'
 ht-degree: 3%
-
 ---
-
 # Créer une stratégie de sélection
 
 Une stratégie de sélection est une configuration réutilisable qui combine une collection d’offres avec des règles d’éligibilité et une méthode de classement afin de déterminer les offres à afficher lorsque la stratégie est utilisée dans une politique de décision.
@@ -23,7 +22,7 @@ Pour créer une stratégie de sélection
 
 * Connexion à Journey Optimizer
 
-* Accédez à _&#x200B;**Prise de décision ->Configuration de la stratégie ->Stratégies de sélection ->Créer une stratégie de sélection**&#x200B;_
+* Accédez à _**Prise de décision ->Configuration de la stratégie ->Stratégies de sélection ->Créer une stratégie de sélection**_
 
 * Indiquez le nom de la stratégie de sélection, la collection, l’éligibilité et la méthode de classement, comme illustré dans la capture d’écran
 
