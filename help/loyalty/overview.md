@@ -50,9 +50,9 @@ Cette section présente Journey Optimizer Loyalty, sa nature, sa place dans Adob
 <!--
 CARDS
 
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty
+* https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty
   {description = Understand what Journey Optimizer Loyalty is, where it sits under AJO, and the challenge lifecycle.}
-* https://experienceleague.adobe.com/en/slides/understand-loyalty-challenge-concepts
+* https://experienceleague.adobe.com/fr/slides/understand-loyalty-challenge-concepts
     {decription = Before you build anything in Adobe Journey Optimizer Loyalty, it helps to understand what a loyalty challenge is and the few pieces it's made of.}
 
 -->
@@ -62,7 +62,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" title="Découvrir Journey Optimizer Loyalty" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" title="Découvrir Journey Optimizer Loyalty" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496441/?format=jpeg&nocache=1789773692859" alt="Découvrir Journey Optimizer Loyalty"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -71,11 +71,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="Découvrir Journey Optimizer Loyalty">Découvrir Journey Optimizer Loyalty</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="Découvrir Journey Optimizer Loyalty">Découvrir Journey Optimizer Loyalty</a>
                     </p>
                     <p class="is-size-6">Découvrez ce qu’est Journey Optimizer Loyalty, où il se trouve sous AJO et le cycle de vie des défis.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
@@ -85,8 +85,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/slides/understand-loyalty-challenge-concepts" title="Comprendre les concepts du défi de fidélité" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/slides/media_1f770caceb9f5f729468044b7d16782f0857bc158.png?width=400&format=pjpg&optimize=medium" alt="Comprendre les concepts du défi de fidélité"
+                    <a href="https://experienceleague.adobe.com/fr/slides/understand-loyalty-challenge-concepts" title="Comprendre les concepts du défi de fidélité" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/slides/media_1f770caceb9f5f729468044b7d16782f0857bc158.png?width=400&format=pjpg&optimize=medium" alt="Comprendre les concepts du défi de fidélité"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,11 +94,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/slides/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" title="Comprendre les concepts du défi de fidélité">Comprendre les concepts du défi de fidélité</a>
+                        <a href="https://experienceleague.adobe.com/fr/slides/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" title="Comprendre les concepts du défi de fidélité">Comprendre les concepts du défi de fidélité</a>
                     </p>
                     <p class="is-size-6">Avant de créer quoi que ce soit dans Adobe Journey Optimizer Loyalty, il est utile de comprendre ce qu’est un défi de fidélité et les quelques éléments dont il est composé. ...</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/slides/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/slides/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
                 </a>
             </div>
