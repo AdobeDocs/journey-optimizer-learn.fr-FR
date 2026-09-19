@@ -1,24 +1,22 @@
 ---
 title: Création d’une collection
-description: Les collections vous permettent de classer et de regrouper vos éléments de décision en fonction de vos préférences. Ces catégories sont créées en créant des règles qui utilisent les attributs des éléments de décision.
+description: Les collections vous permettent de classer et de regrouper vos éléments de décision en fonction de vos préférences. Ces catégories sont créées en élaborant des règles qui utilisent les attributs des éléments de décision.
 feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10
 jira: KT-18258
 recommendations: noDisplay, noCatalog
-source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
+exl-id: 78515266-5a7b-44b5-9c11-51abc2876e6f
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 64%
-
 ---
-
-
 # Création d’une collection
 
-Les collections vous permettent de classer et de regrouper vos éléments de décision en fonction de vos préférences. Ces catégories sont créées en créant des règles qui utilisent les attributs des éléments de décision.
+Les collections vous permettent de classer et de regrouper vos éléments de décision en fonction de vos préférences. Ces catégories sont créées en élaborant des règles qui utilisent les attributs des éléments de décision.
 
 Procédure de création d’une collection
 
@@ -26,4 +24,3 @@ Procédure de création d’une collection
 * Accédez à _&#x200B;**Balises ->Créer une catégorie de balises**&#x200B;_(_&#x200B;**WeatherRelatedOffers**&#x200B;_).
 * Cliquez sur Enregistrer .
 * Cliquez sur Créer des balises (chaud, froid, printemps). Ces balises doivent se trouver sous la catégorie de balises _&#x200B;**WeatherRelatedOffers**&#x200B;_
-
