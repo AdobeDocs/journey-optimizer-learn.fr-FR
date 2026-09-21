@@ -1,5 +1,5 @@
 ---
-source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
+source-git-commit: fc279f2ff41f624e4a6a0c4c930cedfcc2745dc5
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 3%
@@ -8,14 +8,14 @@ ht-degree: 3%
 
 ## Qu&#39;est-ce que c&#39;est ?
 
-Les **activités en direct** vous permettent de diffuser des mises à jour persistantes en temps réel, qui informent les clients de la progression d’une activité (par exemple, la préparation d’une commande, une livraison en transit ou un trajet). Au lieu d’envoyer une nouvelle notification pour chaque mise à jour, une seule activité active est créée, puis mise à jour et se termine au fur et à mesure de l’évolution de l’activité, en synchronisant l’écran de verrouillage ou l’ombrage de notification du client avec ce qui se passe.
+Les **activités en direct** vous permettent de diffuser des mises à jour persistantes en temps réel, qui informent les clients de la progression d’une activité (préparation d’une commande, livraison en transit ou déplacement). Au lieu d’envoyer une nouvelle notification pour chaque mise à jour, une seule activité active est créée, puis mise à jour et se termine au fur et à mesure de l’évolution de l’activité, en synchronisant l’écran de verrouillage ou l’ombrage de notification du client avec ce qui se passe.
 
 Adobe Journey Optimizer prend en charge les activités en direct sur les deux principales plateformes mobiles :
 
-* **[Activités iOS Live](/help/channels/ios-live-activities.md)** — Mises à jour enrichies en temps réel sur l’écran de verrouillage d’iPhone et l’île dynamique.
-* **[Mises à jour Android en direct](/help/channels/android-live-updates.md)** — Mises à jour persistantes en temps réel dans l&#39;ombre de notification Android.
+* **[Activités iOS Live](/help/channels/ios-live-activities.md)** : mises à jour riches en temps réel sur l’écran de verrouillage d’iPhone et l’île dynamique.
+* **[Mises à jour Android Live Updates](/help/channels/android-live-updates.md)** : mises à jour persistantes en temps réel dans l’ombre de notification Android.
 
-Pour configurer Mobile SDK et utiliser les API pour démarrer, mettre à jour et terminer les expériences en direct sur vos parcours clients, voir [Configurer l’activité en direct](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}.
+Pour configurer Mobile SDK et utiliser les API pour démarrer, mettre à jour et terminer les expériences en direct sur vos parcours clients, voir [Configurer l’activité en direct](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}.
 
 ## Cas d’utilisation
 
@@ -30,7 +30,7 @@ Choisissez les activités en direct comme canal préféré lorsque vous devez :
 
 ## Si *non* utiliser des activités en direct
 
-* Pour les états de longue durée ou ouverts sans fin claire : mettez fin à l’activité une fois le processus sous-jacent terminé.
+* Pour les états de longue durée ou ouverts sans fin claire, mettez fin à l’activité une fois le processus sous-jacent terminé.
 * Pour le contenu promotionnel ou marketing : utilisez plutôt des notifications push, des messages in-app ou des cartes de contenu.
 * Lorsque la cadence de mise à jour est très élevée, les mises à jour fréquentes peuvent être ralenties par le système d’exploitation ou être bruyantes pour l’utilisateur ou l’utilisatrice.
 * Si votre application ne prend pas en charge les versions minimales de système d’exploitation requises pour les activités iOS Live ou les mises à jour Android Live.
