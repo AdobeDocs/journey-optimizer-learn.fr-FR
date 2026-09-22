@@ -7,15 +7,13 @@ level: Beginner, Intermediate
 hide: false
 index: true
 jira: KT-19869
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18
 exl-id: d8ffe406-b54b-455f-bd41-7d1fef0a4714
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
 workflow-type: tm+mt
-source-wordcount: '2976'
-ht-degree: 24%
-
+source-wordcount: '3810'
+ht-degree: 36%
 ---
-
 
 # Configuration et lancement
 
@@ -46,7 +44,7 @@ Le SDK mobile :
 * Collecte les événements d’application (vues d’écran, appuis, achats, événements de cycle de vie, etc.) et les envoie à **Adobe Experience Platform Edge Network**.
 * Gère l’**identité** et le **consentement** afin que Journey Optimizer puisse créer et utiliser en toute sécurité des profils client.
 * Enregistre et met à jour **jetons push** et envoie **événements de tracking push et in-app** vers Adobe Experience Platform.
-* S&#39;intègre à l&#39;extension mobile **[Journey Optimizer](https://developer.adobe.com/client-sdks/edge/adobe-journey-optimizer)** afin que les messages puissent être diffusés, rendus et mesurés de bout en bout.
+* S&#39;intègre à l&#39;extension mobile **[&#128279;](https://developer.adobe.com/client-sdks/edge/adobe-journey-optimizer)** afin que les messages puissent être diffusés, rendus et mesurés de bout en bout.
 
 Sans Mobile SDK intégré à votre application, Journey Optimizer ne peut pas effectuer les opérations suivantes de manière fiable :
 
@@ -62,7 +60,7 @@ Pour les nouvelles implémentations In-App et push mobiles, la Configuration gui
 >
 >Vérifiez que vous disposez des éléments suivants :
 >
-> * **Adobe Journey Optimizer** (AJO) configuré pour votre organisation.
+> * **&#x200B;**&#x200B;(AJO) configuré pour votre organisation.
 > * Accès à Adobe Experience Platform avec [autorisations de collecte de données et de Journey Optimizer](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config#:~:text=Required%20permissions).
 > * Droits d’administrateur dans AJO pour la configuration du canal et de la configuration.
 > * Accès au code source de votre application mobile (iOS, Android ou framework multi-plateformes).
@@ -145,8 +143,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/fr/docs/platform-learn/implement-mobile-sdk/overview" title="Tutoriel sur l’implémentation de Adobe Experience Cloud dans les applications mobiles" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/platform-learn/implement-mobile-sdk/overview./media_1c75750ec1be623e56a379ca69ef6c495799e52a5.png?width=400&format=png&optimize=medium" alt="Tutoriel sur l’implémentation de Adobe Experience Cloud dans les applications mobiles"
+                    <a href="https://experienceleague.adobe.com/fr/docs/platform-learn/implement-mobile-sdk/overview" title="Tutoriel sur l’implémentation d’Adobe Experience Cloud dans les applications mobiles" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/platform-learn/implement-mobile-sdk/overview./media_1c75750ec1be623e56a379ca69ef6c495799e52a5.png?width=400&format=png&optimize=medium" alt="Tutoriel sur l’implémentation d’Adobe Experience Cloud dans les applications mobiles"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -154,9 +152,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/fr/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" title="Tutoriel sur l’implémentation de Adobe Experience Cloud dans les applications mobiles">Tutoriel sur l’implémentation d’Adobe Experience Cloud dans les applications mobiles</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" title="Tutoriel sur l’implémentation d’Adobe Experience Cloud dans les applications mobiles">Tutoriel sur l’implémentation d’Adobe Experience Cloud dans les applications mobiles</a>
                     </p>
-                    <p class="is-size-6">Découvrez comment implémenter les applications mobiles Adobe Experience Cloud. Ce tutoriel vous guide tout au long de l'implémentation des applications Experience Cloud dans un exemple d'application Swift ou Android.</p>
+                    <p class="is-size-6">Découvrez comment implémenter les applications mobiles Adobe Experience Cloud. Ce tutoriel vous guide tout au long de l’implémentation des applications Experience Cloud dans un exemple d’application Swift ou Android.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
@@ -215,9 +213,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://developer.adobe.com/client-sdks/home/base/assurance" target="_blank" rel="referrer" title="Présentation d’Adobe Experience Platform Assurance">Adobe Experience Platform Assurance overview</a>
+                        <a href="https://developer.adobe.com/client-sdks/home/base/assurance" target="_blank" rel="referrer" title="Présentation d’Adobe Experience Platform Assurance">Présentation d’</a>
                     </p>
-                    <p class="is-size-6">An overview for the Adobe Experience Platform Assurance mobile extension.</p>
+                    <p class="is-size-6">Présentation de l’extension mobile Adobe Experience Platform Assurance.</p>
                 </div>
                 <a href="https://developer.adobe.com/client-sdks/home/base/assurance" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
@@ -228,17 +226,17 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-#### Mobile SDK readiness checklist
+#### Liste de contrôle de préparation pour Mobile SDK
 
-Before handing the app to marketers, confirm in **[Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/){target="_blank"}** that:
+Avant de remettre l’application aux marketeurs, vérifiez dans **[&#128279;](https://developer.adobe.com/client-sdks/home/base/assurance/){target="_blank"}** que :
 
 >[!SUCCESS]
 > 
-> [ ] Core SDK + Journey Optimizer extensions are loaded,\
-> [ ] Events are flowing on the correct datastream and datasets,\
-> [ ]Identity and consent are present on all key events,\
-> [ ] Push tokens and interactions are tracked, and\
-> [ ] At least one test in‑app message or content card has been displayed and recorded as an impression.
+> [ ] les extensions Core SDK + Journey Optimizer sont chargées,\
+> [ ] événements circulent sur le flux de données et les jeux de données corrects,\
+> [ ] L’identité et le consentement sont présents sur tous les événements clés,\
+> [ ] jetons push et les interactions sont suivis, et\
+> [ ] Au moins un message ou une carte de contenu de test in-app a été affiché et enregistré comme une impression.
 
 
 ### Cartes de contenu
@@ -266,9 +264,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp" target="_blank" rel="referrer" title="Configurer la prise en charge des cartes de contenu dans le SDK mobile">Configure content cards support in Mobile SDK</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp" target="_blank" rel="referrer" title="Configurer la prise en charge des cartes de contenu dans le SDK mobile">Configuration de la prise en charge des cartes de contenu dans Mobile SDK</a>
                     </p>
-                    <p class="is-size-6">Learn how to integrate content cards in your mobile application using Messaging SDK.</p>
+                    <p class="is-size-6">Découvrez comment intégrer des cartes de contenu dans votre application mobile à l’aide de Messaging SDK.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
@@ -279,9 +277,32 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+### Activités en direct
+
+Les activités en direct diffusent des mises à jour persistantes en temps réel sur l’écran de verrouillage d’iOS, l’île dynamique et l’ombre de notification d’Android au fur et à mesure de la progression de l’activité (par exemple, une commande en cours de préparation ou une diffusion en transit).
+
+>[!PREREQUISITES]
+>
+>**iOS**
+>
+> * iOS 16.1+ pour les activités en direct de base, iOS 17.2+ pour la prise en charge push-to-start et iOS 18+ pour la prise en charge des canaux de diffusion.
+> * Xcode 14.0+ et Swift 5.7+.
+> * AEP Mobile SDK : iOS Messaging 5.11.0 ou version ultérieure, ainsi que l’extension **AEPMessagingLiveActivity** et Apple **ActivityKit**.
+
+Pour configurer Mobile SDK pour les activités en direct, procédez comme suit :
+
+1. Importez les frameworks **AEPMessaging**, **AEPMessagingLiveActivity** et **ActivityKit** dans votre projet iOS.
+2. Définissez les attributs de votre activité dans une structure conforme à `LiveActivityAttributes`, avec une propriété `liveActivityData` (`liveActivityID` pour les utilisateurs individuels ou `channelID` pour la diffusion) et une structure `ContentState` pour le contenu dynamique qui se met à jour au fil du temps.
+3. Appelez `Messaging.registerLiveActivity()` dans votre AppDelegate après l’initialisation de SDK pour activer la collecte de jetons et la gestion du cycle de vie.
+4. Implémentez une `ActivityConfiguration` pour définir l’interface utilisateur du widget pour l’écran verrouillé et l’île dynamique.
+5. Vous pouvez éventuellement déclencher des activités localement à partir du code de votre application, en plus de les démarrer, de les mettre à jour et de les envoyer à distance à partir de Journey Optimizer.
+6. Vous pouvez éventuellement implémenter des `LiveActivityAssuranceDebuggable` pour déboguer les activités actives dans Adobe Assurance.
+
+Pour consulter la référence complète de la configuration, y compris la configuration d’Android, voir [Configurer l’activité dynamique](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}.
+
 ### WhatsApp
 
-Understand how to configure the **WhatsApp channel**:
+Comprendre comment configurer le canal **WhatsApp** :
 
 <!--
 CARDS
@@ -308,7 +329,7 @@ CARDS
                     <p class="is-size-6">Ce tutoriel explique comment configurer le canal WhatsApp dans Adobe Journey Optimizer pour permettre la diffusion de messages professionnels en temps réel.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -318,7 +339,7 @@ CARDS
 
 ### SMS/MMS/RCS
 
-Configure **SMS/MMS/RCS channels** with the standard providers (Twilio,Synch or Infobip) or using a custom SMS provider:
+Configurez les **canaux SMS/MMS/RCS** avec les fournisseurs standard (Twilio, Synch ou Infobip) ou en utilisant un fournisseur de SMS personnalisé :
 
 <!--
 CARDS
@@ -347,12 +368,12 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" title="Configurer des informations d’identification de l’API SMS et des surfaces de canal">Configure SMS API credentials and channel surfaces</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" title="Configurer des informations d’identification de l’API SMS et des surfaces de canal">Configurer les informations d’identification de l’API SMS et les surfaces des canaux</a>
                     </p>
                     <p class="is-size-6">Découvrez comment connecter Journey Optimizer à un fournisseur de services SMS et comment créer une surface de canal SMS.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -372,10 +393,10 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" target="_blank" rel="referrer" title="Configurer un fournisseur de SMS personnalisé">Configurer un fournisseur SMS personnalisé</a>
                     </p>
-                    <p class="is-size-6">Learn how to configure custom SMS providers in Journey Optimizer, set up API credentials and webhooks, manage opt-in/opt-out keywords, and launch personalized campaigns.</p>
+                    <p class="is-size-6">Découvrez comment configurer des fournisseurs SMS personnalisés dans Journey Optimizer, configurer des informations d’identification d’API et des webhooks, gérer des mots-clés d’opt-in/opt-out et lancer des campagnes personnalisées.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -398,7 +419,7 @@ CARDS
                     <p class="is-size-6">Découvrez comment connecter Journey Optimizer à un prestataire de MMS et comment créer une surface de canal MMS.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -421,7 +442,7 @@ CARDS
                     <p class="is-size-6">Découvrez comment configurer et envoyer des messages RCS interactifs d’une marque dans Adobe Journey Optimizer à l’aide d’un fournisseur de SMS personnalisé. Ce tutoriel décrit comment configurer des informations d’identification d’API, des webhooks et des configurations de canal, puis créer un parcours pour diffuser des expériences de messagerie riches et personnalisées, le tout dans l’application de messagerie native.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -510,7 +531,7 @@ CARDS
                     <p class="is-size-6">Comprendre les fonctionnalités de gouvernance dans Adobe Experience Platform.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -533,7 +554,7 @@ CARDS
                     <p class="is-size-6">Découvrez comment étiqueter vos schémas et vos jeux de données.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -556,7 +577,7 @@ CARDS
                     <p class="is-size-6">Découvrez comment créer et gérer des politiques d’utilisation des données.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -567,35 +588,35 @@ CARDS
 
 ## Pièges courants de mise en œuvre et moyens de les éviter
 
-La plupart des problèmes mobiles trouvent leur origine dans la configuration de **SDK ou de la collecte de données**, et non dans les parcours ou les campagnes Journey Optimizer elles-mêmes. Use the table below to identify what&#39;s going wrong, then expand the corresponding section for details.
+La plupart des problèmes mobiles trouvent leur origine dans la configuration de **SDK ou de la collecte de données**, et non dans les parcours ou les campagnes Journey Optimizer elles-mêmes. Utilisez le tableau ci-dessous pour identifier le problème, puis développez la section correspondante pour plus de détails.
 
-### Pitfalls at a glance
+### Pièges en un coup d’œil
 
-| # | Issue / symptom | Common pitfall | Fix at a glance |
+| # | Problème/symptôme | Piège courant | Corriger en un coup d’œil |
 |---|----------------------------------------------|-----------------------------------------------------|------------------------------------------|
-| 1 | Guided Channel Setup fails; no or low traffic | [SDK versions or extensions not aligned](#1-sdk-versions-and-extensions-not-aligned-with-channel-requirements) | Update SDK/extension versions; validate in Assurance |
-| 2 | Tracking batches fail; errors in AEP | [Datastreams or datasets misconfigured](#2-misconfigured-datastreams-or-datasets) | Map events to event dataset &amp; profiles to profile dataset |
-| 3 | Journeys don&#39;t fire; odd personalization | [Identity or consent missing / inconsistent](#3-missing-or-inconsistent-identity-and-consent) | Implement Edge Identity &amp; Consent; verify in Assurance |
-| 4 | No push delivery or opens in reports | [Push token registration or tracking broken](#4-push-token-registration-and-tracking-not-wired-correctly) | Fix token registration &amp; interaction tracking via SDK |
-| 5 | No in‑app impressions despite active campaigns | [In‑app messages or content cards not displaying](#5-in-app-messages-or-content-cards-not-displaying) | Check messaging extensions, triggers, and Assurance decision responses |
+| 1 | Échec de la configuration du canal guidé ; trafic faible ou nul | [versions ou extensions de SDK non alignées](#1-sdk-versions-and-extensions-not-aligned-with-channel-requirements) | Mettre à jour les versions de SDK/extension ; valider dans Assurance |
+| 2 | Échec des lots de tracking ; erreurs dans AEP | [Flux de données ou jeux de données mal configurés](#2-misconfigured-datastreams-or-datasets) | Mapper des événements au jeu de données d’événement et des profils au jeu de données de profil |
+| 3 | Les parcours ne se déclenchent pas ; personnalisation étrange | [Identité ou consentement manquant/incohérent](#3-missing-or-inconsistent-identity-and-consent) | Implémenter Edge Identity &amp; Consent ; vérifier dans Assurance |
+| 4 | Aucune diffusion de notification push ou ouverture dans les rapports | [Enregistrement ou suivi du jeton push rompu](#4-push-token-registration-and-tracking-not-wired-correctly) | Correction de l’enregistrement des jetons et du suivi des interactions via SDK |
+| 5 | Aucune impression in-app malgré les campagnes actives | [Les messages in-app ou les cartes de contenu ne s’affichent pas](#5-in-app-messages-or-content-cards-not-displaying) | Vérifier les extensions de message, les déclencheurs et les réponses de décision d’Assurance |
 
-### Detailed guidance per pitfall
+### Conseils détaillés par piège
 
-Open the pitfall that matches your symptoms to see what to check and how to fix it.
+Ouvrez le piège correspondant à vos symptômes pour savoir ce qu’il faut vérifier et comment le corriger.
 
-+++ 1. SDK versions and extensions not aligned with channel requirements
-**What you&#39;ll notice**
++++ &#x200B;1. Versions et extensions de SDK non alignées sur les exigences des canaux
+**Ce que vous remarquerez**
 
-* Push or in‑app activities do not reach the device.
+* Les activités push ou in-app n’atteignent pas l’appareil.
 * Échec de la configuration du canal guidé ou de la validation du canal.
 * Assurance présente les extensions Journey Optimizer, Edge ou Identity manquantes.
 
 **Que vérifier**
 
 * Utilisez-vous les versions d’extension minimales **Mobile Core** et **Journey Optimizer** requises par la configuration guidée de canal ?
-* Dans **Assurance**, sous extensions et événements :
-   * Les extensions attendues sont-elles chargées ?
-   * Les événements sont-ils envoyés à Edge Network et confirmés ?
+* Dans **&#x200B;**, sous extensions et événements :
+  * Les extensions attendues sont-elles chargées ?
+  * Les événements sont-ils envoyés à Edge Network et confirmés ?
 
 **Comment corriger**
 
@@ -617,8 +638,8 @@ Voir : [Configurer les applications mobiles et web](https://experienceleague.ado
 
 * Quelqu’un a-t-il modifié les **schémas système ou jeux de données** créés pour le suivi Journey Optimizer ?
 * Dans votre **flux de données** :
-   * Les événements d’expérience sont-ils mappés à un **jeu de données d’événement** ?
-   * Les attributs de profil sont-ils mappés à un **jeu de données de profil** ?
+  * Les événements d’expérience sont-ils mappés à un **jeu de données d’événement** ?
+  * Les attributs de profil sont-ils mappés à un **jeu de données de profil** ?
 
 **Comment corriger**
 
@@ -641,9 +662,9 @@ Voir : [Flux de notification push dans Adobe Journey Optimizer](https://experien
 
 * Le paramètre **Identité pour Edge Network** est-il implémenté et envoie-t-il un identifiant principal stable (par exemple, un identifiant de connexion) ?
 * Le **consentement pour Edge Network** est-il implémenté et mis à jour lorsque les préférences changent ?
-* Dans **Assurance** :
-   * Les événements sortants incluent-ils des valeurs de consentement ?
-   * Incluent-ils de manière cohérente l’ECID et vos identifiants principaux ?
+* Dans **&#x200B;**&#x200B;:
+  * Les événements sortants incluent-ils des valeurs de consentement ?
+  * Incluent-ils de manière cohérente l’ECID et vos identifiants principaux ?
 
 **Comment corriger**
 
@@ -664,16 +685,16 @@ Voir : [&#x200B; Implémentation du consentement pour les implémentations de Pl
 **Que vérifier**
 
 * L’application enregistre-t-elle le jeton push avec l’extension Journey Optimizer :
-   * Lors de la première installation ?
-   * Après chaque mise à jour de l’application ?
-   * Chaque fois que le système d’exploitation actualise le jeton ?
+  * Lors de la première installation ?
+  * Après chaque mise à jour de l’application ?
+  * Chaque fois que le système d’exploitation actualise le jeton ?
 * Lorsque l’utilisateur ouvre ou ferme une notification, voyez-vous les événements de suivi dans Assurance ?
 
 **Comment corriger**
 
 * Ajoutez ou corrigez le code qui :
-   * Enregistre le jeton via l’extension mobile Journey Optimizer à chaque fois qu’il est créé ou actualisé.
-   * Envoie les événements d’interaction push (ouverture, ignorance, actions personnalisées) via Mobile SDK.
+  * Enregistre le jeton via l’extension mobile Journey Optimizer à chaque fois qu’il est créé ou actualisé.
+  * Envoie les événements d’interaction push (ouverture, ignorance, actions personnalisées) via Mobile SDK.
 * Utilisez Assurance pour confirmer que les événements d’enregistrement et de suivi se déclenchent comme prévu.
 
 Voir : [Flux de notification push dans Adobe Journey Optimizer](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/channels/push/push-config/push-gs){target="_blank"}
@@ -690,19 +711,19 @@ Voir : [Flux de notification push dans Adobe Journey Optimizer](https://experien
 
 * L’extension **Journey Optimizer mobile messaging/in-app** et **Messaging SDK** sont-elles installées et enregistrées dans l’application ?
 * Dans votre configuration **balises** :
-   * Disposez-vous de règles qui déclenchent des requêtes sur les événements corrects (par exemple, les vues d’écran ou les événements personnalisés) ?
-* Dans **Assurance** :
-   * Lorsque ces événements se déclenchent, voyez-vous des demandes de décision in-app ou de carte de contenu sortir ?
-   * Voyez-vous des réponses revenir d’Edge Network ?
+  * Disposez-vous de règles qui déclenchent des requêtes sur les événements corrects (par exemple, les vues d’écran ou les événements personnalisés) ?
+* Dans **&#x200B;**&#x200B;:
+  * Lorsque ces événements se déclenchent, voyez-vous des demandes de décision in-app ou de carte de contenu sortir ?
+  * Voyez-vous des réponses revenir d’Edge Network ?
 
 **Comment corriger**
 
 * Installer et enregistrer les extensions de messagerie requises
 * Ajoutez ou corrigez des règles qui déclenchent des décisions sur vos événements cibles (écrans, événements personnalisés).
 * Pour les cartes de contenu, assurez-vous des points suivants :
-   * Récupérer des cartes via les API Messaging SDK.
-   * Effectuez leur rendu dans l’interface utilisateur.
-   * Suivre les interactions via le SDK.
+  * Récupérer des cartes via les API Messaging SDK.
+  * Effectuez leur rendu dans l’interface utilisateur.
+  * Suivre les interactions via le SDK.
 
 Voir :
 * [Créer et envoyer des messages in-app](https://experienceleague.adobe.com/fr/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp){target="_blank"}

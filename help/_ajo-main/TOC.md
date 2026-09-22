@@ -3,13 +3,11 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Il s’agit des tutoriels de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: e168e56efe575659b5f48e97af77b899f8b6c962
+source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
 workflow-type: tm+mt
-source-wordcount: '1573'
-ht-degree: 99%
-
+source-wordcount: '1579'
+ht-degree: 98%
 ---
-
 
 # Tutoriels de Journey Optimizer {#tutorials}
 
@@ -65,7 +63,7 @@ ht-degree: 99%
   + Tutoriels{#tutorials}
     + [Déclencher un parcours lors de l’envoi du formulaire](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + [Fidélité](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/loyalty/overview){target="_blank"}
-+ Gestion des conflits et hiérarchisation {#conflict-management}
++ Gestion des conflits et de la priorité {#conflict-management}
   + [Identifier les conflits potentiels](/help/conflict-management/identify-potential-conflicts.md)
   + [Attribuer des scores de priorité](/help/conflict-management/assign-priority-score.md)
   + [Capping de la fréquence et hiérarchisation des parcours](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
@@ -104,6 +102,7 @@ ht-degree: 99%
     + [Configurer des expériences de contenu pour les messages in-app](/help/experimentation/content-experiments-for-in-app-messages.md)
   + Activités en direct {#live-activities}
     + [Activités iOS en direct](/help/channels/ios-live-activities.md)
+    + [Configurer des mises à jour dynamiques pour Android](/help/channels/android-live-updates.md)
   + Canal de notification push{#push-channel}
     + [Notifications push : vue d’ensemble](/help/channels/push-notifications-overview.md)
     + [Configurer et envoyer une campagne de notifications push](/help/channels/create-a-push-campaign.md)

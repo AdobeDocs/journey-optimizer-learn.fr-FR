@@ -6,15 +6,13 @@ role: User, Admin, Developer
 hide: false
 index: true
 jira: KT-19860
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 1b8691391bcbe2f8dfa8c8b7f98058933af11a15
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '973'
 ht-degree: 7%
-
 ---
-
 # Journey Optimizer - Mobile Learning Hub
 
 Commencez ou améliorez votre stratégie d’engagement mobile avec Adobe Journey Optimizer. Le centre d’apprentissage mobile fournit aux développeurs, développeuses, administrateurs, administratrices et personnes spécialisées dans le marketing et l’analyse tout le nécessaire pour configurer des canaux mobiles entrants et sortants et les intégrer en toute simplicité dans des campagnes et parcours cross-canal performants.
@@ -34,9 +32,9 @@ Les canaux sortants vous permettent de diffuser proactivement des messages aux c
 
 Tous les canaux sortants de Adobe Journey Optimizer appliquent les politiques de consentement personnalisées au moment de l’envoi du message. Si le consentement n’est pas accordé pour une action marketing spécifique, le message est automatiquement supprimé pour assurer une diffusion conforme.
 
-| ![Notifications push](/help/mobile-learning-hub/assets/mobile-phone.webp){width=« 250 », height=« 250 »}<br> **[Notifications push](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=« 250 », height=« 250 »}<br> **[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=« 250 », height=« 250 »}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
-|-------------------------------------|------------------------------------|-------------------------------|
-| Envoyés en dehors de l&#39;application, les messages push attirent immédiatement l&#39;attention. Ils sont parfaits pour les mises à jour urgentes et encouragent les utilisateurs à revenir à votre application. | Messages directs envoyés sur les téléphones portables des utilisateurs sans avoir besoin de l&#39;application. Idéal pour les alertes urgentes, les rappels et le contenu multimédia riche comme les images ou les vidéos. | Canal conversationnel via une application de messagerie largement utilisée, permettant une communication bidirectionnelle personnalisée et des campagnes interactives. |
+| ![Notifications push](/help/mobile-learning-hub/assets/mobile-phone.webp){width=« 250 », height=« 250 »}<br> **[Notifications push](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=« 250 », height=« 250 »}<br> **[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=« 250 », height=« 250 »}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** | ![Activités en direct](/help/mobile-learning-hub/assets/live-activities.png){width=« 250 », height=« 250 »}<br> **[Activités en direct](/help/mobile-learning-hub/channels/live-activities-overview.md)** |
+|-------------------------------------|------------------------------------|-------------------------------|-------------------------------|
+| Envoyés en dehors de l&#39;application, les messages push attirent immédiatement l&#39;attention. Ils sont parfaits pour les mises à jour urgentes et encouragent les utilisateurs à revenir à votre application. | Messages directs envoyés sur les téléphones portables des utilisateurs sans avoir besoin de l&#39;application. Idéal pour les alertes urgentes, les rappels et le contenu multimédia riche comme les images ou les vidéos. | Canal conversationnel via une application de messagerie largement utilisée, permettant une communication bidirectionnelle personnalisée et des campagnes interactives. | Mises à jour persistantes en temps réel sur l’écran de verrouillage, l’île dynamique ou l’ombre de notification qui informent les clients de la progression d’une activité. |
 
 ### Canaux entrants
 
