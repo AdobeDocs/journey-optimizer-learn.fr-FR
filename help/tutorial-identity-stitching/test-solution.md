@@ -5,17 +5,15 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-19T00:00:00Z
+last-substantial-update: 2025-05-19
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: b7bad65d-c978-4981-a914-6cb039433c8b
 source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '342'
 ht-degree: 0%
-
 ---
-
 # Tester la combinaison d’identités
 
 Cet exemple d’application simule un flux de connexion réel où les informations d’identification de l’utilisateur sont validées côté serveur avant l’envoi de l’identifiant de gestion de la relation client à Adobe Experience Platform (AEP). Un serveur Node.js local est utilisé pour diffuser en toute sécurité les pages web, gérer la logique d’authentification de base et éviter les restrictions du navigateur (telles que le blocage de l’accès aux fichiers locaux ou l’absence d’en-têtes CORS) qui pourraient interférer avec les fonctionnalités d’Adobe Launch ou de Web SDK. Cette configuration garantit que l’expérience est plus proche d’un environnement de production réel.
