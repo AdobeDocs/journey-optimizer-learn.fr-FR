@@ -9,13 +9,11 @@ team: PM
 role: User
 level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: 9d4108ac6e2a300e0be06398a8f7d97d5ce879ab
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 100%
-
 ---
-
 # Présentation d’Adobe Journey Optimizer
 
 Découvrez la solution Adobe Journey Optimizer, les défis commerciaux qu’elle relève et les principaux cas d’utilisation.
