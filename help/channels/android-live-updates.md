@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Découvrez comment créer et diffuser des mises à jour Android en direct dans Adobe Journey Optimizer, pour offrir des expériences client en temps réel et persistantes qui tiennent les utilisateurs informés de la progression des activités. Ce tutoriel vous explique comment configurer le canal Android Live Updates, créer et activer des campagnes, et utiliser des API pour démarrer, mettre à jour et terminer des expériences en direct sur les parcours clients
 
->[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503648/?captions=fre_fr&learn=on&enablevpops)
