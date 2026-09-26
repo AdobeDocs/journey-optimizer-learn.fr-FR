@@ -290,7 +290,7 @@ Découvrez comment configurer les activités iOS en direct avec Adobe Journey 
 
 Découvrez comment créer et diffuser des mises à jour Android en direct dans Adobe Journey Optimizer, pour offrir des expériences client en temps réel et persistantes qui tiennent les utilisateurs informés de la progression des activités.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503648/?captions=fre_fr&learn=on&enablevpops)
 
 #### Documentation du produit
 
