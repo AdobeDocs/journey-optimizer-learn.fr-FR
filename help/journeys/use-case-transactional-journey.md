@@ -10,15 +10,13 @@ role: User
 level: Beginner
 duration: 471
 exl-id: f42f9bba-a309-44ae-943c-d9142046dcd3
-last-substantial-update: 2026-09-10T00:00:00Z
+last-substantial-update: 2026-09-10
 hide: false
 source-git-commit: 9512b40dc6fa99c5ffa3cb63dfbc1d61def2a2cb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
 ht-degree: 100%
-
 ---
-
 # Cas d’utilisation : parcours transactionnel
 
 Découvrez les cas d’utilisation applicables pour les parcours transactionnels et comment créer des parcours transactionnels.

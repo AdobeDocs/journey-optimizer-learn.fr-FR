@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Il s’agit des tutoriels de Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1579'
-ht-degree: 98%
+ht-degree: 100%
 ---
 
 # Tutoriels de Journey Optimizer {#tutorials}
@@ -102,7 +102,7 @@ ht-degree: 98%
     + [Configurer des expériences de contenu pour les messages in-app](/help/experimentation/content-experiments-for-in-app-messages.md)
   + Activités en direct {#live-activities}
     + [Activités iOS en direct](/help/channels/ios-live-activities.md)
-    + [Configurer des mises à jour dynamiques pour Android](/help/channels/android-live-updates.md)
+    + [Configurer des mises à jour en direct pour Android](/help/channels/android-live-updates.md)
   + Canal de notification push{#push-channel}
     + [Notifications push : vue d’ensemble](/help/channels/push-notifications-overview.md)
     + [Configurer et envoyer une campagne de notifications push](/help/channels/create-a-push-campaign.md)
@@ -177,7 +177,7 @@ ht-degree: 98%
       + [Utiliser la prise de décision pour personnaliser les e-mails (tutoriel)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [Utiliser la prise de décision dans les notifications push](/help/decisioning/decisioning-in-push-notifications.md)
       + [Utiliser la prise de décision dans un SMS](/help/decisioning/use-decisioning-in-an-sms-message.md)
-      + [Utilisation de la prise de décision dans l’éditeur visuel web](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
+      + [Utiliser la prise de décision dans l’éditeur visuel web](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [Utiliser la prise de décision pour personnaliser les offres web (tutoriel)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [Utiliser les fragments de contenu Experience Manager avec la prise de décision](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + Déclencher des décisions à partir de déclencheurs externes et d’interactions {#trigger}
