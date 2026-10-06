@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment configurer le canal de publipostage direct et comment créer et prévisualiser des campagnes de publipostage direct.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422019/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449356/?captions=fre_fr&learn=on){transcript=true}
