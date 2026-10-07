@@ -5,17 +5,30 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '473'
 ht-degree: 0%
-
 ---
-
 # Tester la solution
 
 Pour tester la solution de bout en bout, extrayez les fichiers weather-offers.html et weather-related-offers-script.js de [weather-offers.zip].(assets/weather-offers.zip) Ces fichiers doivent être hébergés sur un serveur web ou un service d’hébergement public tel que Github Pages. Cela est nécessaire car :
@@ -96,13 +109,13 @@ Le JavaScript récupère dynamiquement les informations météorologiques en fon
 
 6. **Récupère et effectue le rendu des offres**
 
-&#x200B;* reçoit les offres renvoyées par AJO Decisioning ;
+* reçoit les offres renvoyées par AJO Decisioning ;
 
-&#x200B;* Décode le contenu HTML.
+* Décode le contenu HTML.
 
-&#x200B;* Injecte dynamiquement les offres dans le <div id="offerContainer"> element.
+* Injecte dynamiquement les offres dans le <div id="offerContainer"> element.
 
 ## Étapes suivantes
 
-[Mesurez et générez des rapports sur l’impact d’AJO Decisioning.](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
+[Mesurez et signalez l’impact d’AJO Decisioning.](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
 

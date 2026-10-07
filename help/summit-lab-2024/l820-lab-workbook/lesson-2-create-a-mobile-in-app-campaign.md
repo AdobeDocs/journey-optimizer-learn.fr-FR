@@ -10,13 +10,26 @@ recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
 exl-id: fe18eca7-229c-4867-ab34-1862bad63124
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+    internal-label: In App channel
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '1520'
 ht-degree: 2%
-
 ---
-
 # Leçon 2 : créer une campagne in-app mobile
 
 Dans cette leçon, vous allez créer et déclencher des messages in-app mobiles.
@@ -29,7 +42,7 @@ Dans cette leçon, vous allez créer et déclencher des messages in-app mobiles.
 
 ## Exercice 2.1 : se connecter à Journey Optimizer
 
-1. Ouvrir [&#128279;](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"}
+1. Ouvrir [](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"}
 2. Connectez-vous à l’aide des informations suivantes :
    <br>
    **Nom D’Utilisateur :** L820+**`<your seat number>`**@adobeeventlab.com
@@ -51,7 +64,7 @@ Vous trouverez les détails de votre connexion sur le bureau de votre ordinateur
 >
 >Vous devriez être connecté à Journey Optimizer et sur la page d’accueil :
 >
->![Page d’accueil &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-5-ajo-homepage.png)
+>![Page d’accueil ](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-5-ajo-homepage.png)
 
 
 ## Exercice 2.2 : créer une campagne in-app mobile
@@ -143,19 +156,19 @@ Sélectionnez la disposition à appliquer à votre message.
 
 Par exemple, cliquez sur **[!UICONTROL Modal]** pour faire de votre message in-app une disposition modale.
 
-![&#x200B; bouton modal &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-modal-button.png)
+![ bouton modal ](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-modal-button.png)
 
 #### 2.3.3.2 Création de votre message et publication de votre campagne
 
 1. Dans la section média , collez l&#39;URL suivante :  `https://t3.ftcdn.net/jpg/02/79/42/52/240_F_279425217_Hr9VBkknMr4fTpuZbxZXfcYdC7jSvGl2.jpg`
    <br>
-Lorsque vous cliquez en dehors du champ de valeur, votre image doit apparaître.
+   Lorsque vous cliquez en dehors du champ de valeur, votre image doit apparaître.
 
    ![média affiché dans l’aperçu](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-media.png)
 
 2. Dans la section **[!UICONTROL Contenu]** suivante, ajoutez votre propre texte personnalisé que vous souhaitez afficher dans votre message pour les éléments **[!UICONTROL En-tête]** et **[!UICONTROL Corps]**.
 
-   ![&#x200B; En-tête et corps &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-content.png)
+   ![ En-tête et corps ](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-content.png)
 
 3. Options supplémentaires :
    1. **Boutons:**
@@ -252,7 +265,7 @@ Pour actualiser la payload et télécharger la campagne que vous venez de publie
 >
 >En cliquant sur Envoyer, vous avez déclenché manuellement un déclencheur et la notification in-app que vous avez créée s’affiche :
 >
->![&#x200B; Message in-app &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-3-in-app-message.png)
+>![ Message in-app ](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-3-in-app-message.png)
 >
 > *Si vous rencontrez des problèmes lors du déclenchement de votre message, vérifiez les éléments suivants :*
 > 
@@ -300,7 +313,7 @@ Les fonctionnalités **Dupliquer la campagne** et **Prévisualiser sur l’appar
    <br>
 1. Ce pop-up s’affiche sur l’écran de votre ordinateur
 
-   ![&#x200B; pop-up &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-pop-up.png)
+   ![ pop-up ](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-pop-up.png)
 
 1. Cliquez sur le bouton Terminé . La boîte de dialogue se ferme et votre téléphone est désormais connecté à l’aperçu sur l’appareil.
 
@@ -320,7 +333,7 @@ Les fonctionnalités **Dupliquer la campagne** et **Prévisualiser sur l’appar
 
 **Documentation du produit :**
 
-* [Prise en main du canal in-app](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Créer un message in-app mobile](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/create-in-app)
-* [Concevoir votre contenu in-app](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/design-in-app)
-* [Vérifier et envoyer votre notification in-app](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/send-in-app)
+* [Prise en main du canal in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Créer un message in-app mobile](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
+* [Concevoir votre contenu in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Vérifier et envoyer votre notification in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

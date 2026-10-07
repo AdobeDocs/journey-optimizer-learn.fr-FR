@@ -5,25 +5,38 @@ feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-09-24T00:00:00Z
+last-substantial-update: 2025-09-24T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-19287
 exl-id: c6d4f720-3780-4012-a2bd-8eae23599144
-source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: ef9a83ca-eefa-47cf-aa34-f1a34715583a
+    internal-label: Profiles
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 10%
-
 ---
-
 # Déclenchement du Parcours Adobe Journey Optimizer à l’aide d’Adobe Web SDK
 
 Dans cette extension du tutoriel Combinaison d’identités, le parcours Adobe Journey Optimizer est déclenché pour envoyer un e-mail à l’utilisateur connecté à l’aide de son profil assemblé. **Cet article suppose que vous connaissez le canal e-mail et que vous êtes familiarisé avec la création de contenu pour ce canal.**
 
 ## Créer une configuration de canal e-mail
 
-* Se connecter à _&#x200B;**&#x200B;**&#x200B;_
-* Accédez à _&#x200B;**Administration -> Canaux -> Créer une configuration de canal**&#x200B;_
+* Se connecter à _****_
+* Accédez à _**Administration -> Canaux -> Créer une configuration de canal**_
 * Sélectionnez **E-mail** dans la liste des canaux. Fournissez un nom et une description significatifs.
 * Renseignez les paramètres d’e-mail.
 * Fournissez les détails d’exécution, comme illustré ci-dessous. L’e-mail est envoyé à l’adresse électronique du profil stockée dans le champ
@@ -32,8 +45,8 @@ Dans cette extension du tutoriel Combinaison d’identités, le parcours Adobe J
 
 ## Créer un événement
 
-* Se connecter à _&#x200B;**&#x200B;**&#x200B;_
-* Accédez à _&#x200B;**Administration -> Configurations**&#x200B;_
+* Se connecter à _****_
+* Accédez à _**Administration -> Configurations**_
 * Cliquez sur le bouton Gérer de la carte Événements et cliquez sur Créer un événement. Spécifiez les valeurs comme illustré ci-dessous
 * ![parcours-event](assets/journey-event1.png)
 
@@ -42,9 +55,9 @@ Dans cette extension du tutoriel Combinaison d’identités, le parcours Adobe J
 
 ## Créer un Parcours
 
-* Se connecter à _&#x200B;**&#x200B;**&#x200B;_
-* Accédez à _&#x200B;**Gestion des Parcours -> Parcours -> Créer un Parcours**&#x200B;_
-* Faites glisser et déposez l’événement _&#x200B;**UserLoggedIn**&#x200B;_ sur la zone de travail
+* Se connecter à _****_
+* Accédez à _**Gestion des Parcours -> Parcours -> Créer un Parcours**_
+* Faites glisser et déposez l’événement _**UserLoggedIn**_ sur la zone de travail
 * Glissez-déposez E-mail à partir du menu d’actions. Configurez l’action e-mail pour utiliser la configuration du canal e-mail créée précédemment.
 * Publiez le parcours.
 

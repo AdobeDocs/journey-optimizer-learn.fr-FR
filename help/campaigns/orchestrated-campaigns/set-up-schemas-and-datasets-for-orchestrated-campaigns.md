@@ -1,6 +1,6 @@
 ---
 title: Configurer des schémas et des jeux de données pour des campagnes
-description: Découvrez comment définir des schémas, ingérer des données et valider des jeux de données pour les campagnes Adobe Journey Optimizer.Obtenez des informations sur la personnalisation et l’exécution en quelques minutes.
+description: Découvrez comment définir des schémas, ingérer des données et valider des jeux de données pour les campagnes Adobe Journey Optimizer. Obtenez des informations sur la personnalisation et l’exécution en quelques minutes.
 feature: Campaigns
 role: Developer
 level: Beginner
@@ -13,24 +13,30 @@ autotag-review: '2026-05-18T17:42:19.393Z'
 TQID: 'https://experienceleague.adobe.com/BwWdVQU4VVBCsFmP3xiPK6FoDZNSjJM-KOIzyLpskb8'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 feature_v2:
   - id: b423a773-0a58-4a77-b65d-3dd4ae6ef841
+    internal-label: Campaign Orchestration
+  - id: a653cc2e-bc85-4353-a306-399e5b247978
+    internal-label: Journey Optimizer campaigns
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
-workflow-type: ht
-source-wordcount: 105
+    internal-label: Insights
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
+source-wordcount: '105'
 ht-degree: 100%
-
 ---
-
 # Configurer des schémas et des jeux de données pour les campagnes
 
-Découvrez comment configurer des jeux de données et des schémas relationnels pour des campagnes orchestrées dans Adobe Journey Optimizer.Ce guide couvre la définition des clés, des relations et l’utilisation de fichiers DDL pour créer des schémas efficacement.Vous découvrirez également comment ingérer des données par le biais de chargements CSV et la capture de données de changement (CDC), valider des jeux de données et les préparer pour les requêtes, la personnalisation et l’exécution de campagnes.Regardez la vidéo intégrée pour obtenir des instructions détaillées afin de rationaliser vos workflows de campagne.
+Découvrez comment configurer des jeux de données et des schémas relationnels pour des campagnes orchestrées dans Adobe Journey Optimizer. Ce guide couvre la définition des clés, des relations et l’utilisation de fichiers DDL pour créer des schémas efficacement. Vous découvrirez également comment ingérer des données par le biais de chargements CSV et la capture de données de changement (CDC), valider des jeux de données et les préparer pour les requêtes, la personnalisation et l’exécution de campagnes. Regardez la vidéo intégrée pour obtenir des instructions détaillées afin de rationaliser vos workflows de campagne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3484903/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3484901/?learn=on&enablevpops)

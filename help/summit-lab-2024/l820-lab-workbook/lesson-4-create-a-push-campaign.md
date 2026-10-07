@@ -9,13 +9,23 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
 exl-id: 0f82d6a5-18c0-45f2-968e-a678fc2d5768
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 2%
-
+source-wordcount: '825'
+ht-degree: 5%
 ---
-
 # Leçon 4 : créer une campagne push
 
 Dans l’exercice précédent, vous étiez un(e) passionné(e) de café, un(e) client(e) Fréscopa. Vous avez interagi avec la marque par le biais de son site web et de l’application Fréscopa et reçu de nombreux messages transactionnels. Ces messages sont déclenchés par l’interaction de l’utilisateur avec le site web ou l’application.
@@ -90,15 +100,15 @@ Dans cet exercice, vous allez concevoir et personnaliser la notification push.
 
 >[!TAB iOS]
 
-![Onglet iOS](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-ios-tab.png)
+![Onglet ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-ios-tab.png)
 
 >[!TAB Android]
 
-![Onglet Android](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-android-tab.png)
+![Onglet ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-android-tab.png)
 
 >[!ENDTABS]
 
-#### 4.2.3.1 section [!UICONTROL &#x200B; Composer le message &#x200B;]
+#### 4.2.3.1 section [!UICONTROL  Composer le message ]
 
 1. **Composez votre message :** n’hésitez pas à ajouter le texte de votre choix. Voici des exemples d’utilisation :
 
@@ -167,7 +177,7 @@ Si vous avez terminé cette partie de l’exercice et que vous avez encore du te
    >
    > Voici à quoi votre texte doit ressembler :
    > 
-   >![Jeton Personalization](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-token.png)
+   >![Jeton ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-token.png)
 
 1. Cliquez sur **[!UICONTROL Enregistrer]** pour enregistrer la personnalisation.
 
@@ -211,7 +221,7 @@ Si le contenu de votre message vous convient, vous pouvez activer le message :
 
 **Documentation du produit :**
 
-* [Prise en main des notifications push](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/push/get-started-push)
-* [Créer une notification push](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/push/create-push)
-* [Créer une notification push](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/push/design-push)
-* [Vérifier et envoyer votre notification push](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/push/send-push)
+* [Prise en main des notifications push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
+* [Créer une notification push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
+* [Concevoir une notification push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
+* [Vérifier et envoyer votre notification push](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)

@@ -10,13 +10,26 @@ recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
 exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+    internal-label: In App channel
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '778'
 ht-degree: 5%
-
 ---
-
 # Leçon 3 : créer une campagne web in-app
 
 Maintenant que vous avez créé des expériences mobiles pour l’application, dans cette leçon, vous allez créer l’une des expériences que vous avez vues sur le site web de Fréscopa. Vous créez une campagne web in-app. Vous concevez et personnalisez un message et définissez un déclencheur qui déclenche le message.
@@ -40,9 +53,9 @@ Dans cet exercice, vous allez créer la campagne et définir la page web sur laq
 
 1. Dans la liste déroulante **Envoyer à**, sélectionnez **Web.**
 
-1. Saisissez l’URL suivante : **&#x200B;**&#x200B;- *Il s’agit de la page web sur laquelle votre message apparaîtra.*
+1. Saisissez l’URL suivante : **** - *Il s’agit de la page web sur laquelle votre message apparaîtra.*
 
-   ![&#x200B; URL in-app &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
+   ![ URL in-app ](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
 
 1. Cliquez sur **[!UICONTROL Créer]**.
 
@@ -60,7 +73,7 @@ Sur cette page, vous définissez les propriétés de la campagne et l’événem
    > 
    > Par exemple, si votre numéro de poste est 99 : 
    >
-   > ![&#x200B; Nom des propriétés &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
+   > ![ Nom des propriétés ](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
 
 
 ### 3.2.2 Configurer votre règle de déclenchement personnalisée
@@ -114,7 +127,7 @@ Dans cette section, vous définissez le contenu, la conception et la mise en pag
 
 1. Le processus de création est le même que celui que vous avez effectué dans les exercices in-app mobiles ci-dessus. Prenez le temps de modifier librement votre message avec votre propre titre, corps et contenu multimédia.
 
-   Si vous utilisez la disposition modale ou plein écran, vous pouvez ajouter un bouton. Vous pouvez utiliser cette URL pour ouvrir la page produit : **&#x200B;**
+   Si vous utilisez la disposition modale ou plein écran, vous pouvez ajouter un bouton. Vous pouvez utiliser cette URL pour ouvrir la page produit : ****
 
 1. Une fois la modification du message terminée, cliquez sur **[!UICONTROL Examiner pour activer]**.
 
@@ -154,7 +167,7 @@ Dans cette section, vous définissez le contenu, la conception et la mise en pag
 
 **Documentation du produit :**
 
-* [Prise en main du canal in-app](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Créer un message web in-app](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/create-in-app-web)
-* [Concevoir votre contenu in-app](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/design-in-app)
-* [Vérifier et envoyer votre notification in-app](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/in-app/send-in-app)
+* [Prise en main du canal in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Créer un message web in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [Concevoir votre contenu in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Vérifier et envoyer votre notification in-app](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

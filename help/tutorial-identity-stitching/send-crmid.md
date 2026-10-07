@@ -5,17 +5,30 @@ feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-19T00:00:00Z
+last-substantial-update: 2025-05-19T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: e080149c-0ac0-4559-b99d-ebad9f03b98b
-source-git-commit: 667f146639635515a5572e9ace41d83ab4452bb8
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: ef9a83ca-eefa-47cf-aa34-f1a34715583a
+    internal-label: Profiles
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '208'
 ht-degree: 0%
-
 ---
-
 # Créer l’exemple d’application pour simuler l’activité de connexion
 
 Cet exemple d’application, créé et déployé sur un serveur Node.js, montre comment envoyer un identifiant CRM à Adobe Experience Platform (AEP) lorsqu’un utilisateur se connecte. L’application simule un flux de connexion dans lequel les informations d’identification de l’utilisateur sont validées côté serveur. Une fois la connexion établie, l’identifiant CRM de l’utilisateur est récupéré et envoyé à adobeDataLayer, ce qui déclenche une règle correspondante dans Adobe Experience Platform Tags (anciennement Adobe Launch).

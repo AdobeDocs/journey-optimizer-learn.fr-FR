@@ -5,16 +5,29 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-27T00:00:00Z
+last-substantial-update: 2025-05-27T00:00:00.000Z
 jira: KT-18188
 exl-id: 11685f7c-8048-4318-9c28-71bd7da8f7ff
-source-git-commit: 85d3def3afb1d073b133df40e4cbf32d00a3a5c9
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 21%
-
 ---
-
 # Personnaliser les offres avec des formules de classement basées sur le code postal de l’utilisateur et les revenus
 
 Ce cas pratique montre comment diffuser des offres financières personnalisées en exploitant des attributs utilisateur tels que le code postal et le revenu annuel dans Adobe Journey Optimizer. En utilisant des formules de classement, les offres sont notées et hiérarchisées intelligemment en fonction de promotions spécifiques à l’emplacement et de l’éligibilité basée sur les revenus. Par exemple, les CD à haut rendement peuvent être promus auprès des utilisateurs dans les codes postaux riches, tandis que les options d&#39;investissement diversifiées sont présentées aux investisseurs émergents. Les formules de classement garantissent que chaque utilisateur reçoit des offres à la fois pertinentes et financièrement appropriées. Les critères de classement sont définis à l’aide d’attributs de profil, de signaux contextuels et de modèles d’IA facultatifs pour améliorer encore la précision des décisions. Les offres sont diffusées en temps réel par le biais de canaux web ou e-mail, ce qui entraîne un engagement et une conversion plus élevés. Cette approche associe une logique commerciale à une personnalisation pilotée par les données afin d’améliorer l’expérience utilisateur et l’impact marketing.

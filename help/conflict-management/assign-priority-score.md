@@ -13,26 +13,32 @@ autotag-review: '2026-05-18T17:56:49.072Z'
 TQID: 'https://experienceleague.adobe.com/-Wyh9GmqyT2dybZ8trWpGK1AUVX1V9FzlKuBFvHNmbo'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 feature_v2:
   - id: d556b755-390a-43f0-be32-a08cf6236126
+    internal-label: Configuration
   - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+  - id: a653cc2e-bc85-4353-a306-399e5b247978
+    internal-label: Journey Optimizer campaigns
 subfeature_v2:
   - id: e23d48b5-7858-4d45-9c56-9e2b4be8500e
+    internal-label: Business rules
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: 105
+source-wordcount: '97'
 ht-degree: 100%
-
 ---
-
 # Attribuer des scores de priorité aux actions entrantes
 
 Découvrez comment hiérarchiser les actions entrantes afin que le contenu ayant la priorité la plus élevée soit diffusé lorsqu’une personne est éligible à plusieurs actions entrantes utilisant la même configuration de canal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445003/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435529/?learn=on&enablevpops)
 
 Consultez la documentation du produit pour plus d’informations sur la manière d’[attribuer des scores de priorité aux parcours et aux campagnes](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/conflict-prioritization/priority-scores).

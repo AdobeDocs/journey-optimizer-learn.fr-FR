@@ -8,15 +8,28 @@ doc-type: Tutorial
 duration: 0
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-last-substantial-update: 2024-03-26T00:00:00Z
+last-substantial-update: 2024-03-26T00:00:00.000Z
 exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
-source-git-commit: 1de5297037b9ec707fca7f28e65ae6149f7ad076
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '505'
 ht-degree: 0%
-
 ---
-
 # CLASSEUR LAB
 
 ![Adobe Summit - texte secondaire](/help/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
@@ -29,11 +42,13 @@ Dans ce Lab pratique, vous explorez divers scénarios mobiles et apprenez à met
 >[!IMPORTANT]
 >
 >Veuillez vous abstenir de publier des photos ou des captures d&#39;écran de la session sur les médias sociaux.
-><br>>**Confidentialité d’Adobe**
+><br>
+>**Confidentialité d’Adobe**
 >Les informations et les produits divulgués aujourd’hui dans ce Lab sont des informations confidentielles d’Adobe.
 >Les participants ne peuvent reproduire, utiliser, diffuser ou divulguer des informations confidentielles à aucune personne ou entité.
 >Les divulgations de produits sont fournies à titre d’information uniquement, ne garantissent aucune fonctionnalité ou fonctionnalité future et peuvent faire l’objet de modifications à tout moment. Par conséquent, ces fonctionnalités de produit ne font en aucun cas partie de votre accord avec Adobe ou ne vous sont d&#39;aucune autre manière engagées.
-><br>>**Clause de non-responsabilité**
+><br>
+>**Clause de non-responsabilité**
 >Adobe vous permet d’accéder rapidement aux fonctionnalités qui exploitent la technologie d’IA générative. Veuillez noter que ces fonctionnalités sont toujours en cours de développement et peuvent produire des réponses inattendues ou inexactes. Vos commentaires sont les bienvenus lorsque nous commercialiserons cette fonctionnalité.
 
 
@@ -52,7 +67,7 @@ Dans ce Lab pratique, vous explorez divers scénarios mobiles et apprenez à met
 ![Numéro de poste](/help/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
 Vous devez avoir accès à :
 
-* [&#128279;](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - les informations de connexion sont fournies pendant les exercices.
+* [](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - les informations de connexion sont fournies pendant les exercices.
 * [Site web de Fréscopa](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
 
 
