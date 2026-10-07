@@ -6,18 +6,28 @@ role: User
 level: Experienced
 doc-type: Feature Video
 duration: 338
-last-substantial-update: 2024-05-03T00:00:00Z
+last-substantial-update: 2024-05-03T00:00:00.000Z
 jira: KT-14044
 exl-id: 4fc6d7d9-732b-4cf5-9582-5a771a2204c1
-source-git-commit: 6a0f50992c7112be09f85cd4b87268c9441d0d4d
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 1210f62b-45d9-5d36-8d8d-0f9049ffa368
+    internal-label: Code-based Experiences
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '72'
 ht-degree: 100%
-
 ---
+# Créer une campagne d’expérience basée sur du code
 
-# Créer une campagne d’expérience basée sur le code
+En savoir plus sur la manière de créer une expérience de campagne basée sur le code pour adapter la personnalisation avec la prise en charge des méthodes de mise en œuvre côté serveur, basées sur l’API ou le SDK afin de s’intégrer de manière transparente aux environnements de développement.
 
-Découvrez comment créer une campagne d’expérience basée sur le code pour étendre la personnalisation avec la prise en charge des méthodes de mise en œuvre côté serveur basées sur l’API ou le SDK pour s’intégrer de manière transparente aux environnements de développement.
-
->[!VIDEO](https://video.tv.adobe.com/v/3449455/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3449455/?captions=fre_fr&learn=on)

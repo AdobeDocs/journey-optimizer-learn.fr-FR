@@ -5,15 +5,32 @@ jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
 level: Beginner
-last-substantial-update: 2023-02-01T00:00:00Z
+last-substantial-update: 2023-02-01T00:00:00.000Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+  - id: fe338112-e2ce-4876-8989-fc4d497613f1
+    internal-label: Email
+  - id: fda7be7c-b81e-42c0-95a9-616e5b893c03
+    internal-label: Build expressions
+subfeature_v2:
+  - id: a9db6739-b0ee-4ac1-bf1b-d880e21c6a00
+    internal-label: Segments
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '1154'
 ht-degree: 100%
-
 ---
-
 # Créer une annonce de collection d’été - Défi
 
 | Défi | Créer une annonce de collection d’été |
@@ -109,17 +126,17 @@ Une agence vous a fourni quatre fichiers HTML avec la conception des emails :
       * Utilisez le fichier HTML `SeasonalCollectionEmail.html` fourni pour le corps de l’e-mail.
    1. Patientez deux jours, puis envoyez un e-mail de suivi avec du contenu plus ciblé :
       * Les clients hommes doivent recevoir l’e-mail **Collection pour hommes de Luma**.
-         * Titre du message : *Collection pour hommes de Luma*.
-         * Objet : *(prénom du destinataire), découvrez les nouveaux équipements de sport masculins !*
-         * Corps de l’e-mail : `MensCollectionEmail.html` pour le corps de l’e-mail.
+        * Titre du message : *Collection pour hommes de Luma*.
+        * Objet : *(prénom du destinataire), découvrez les nouveaux équipements de sport masculins !*
+        * Corps de l’e-mail : `MensCollectionEmail.html` pour le corps de l’e-mail.
       * Les clientes doivent recevoir l’e-mail **Collection pour femmes de Luma**.
-         * Titre du message : *Collection pour femmes de Luma*.
-         * Objet : *(prénom de la destinataire), explorez la collection pour femmes de Luma !*
-         * Corps de l’e-mail : `WomensCollectionEmail.html`.
+        * Titre du message : *Collection pour femmes de Luma*.
+        * Objet : *(prénom de la destinataire), explorez la collection pour femmes de Luma !*
+        * Corps de l’e-mail : `WomensCollectionEmail.html`.
       * Les autres client(e)s doivent recevoir l’e-mail **20 % de réduction sur la collection de Luma**.
-         * Titre du message : *20 % de réduction sur la collection de Luma*.
-         * Objet : *(prénom du ou de la destinataire), profitez de 20 % de réduction !*
-         * Corps de l’e-mail : `20OOffCollectionEmail.html`.
+        * Titre du message : *20 % de réduction sur la collection de Luma*.
+        * Objet : *(prénom du ou de la destinataire), profitez de 20 % de réduction !*
+        * Corps de l’e-mail : `20OOffCollectionEmail.html`.
    1. Après avoir envoyé les e-mails ciblés ci-dessus, patientez deux jours pour l’ouverture l’e-mail.
    1. Si l’e-mail ciblé n’est pas ouvert dans les 2 jours, envoyez l’e-mail **20 % de réduction sur la collection de Luma** comme tentative de reciblage finale.
 
@@ -207,9 +224,9 @@ Vous devriez recevoir les e-mails suivants :
 
 * Luma - Annonce de la nouvelle collection saisonnière
 * Selon le profil de test utilisé, vous devriez recevoir l’un des e-mails suivants :
-   * Leora : collection pour femmes de Luma
-   * Stanleigh : collection pour hommes de Luma
-   * Louise : 20 % de réduction sur la collection de Luma
+  * Leora : collection pour femmes de Luma
+  * Stanleigh : collection pour hommes de Luma
+  * Louise : 20 % de réduction sur la collection de Luma
 * Si vous n’avez pas ouvert le deuxième e-mail : 20 % de réduction sur la collection de Luma.
 
 >[!TAB Vérifier votre travail]

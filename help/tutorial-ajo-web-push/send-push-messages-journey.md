@@ -5,15 +5,28 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-01-21T00:00:00Z
+last-substantial-update: 2026-01-21T00:00:00.000Z
 jira: KT-18526
-source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
-
 ---
-
 # Envoyer des messages push dans un parcours
 
 Le déclenchement d’un parcours en fonction d’un événement de chute de prix permet un engagement en temps réel et axé sur le comportement avec les utilisateurs. Dans des scénarios réels, cet événement provient généralement d’un système de tarification principal lorsque le prix d’un produit est mis à jour. Dans ce tutoriel, nous simulons ce comportement en envoyant un événement price.drop personnalisé par le biais de la couche de données Adobe à l’aide de balises AEP, y compris des détails du produit tels que le nom et le SKU. Cet événement est ingéré dans Adobe Experience Platform et utilisé comme déclencheur d’entrée pour un parcours dans Adobe Journey Optimizer. Une fois reçu, le parcours peut envoyer immédiatement une notification push personnalisée aux utilisateurs et utilisatrices éligibles, les informant de la baisse du prix et les encourageant à agir en temps opportun.

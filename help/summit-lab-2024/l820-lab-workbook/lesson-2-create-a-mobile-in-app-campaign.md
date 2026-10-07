@@ -10,13 +10,26 @@ recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
 exl-id: fe18eca7-229c-4867-ab34-1862bad63124
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+    internal-label: In App channel
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '1520'
 ht-degree: 2%
-
 ---
-
 # Leçon 2 : créer une campagne in-app mobile
 
 Dans cette leçon, vous allez créer et déclencher des messages in-app mobiles.
@@ -149,7 +162,7 @@ Par exemple, cliquez sur **[!UICONTROL Modal]** pour faire de votre message in-a
 
 1. Dans la section média , collez l&#39;URL suivante :  `https://t3.ftcdn.net/jpg/02/79/42/52/240_F_279425217_Hr9VBkknMr4fTpuZbxZXfcYdC7jSvGl2.jpg`
    <br>
-Lorsque vous cliquez en dehors du champ de valeur, votre image doit apparaître.
+   Lorsque vous cliquez en dehors du champ de valeur, votre image doit apparaître.
 
    ![média affiché dans l’aperçu](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-media.png)
 

@@ -5,17 +5,30 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-30T00:00:00Z
+last-substantial-update: 2025-05-30T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18188
 exl-id: eee1b86e-b33f-408e-9faf-90317bc5e861
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 0%
-
+source-wordcount: '346'
+ht-degree: 19%
 ---
-
 # Créer une formule de classement
 
 Une formule de classement dans Adobe Journey Optimizer est utilisée lors de la prise de décisions sur les offres, en particulier dans le cadre d’une stratégie de sélection visant à déterminer l’ordre de priorité des offres éligibles. La formule de classement entre en jeu après le filtrage de l’éligibilité, lorsque plusieurs offres remplissent les critères d’un profil donné, mais que seule la première (ou quelques-unes) doit être présentée en fonction de la logique commerciale ou du contexte du profil.
@@ -46,11 +59,11 @@ if(   offer._techmarketingdemos.offerDetails.zipCode = _techmarketingdemos.zipCo
 
 Fonctionnement de la formule
 
-* Si l’offre a le même code postal que l’utilisateur ou l’utilisatrice, attribuez-lui un score très élevé afin qu’elle soit sélectionnée en premier.
+* Si l’offre possède le même code postal que l’utilisateur ou l’utilisatrice, attribuez-lui un score très élevé afin qu’elle soit sélectionnée en premier.
 
-* Si l’offre ne comporte aucun code postal (il s’agit d’une offre générale), donnez-lui un score normal en fonction du revenu de l’utilisateur.
+* Si l’offre ne comporte aucun code postal (s’il s’agit d’une offre générale), attribuez-lui un score normal en fonction du revenu de l’utilisateur ou de l’utilisatrice.
 
-* Si le code postal de l’offre est différent de celui de l’utilisateur, donnez-lui un score très faible afin qu’elle ne soit pas sélectionnée.
+* Si le code postal de l’offre est différent de celui de l’utilisateur ou de l’utilisatrice, attribuez-lui un score très faible afin qu’elle ne soit pas sélectionnée.
 
 Ainsi, le système :
 

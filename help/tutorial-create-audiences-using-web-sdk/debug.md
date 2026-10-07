@@ -5,17 +5,30 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30T00:00:00Z
+last-substantial-update: 2025-04-30T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 33b084ea-e712-4de0-8836-8795efaac7e2
-source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: b32bb433-f8c6-4931-8e52-e657230a3bf2
+    internal-label: Audiences
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 0%
-
 ---
-
 # Test de la solution
 
 Pour valider votre implémentation, commencez par ouvrir la page web contenant votre formulaire de préférence. Utilisez les outils de développement du navigateur (onglets Console et Réseau) pour surveiller le processus d’envoi du formulaire. Après avoir envoyé une préférence (par exemple, en sélectionnant « Stocks »), vérifiez que le SDK Web AEP (alloy.sendEvent) se déclenche correctement et que les données correctes sont envoyées à Adobe Experience Platform. Dans AEP, accédez à la section Audiences et vérifiez que votre profil se qualifie pour l’audience prévue (par exemple, « Intéressé par les actions ») en quelques instants, à l’aide de la segmentation Edge. Vous pouvez également examiner les données d’événement entrantes dans le jeu de données associé pour vous assurer qu’elles contiennent la valeur de préférence correcte. Répétez ce processus pour chaque classe d’actifs (actions, obligations, CD) afin de vous assurer que l’ensemble du workflow fonctionne correctement.

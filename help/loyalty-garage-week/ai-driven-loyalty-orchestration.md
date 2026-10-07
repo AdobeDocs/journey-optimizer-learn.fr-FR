@@ -5,13 +5,23 @@ feature: Overview
 role: User
 index: false
 exl-id: 726b5620-50a9-4ecf-8e62-a10358cc772b
-source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '6132'
 ht-degree: 0%
-
 ---
-
 # Orchestration de la fidélité pilotée par l’IA
 
 ## De RFM à Real-Time Personalization
@@ -127,7 +137,7 @@ Pour les responsables de la fidélité prêts à adopter l’orchestration pilot
   Choisissez un ou deux modèles prédictifs à implémenter (risque de résiliation, recommandation de produit, etc.). Utilisez des outils intégrés de votre plateforme de fidélité ou un simple service d’IA si vous n’êtes pas très gourmand en science des données. Exécutez des tests A/B pour démontrer l’effet élévateur. Même une campagne pilote avec un modèle de résiliation de base peut montrer un retour sur investissement tangible pour obtenir l’adhésion.
 
 - **Investissez dans une plateforme de fidélité compatible avec l’IA :**\
-  Si vos systèmes actuels ne prennent pas en charge la prise de décision en temps réel, évaluez les mises à niveau. Pensez à des solutions d’entreprise telles que Salesforce Loyalty Management avec Einstein AI, Adobe Experience Cloud (Journey Optimizer), Oracle CrowdTwist, Epsilon PeopleCloud Loyalty[[62]](https://www.epsilon.com/us/insights/blog/boost-loyalty-efficiency-with-ai) [[63]](https://www.epsilon.com/us/insights/blog/boost-loyalty-efficiency-with-ai) ou à des outils modulaires tels que Braze ou mParticle pour l’orchestration des parcours. Assurez-vous que tout nouveau fournisseur dispose de solides fonctionnalités d’IA et d’automatisation. Il doit gérer les déclencheurs, la segmentation et la personnalisation prêts à l’emploi.
+  Si vos systèmes actuels ne prennent pas en charge la prise de décision en temps réel, évaluez les mises à niveau. Pensez aux solutions d’entreprise telles que Salesforce Loyalty Management with Einstein AI, Adobe Experience Cloud (Journey Optimizer), Oracle CrowdTwist, Epsilon PeopleCloud Loyalty[[62]](https://www.epsilon.com/us/insights/blog/boost-loyalty-efficiency-with-ai) [[63]](https://www.epsilon.com/us/insights/blog/boost-loyalty-efficiency-with-ai) ou aux outils modulaires tels que Braze ou mParticle pour l’orchestration des parcours. Assurez-vous que tout nouveau fournisseur dispose de solides fonctionnalités d’IA et d’automatisation. Il doit gérer les déclencheurs, la segmentation et la personnalisation prêts à l’emploi.
 
 - **Établir rapidement la gouvernance de l’IA :**\
   Former une équipe transversale (marketing, analyse, juridique, opérations) pour définir des directives d’IA[[64]](https://www.linkedin.com/pulse/from-reactive-predictive-how-ai-accelerating-loyalty-guinand-ph-d--jbhhe). Déterminez des politiques concernant la fréquence des contacts, les limites de la personnalisation (par exemple, évitez les personnalisations sensibles qui peuvent éloigner les clients) et les contrôles des préjugés (assurez-vous que les offres d’IA sont équitables et inclusives). La mise en place de la gouvernance facilitera la mise à l’échelle par la suite.
