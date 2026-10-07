@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Apprenez ce qu’est le masquage de données ainsi que quand et pourquoi l’utiliser. Découvrez comment masquer les données des messages de Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409395?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413046?captions=fre_fr&quality=12&learn=on){transcript=true}

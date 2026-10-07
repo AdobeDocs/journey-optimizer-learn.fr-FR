@@ -38,4 +38,4 @@ ht-degree: 100%
 
 Découvrez comment utiliser l’assistant IA pour la génération de contenu afin de générer des suggestions de variation de contenu proactives pour le texte et les images.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434637/?captions=fre_fr&learn=on)

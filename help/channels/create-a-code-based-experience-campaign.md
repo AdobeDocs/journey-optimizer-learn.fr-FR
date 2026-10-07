@@ -30,4 +30,4 @@ ht-degree: 100%
 
 En savoir plus sur la manière de créer une expérience de campagne basée sur le code pour adapter la personnalisation avec la prise en charge des méthodes de mise en œuvre côté serveur, basées sur l’API ou le SDK afin de s’intégrer de manière transparente aux environnements de développement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449455/?captions=fre_fr&learn=on)
