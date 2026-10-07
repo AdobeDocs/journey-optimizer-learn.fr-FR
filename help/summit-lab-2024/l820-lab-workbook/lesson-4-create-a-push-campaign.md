@@ -100,15 +100,15 @@ Dans cet exercice, vous allez concevoir et personnaliser la notification push.
 
 >[!TAB iOS]
 
-![Onglet ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-ios-tab.png)
+![Onglet &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-ios-tab.png)
 
 >[!TAB Android]
 
-![Onglet ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-android-tab.png)
+![Onglet &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-android-tab.png)
 
 >[!ENDTABS]
 
-#### 4.2.3.1 section [!UICONTROL  Composer le message ]
+#### 4.2.3.1 section [!UICONTROL &#x200B; Composer le message &#x200B;]
 
 1. **Composez votre message :** n’hésitez pas à ajouter le texte de votre choix. Voici des exemples d’utilisation :
 
@@ -177,7 +177,7 @@ Si vous avez terminé cette partie de l’exercice et que vous avez encore du te
    >
    > Voici à quoi votre texte doit ressembler :
    > 
-   >![Jeton ](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-token.png)
+   >![Jeton &#x200B;](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-token.png)
 
 1. Cliquez sur **[!UICONTROL Enregistrer]** pour enregistrer la personnalisation.
 
