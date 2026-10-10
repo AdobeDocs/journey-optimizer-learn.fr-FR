@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Découvrez comment configurer les schémas XDM et les jeux de données activés pour le profil nécessaires pour recevoir des données de membre et d’événement du programme de fidélité dans Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504120/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504140/?captions=fre_fr&learn=on)

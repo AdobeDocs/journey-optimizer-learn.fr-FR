@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Découvrez comment créer une connexion API HTTP et des flux de données, puis mapper les champs d’événement et de profil de fidélité entrants à vos jeux de données.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504118/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504131/?captions=fre_fr&learn=on)
