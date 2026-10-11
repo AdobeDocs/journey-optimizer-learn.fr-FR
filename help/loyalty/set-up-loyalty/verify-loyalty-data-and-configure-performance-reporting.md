@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Découvrez comment envoyer des exemples de données de profil de fidélité et d’événement à Adobe Experience Platform, vérifier qu’elles apparaissent dans les jeux de données et le profil client unifié, puis sélectionner les jeux de données et donner la priorité à un KPI dans les paramètres Performances de fidélité .
 
->[!VIDEO](https://video.tv.adobe.com/v/3504119/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504122/?captions=fre_fr&learn=on)
