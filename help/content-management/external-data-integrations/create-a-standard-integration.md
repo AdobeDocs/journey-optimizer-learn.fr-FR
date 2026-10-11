@@ -43,4 +43,4 @@ Découvrez comment créer une intégration standard pour utiliser des données e
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
 
-Pour plus d’informations, consultez la [documentation d’intégration standard](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create).
+Pour plus d’informations, consultez la [documentation d’intégration standard](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create).
