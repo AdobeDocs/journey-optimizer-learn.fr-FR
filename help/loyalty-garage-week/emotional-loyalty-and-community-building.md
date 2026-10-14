@@ -10,9 +10,7 @@ source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '2205'
 ht-degree: 0%
-
 ---
-
 # Fidélité émotionnelle et construction communautaire
 
 ## Comment les marques créent de l’identité, une appartenance et un plaidoyer grâce à la fidélité basée sur l’expérience
