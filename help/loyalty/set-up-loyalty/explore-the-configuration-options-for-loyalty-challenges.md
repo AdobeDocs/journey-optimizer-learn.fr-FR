@@ -32,4 +32,4 @@ ht-degree: 0%
 
 Explorez les options de configuration qui prennent en charge les défis de fidélité, notamment les paramètres globaux, les rapports, les récompenses, le mappage d’événements, l’inventaire de produits et les exclusions. Pour obtenir des conseils de configuration détaillés, regardez les vidéos dédiées sur les fournisseurs de récompense et le mappage des événements.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504405/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504416/?captions=fre_fr&learn=on&enablevpops)
