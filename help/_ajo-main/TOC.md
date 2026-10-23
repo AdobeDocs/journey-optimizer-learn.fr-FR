@@ -63,7 +63,7 @@ ht-degree: 99%
   + Tutoriels{#tutorials}
     + [Déclencher un parcours lors de l’envoi du formulaire](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + [Fidélité](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/loyalty/overview){target="_blank"}
-+ Gestion des conflits et de la priorité {#conflict-management}
++ Gestion des conflits et hiérarchisation {#conflict-management}
   + [Identifier les conflits potentiels](/help/conflict-management/identify-potential-conflicts.md)
   + [Attribuer des scores de priorité](/help/conflict-management/assign-priority-score.md)
   + [Capping de la fréquence et hiérarchisation des parcours](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
