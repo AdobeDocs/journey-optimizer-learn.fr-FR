@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Découvrez comment la fonctionnalité d’IA de Adobe Journey Optimizer transforme des invites en anglais brut en conditions de parcours sans écrire de langage d’expression. Cette vidéo explique comment utiliser les contrôles d’appartenance et d’utilisateur inactif pour créer des chemins d’accès client plus pertinents.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504896/?captions=fre_fr&learn=on&enablevpops)
