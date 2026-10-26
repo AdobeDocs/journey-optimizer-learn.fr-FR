@@ -35,7 +35,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
 ht-degree: 100%
 ---
@@ -43,6 +43,6 @@ ht-degree: 100%
 
 Découvrez comment hiérarchiser les actions entrantes afin que le contenu ayant la priorité la plus élevée soit diffusé lorsqu’une personne est éligible à plusieurs actions entrantes utilisant la même configuration de canal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447615/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
 
 Consultez la documentation produit pour plus d’informations sur [la limitation des parcours et l’arbitrage](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping).

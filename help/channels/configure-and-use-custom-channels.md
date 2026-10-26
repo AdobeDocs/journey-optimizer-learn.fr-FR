@@ -28,7 +28,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
 ht-degree: 100%
 ---
@@ -41,4 +41,4 @@ Découvrez comment connecter des canaux de messagerie non pris en charge nativem
 
 Cette vidéo présente toutes les étapes de la création d’un canal sortant personnalisé et montre comment l’utiliser dans un parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496288/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496286/?learn=on&enablevpops)

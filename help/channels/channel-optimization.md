@@ -36,7 +36,7 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
 ht-degree: 100%
 ---
@@ -47,4 +47,4 @@ ht-degree: 100%
 
 Découvrez comment la fonctionnalité d’optimisation des canaux d’Adobe Journey Optimizer vous permet d’atteindre les clientes et clients sur le canal le plus efficace à l’aide d’une priorité manuelle, d’attributs de profil ou d’un modèle d’IA Adobe, afin que votre message arrive là où chaque cliente ou client est le plus susceptible d’interagir.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492134/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492132/?learn=on&enablevpops)

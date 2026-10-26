@@ -31,7 +31,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
 ht-degree: 100%
 ---
@@ -39,4 +39,4 @@ ht-degree: 100%
 
 Découvrez comment analyser le statut d’entraînement, l’affectation du trafic et les performances des modèles d’IA pour optimiser la prise de décision dans Journey Optimizer. Découvrez comment identifier les problèmes, résoudre les problèmes liés aux modèles et améliorer les taux de conversion à l’aide des fonctionnalités d’IA. Cette vidéo vous expliquera comment gérer efficacement les modèles d’IA afin d’en tirer un avantage commercial.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479851/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479849/?learn=on&enablevpops)

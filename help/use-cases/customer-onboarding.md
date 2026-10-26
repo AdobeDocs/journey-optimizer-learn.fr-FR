@@ -33,7 +33,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
 ---
@@ -41,4 +41,4 @@ ht-degree: 100%
 
 Découvrez comment mettre en œuvre un parcours d’intégration des clientes et clients dans Journey Optimizer. Le processus cible les nouvelles personnes membres du programme de fidélité et diffuse des e-mails et SMS personnalisés afin d’encourager le téléchargement de l’application. Cela inclut l’envoi d’un e-mail de bienvenue, la vérification de l’installation de l’application et le suivi avec des rappels. Ce tutoriel montre également comment utiliser l’assistant de contenu IA pour créer et personnaliser du contenu.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440652/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440650/?learn=on&enablevpops)

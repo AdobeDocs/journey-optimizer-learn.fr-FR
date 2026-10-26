@@ -20,7 +20,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 ---
@@ -28,6 +28,6 @@ ht-degree: 100%
 
 Découvrez comment créer des [emplacements](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=fr) pour la gestion des décisions. Les emplacements sont l’un des composants de base des offres. Un emplacement représente la combinaison du type de contenu et du canal, par exemple une image dans un e-mail ou du code HTML sur un site Web.
 
->[!VIDEO](https://video.tv.adobe.com/v/341382?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329372?quality=12&learn=on){transcript=true}
 
 Pour en savoir plus sur la création d’emplacements à lʼaide dʼune API, consultez le [guide du produit](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/placements/create.html?lang=fr).

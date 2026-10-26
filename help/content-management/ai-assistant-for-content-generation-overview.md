@@ -30,7 +30,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
 ht-degree: 100%
 ---
@@ -38,4 +38,4 @@ ht-degree: 100%
 
 Découvrez comment l’Assistant IA pour la génération de contenu peut aider les spécialistes du marketing en leur suggérant de façon proactive des variations de contenu pour le texte et les images.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463102/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432686/?learn=on)

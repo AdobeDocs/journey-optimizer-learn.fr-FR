@@ -27,7 +27,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Découvrez la nouvelle expérience du canevas de parcours dans Adobe Journey Optimizer. Cette mise à jour introduit un moteur de rendu moderne qui alimente le canevas du parcours, en l’alignant avec l’expérience déjà utilisée dans les campagnes orchestrées et la composition d’audiences.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496195/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496193/?learn=on&enablevpops)

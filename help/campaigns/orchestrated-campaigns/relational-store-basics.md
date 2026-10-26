@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Découvrez les concepts de base du stockage relationnel utilisé dans l’orchestration de campagne de Journey Optimizer, notamment la conception de schémas, l’ingestion de données, les sources prises en charge et les principales différences par rapport au stockage de profils en temps réel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470216/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)

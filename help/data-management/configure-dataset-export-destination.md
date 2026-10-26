@@ -30,7 +30,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
 ht-degree: 100%
 ---
@@ -40,4 +40,4 @@ Découvrez la configuration, le workflow et les cas d’utilisation pour exporte
 
 Pour plus d’informations sur l’export de jeux de données vers des emplacements d’espace de stockage depuis Adobe Journey Optimizer, consultez la [documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=fr).
 
->[!VIDEO](https://video.tv.adobe.com/v/3448820/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424392/?learn=on)

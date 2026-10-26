@@ -30,7 +30,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 ---
@@ -38,4 +38,4 @@ ht-degree: 100%
 
 Découvrez comment configurer le canal e‑mail dans Adobe Journey Optimizer. La vidéo explique comment définir des configurations d’e-mail, notamment les sous-domaines, les groupes d’adresses IP, la gestion des désabonnements, la personnalisation de l’expéditeur et de l’expéditrice, les listes Cci et de contrôle, la logique de reprise et les paramètres de suivi. Elle met l’accent sur la conformité, la délivrabilité et la personnalisation pour optimiser les performances des e-mails marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416659?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12&learn=on){transcript=true}

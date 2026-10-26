@@ -34,7 +34,7 @@ topic_v2:
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
     internal-label: Customer engagement
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 ---
@@ -42,4 +42,4 @@ ht-degree: 100%
 
 Découvrez comment utiliser la fonction Heures creuses dans Adobe Journey Optimizer pour empêcher l’envoi de messages pendant les fenêtres d’heure spécifiées. Les spécialistes marketing évitent ainsi d’envoyer des communications à des moments inappropriés et améliorent l’engagement de la clientèle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475854/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)

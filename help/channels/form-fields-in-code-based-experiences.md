@@ -25,7 +25,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
 ht-degree: 100%
 ---
@@ -33,6 +33,6 @@ ht-degree: 100%
 
 Découvrez comment les développeurs et développeuses peuvent rationaliser la collaboration avec les équipes marketing en activant les champs modifiables dans les canaux d’expérience basée sur du code. Découvrez comment définir des champs JSON et HTML modifiables dans les modèles de contenu, afin que le marketing puisse mettre à jour les éléments de campagne tels que les titres et les descriptions sans toucher au code. Découvrez comment les politiques de décision intégrées améliorent la personnalisation directement dans les modèles, ce qui favorise l’efficacité, réduit les erreurs et accélère la diffusion des campagnes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463993/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463990/?learn=on&enablevpops)
 
 Pour plus d’informations, consultez la [documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields).

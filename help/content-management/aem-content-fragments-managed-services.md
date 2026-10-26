@@ -36,7 +36,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
 ht-degree: 100%
 ---
@@ -46,4 +46,4 @@ Découvrez comment configurer et utiliser les intégrations d’Adobe Experienc
 
 Ce tutoriel vous guide tout au long de la configuration des connexions aux référentiels, de la validation des configurations avec le conseiller en contenu et de la sélection des fragments de contenu directement dans l’éditeur de personnalisation, ce qui permet aux spécialistes marketing de réutiliser et de prévisualiser efficacement le contenu AEM dans leurs campagnes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492531/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492529/?learn=on&enablevpops)

@@ -30,7 +30,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 ---
@@ -38,7 +38,7 @@ ht-degree: 100%
 
 Le tutoriel vidéo suivant explique comment créer des jeux de données et ingérer manuellement des données :
 
->[!VIDEO](https://video.tv.adobe.com/v/3416649?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12&learn=on){transcript=true}
 
 Créez les jeux de données suivants :
 

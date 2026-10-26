@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
 ht-degree: 100%
 ---
@@ -36,5 +36,5 @@ ht-degree: 100%
 
 Découvrez comment l’activité de décision de contenu dans la zone de travail de parcours permet aux utilisateurs et utilisatrices d’exploiter Adobe Journey Optimizer Decisioning pour les offres de contenu personnalisées. Utilisez cette fonctionnalité pour acheminer les profils en fonction des offres récupérées ou pour envoyer des offres à des systèmes externes, ce qui améliore l’efficacité et la personnalisation de votre parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479109/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
 

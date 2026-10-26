@@ -27,7 +27,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
 ht-degree: 100%
 ---
@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Découvrez comment Adobe Journey Optimizer unifie les données client et simplifie la création d’audiences avec une interface glisser-déposer, enrichit les profils pour un engagement personnalisé, classe les audiences pour un ciblage précis et assure la confidentialité avec des outils de gouvernance robustes, ce qui vous permet de créer des campagnes plus efficaces sur l’ensemble des canaux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476988/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476986/?learn=on)

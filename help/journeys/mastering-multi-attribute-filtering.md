@@ -24,7 +24,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '156'
 ht-degree: 100%
 ---
@@ -32,4 +32,4 @@ ht-degree: 100%
 
 Lorsque vous utilisez des schémas de recherche, vous devrez peut-être souvent filtrer une liste d’objets en fonction de plusieurs attributs. Cette vidéo explique comment effectuer un filtrage multi-attribut sur des schémas de recherche à l’aide de fonctions filter() imbriquées. Cela se révèle particulièrement utile lorsque vous devez affiner une liste d’objets en fonction de plusieurs conditions, telles que le filtrage de produits dans un panier par identifiant et par couleur.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469319/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469312/?learn=on&enablevpops)

@@ -22,7 +22,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
 ht-degree: 100%
 ---
@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Découvrez comment fonctionne la limitation de la fréquence pour la prise de décisions sur les offres. Découvrez comment configurer la limitation de fréquence pour un événement personnalisé et comment configurer des incréments en définissant la fréquence.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422162/?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417853/?quality=12&learn=on){transcript=true}

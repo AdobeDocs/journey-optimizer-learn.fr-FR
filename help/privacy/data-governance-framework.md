@@ -30,7 +30,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
 ht-degree: 100%
 ---
@@ -38,7 +38,7 @@ ht-degree: 100%
 
 Comprendre le cadre de gouvernance des données dans Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/33154/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
 
 Pour plus d’informations sur la [gouvernance des données](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/privacy/action-privacy-restricted) dans Journey Optimizer, consultez la documentation du produit.
 

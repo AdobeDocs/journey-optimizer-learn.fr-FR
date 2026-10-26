@@ -28,7 +28,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
 ht-degree: 100%
 ---
@@ -38,4 +38,4 @@ Le [terrain de jeu de l’éditeur de personnalisation](https://experienceleague
 
 Découvrez comment tirer parti des exemples de code prédéfinis, modifier les payloads de profils factices et prévisualiser la sortie de votre code de personnalisation en temps réel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475954/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457868/?learn=on&enablevpops)

@@ -1,6 +1,6 @@
 ---
-title: Création d’une intégration standard
-description: Découvrez comment créer une intégration standard pour utiliser des données et du contenu externes dans la création de canaux Adobe Journey Optimizer et améliorer la personnalisation sur les canaux sortants.
+title: Créer une intégration standard
+description: Découvrez comment créer une intégration standard pour utiliser des données et du contenu externes dans la création de canaux Adobe Journey Optimizer et améliorer la personnalisation sur les canaux sortants.
 feature: Personalization, API, Channel Configuration
 role: Admin, User
 level: Intermediate
@@ -33,14 +33,14 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 53fc4917e68a32d967633cf7188eabf997bfaf14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 19%
+ht-degree: 100%
 ---
-# Création d’une intégration standard
+# Créer une intégration standard
 
-Découvrez comment créer une intégration standard pour utiliser des données et du contenu externes dans la création de canaux Adobe Journey Optimizer. Vous pouvez ainsi améliorer la personnalisation et l’engagement dans les canaux sortants. Regardez la vidéo ci-dessous pour en savoir plus.
+Découvrez comment créer une intégration standard pour utiliser des données et du contenu externes dans la création de canaux Adobe Journey Optimizer. Vous pouvez ainsi améliorer la personnalisation et l’engagement dans les canaux sortants. Regardez la vidéo ci-dessous pour en savoir plus.
 
->[!VIDEO](https://video.tv.adobe.com/v/3484120/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
 
-Pour plus d’informations, consultez la [documentation d’intégration standard](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create).
+Pour plus d’informations, consultez la [documentation sur l’intégration standard](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create).
