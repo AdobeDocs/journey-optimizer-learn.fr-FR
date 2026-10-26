@@ -1,6 +1,6 @@
 ---
-title: Création d’une intégration de navigation
-description: Découvrez comment configurer une intégration de navigation pour une API externe, la lier à une intégration standard et permettre aux spécialistes marketing de rechercher, parcourir et sélectionner des éléments dans l’éditeur d’AJO sans saisir manuellement de valeurs.
+title: Créer une intégration de navigation
+description: Découvrez comment configurer une intégration de navigation pour une API externe, associer celle-ci à une intégration standard et permettre aux responsables marketing de rechercher, de parcourir et de sélectionner des éléments dans l’éditeur d’AJO sans saisir manuellement de valeurs.
 feature: Personalization, API, Channel Configuration
 role: Admin, User
 level: Intermediate
@@ -32,14 +32,14 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 53fc4917e68a32d967633cf7188eabf997bfaf14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
-# Création d’une intégration de navigation
+# Créer une intégration de navigation
 
-Découvrez comment configurer une intégration de navigation pour une API externe, la lier à une intégration standard et permettre aux spécialistes marketing de rechercher, parcourir et sélectionner des éléments dans l’éditeur d’AJO sans saisir manuellement de valeurs.
+Découvrez comment configurer une intégration de navigation pour une API externe, associer celle-ci à une intégration standard et permettre aux responsables marketing de rechercher, de parcourir et de sélectionner des éléments dans l’éditeur d’AJO sans saisir manuellement de valeurs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504295/?learn=on&enablevpops)
 

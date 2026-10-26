@@ -33,7 +33,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1552'
 ht-degree: 100%
 ---
@@ -42,7 +42,7 @@ ht-degree: 100%
 
 Journey Optimizer permet aux entreprises de créer des expériences client cohérentes, contextuelles et personnalisées. Il guide de manière transparente la clientèle à travers l’ensemble de son parcours au côté de la marque, depuis le point de contact initial jusqu’au moment où elle quitte le site, assurant ainsi une expérience connectée et satisfaisante à chaque étape.
 
-Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionnalités d’Adobe Journey Optimizer. Mettez en pratique ce que vous avez appris en suivant la méthode [Défis Journey Optimizer](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites).
+Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionnalités d’Adobe Journey Optimizer. Mettez en pratique ce que vous avez appris en relevant les [Défis Journey Optimizer](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites).
 
 
 <div id="recs-overview-body-1"></div>
@@ -140,7 +140,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" title="Nouveaux cas d’utilisation pour l’engagement des clients : activités iOS Live, notifications push web et messagerie persistante (8-12 avril 2026)">Nouveaux cas d’utilisation pour l’engagement client : activités iOS en direct, notifications push web et messagerie persistante (8-12 avril 2026)</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" title="Nouveaux cas d’utilisation pour l’engagement des clients : activités iOS Live, notifications push web et messagerie persistante (8-12 avril 2026)">Nouveaux cas d’utilisation pour l’engagement client : activités iOS en direct, notifications push web et messagerie persistante (du 8 au 12 avril 2026)</a>
                     </p>
                     <p class="is-size-6">Au cours de cette session Experience League en direct, nous explorons de nouvelles surfaces et de nouveaux cas d’utilisation pour l’engagement des clients à mesure que les marques dépassent le cadre des messages unidirectionnels à canal unique. Découvrez comment les équipes marketing et produit peuvent créer des expériences plus visibles, contextuelles et persistantes, générant ainsi un engagement continu et des interactions plus riches en temps réel sur l’ensemble des canaux.</p>
                 </div>
@@ -329,7 +329,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" target="_blank" rel="referrer" title="Configurer des expériences de contenu pour les messages in-app">Configurer des expériences de contenu pour les messages in-app</a>
                     </p>
-                    <p class="is-size-6">Découvrez comment configurer et analyser des expériences de contenu pour les messages in-app de test AB.</p>
+                    <p class="is-size-6">Découvrez comment configurer et analyser des expériences de contenu pour tester les messages in-app par A/B.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>

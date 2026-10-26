@@ -1,5 +1,5 @@
 ---
-title: Exporter des jeux de données vers des emplacements d’espace de stockage (Beta)
+title: Exporter des jeux de données vers des emplacements de stockage cloud (Beta)
 description: Découvrez comment exporter un jeu de données de Journey Optimizer vers une destination Amazon S3.
 feature: Datasets
 role: Developer
@@ -26,11 +26,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 ---
-# Exporter des jeux de données vers des emplacements d’espace de stockage
+# Exporter des jeux de données vers des emplacements de stockage dans le cloud
 
 Découvrez comment exporter un jeu de données de Journey Optimizer vers une destination Amazon S3.
 
@@ -38,7 +38,7 @@ Découvrez comment exporter un jeu de données de Journey Optimizer vers une de
 >La fonction d’exportation des jeux de données, actuellement en version Beta, est disponible pour l’ensemble des utilisateurs et utilisatrices d’Adobe Journey Optimizer. Pour accéder aux destinations, contactez votre représentant ou représentante Adobe.
 
 >[!NOTE]
->Pendant la phase Beta, tous les jeux de données sont visibles. Une fois cette fonctionnalité disponible, elle se limite aux jeux de données générés par le système.
+>Pendant la phase Beta, tous les jeux de données sont visibles. Une fois cette fonctionnalité généralement disponible, elle sera limitée aux seuls jeux de données générés par le système.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432014/?captions=fre_fr&quality=12&learn=on){transcript=true}
 
