@@ -35,5 +35,5 @@ ht-degree: 100%
 
 Découvrez comment configurer un événement, spécifier le point d’entrée de diffusion en continu et la payload d’un événement.
 
->[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431514?captions=fre_fr&quality=12&learn=on){transcript=true}
 

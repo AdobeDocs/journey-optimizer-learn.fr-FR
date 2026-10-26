@@ -32,4 +32,4 @@ ht-degree: 100%
 
 Découvrez comment créer, modifier et utiliser des modèles de contenu.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413743?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3418586?captions=fre_fr&quality=12&learn=on){transcript=true}

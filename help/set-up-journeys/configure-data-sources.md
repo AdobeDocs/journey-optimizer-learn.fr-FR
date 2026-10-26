@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Comprenez ce quʼest une source de données. Découvrez également comment configurer des sources de données Experience Platform et externes.
 
->[!VIDEO](https://video.tv.adobe.com/v/334256?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416634?captions=fre_fr&quality=12&learn=on){transcript=true}

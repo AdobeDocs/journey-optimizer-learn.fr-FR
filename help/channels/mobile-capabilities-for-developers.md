@@ -39,4 +39,4 @@ ht-degree: 100%
 
 Découvrez les fonctionnalités mobiles qu’Adobe Journey Optimizer propose aux développeurs.
 
->[!VIDEO](https://video.tv.adobe.com/v/342103?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344615?captions=fre_fr&quality=12&learn=on){transcript=true}

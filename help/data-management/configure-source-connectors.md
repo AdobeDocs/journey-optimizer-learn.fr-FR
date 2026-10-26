@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Découvrez les connecteurs source et comment les configurer dans Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/335919?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422583?captions=fre_fr&quality=12&learn=on){transcript=true}
