@@ -3,15 +3,16 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Il s’agit des tutoriels de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 05581307a9ec85afe92c517b69bf4f4921226d03
+source-git-commit: 4d18b0b77c1a7dc115d58575ab46213493dad6aa
 workflow-type: tm+mt
-source-wordcount: '1598'
-ht-degree: 99%
+source-wordcount: '1604'
+ht-degree: 98%
 ---
 
 # Tutoriels de Journey Optimizer {#tutorials}
 
 + [Tutoriels de Journey Optimizer](/help/_ajo-main/overview.md)
++ {hide-from-toc}[CX Enterprise Coworker dans Journey Optimizer](/help/_ajo-main/coworker.md)
 + Présentation de Journey Optimizer {#introduction-to-journey-optimizer}
   + [Journey Optimizer - Vue d’ensemble](/help/introduction/journey-optimizer-overview.md)
   + [Présentation de Journey Optimizer](/help/introduction/introduction.md)
@@ -65,7 +66,7 @@ ht-degree: 99%
   + Tutoriels{#tutorials}
     + [Déclencher un parcours lors de l’envoi du formulaire](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + [Fidélité](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/loyalty/overview){target="_blank"}
-+ Gestion des conflits et hiérarchisation {#conflict-management}
++ Gestion des conflits et de la priorité {#conflict-management}
   + [Identifier les conflits potentiels](/help/conflict-management/identify-potential-conflicts.md)
   + [Attribuer des scores de priorité](/help/conflict-management/assign-priority-score.md)
   + [Capping de la fréquence et hiérarchisation des parcours](/help/conflict-management/journey-frequency-capping-and-prioritization.md)

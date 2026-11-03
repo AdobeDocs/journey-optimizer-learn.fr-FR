@@ -1,6 +1,6 @@
 ---
-title: Créez un défi de fidélité et obtenez des informations grâce à CX Enterprise Coworker
-description: Découvrez comment utiliser CX Enterprise Coworker pour créer, configurer et lancer des défis de fidélité en utilisant le langage naturel, y compris les audiences, les récompenses, les plannings et la configuration de parcours automatisée.
+title: Créez un défi de fidélité et obtenez des informations avec CX Enterprise Coworker
+description: Découvrez comment utiliser CX Enterprise Coworker pour créer et lancer des défis de fidélité dans Adobe Journey Optimizer.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -29,16 +29,14 @@ topic_v2:
     internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: b37854eacf05b80bcb24c94fe9248cfe18c7ac02
+source-git-commit: 6b3d2ad0ea5d8f185d6c8482e2f4f92f4bb75ded
 workflow-type: tm+mt
-source-wordcount: 72
+source-wordcount: '72'
 ht-degree: 0%
-
 ---
 
+# Créez un défi de fidélité et obtenez des informations avec CX Enterprise Coworker
 
-# Créez un défi de fidélité et obtenez des informations grâce à CX Enterprise Coworker
+Utilisez des invites en langage clair pour créer, configurer et lancer les défis de fidélité avec CX Enterprise Coworker. Dans cette vidéo, découvrez comment définir des audiences, des récompenses et des plannings, automatiser la configuration des parcours et passer en revue les informations sur les défis.
 
-Découvrez comment utiliser CX Enterprise Coworker pour créer, configurer et lancer des défis de fidélité en utilisant le langage naturel, y compris les audiences, les récompenses, les plannings et la configuration de parcours automatisée.
-
->[!VIDEO](https://video.tv.adobe.com/v/3496540/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
