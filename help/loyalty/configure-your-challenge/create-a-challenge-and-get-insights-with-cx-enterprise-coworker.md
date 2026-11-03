@@ -39,4 +39,4 @@ ht-degree: 0%
 
 Utilisez des invites en langage clair pour créer, configurer et lancer les défis de fidélité avec CX Enterprise Coworker. Dans cette vidéo, découvrez comment définir des audiences, des récompenses et des plannings, automatiser la configuration des parcours et passer en revue les informations sur les défis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496540/?captions=fre_fr&learn=on&enablevpops)
