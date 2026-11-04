@@ -3,10 +3,10 @@ user-guide-title: Tutoriels de Journey Optimizer
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Il s’agit des tutoriels de Journey Optimizer.
 auto-video-transcripts: true
-source-git-commit: 05581307a9ec85afe92c517b69bf4f4921226d03
+source-git-commit: 75df71a17b6a7b1b60f88b45a9b82ecbe725233a
 workflow-type: tm+mt
-source-wordcount: '1598'
-ht-degree: 99%
+source-wordcount: '1604'
+ht-degree: 98%
 ---
 
 # Tutoriels de Journey Optimizer {#tutorials}
@@ -20,6 +20,7 @@ ht-degree: 99%
   + [Fonctionnalités mobiles pour les spécialistes du marketing](/help/channels/mobile-capabilities.md)
   + [Fonctionnalités mobiles pour les développeurs](/help/channels/mobile-capabilities-for-developers.md)
   + [Obtenir de l’aide avec l’assistant IA](/help/ai-agents/ai-assistant.md)
++ [CX Enterprise Coworker dans Journey Optimizer](/help/_ajo-main/coworker.md)
 + [Journey Optimizer - Centre d’apprentissage mobile](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
 + Campagnes {#create-campaigns}
   + Campagnes d’action {#action-campaigns}
@@ -65,7 +66,7 @@ ht-degree: 99%
   + Tutoriels{#tutorials}
     + [Déclencher un parcours lors de l’envoi du formulaire](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + [Fidélité](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/loyalty/overview){target="_blank"}
-+ Gestion des conflits et hiérarchisation {#conflict-management}
++ Gestion des conflits et de la priorité {#conflict-management}
   + [Identifier les conflits potentiels](/help/conflict-management/identify-potential-conflicts.md)
   + [Attribuer des scores de priorité](/help/conflict-management/assign-priority-score.md)
   + [Capping de la fréquence et hiérarchisation des parcours](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
@@ -275,7 +276,7 @@ ht-degree: 99%
     + [Créer et publier des instances de playbook](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Exercices, labos et défis {#exercises-and-challenges}
   + [Configurer un sandbox de formation](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + [Défis](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
+  + {hide-from-toc}[Défistarget="_blank"](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
   + Summit Labs {#summit-labs}
     + [Créer des instants mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
