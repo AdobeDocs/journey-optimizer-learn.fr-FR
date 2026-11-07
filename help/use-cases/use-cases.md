@@ -187,7 +187,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction" title="Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer - Introduction" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457828/?format=jpeg&nocache=1770161593112" alt="Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer - Introduction"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3505708/?captions=fre_fr&format=jpeg&nocache=1770161593112" alt="Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer - Introduction"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

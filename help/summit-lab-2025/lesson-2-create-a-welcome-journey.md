@@ -35,6 +35,6 @@ ht-degree: 0%
 
 Dans cet exercice, vous commencez à créer le parcours de bienvenue, basé sur un parcours existant. Commencez par définir les critères d’entrée, puis créez d’abord la composition de l’e-mail, à l’aide de l’accélérateur de contenu d’IA.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457896/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505844/?captions=fre_fr&learn=on&enablevpops)
 
 Voir [Présentation de la création d’un parcours &#x200B;](/help/journeys/introduction-to-building-a-journey.md) et [Cas d’utilisation - Qualification de l’audience](/help/journeys/use-case-audience-qualification.md) pour plus d’informations sur cette rubrique.
