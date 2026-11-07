@@ -37,6 +37,6 @@ Présenté à l’origine dans le Lab L535 d’Adobe Summit 2025, ce tutoriel vo
 
 Au cours de six leçons, vous apprendrez à faire évoluer les communications commerciales de la simple messagerie sortante vers des expériences omnicanal sophistiquées. Grâce à des exemples pratiques, vous découvrez comment créer des parcours clients qui associent la sensibilisation proactive à l’engagement réactif.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457828/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505708/?captions=fre_fr&learn=on&enablevpops)
 
 Téléchargez le classeur [ici](/help/summit-lab-2025/assets/summit-lab-manual-l535-final-v4.pdf).
