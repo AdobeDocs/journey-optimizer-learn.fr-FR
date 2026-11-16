@@ -6,7 +6,7 @@ role: User
 level: Beginner
 doc-type: Feature Video
 duration: 250
-last-substantial-update: 2024-06-28T00:00:00.000Z
+last-substantial-update: 2026-11-12
 jira: KT-7702
 exl-id: 38be6d24-2760-4fb4-b5d4-c9be53419e6e
 product_v2:
@@ -21,8 +21,8 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: ht
+source-git-commit: 060bd2311373fc4d46f445e02329db9802eebf5c
+workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 100%
 ---
@@ -31,4 +31,4 @@ ht-degree: 100%
 
 Découvrez comment utiliser les événements métier dans Journey Optimizer. Les événements métier permettent aux marques de déclencher des parcours en fonction d’événements non liés à des personnes, tels que la notification aux personnes abonnées lorsqu’une publication d’actualités comporte un nouveau contenu ou l’envoi de communications lors d’un événement sportif. Comprenez comment les données des événements métier peuvent être utilisées pour la création de messages personnalisés dans les parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416325/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334234/?learn=on)
