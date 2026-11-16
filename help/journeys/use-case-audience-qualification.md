@@ -1,11 +1,11 @@
 ---
 title: 'Cas d’utilisation : qualification de l’audience'
-description: Comprenez les cas d’utilisation applicables pour les parcours de qualification d’audience. Découvrez comment créer un parcours avec qualification d’audience et les bonnes pratiques à appliquer.
+description: Comprenez les cas d’utilisation applicables pour les parcours de qualification d’audience. Découvrez comment créer un parcours avec qualification de l’audience et les bonnes pratiques à appliquer.
 jira: KT-7704
 thumbnail: 3425028.jpg
 feature: Journeys
 doc-type: feature video
-last-substantial-update: 2023-11-16T00:00:00.000Z
+last-substantial-update: 2026-11-13
 team: PM
 role: User
 level: Beginner
@@ -22,8 +22,8 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: ht
+source-git-commit: f932f4b5c72e3d231a2dbbe405a2e5e737a09f70
+workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
 ---
@@ -31,4 +31,4 @@ ht-degree: 100%
 
 Comprenez les cas d’utilisation applicables pour les parcours de qualification d’audience. Découvrez comment créer un parcours avec qualification d’audience et les bonnes pratiques à appliquer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446206?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3425028?quality=12&learn=on){transcript=true}
