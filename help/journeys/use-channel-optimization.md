@@ -1,6 +1,6 @@
 ---
-title: Utilisez l’optimisation des canaux pour atteindre les clients là où ils interagissent
-description: Découvrez comment utiliser les groupes d’actions pour combiner les e-mails, les notifications push et les SMS, puis optimiser la sélection de canal avec une priorité manuelle, les préférences du client ou les scores d’engagement de l’IA.
+title: Utiliser l’optimisation des canaux pour atteindre la clientèle là où elle interagit
+description: Découvrez comment utiliser les groupes d’actions pour combiner les e-mails, les notifications push et les SMS, puis optimiser la sélection de canal avec une priorité manuelle, les préférences de la clientèle ou les scores d’engagement de l’IA.
 role: User
 level: Intermediate
 doc-type: Feature Video
@@ -22,13 +22,13 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 05581307a9ec85afe92c517b69bf4f4921226d03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
-# Utilisez l’optimisation des canaux pour atteindre les clients là où ils interagissent
+# Utiliser l’optimisation des canaux pour atteindre la clientèle là où elle interagit
 
-Découvrez comment utiliser les groupes d’actions pour combiner les e-mails, les notifications push et les SMS, puis optimiser la sélection de canal avec une priorité manuelle, les préférences du client ou les scores d’engagement de l’IA.
+Découvrez comment utiliser les groupes d’actions pour combiner les e-mails, les notifications push et les SMS, puis optimiser la sélection de canal avec une priorité manuelle, les préférences de la clientèle ou les scores d’engagement de l’IA.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505312/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505310/?learn=on&enablevpops)

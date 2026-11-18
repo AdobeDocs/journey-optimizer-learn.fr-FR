@@ -1,6 +1,6 @@
 ---
 title: Fonctionnalités principales
-description: Découvrez les fonctionnalités de Adobe Journey Optimizer, notamment les audiences, les parcours, les canaux, le contenu, la prise de décision, la fidélité et les workflows assistés par l’IA.
+description: Découvrez les fonctionnalités d’Adobe Journey Optimizer, notamment les audiences, les parcours, les canaux, le contenu, la prise de décision, la fidélité et les workflows assistés par l’IA.
 jira: KT-7606
 thumbnail: 3424995.jpeg
 feature: Overview
@@ -23,13 +23,13 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: bc518d7987b6f50e782ed5302f25de6185cd20ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 8%
+ht-degree: 100%
 ---
 
 # Fonctionnalités principales
 
-Découvrez les principales fonctionnalités de Adobe Journey Optimizer, des données et audiences des clients aux parcours, canaux, contenu, prise de décision et fidélité, et où l’IA peut prendre en charge votre travail.
+Découvrez les principales fonctionnalités d’Adobe Journey Optimizer, depuis les données client et les audiences jusqu’aux parcours, canaux, contenus, prises de décision et taux de fidélité, ainsi que les domaines dans lesquels l’IA peut vous aider dans votre travail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430314?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424995?learn=on){transcript=true}

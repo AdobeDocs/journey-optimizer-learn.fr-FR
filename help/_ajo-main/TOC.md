@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Il s’agit des tutoriels de Journey Optimizer.
 auto-video-transcripts: true
 source-git-commit: bc518d7987b6f50e782ed5302f25de6185cd20ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1600'
-ht-degree: 98%
+ht-degree: 100%
 ---
 
 # Tutoriels de Journey Optimizer {#tutorials}
@@ -14,7 +14,7 @@ ht-degree: 98%
 + [Tutoriels de Journey Optimizer](/help/_ajo-main/overview.md)
 + Présentation de Journey Optimizer {#introduction-to-journey-optimizer}
   + [Journey Optimizer - Vue d’ensemble](/help/introduction/journey-optimizer-overview.md)
-  + {hide-from-toc}[Vue d’ensemble de Journey Optimizer](/help/introduction/introduction.md)
+  + {hide-from-toc}[Présentation de Journey Optimizer](/help/introduction/introduction.md)
   + [Fonctionnalités principales](/help/introduction/key-capabilities.md)
   + {hide-from-toc}[Architecture](/help/introduction/architecture.md)
   + [Fonctionnalités mobiles pour les spécialistes du marketing](/help/channels/mobile-capabilities.md)
@@ -42,13 +42,13 @@ ht-degree: 98%
   + [Présentation du nouveau canevas de parcours](/help/journeys/introduction-to-the-new-journey-canvas.md)
   + [Présentation de la création d’un parcours](/help/journeys/introduction-to-building-a-journey.md)
   + [Analyser et créer des parcours à l’aide de l’IA](/help/ai-agents/journey-agent-overview.md)
-  + [Création de conditions de parcours à l’aide du langage naturel](/help/journeys/create-journey-conditions-using-natural-language.md)
+  + [Créer des conditions de parcours à l’aide du langage naturel](/help/journeys/create-journey-conditions-using-natural-language.md)
   + [Créer un profil de test](/help/journeys/test-a-journey.md)
   + [Simuler des parcours avec des audiences externes](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [Accélérer les tests de parcours avec la simulation rapide](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
   + [Publier un parcours](/help/journeys/publish-a-journey.md)
   + [Activité de décision de contenu](/help/journeys/content-decision-activity.md)
-  + [Utilisez l’optimisation des canaux pour atteindre les clients là où ils interagissent](/help/journeys/use-channel-optimization.md)
+  + [Utiliser l’optimisation des canaux pour atteindre la clientèle là où elle interagit](/help/journeys/use-channel-optimization.md)
   + [Utiliser la recherche de jeux de données dans un parcours](/help/journeys/lookup-dataset.md)
   + [Maîtriser le filtrage multi-attribut](/help/journeys/mastering-multi-attribute-filtering.md)
   + [Utiliser le ciblage d’entités multiples avec des audiences fédérées dans les parcours](/help/journeys/multi-entity-targeting-in-journeys.md)
@@ -276,7 +276,7 @@ ht-degree: 98%
     + [Créer et publier des instances de playbook](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Exercices, labos et défis {#exercises-and-challenges}
   + [Configurer un sandbox de formation](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + {hide-from-toc}[Défistarget="_blank"](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
+  + {hide-from-toc}[Défis](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
   + Summit Labs {#summit-labs}
     + [Créer des instants mobiles personnalisés avec Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [Évolution de l’orchestration vers l’engagement omnicanal dans Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
