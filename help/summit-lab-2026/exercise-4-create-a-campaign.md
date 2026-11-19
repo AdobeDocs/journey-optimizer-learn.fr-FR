@@ -1,13 +1,13 @@
 ---
-title: 'Exercice 4 : créer une campagne pour diffuser une décision sur le site web'
+title: 'Exercice 4 : créer une campagne pour diffuser une décision web'
 description: Lier une stratégie de sélection à une expérience basée sur du code pour la personnalisation de bannières web en temps réel.
 feature: Campaigns, Code-based Experiences
 role: User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration:
-last-substantial-update: '2026-05-12T00:00:00.000Z'
-jira: KT-
+last-substantial-update: 2026-11-18
+jira: KT-23180
 index: false
 autotag-review: '2026-05-14T18:11:56.742Z'
 TQID: 'https://experienceleague.adobe.com/OBVVI-6syh1t-svB9xPYz7xuVDsb1x6mPVzOFIZF5dE'
@@ -34,9 +34,9 @@ level_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+source-git-commit: 61aed3afd36bd2d4c37d08e0b7a1590bac86400d
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '56'
 ht-degree: 0%
 ---
 
@@ -44,4 +44,4 @@ ht-degree: 0%
 
 Dans cet exercice, vous liez une stratégie de sélection à une expérience basée sur du code pour la personnalisation de bannières web en temps réel.
 
->[!VIDEO](https://video.tv.adobe.com/v/XXXXXXX/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508540/?learn=on)
