@@ -44,4 +44,4 @@ ht-degree: 0%
 
 Dans cet exercice, vous liez une stratégie de sélection à une expérience basée sur du code pour la personnalisation de bannières web en temps réel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508540/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508542/?captions=fre_fr&learn=on)
